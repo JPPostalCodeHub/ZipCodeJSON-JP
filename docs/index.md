@@ -14,14 +14,14 @@ ZipCodeJSON-JPは、日本の郵便番号から住所情報を簡単に検索で
 各郵便番号に対応したJSONファイルを以下のURLから取得できます。
 
 ```
-https://JPPostalCodeHub.github.io/ZipCodeJSON-JP/api/[郵便番号].json
+https://JPPostalCodeHub.github.io/ZipCodeJSON-JP/zip/[郵便番号].json
 ```
 
 
 例えば、`1000001`の情報を取得するには、以下のURLにアクセスします。
 
 ```
-https://JPPostalCodeHub.github.io/ZipCodeJSON-JP/api/1000001.json
+https://JPPostalCodeHub.github.io/ZipCodeJSON-JP/zip/1000001.json
 ```
 
 ```Javascript

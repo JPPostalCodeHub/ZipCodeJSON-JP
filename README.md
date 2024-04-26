@@ -15,18 +15,18 @@ ZipCodeJSON-JPは、日本全国の郵便番号と住所情報をJSON形式で�
 各郵便番号に対応したJSONファイルを以下のURLから取得できます。
 
 ```
-https://JPPostalCodeHub.github.io/ZipCodeJSON-JP/api/[郵便番号].json
+https://JPPostalCodeHub.github.io/ZipCodeJSON-JP/zip/[郵便番号].json
 ```
 
 
 例えば、`1000001`の情報を取得するには、以下のURLにアクセスします。
 
 ```
-https://JPPostalCodeHub.github.io/ZipCodeJSON-JP/api/1000001.json
+https://JPPostalCodeHub.github.io/ZipCodeJSON-JP/zip/1000001.json
 ```
 
 ```Javascript
-const response = await fetch('https://JPPostalCodeHub.github.io/ZipCodeJSON-JP/api/1000001.json')
+const response = await fetch('https://JPPostalCodeHub.github.io/ZipCodeJSON-JP/zip/1000001.json')
 response.json()
 ```
 
@@ -40,6 +40,11 @@ cd ZipCodeJSON-JP
 ```
 
 依存関係のインストールなど、必要なコマンドを実行
+
+***郵便番号を更新***
+```
+bun run src/index.ts
+```
 
 ## コントリビューション
 プロジェクトへの貢献を歓迎しています！IssueやPull Requestを通じて、機能追加やバグ修正にご協力ください。詳細はCONTRIBUTING.mdをご覧ください。

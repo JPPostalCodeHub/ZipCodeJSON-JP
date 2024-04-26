@@ -16,9 +16,7 @@ async function downloadAndExtract() {
 async function csvToJSON(csv: string) {
   // MEMO: 郵便番号毎にファイルにします
   const lines = csv.split("\n");
-  // for (let i = 1; i < lines.length; i++) {
-  for (let i = 1; i < 2; i++) {
-    // 一旦1件だけにしておく
+  for (let i = 1; i < lines.length; i++) {
     const line = lines[i];
     // https://www.post.japanpost.jp/zipcode/dl/utf-readme.html
     const [
