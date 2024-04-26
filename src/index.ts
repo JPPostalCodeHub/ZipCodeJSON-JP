@@ -1,7 +1,10 @@
 import JSZip from "jszip";
-import { writeFile } from "fs/promises";
+import { writeFile, readFile } from "fs/promises";
 import { join } from "path";
 import { mkdir } from "fs/promises";
+
+const TARGET_CSV = "utf_ken_all.csv";
+const UPDATE_LOG = "updateLog-UTC.json";
 
 async function downloadAndExtract() {
   // https://www.post.japanpost.jp/zipcode/dl/utf-zip.html
@@ -11,6 +14,23 @@ async function downloadAndExtract() {
   const zipBuffer = await response.arrayBuffer();
 
   return await JSZip.loadAsync(zipBuffer);
+}
+function getUpdateLogPath() {
+  const dirPath = join(__dirname, "../docs/");
+  const filePath = join(dirPath, UPDATE_LOG);
+  return filePath;
+}
+async function writeUpdateLog(zipObject: JSZip.JSZipObject) {
+  const updateLog = zipObject.date;
+  await writeFile(getUpdateLogPath(), String(updateLog.getTime()), "utf8");
+}
+async function loadUpdateLog() {
+  try {
+    const updateLog = await readFile(getUpdateLogPath(), "utf8");
+    return parseInt(updateLog);
+  } catch (e) {
+    return null;
+  }
 }
 
 async function csvToJSON(csv: string) {
@@ -60,17 +80,25 @@ async function csvToJSON(csv: string) {
     };
     // JSONファイルとして書き出し
     await writeFile(filePath, JSON.stringify(addressData, null, 2), "utf8");
-    console.log(`Saved ${filePath}`);
   }
+  console.log("Finish");
 }
 
 async function main() {
   const zip = await downloadAndExtract();
-  const utfKenAllCsv = zip.file("utf_ken_all.csv");
+  const utfKenAllCsv = zip.file(TARGET_CSV);
   if (utfKenAllCsv == null) {
-    console.log("utf_ken_all.csv not found");
+    console.log(TARGET_CSV, "not found");
     return;
   }
+  const update = await loadUpdateLog();
+  if (update === utfKenAllCsv.date.getTime()) {
+    console.log("No update");
+    return;
+  }
+  console.log("Update", update, "=>", utfKenAllCsv.date);
+  await writeUpdateLog(utfKenAllCsv);
+
   const csv = await utfKenAllCsv.async("text");
   await csvToJSON(csv);
 }
