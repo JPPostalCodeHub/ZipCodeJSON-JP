@@ -28,13 +28,15 @@ jobs:
         run: |
           git config --global user.email "wada@coffee-break-designs.com"
           git config --global user.name "ZipCodeJSON-JP Bot"
+          git checkout -b "auto-update/${{ github.run_id }}"
           git add -A
           if git diff --staged --quiet; then
             echo "No changes to commit" >> $GITHUB_ENV
+            echo "::set-output name=changes::false"
           else
             echo "Changes detected" >> $GITHUB_ENV
             git commit -m "Update zip data"
-            git push
+            git push --set-upstream origin "auto-update/${{ github.run_id }}"
             echo "::set-output name=changes::true"
           fi
 
@@ -47,6 +49,7 @@ jobs:
           title: "Data Update"
           body: "This is an automated PR to update data."
           branch: "auto-update/${{ github.run_id }}"
+          base: "master"
 
       - name: Notify
         if: steps.git-check.outputs.changes == 'true'
