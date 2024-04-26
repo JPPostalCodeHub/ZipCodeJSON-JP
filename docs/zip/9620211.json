@@ -1,0 +1,17 @@
+{
+  "jisCode": "07207",
+  "oldZipCode": "96202",
+  "zipCode": "9620211",
+  "prefectureKana": "フクシマケン",
+  "cityKana": "スカガワシ",
+  "townKana": "タキ（アカツチ、ガンダ、キタクボ、シラスナ、シラスナヤマ、ダイシンバタ、ダイニチマエ、タキニシ、チャクノシタ、ヒナタマエ、ホンゴウ、マエタ）",
+  "prefecture": "福島県",
+  "city": "須賀川市",
+  "town": "滝（赤土、雁田、北久保、白砂、白砂山、大新畑、大日前、滝西、チャクの下、日向前、本郷、前田）",
+  "multipleZipCodes": "1",
+  "numberedTown": "1",
+  "hasChome": "0",
+  "multipleTowns": "0",
+  "updateFlag": "0",
+  "updateReason": "0"
+}

@@ -1,0 +1,17 @@
+{
+  "jisCode": "35213",
+  "oldZipCode": "75923",
+  "zipCode": "7592301",
+  "prefectureKana": "ヤマグチケン",
+  "cityKana": "ミネシ",
+  "townKana": "オフクチョウカミ（エキマエ、オカダ、カミタシロ、クリガハラ、シモタシロ、シンリュウ、タイメイ、タテイシ、ニシデラ、ヒラノ、フルヤ、ムネズミ、ヨコミチ、リュウゲンジ）",
+  "prefecture": "山口県",
+  "city": "美祢市",
+  "town": "於福町上（駅前、岡田、上田代、栗ケ原、下田代、神柳、大明、立石、西寺、平野、古屋、宗済、横道、竜現地）",
+  "multipleZipCodes": "1",
+  "numberedTown": "0",
+  "hasChome": "0",
+  "multipleTowns": "0",
+  "updateFlag": "0",
+  "updateReason": "0"
+}

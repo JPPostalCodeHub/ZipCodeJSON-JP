@@ -1,0 +1,17 @@
+{
+  "jisCode": "36207",
+  "oldZipCode": "77936",
+  "zipCode": "7793639",
+  "prefectureKana": "トクシマケン",
+  "cityKana": "ミマシ",
+  "townKana": "ワキマチ（イモジリ、コマル、シラキ、ダン、ダンミョウ、ナカダン、ハデトコ）",
+  "prefecture": "徳島県",
+  "city": "美馬市",
+  "town": "脇町（芋尻、小丸、白木、段、段名、中段、羽出床）",
+  "multipleZipCodes": "1",
+  "numberedTown": "0",
+  "hasChome": "0",
+  "multipleTowns": "0",
+  "updateFlag": "0",
+  "updateReason": "0"
+}

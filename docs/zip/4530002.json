@@ -1,0 +1,17 @@
+{
+  "jisCode": "23105",
+  "oldZipCode": "453  ",
+  "zipCode": "4530002",
+  "prefectureKana": "アイチケン",
+  "cityKana": "ナゴヤシナカムラク",
+  "townKana": "メイエキ（１−１−８、１−１−１２、１−１−１３、１−１−１４、１−３−４、１−３−７）",
+  "prefecture": "愛知県",
+  "city": "名古屋市中村区",
+  "town": "名駅（１−１−８、１−１−１２、１−１−１３、１−１−１４、１−３−４、１−３−７）",
+  "multipleZipCodes": "1",
+  "numberedTown": "0",
+  "hasChome": "1",
+  "multipleTowns": "0",
+  "updateFlag": "0",
+  "updateReason": "0"
+}

@@ -1,0 +1,17 @@
+{
+  "jisCode": "39386",
+  "oldZipCode": "78125",
+  "zipCode": "7812512",
+  "prefectureKana": "コウチケン",
+  "cityKana": "アガワグンイノチョウ",
+  "townKana": "キヨミズシモブン（バロウ、オオノ、カワグチ、ヒビハラ、マキガワ、マツノキ）",
+  "prefecture": "高知県",
+  "city": "吾川郡いの町",
+  "town": "清水下分（馬路、大野、川口、日比原、槇川、松ノ木）",
+  "multipleZipCodes": "0",
+  "numberedTown": "0",
+  "hasChome": "0",
+  "multipleTowns": "0",
+  "updateFlag": "0",
+  "updateReason": "0"
+}

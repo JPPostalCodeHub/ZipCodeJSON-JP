@@ -1,0 +1,17 @@
+{
+  "jisCode": "03201",
+  "oldZipCode": "02001",
+  "zipCode": "0200103",
+  "prefectureKana": "イワテケン",
+  "cityKana": "モリオカシ",
+  "townKana": "ニシマツゾノ",
+  "prefecture": "岩手県",
+  "city": "盛岡市",
+  "town": "西松園",
+  "multipleZipCodes": "0",
+  "numberedTown": "0",
+  "hasChome": "1",
+  "multipleTowns": "0",
+  "updateFlag": "0",
+  "updateReason": "0"
+}

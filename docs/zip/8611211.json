@@ -1,0 +1,17 @@
+{
+  "jisCode": "43210",
+  "oldZipCode": "86112",
+  "zipCode": "8611211",
+  "prefectureKana": "クマモトケン",
+  "cityKana": "キクチシ",
+  "townKana": "シスイマチカメオ",
+  "prefecture": "熊本県",
+  "city": "菊池市",
+  "town": "泗水町亀尾",
+  "multipleZipCodes": "0",
+  "numberedTown": "0",
+  "hasChome": "0",
+  "multipleTowns": "0",
+  "updateFlag": "0",
+  "updateReason": "0"
+}

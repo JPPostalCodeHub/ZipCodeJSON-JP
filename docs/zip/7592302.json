@@ -1,0 +1,17 @@
+{
+  "jisCode": "35213",
+  "oldZipCode": "75923",
+  "zipCode": "7592302",
+  "prefectureKana": "ヤマグチケン",
+  "cityKana": "ミネシ",
+  "townKana": "オフクチョウシモ（イリミズ、エノキダ、カネヤマ、コスギ、スナジ、ダイ、ニシバタ、ハギワラ、ヒガシナカムラ、ヒラクニギ、ミドリガオカ、ミヤノマエ）",
+  "prefecture": "山口県",
+  "city": "美祢市",
+  "town": "於福町下（入水、榎田、金山、小杉、砂地、台、西畑、萩原、東中村、平国木、緑ケ丘、宮の前）",
+  "multipleZipCodes": "1",
+  "numberedTown": "0",
+  "hasChome": "0",
+  "multipleTowns": "0",
+  "updateFlag": "0",
+  "updateReason": "0"
+}

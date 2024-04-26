@@ -1,0 +1,17 @@
+{
+  "jisCode": "42201",
+  "oldZipCode": "85102",
+  "zipCode": "8510243",
+  "prefectureKana": "ナガサキケン",
+  "cityKana": "ナガサキシ",
+  "townKana": "ミヤズリマチ",
+  "prefecture": "長崎県",
+  "city": "長崎市",
+  "town": "宮摺町",
+  "multipleZipCodes": "0",
+  "numberedTown": "0",
+  "hasChome": "0",
+  "multipleTowns": "0",
+  "updateFlag": "0",
+  "updateReason": "0"
+}

@@ -1,0 +1,17 @@
+{
+  "jisCode": "01213",
+  "oldZipCode": "05913",
+  "zipCode": "0591366",
+  "prefectureKana": "ホッカイドウ",
+  "cityKana": "トマコマイシ",
+  "townKana": "アケボノチョウ（１、２チョウメ）",
+  "prefecture": "北海道",
+  "city": "苫小牧市",
+  "town": "あけぼの町（１、２丁目）",
+  "multipleZipCodes": "1",
+  "numberedTown": "0",
+  "hasChome": "1",
+  "multipleTowns": "0",
+  "updateFlag": "0",
+  "updateReason": "0"
+}

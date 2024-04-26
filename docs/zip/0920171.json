@@ -1,0 +1,17 @@
+{
+  "jisCode": "01543",
+  "oldZipCode": "09201",
+  "zipCode": "0920171",
+  "prefectureKana": "ホッカイドウ",
+  "cityKana": "アバシリグンビホロチョウ",
+  "townKana": "ミトミ（１２７−１５１、１８３−５７９バンチ）",
+  "prefecture": "北海道",
+  "city": "網走郡美幌町",
+  "town": "美富（１２７〜１５１、１８３〜５７９番地）",
+  "multipleZipCodes": "1",
+  "numberedTown": "0",
+  "hasChome": "0",
+  "multipleTowns": "0",
+  "updateFlag": "0",
+  "updateReason": "0"
+}

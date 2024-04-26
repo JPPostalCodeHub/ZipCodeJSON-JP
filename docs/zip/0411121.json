@@ -1,0 +1,17 @@
+{
+  "jisCode": "01337",
+  "oldZipCode": "04111",
+  "zipCode": "0411121",
+  "prefectureKana": "ホッカイドウ",
+  "cityKana": "カメダグンナナエチョウ",
+  "townKana": "オオナカヤマ",
+  "prefecture": "北海道",
+  "city": "亀田郡七飯町",
+  "town": "大中山",
+  "multipleZipCodes": "0",
+  "numberedTown": "0",
+  "hasChome": "0",
+  "multipleTowns": "0",
+  "updateFlag": "0",
+  "updateReason": "0"
+}

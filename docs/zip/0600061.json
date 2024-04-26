@@ -1,0 +1,17 @@
+{
+  "jisCode": "01101",
+  "oldZipCode": "060  ",
+  "zipCode": "0600061",
+  "prefectureKana": "ホッカイドウ",
+  "cityKana": "サッポロシチュウオウク",
+  "townKana": "ミナミ１ジョウニシ（１−１９チョウメ）",
+  "prefecture": "北海道",
+  "city": "札幌市中央区",
+  "town": "南一条西（１〜１９丁目）",
+  "multipleZipCodes": "1",
+  "numberedTown": "0",
+  "hasChome": "1",
+  "multipleTowns": "0",
+  "updateFlag": "0",
+  "updateReason": "0"
+}

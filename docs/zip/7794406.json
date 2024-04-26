@@ -1,0 +1,17 @@
+{
+  "jisCode": "36468",
+  "oldZipCode": "77944",
+  "zipCode": "7794406",
+  "prefectureKana": "トクシマケン",
+  "cityKana": "ミマグンツルギチョウ",
+  "townKana": "ハンダ（カシオ、カミヤ、コダニ、サコオド、シモギライ）",
+  "prefecture": "徳島県",
+  "city": "美馬郡つるぎ町",
+  "town": "半田（樫尾、紙屋、小谷、佐古戸、下喜来）",
+  "multipleZipCodes": "1",
+  "numberedTown": "0",
+  "hasChome": "0",
+  "multipleTowns": "0",
+  "updateFlag": "0",
+  "updateReason": "0"
+}

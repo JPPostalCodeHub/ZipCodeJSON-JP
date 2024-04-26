@@ -1,0 +1,17 @@
+{
+  "jisCode": "01234",
+  "oldZipCode": "06111",
+  "zipCode": "0611106",
+  "prefectureKana": "ホッカイドウ",
+  "cityKana": "キタヒロシマシ",
+  "townKana": "ニシノサトミナミ",
+  "prefecture": "北海道",
+  "city": "北広島市",
+  "town": "西の里南",
+  "multipleZipCodes": "0",
+  "numberedTown": "0",
+  "hasChome": "1",
+  "multipleTowns": "0",
+  "updateFlag": "0",
+  "updateReason": "0"
+}

@@ -1,0 +1,17 @@
+{
+  "jisCode": "01367",
+  "oldZipCode": "04315",
+  "zipCode": "0431525",
+  "prefectureKana": "ホッカイドウ",
+  "cityKana": "オクシリグンオクシリチョウ",
+  "townKana": "ユノハマ（カムイワキ、ホロナイ）",
+  "prefecture": "北海道",
+  "city": "奥尻郡奥尻町",
+  "town": "湯浜（神威脇、幌内）",
+  "multipleZipCodes": "1",
+  "numberedTown": "0",
+  "hasChome": "0",
+  "multipleTowns": "0",
+  "updateFlag": "0",
+  "updateReason": "0"
+}

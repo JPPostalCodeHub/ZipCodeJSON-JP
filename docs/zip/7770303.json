@@ -1,0 +1,17 @@
+{
+  "jisCode": "36207",
+  "oldZipCode": "77703",
+  "zipCode": "7770303",
+  "prefectureKana": "トクシマケン",
+  "cityKana": "ミマシ",
+  "townKana": "コヤダイラ（カワカミ、カワカミカケ、タイゴウ、タイゴウカケ、タニグチ、タニグチカケ、モリトオ、ヤワタ、ユドウ）",
+  "prefecture": "徳島県",
+  "city": "美馬市",
+  "town": "木屋平（川上、川上カケ、太合、太合カケ、谷口、谷口カケ、森遠、八幡、弓道）",
+  "multipleZipCodes": "1",
+  "numberedTown": "0",
+  "hasChome": "0",
+  "multipleTowns": "0",
+  "updateFlag": "0",
+  "updateReason": "0"
+}

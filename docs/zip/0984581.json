@@ -1,0 +1,17 @@
+{
+  "jisCode": "01214",
+  "oldZipCode": "09845",
+  "zipCode": "0984581",
+  "prefectureKana": "ホッカイドウ",
+  "cityKana": "ワッカナイシ",
+  "townKana": "バッカイムラ（カミユウチ、シモユウチ、ユウクル、オネトマナイ）",
+  "prefecture": "北海道",
+  "city": "稚内市",
+  "town": "抜海村（上勇知、下勇知、夕来、オネトマナイ）",
+  "multipleZipCodes": "1",
+  "numberedTown": "0",
+  "hasChome": "0",
+  "multipleTowns": "0",
+  "updateFlag": "0",
+  "updateReason": "0"
+}

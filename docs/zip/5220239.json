@@ -1,0 +1,17 @@
+{
+  "jisCode": "25202",
+  "oldZipCode": "52202",
+  "zipCode": "5220239",
+  "prefectureKana": "シガケン",
+  "cityKana": "ヒコネシ",
+  "townKana": "ウオチョウ（８９７バンチオヨビナカジマ５０５−５１８バンチ）",
+  "prefecture": "滋賀県",
+  "city": "彦根市",
+  "town": "宇尾町（８９７番地及び中島５０５〜５１８番地）",
+  "multipleZipCodes": "1",
+  "numberedTown": "0",
+  "hasChome": "0",
+  "multipleTowns": "0",
+  "updateFlag": "0",
+  "updateReason": "0"
+}

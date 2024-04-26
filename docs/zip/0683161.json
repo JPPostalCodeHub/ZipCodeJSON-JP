@@ -1,0 +1,17 @@
+{
+  "jisCode": "01210",
+  "oldZipCode": "06831",
+  "zipCode": "0683161",
+  "prefectureKana": "ホッカイドウ",
+  "cityKana": "イワミザワシ",
+  "townKana": "クリサワチョウミヤムラ（２４８、３３９、７２６、７８０、８００、８０６バンチ）",
+  "prefecture": "北海道",
+  "city": "岩見沢市",
+  "town": "栗沢町宮村（２４８、３３９、７２６、７８０、８００、８０６番地）",
+  "multipleZipCodes": "1",
+  "numberedTown": "0",
+  "hasChome": "0",
+  "multipleTowns": "0",
+  "updateFlag": "0",
+  "updateReason": "0"
+}

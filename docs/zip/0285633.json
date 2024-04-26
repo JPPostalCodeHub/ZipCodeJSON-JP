@@ -1,0 +1,17 @@
+{
+  "jisCode": "03483",
+  "oldZipCode": "02856",
+  "zipCode": "0285633",
+  "prefectureKana": "イワテケン",
+  "cityKana": "シモヘイグンイワイズミチョウ",
+  "townKana": "カマツタ（カミクリヤド、クリヤド、ゴンゲン）",
+  "prefecture": "岩手県",
+  "city": "下閉伊郡岩泉町",
+  "town": "釜津田（上栗宿、栗宿、権現）",
+  "multipleZipCodes": "1",
+  "numberedTown": "1",
+  "hasChome": "0",
+  "multipleTowns": "0",
+  "updateFlag": "0",
+  "updateReason": "0"
+}

@@ -1,0 +1,17 @@
+{
+  "jisCode": "01102",
+  "oldZipCode": "001  ",
+  "zipCode": "0010016",
+  "prefectureKana": "ホッカイドウ",
+  "cityKana": "サッポロシキタク",
+  "townKana": "キタ１６ジョウニシ（１−６チョウメ）",
+  "prefecture": "北海道",
+  "city": "札幌市北区",
+  "town": "北十六条西（１〜６丁目）",
+  "multipleZipCodes": "1",
+  "numberedTown": "0",
+  "hasChome": "1",
+  "multipleTowns": "0",
+  "updateFlag": "0",
+  "updateReason": "0"
+}

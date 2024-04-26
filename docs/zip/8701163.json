@@ -1,0 +1,17 @@
+{
+  "jisCode": "44201",
+  "oldZipCode": "87011",
+  "zipCode": "8701163",
+  "prefectureKana": "オオイタケン",
+  "cityKana": "オオイタシ",
+  "townKana": "メグスノ（１−６５７、７７６−８２９、８４２−１３０５、２６９１、２９２５バンチ）",
+  "prefecture": "大分県",
+  "city": "大分市",
+  "town": "廻栖野（１〜６５７、７７６〜８２９、８４２〜１３０５、２６９１、２９２５番地）",
+  "multipleZipCodes": "1",
+  "numberedTown": "0",
+  "hasChome": "0",
+  "multipleTowns": "0",
+  "updateFlag": "0",
+  "updateReason": "0"
+}

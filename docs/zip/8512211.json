@@ -1,0 +1,17 @@
+{
+  "jisCode": "42201",
+  "oldZipCode": "85122",
+  "zipCode": "8512211",
+  "prefectureKana": "ナガサキケン",
+  "cityKana": "ナガサキシ",
+  "townKana": "キョウドマリ",
+  "prefecture": "長崎県",
+  "city": "長崎市",
+  "town": "京泊",
+  "multipleZipCodes": "0",
+  "numberedTown": "0",
+  "hasChome": "1",
+  "multipleTowns": "0",
+  "updateFlag": "0",
+  "updateReason": "0"
+}

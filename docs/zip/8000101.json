@@ -1,0 +1,17 @@
+{
+  "jisCode": "40101",
+  "oldZipCode": "80001",
+  "zipCode": "8000101",
+  "prefectureKana": "フクオカケン",
+  "cityKana": "キタキュウシュウシモジク",
+  "townKana": "イカワ",
+  "prefecture": "福岡県",
+  "city": "北九州市門司区",
+  "town": "伊川",
+  "multipleZipCodes": "0",
+  "numberedTown": "0",
+  "hasChome": "0",
+  "multipleTowns": "0",
+  "updateFlag": "0",
+  "updateReason": "0"
+}

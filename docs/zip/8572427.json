@@ -1,0 +1,17 @@
+{
+  "jisCode": "42212",
+  "oldZipCode": "85724",
+  "zipCode": "8572427",
+  "prefectureKana": "ナガサキケン",
+  "cityKana": "サイカイシ",
+  "townKana": "オオシマチョウノツギニバンチガクルバアイ",
+  "prefecture": "長崎県",
+  "city": "西海市",
+  "town": "大島町の次に番地がくる場合",
+  "multipleZipCodes": "0",
+  "numberedTown": "0",
+  "hasChome": "0",
+  "multipleTowns": "0",
+  "updateFlag": "0",
+  "updateReason": "0"
+}

@@ -1,0 +1,17 @@
+{
+  "jisCode": "23220",
+  "oldZipCode": "49013",
+  "zipCode": "4901305",
+  "prefectureKana": "アイチケン",
+  "cityKana": "イナザワシ",
+  "townKana": "ヘイワチョウ（マルブチカミ、マルブチシモ、ワシオ）",
+  "prefecture": "愛知県",
+  "city": "稲沢市",
+  "town": "平和町（丸渕上、丸渕下、鷲尾）",
+  "multipleZipCodes": "1",
+  "numberedTown": "0",
+  "hasChome": "0",
+  "multipleTowns": "0",
+  "updateFlag": "0",
+  "updateReason": "0"
+}

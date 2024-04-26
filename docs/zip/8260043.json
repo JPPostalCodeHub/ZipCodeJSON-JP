@@ -1,0 +1,17 @@
+{
+  "jisCode": "40206",
+  "oldZipCode": "826  ",
+  "zipCode": "8260043",
+  "prefectureKana": "フクオカケン",
+  "cityKana": "タガワシ",
+  "townKana": "ナラ（アオバチョウ、オオウラ、カイシャマチ、カスミガオカ、ゴトウジニシダンチ、ゴトウジヒガシダンチ、ノゾミガオカ、マツノキ、ミツイゴトウジ、ミドリマチ、ツキミガオカ）",
+  "prefecture": "福岡県",
+  "city": "田川市",
+  "town": "奈良（青葉町、大浦、会社町、霞ケ丘、後藤寺西団地、後藤寺東団地、希望ケ丘、松の木、三井後藤寺、緑町、月見ケ丘）",
+  "multipleZipCodes": "0",
+  "numberedTown": "0",
+  "hasChome": "0",
+  "multipleTowns": "0",
+  "updateFlag": "0",
+  "updateReason": "0"
+}
