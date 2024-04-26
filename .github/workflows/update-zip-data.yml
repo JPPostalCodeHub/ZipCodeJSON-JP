@@ -31,13 +31,13 @@ jobs:
           git checkout -b "auto-update/${{ github.run_id }}"
           git add -A
           if git diff --staged --quiet; then
-            echo "No changes to commit" >> $GITHUB_ENV
-            echo "::set-output name=changes::false"
+            echo "no_changes=true" >> $GITHUB_ENV
+            echo "No changes to commit, exiting gracefully."
+            exit 0  # 明示的に成功の終了コードで終了させる
           else
-            echo "Changes detected" >> $GITHUB_ENV
+            echo "changes=true" >> $GITHUB_ENV
             git commit -m "Update zip data"
             git push --set-upstream origin "auto-update/${{ github.run_id }}"
-            echo "::set-output name=changes::true"
           fi
 
       - name: Create Pull Request
