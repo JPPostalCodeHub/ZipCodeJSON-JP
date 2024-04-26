@@ -1,0 +1,50 @@
+name: Update Zip Data
+
+on:
+  schedule:
+    - cron: '0 0 1,15 * *'  # 毎月1日と15日のUTC 0:00に実行します。
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the repo
+        uses: actions/checkout@v3
+
+      - name: Setup Bun
+        run: |
+          curl -fsSL https://bun.sh/install | bash
+          echo "$HOME/.bun/bin" >> $GITHUB_PATH
+
+      - name: Run script
+        run: bun run src/index.ts
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          git config --global user.email "wada@coffee-break-designs.com"
+          git config --global user.name "ZipCodeJSON-JP Bot"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "No changes to commit" >> $GITHUB_ENV
+          else
+            echo "Changes detected" >> $GITHUB_ENV
+            git commit -m "Update zip data"
+            git push
+            echo "::set-output name=changes::true"
+          fi
+
+      - name: Create Pull Request
+        if: steps.git-check.outputs.changes == 'true'
+        uses: peter-evans/create-pull-request@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: Update zip data
+          title: "Data Update"
+          body: "This is an automated PR to update data."
+          branch: "auto-update/${{ github.run_id }}"
+
+      - name: Notify
+        if: steps.git-check.outputs.changes == 'true'
+        run: echo "Changes have been pushed and a PR has been created."
