@@ -10,7 +10,6 @@ ZipCodeJSON-JP は、日本全国の郵便番号と住所情報を JSON 形式�
 
 - **自動更新**: 日本郵便のサイトから直接データをダウンロードし、最新情報を保持します。
 - **簡単アクセス**: 郵便番号から直接 JSON 形式で住所情報を取得できます。
-- **CORS 対応**: どのドメインからでも API にアクセス可能です。
 
 ## 使い方
 
@@ -18,17 +17,36 @@ ZipCodeJSON-JP は、日本全国の郵便番号と住所情報を JSON 形式�
 
 ```
 https://jppostalcodehub.github.io/ZipCodeJSON-JP/zip/[郵便番号].json
+CORS対応: https://zip-code-cors-jp.vercel.app/api/zipcode/[郵便番号]
 ```
 
 例えば、`1000001`の情報を取得するには、以下の URL にアクセスします。
 
 ```
 https://jppostalcodehub.github.io/ZipCodeJSON-JP/zip/0010000.json
+CORS対応: https://zip-code-cors-jp.vercel.app/api/zipcode/0010000
+
 ```
+
+**Javascript**
 
 ```Javascript
 const response = await fetch('https://jppostalcodehub.github.io/ZipCodeJSON-JP/zip/0010000.json')
-response.json()
+const { entries } = await response.json()
+
+// CORS対応
+const response = await fetch(
+  'https://zip-code-cors-jp.vercel.app/api/zipcode/0010000',
+  {
+    mode: 'cors',
+    method: 'GET',
+    headers: {
+      'Content-Type': 'application/json',
+    },
+  }
+)
+const { entries } = await response.json()
+
 ```
 
 ## 開発
@@ -49,6 +67,11 @@ cd ZipCodeJSON-JP
 ```
 bun run src/index.ts
 ```
+
+### CORS 対応
+
+[ZipCodeCORS-JP](https://github.com/JPPostalCodeHub/ZipCodeCORS-JP)
+上記のリポジトリで対応しています。
 
 ### Q&A
 
