@@ -1,7 +1,9 @@
 {
   "entries": [
     {
-      "jisCode": ""
+      "jisCode": "",
+      "townKana": "",
+      "town": ""
     }
   ]
 }
