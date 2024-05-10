@@ -48,7 +48,7 @@ jobs:
           title: "Data Update"
           body: "This is an automated PR to update data."
           branch: "auto-update/${{ github.run_id }}"
-          base: "master"
+          base: "gh-pages"
 
       - name: Notify
         if: env.changes == 'true'
