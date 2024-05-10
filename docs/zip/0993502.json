@@ -1,17 +1,21 @@
 {
-  "jisCode": "01211",
-  "oldZipCode": "09935",
-  "zipCode": "0993502",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "アバシリシ",
-  "townKana": "ウラシベツ",
-  "prefecture": "北海道",
-  "city": "網走市",
-  "town": "浦士別",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01211",
+      "oldZipCode": "09935",
+      "zipCode": "0993502",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "アバシリシ",
+      "townKana": "ウラシベツ",
+      "prefecture": "北海道",
+      "city": "網走市",
+      "town": "浦士別",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

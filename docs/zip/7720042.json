@@ -1,17 +1,21 @@
 {
-  "jisCode": "36202",
-  "oldZipCode": "772  ",
-  "zipCode": "7720042",
-  "prefectureKana": "トクシマケン",
-  "cityKana": "ナルトシ",
-  "townKana": "オオツチョウビゼンジマ",
-  "prefecture": "徳島県",
-  "city": "鳴門市",
-  "town": "大津町備前島",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "36202",
+      "oldZipCode": "772  ",
+      "zipCode": "7720042",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "ナルトシ",
+      "townKana": "オオツチョウビゼンジマ",
+      "prefecture": "徳島県",
+      "city": "鳴門市",
+      "town": "大津町備前島",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

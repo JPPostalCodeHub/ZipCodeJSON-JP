@@ -1,17 +1,21 @@
 {
-  "jisCode": "28214",
-  "oldZipCode": "66912",
-  "zipCode": "6691205",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "タカラヅカシ",
-  "townKana": "シバツジシンデン",
-  "prefecture": "兵庫県",
-  "city": "宝塚市",
-  "town": "芝辻新田",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28214",
+      "oldZipCode": "66912",
+      "zipCode": "6691205",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "タカラヅカシ",
+      "townKana": "シバツジシンデン",
+      "prefecture": "兵庫県",
+      "city": "宝塚市",
+      "town": "芝辻新田",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

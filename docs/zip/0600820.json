@@ -1,17 +1,21 @@
 {
-  "jisCode": "01102",
-  "oldZipCode": "060  ",
-  "zipCode": "0600820",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "サッポロシキタク",
-  "townKana": "キタ２０ジョウニシ（１１−１３チョウメ）",
-  "prefecture": "北海道",
-  "city": "札幌市北区",
-  "town": "北二十条西（１１〜１３丁目）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01102",
+      "oldZipCode": "060  ",
+      "zipCode": "0600820",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "サッポロシキタク",
+      "townKana": "キタ２０ジョウニシ（１１−１３チョウメ）",
+      "prefecture": "北海道",
+      "city": "札幌市北区",
+      "town": "北二十条西（１１〜１３丁目）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

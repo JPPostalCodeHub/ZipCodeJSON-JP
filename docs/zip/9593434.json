@@ -1,17 +1,21 @@
 {
-  "jisCode": "15212",
-  "oldZipCode": "95934",
-  "zipCode": "9593434",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ムラカミシ",
-  "townKana": "コイワウチ",
-  "prefecture": "新潟県",
-  "city": "村上市",
-  "town": "小岩内",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15212",
+      "oldZipCode": "95934",
+      "zipCode": "9593434",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ムラカミシ",
+      "townKana": "コイワウチ",
+      "prefecture": "新潟県",
+      "city": "村上市",
+      "town": "小岩内",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

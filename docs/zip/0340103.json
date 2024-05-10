@@ -1,17 +1,21 @@
 {
-  "jisCode": "02206",
-  "oldZipCode": "03401",
-  "zipCode": "0340103",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "トワダシ",
-  "townKana": "タチザキ",
-  "prefecture": "青森県",
-  "city": "十和田市",
-  "town": "立崎",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02206",
+      "oldZipCode": "03401",
+      "zipCode": "0340103",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "トワダシ",
+      "townKana": "タチザキ",
+      "prefecture": "青森県",
+      "city": "十和田市",
+      "town": "立崎",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

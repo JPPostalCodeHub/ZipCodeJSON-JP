@@ -1,17 +1,21 @@
 {
-  "jisCode": "23229",
-  "oldZipCode": "47011",
-  "zipCode": "4701100",
-  "prefectureKana": "アイチケン",
-  "cityKana": "トヨアケシ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "愛知県",
-  "city": "豊明市",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23229",
+      "oldZipCode": "47011",
+      "zipCode": "4701100",
+      "prefectureKana": "アイチケン",
+      "cityKana": "トヨアケシ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "愛知県",
+      "city": "豊明市",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

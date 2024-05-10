@@ -1,17 +1,21 @@
 {
-  "jisCode": "13227",
-  "oldZipCode": "205  ",
-  "zipCode": "2050011",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "ハムラシ",
-  "townKana": "ゴノカミ",
-  "prefecture": "東京都",
-  "city": "羽村市",
-  "town": "五ノ神",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13227",
+      "oldZipCode": "205  ",
+      "zipCode": "2050011",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "ハムラシ",
+      "townKana": "ゴノカミ",
+      "prefecture": "東京都",
+      "city": "羽村市",
+      "town": "五ノ神",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

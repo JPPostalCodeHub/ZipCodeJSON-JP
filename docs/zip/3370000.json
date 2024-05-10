@@ -1,17 +1,21 @@
 {
-  "jisCode": "11104",
-  "oldZipCode": "330  ",
-  "zipCode": "3370000",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "サイタマシミヌマク",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "埼玉県",
-  "city": "さいたま市見沼区",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11104",
+      "oldZipCode": "330  ",
+      "zipCode": "3370000",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "サイタマシミヌマク",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "埼玉県",
+      "city": "さいたま市見沼区",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

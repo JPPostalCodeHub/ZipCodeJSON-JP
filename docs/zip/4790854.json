@@ -1,17 +1,21 @@
 {
-  "jisCode": "23216",
-  "oldZipCode": "479  ",
-  "zipCode": "4790854",
-  "prefectureKana": "アイチケン",
-  "cityKana": "トコナメシ",
-  "townKana": "エノキドチョウ",
-  "prefecture": "愛知県",
-  "city": "常滑市",
-  "town": "榎戸町",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23216",
+      "oldZipCode": "479  ",
+      "zipCode": "4790854",
+      "prefectureKana": "アイチケン",
+      "cityKana": "トコナメシ",
+      "townKana": "エノキドチョウ",
+      "prefecture": "愛知県",
+      "city": "常滑市",
+      "town": "榎戸町",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

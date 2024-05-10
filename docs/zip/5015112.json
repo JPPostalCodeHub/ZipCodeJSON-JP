@@ -1,17 +1,21 @@
 {
-  "jisCode": "21219",
-  "oldZipCode": "50151",
-  "zipCode": "5015112",
-  "prefectureKana": "ギフケン",
-  "cityKana": "グジョウシ",
-  "townKana": "シロトリチョウロクノリ",
-  "prefecture": "岐阜県",
-  "city": "郡上市",
-  "town": "白鳥町六ノ里",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "21219",
+      "oldZipCode": "50151",
+      "zipCode": "5015112",
+      "prefectureKana": "ギフケン",
+      "cityKana": "グジョウシ",
+      "townKana": "シロトリチョウロクノリ",
+      "prefecture": "岐阜県",
+      "city": "郡上市",
+      "town": "白鳥町六ノ里",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

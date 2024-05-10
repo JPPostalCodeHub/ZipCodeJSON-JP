@@ -1,17 +1,21 @@
 {
-  "jisCode": "20203",
-  "oldZipCode": "38604",
-  "zipCode": "3860403",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "ウエダシ",
-  "townKana": "コシゴエ",
-  "prefecture": "長野県",
-  "city": "上田市",
-  "town": "腰越",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20203",
+      "oldZipCode": "38604",
+      "zipCode": "3860403",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "ウエダシ",
+      "townKana": "コシゴエ",
+      "prefecture": "長野県",
+      "city": "上田市",
+      "town": "腰越",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

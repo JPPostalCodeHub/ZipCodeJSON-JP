@@ -1,17 +1,21 @@
 {
-  "jisCode": "43206",
-  "oldZipCode": "86154",
-  "zipCode": "8615403",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "タマナシ",
-  "townKana": "テンスイマチヘタミ",
-  "prefecture": "熊本県",
-  "city": "玉名市",
-  "town": "天水町部田見",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43206",
+      "oldZipCode": "86154",
+      "zipCode": "8615403",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "タマナシ",
+      "townKana": "テンスイマチヘタミ",
+      "prefecture": "熊本県",
+      "city": "玉名市",
+      "town": "天水町部田見",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "23212",
-  "oldZipCode": "44412",
-  "zipCode": "4441212",
-  "prefectureKana": "アイチケン",
-  "cityKana": "アンジョウシ",
-  "townKana": "ネサキチョウ（キタネ）",
-  "prefecture": "愛知県",
-  "city": "安城市",
-  "town": "根崎町（北根）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23212",
+      "oldZipCode": "44412",
+      "zipCode": "4441212",
+      "prefectureKana": "アイチケン",
+      "cityKana": "アンジョウシ",
+      "townKana": "ネサキチョウ（キタネ）",
+      "prefecture": "愛知県",
+      "city": "安城市",
+      "town": "根崎町（北根）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

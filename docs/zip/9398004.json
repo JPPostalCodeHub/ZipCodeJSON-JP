@@ -1,17 +1,21 @@
 {
-  "jisCode": "16201",
-  "oldZipCode": "939  ",
-  "zipCode": "9398004",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "トヤマシ",
-  "townKana": "ニシクモンミョウ",
-  "prefecture": "富山県",
-  "city": "富山市",
-  "town": "西公文名",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16201",
+      "oldZipCode": "939  ",
+      "zipCode": "9398004",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "トヤマシ",
+      "townKana": "ニシクモンミョウ",
+      "prefecture": "富山県",
+      "city": "富山市",
+      "town": "西公文名",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "03205",
-  "oldZipCode": "025  ",
-  "zipCode": "0250065",
-  "prefectureKana": "イワテケン",
-  "cityKana": "ハナマキシ",
-  "townKana": "ホシガオカ",
-  "prefecture": "岩手県",
-  "city": "花巻市",
-  "town": "星が丘",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "03205",
+      "oldZipCode": "025  ",
+      "zipCode": "0250065",
+      "prefectureKana": "イワテケン",
+      "cityKana": "ハナマキシ",
+      "townKana": "ホシガオカ",
+      "prefecture": "岩手県",
+      "city": "花巻市",
+      "town": "星が丘",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "13109",
-  "oldZipCode": "142  ",
-  "zipCode": "1420052",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "シナガワク",
-  "townKana": "ヒガシナカノブ",
-  "prefecture": "東京都",
-  "city": "品川区",
-  "town": "東中延",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13109",
+      "oldZipCode": "142  ",
+      "zipCode": "1420052",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "シナガワク",
+      "townKana": "ヒガシナカノブ",
+      "prefecture": "東京都",
+      "city": "品川区",
+      "town": "東中延",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

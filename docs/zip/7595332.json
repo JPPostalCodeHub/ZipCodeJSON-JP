@@ -1,17 +1,21 @@
 {
-  "jisCode": "35201",
-  "oldZipCode": "75953",
-  "zipCode": "7595332",
-  "prefectureKana": "ヤマグチケン",
-  "cityKana": "シモノセキシ",
-  "townKana": "ホウホクチョウツノシマ",
-  "prefecture": "山口県",
-  "city": "下関市",
-  "town": "豊北町角島",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "35201",
+      "oldZipCode": "75953",
+      "zipCode": "7595332",
+      "prefectureKana": "ヤマグチケン",
+      "cityKana": "シモノセキシ",
+      "townKana": "ホウホクチョウツノシマ",
+      "prefecture": "山口県",
+      "city": "下関市",
+      "town": "豊北町角島",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

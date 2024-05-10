@@ -1,17 +1,21 @@
 {
-  "jisCode": "01209",
-  "oldZipCode": "06804",
-  "zipCode": "0680400",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ユウバリシ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "北海道",
-  "city": "夕張市",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01209",
+      "oldZipCode": "06804",
+      "zipCode": "0680400",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ユウバリシ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "北海道",
+      "city": "夕張市",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

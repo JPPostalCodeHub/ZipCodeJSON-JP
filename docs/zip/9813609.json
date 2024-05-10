@@ -1,17 +1,21 @@
 {
-  "jisCode": "04424",
-  "oldZipCode": "98136",
-  "zipCode": "9813609",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "クロカワグンオオヒラムラ",
-  "townKana": "チュウオウダイラ",
-  "prefecture": "宮城県",
-  "city": "黒川郡大衡村",
-  "town": "中央平",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04424",
+      "oldZipCode": "98136",
+      "zipCode": "9813609",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "クロカワグンオオヒラムラ",
+      "townKana": "チュウオウダイラ",
+      "prefecture": "宮城県",
+      "city": "黒川郡大衡村",
+      "town": "中央平",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

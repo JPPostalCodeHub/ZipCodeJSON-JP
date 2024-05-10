@@ -1,17 +1,21 @@
 {
-  "jisCode": "24203",
-  "oldZipCode": "516  ",
-  "zipCode": "5160043",
-  "prefectureKana": "ミエケン",
-  "cityKana": "イセシ",
-  "townKana": "フジサトチョウ",
-  "prefecture": "三重県",
-  "city": "伊勢市",
-  "town": "藤里町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "24203",
+      "oldZipCode": "516  ",
+      "zipCode": "5160043",
+      "prefectureKana": "ミエケン",
+      "cityKana": "イセシ",
+      "townKana": "フジサトチョウ",
+      "prefecture": "三重県",
+      "city": "伊勢市",
+      "town": "藤里町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

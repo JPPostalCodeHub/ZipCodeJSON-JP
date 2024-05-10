@@ -1,17 +1,21 @@
 {
-  "jisCode": "34103",
-  "oldZipCode": "734  ",
-  "zipCode": "7340023",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "ヒロシマシミナミク",
-  "townKana": "シノノメホンマチ",
-  "prefecture": "広島県",
-  "city": "広島市南区",
-  "town": "東雲本町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34103",
+      "oldZipCode": "734  ",
+      "zipCode": "7340023",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ヒロシマシミナミク",
+      "townKana": "シノノメホンマチ",
+      "prefecture": "広島県",
+      "city": "広島市南区",
+      "town": "東雲本町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

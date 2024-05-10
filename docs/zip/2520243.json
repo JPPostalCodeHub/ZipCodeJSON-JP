@@ -1,17 +1,21 @@
 {
-  "jisCode": "14152",
-  "oldZipCode": "22911",
-  "zipCode": "2520243",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "サガミハラシチュウオウク",
-  "townKana": "カミミゾ",
-  "prefecture": "神奈川県",
-  "city": "相模原市中央区",
-  "town": "上溝",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14152",
+      "oldZipCode": "22911",
+      "zipCode": "2520243",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "サガミハラシチュウオウク",
+      "townKana": "カミミゾ",
+      "prefecture": "神奈川県",
+      "city": "相模原市中央区",
+      "town": "上溝",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

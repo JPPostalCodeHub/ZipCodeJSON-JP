@@ -1,17 +1,21 @@
 {
-  "jisCode": "26203",
-  "oldZipCode": "62303",
-  "zipCode": "6230352",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "アヤベシ",
-  "townKana": "ムコウダチョウ",
-  "prefecture": "京都府",
-  "city": "綾部市",
-  "town": "向田町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26203",
+      "oldZipCode": "62303",
+      "zipCode": "6230352",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "アヤベシ",
+      "townKana": "ムコウダチョウ",
+      "prefecture": "京都府",
+      "city": "綾部市",
+      "town": "向田町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

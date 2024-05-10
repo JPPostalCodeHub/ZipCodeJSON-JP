@@ -1,17 +1,21 @@
 {
-  "jisCode": "11234",
-  "oldZipCode": "340  ",
-  "zipCode": "3400823",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "ヤシオシ",
-  "townKana": "コシンデン",
-  "prefecture": "埼玉県",
-  "city": "八潮市",
-  "town": "古新田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11234",
+      "oldZipCode": "340  ",
+      "zipCode": "3400823",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "ヤシオシ",
+      "townKana": "コシンデン",
+      "prefecture": "埼玉県",
+      "city": "八潮市",
+      "town": "古新田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

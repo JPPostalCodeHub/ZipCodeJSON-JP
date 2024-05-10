@@ -1,17 +1,21 @@
 {
-  "jisCode": "03216",
-  "oldZipCode": "02006",
-  "zipCode": "0200635",
-  "prefectureKana": "イワテケン",
-  "cityKana": "タキザワシ",
-  "townKana": "ミミトリヤマ",
-  "prefecture": "岩手県",
-  "city": "滝沢市",
-  "town": "耳取山",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "03216",
+      "oldZipCode": "02006",
+      "zipCode": "0200635",
+      "prefectureKana": "イワテケン",
+      "cityKana": "タキザワシ",
+      "townKana": "ミミトリヤマ",
+      "prefecture": "岩手県",
+      "city": "滝沢市",
+      "town": "耳取山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

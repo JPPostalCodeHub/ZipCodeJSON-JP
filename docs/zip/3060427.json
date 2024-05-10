@@ -1,17 +1,21 @@
 {
-  "jisCode": "08546",
-  "oldZipCode": "30604",
-  "zipCode": "3060427",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "サシマグンサカイマチ",
-  "townKana": "ウラムコウ",
-  "prefecture": "茨城県",
-  "city": "猿島郡境町",
-  "town": "浦向",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08546",
+      "oldZipCode": "30604",
+      "zipCode": "3060427",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "サシマグンサカイマチ",
+      "townKana": "ウラムコウ",
+      "prefecture": "茨城県",
+      "city": "猿島郡境町",
+      "town": "浦向",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

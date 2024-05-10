@@ -1,17 +1,21 @@
 {
-  "jisCode": "24210",
-  "oldZipCode": "51911",
-  "zipCode": "5191111",
-  "prefectureKana": "ミエケン",
-  "cityKana": "カメヤマシ",
-  "townKana": "セキチョウシンジョ",
-  "prefecture": "三重県",
-  "city": "亀山市",
-  "town": "関町新所",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "24210",
+      "oldZipCode": "51911",
+      "zipCode": "5191111",
+      "prefectureKana": "ミエケン",
+      "cityKana": "カメヤマシ",
+      "townKana": "セキチョウシンジョ",
+      "prefecture": "三重県",
+      "city": "亀山市",
+      "town": "関町新所",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

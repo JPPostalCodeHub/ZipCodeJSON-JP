@@ -1,17 +1,21 @@
 {
-  "jisCode": "15224",
-  "oldZipCode": "95232",
-  "zipCode": "9523201",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "サドシ",
-  "townKana": "マサラガワ",
-  "prefecture": "新潟県",
-  "city": "佐渡市",
-  "town": "真更川",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15224",
+      "oldZipCode": "95232",
+      "zipCode": "9523201",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "サドシ",
+      "townKana": "マサラガワ",
+      "prefecture": "新潟県",
+      "city": "佐渡市",
+      "town": "真更川",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

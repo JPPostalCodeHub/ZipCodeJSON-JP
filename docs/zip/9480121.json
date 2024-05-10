@@ -1,17 +1,21 @@
 {
-  "jisCode": "15210",
-  "oldZipCode": "94801",
-  "zipCode": "9480121",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "トオカマチシ",
-  "townKana": "アラマチシンデン",
-  "prefecture": "新潟県",
-  "city": "十日町市",
-  "town": "新町新田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15210",
+      "oldZipCode": "94801",
+      "zipCode": "9480121",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "トオカマチシ",
+      "townKana": "アラマチシンデン",
+      "prefecture": "新潟県",
+      "city": "十日町市",
+      "town": "新町新田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "25212",
-  "oldZipCode": "52018",
-  "zipCode": "5201813",
-  "prefectureKana": "シガケン",
-  "cityKana": "タカシマシ",
-  "townKana": "マキノチョウタカギハマ",
-  "prefecture": "滋賀県",
-  "city": "高島市",
-  "town": "マキノ町高木浜",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "25212",
+      "oldZipCode": "52018",
+      "zipCode": "5201813",
+      "prefectureKana": "シガケン",
+      "cityKana": "タカシマシ",
+      "townKana": "マキノチョウタカギハマ",
+      "prefecture": "滋賀県",
+      "city": "高島市",
+      "town": "マキノ町高木浜",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

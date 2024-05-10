@@ -1,17 +1,21 @@
 {
-  "jisCode": "40105",
-  "oldZipCode": "804  ",
-  "zipCode": "8040023",
-  "prefectureKana": "フクオカケン",
-  "cityKana": "キタキュウシュウシトバタク",
-  "townKana": "ヒガシサヤガタニマチ",
-  "prefecture": "福岡県",
-  "city": "北九州市戸畑区",
-  "town": "東鞘ケ谷町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "40105",
+      "oldZipCode": "804  ",
+      "zipCode": "8040023",
+      "prefectureKana": "フクオカケン",
+      "cityKana": "キタキュウシュウシトバタク",
+      "townKana": "ヒガシサヤガタニマチ",
+      "prefecture": "福岡県",
+      "city": "北九州市戸畑区",
+      "town": "東鞘ケ谷町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

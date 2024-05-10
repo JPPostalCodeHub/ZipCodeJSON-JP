@@ -1,17 +1,21 @@
 {
-  "jisCode": "14213",
-  "oldZipCode": "242  ",
-  "zipCode": "2420021",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "ヤマトシ",
-  "townKana": "チュウオウ",
-  "prefecture": "神奈川県",
-  "city": "大和市",
-  "town": "中央",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14213",
+      "oldZipCode": "242  ",
+      "zipCode": "2420021",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "ヤマトシ",
+      "townKana": "チュウオウ",
+      "prefecture": "神奈川県",
+      "city": "大和市",
+      "town": "中央",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

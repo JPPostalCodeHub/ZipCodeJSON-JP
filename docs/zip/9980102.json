@@ -1,17 +1,21 @@
 {
-  "jisCode": "06204",
-  "oldZipCode": "99801",
-  "zipCode": "9980102",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "サカタシ",
-  "townKana": "キョウデン",
-  "prefecture": "山形県",
-  "city": "酒田市",
-  "town": "京田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06204",
+      "oldZipCode": "99801",
+      "zipCode": "9980102",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "サカタシ",
+      "townKana": "キョウデン",
+      "prefecture": "山形県",
+      "city": "酒田市",
+      "town": "京田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

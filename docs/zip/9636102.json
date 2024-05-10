@@ -1,17 +1,21 @@
 {
-  "jisCode": "07481",
-  "oldZipCode": "96361",
-  "zipCode": "9636102",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "ヒガシシラカワグンタナグラマチ",
-  "townKana": "テンノウチ",
-  "prefecture": "福島県",
-  "city": "東白川郡棚倉町",
-  "town": "天王内",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07481",
+      "oldZipCode": "96361",
+      "zipCode": "9636102",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "ヒガシシラカワグンタナグラマチ",
+      "townKana": "テンノウチ",
+      "prefecture": "福島県",
+      "city": "東白川郡棚倉町",
+      "town": "天王内",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "25212",
-  "oldZipCode": "52015",
-  "zipCode": "5201511",
-  "prefectureKana": "シガケン",
-  "cityKana": "タカシマシ",
-  "townKana": "シンアサヒチョウワラソノ",
-  "prefecture": "滋賀県",
-  "city": "高島市",
-  "town": "新旭町藁園",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "25212",
+      "oldZipCode": "52015",
+      "zipCode": "5201511",
+      "prefectureKana": "シガケン",
+      "cityKana": "タカシマシ",
+      "townKana": "シンアサヒチョウワラソノ",
+      "prefecture": "滋賀県",
+      "city": "高島市",
+      "town": "新旭町藁園",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "08227",
-  "oldZipCode": "308  ",
-  "zipCode": "3080013",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "チクセイシ",
-  "townKana": "ハッタ",
-  "prefecture": "茨城県",
-  "city": "筑西市",
-  "town": "八田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08227",
+      "oldZipCode": "308  ",
+      "zipCode": "3080013",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "チクセイシ",
+      "townKana": "ハッタ",
+      "prefecture": "茨城県",
+      "city": "筑西市",
+      "town": "八田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

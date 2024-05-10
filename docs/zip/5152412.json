@@ -1,17 +1,21 @@
 {
-  "jisCode": "24204",
-  "oldZipCode": "51524",
-  "zipCode": "5152412",
-  "prefectureKana": "ミエケン",
-  "cityKana": "マツサカシ",
-  "townKana": "イフタチョウ",
-  "prefecture": "三重県",
-  "city": "松阪市",
-  "town": "飯福田町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "24204",
+      "oldZipCode": "51524",
+      "zipCode": "5152412",
+      "prefectureKana": "ミエケン",
+      "cityKana": "マツサカシ",
+      "townKana": "イフタチョウ",
+      "prefecture": "三重県",
+      "city": "松阪市",
+      "town": "飯福田町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

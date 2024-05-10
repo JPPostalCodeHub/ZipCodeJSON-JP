@@ -1,17 +1,21 @@
 {
-  "jisCode": "01460",
-  "oldZipCode": "07105",
-  "zipCode": "0710577",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ソラチグンカミフラノチョウ",
-  "townKana": "ナカノサワ",
-  "prefecture": "北海道",
-  "city": "空知郡上富良野町",
-  "town": "中の沢",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01460",
+      "oldZipCode": "07105",
+      "zipCode": "0710577",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ソラチグンカミフラノチョウ",
+      "townKana": "ナカノサワ",
+      "prefecture": "北海道",
+      "city": "空知郡上富良野町",
+      "town": "中の沢",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

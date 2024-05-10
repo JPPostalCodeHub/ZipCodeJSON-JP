@@ -1,17 +1,21 @@
 {
-  "jisCode": "33212",
-  "oldZipCode": "70143",
-  "zipCode": "7014301",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "セトウチシ",
-  "townKana": "ウシマドチョウナガハマ",
-  "prefecture": "岡山県",
-  "city": "瀬戸内市",
-  "town": "牛窓町長浜",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33212",
+      "oldZipCode": "70143",
+      "zipCode": "7014301",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "セトウチシ",
+      "townKana": "ウシマドチョウナガハマ",
+      "prefecture": "岡山県",
+      "city": "瀬戸内市",
+      "town": "牛窓町長浜",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "42210",
-  "oldZipCode": "81154",
-  "zipCode": "8115465",
-  "prefectureKana": "ナガサキケン",
-  "cityKana": "イキシ",
-  "townKana": "アシベチョウハコザキクギノオフレ",
-  "prefecture": "長崎県",
-  "city": "壱岐市",
-  "town": "芦辺町箱崎釘ノ尾触",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "42210",
+      "oldZipCode": "81154",
+      "zipCode": "8115465",
+      "prefectureKana": "ナガサキケン",
+      "cityKana": "イキシ",
+      "townKana": "アシベチョウハコザキクギノオフレ",
+      "prefecture": "長崎県",
+      "city": "壱岐市",
+      "town": "芦辺町箱崎釘ノ尾触",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

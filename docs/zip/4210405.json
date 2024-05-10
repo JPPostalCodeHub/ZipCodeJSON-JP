@@ -1,17 +1,21 @@
 {
-  "jisCode": "22226",
-  "oldZipCode": "42104",
-  "zipCode": "4210405",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "マキノハラシ",
-  "townKana": "シライ（１２９１−１６８２、１８３９−１８４０バンチ）",
-  "prefecture": "静岡県",
-  "city": "牧之原市",
-  "town": "白井（１２９１〜１６８２、１８３９〜１８４０番地）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22226",
+      "oldZipCode": "42104",
+      "zipCode": "4210405",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "マキノハラシ",
+      "townKana": "シライ（１２９１−１６８２、１８３９−１８４０バンチ）",
+      "prefecture": "静岡県",
+      "city": "牧之原市",
+      "town": "白井（１２９１〜１６８２、１８３９〜１８４０番地）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

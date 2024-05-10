@@ -1,17 +1,21 @@
 {
-  "jisCode": "11105",
-  "oldZipCode": "338  ",
-  "zipCode": "3380003",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "サイタマシチュウオウク",
-  "townKana": "ホンマチヒガシ",
-  "prefecture": "埼玉県",
-  "city": "さいたま市中央区",
-  "town": "本町東",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11105",
+      "oldZipCode": "338  ",
+      "zipCode": "3380003",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "サイタマシチュウオウク",
+      "townKana": "ホンマチヒガシ",
+      "prefecture": "埼玉県",
+      "city": "さいたま市中央区",
+      "town": "本町東",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

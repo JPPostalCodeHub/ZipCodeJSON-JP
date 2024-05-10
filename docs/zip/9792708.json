@@ -1,17 +1,21 @@
 {
-  "jisCode": "07561",
-  "oldZipCode": "97927",
-  "zipCode": "9792708",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "ソウマグンシンチマチ",
-  "townKana": "フクダ",
-  "prefecture": "福島県",
-  "city": "相馬郡新地町",
-  "town": "福田",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07561",
+      "oldZipCode": "97927",
+      "zipCode": "9792708",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "ソウマグンシンチマチ",
+      "townKana": "フクダ",
+      "prefecture": "福島県",
+      "city": "相馬郡新地町",
+      "town": "福田",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "13116",
-  "oldZipCode": "171  ",
-  "zipCode": "1710032",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "トシマク",
-  "townKana": "ゾウシガヤ",
-  "prefecture": "東京都",
-  "city": "豊島区",
-  "town": "雑司が谷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13116",
+      "oldZipCode": "171  ",
+      "zipCode": "1710032",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "トシマク",
+      "townKana": "ゾウシガヤ",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "town": "雑司が谷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

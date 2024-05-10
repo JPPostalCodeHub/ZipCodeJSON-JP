@@ -1,17 +1,21 @@
 {
-  "jisCode": "07212",
-  "oldZipCode": "97921",
-  "zipCode": "9792153",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "ミナミソウマシ",
-  "townKana": "オダカクカミウラ",
-  "prefecture": "福島県",
-  "city": "南相馬市",
-  "town": "小高区上浦",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07212",
+      "oldZipCode": "97921",
+      "zipCode": "9792153",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "ミナミソウマシ",
+      "townKana": "オダカクカミウラ",
+      "prefecture": "福島県",
+      "city": "南相馬市",
+      "town": "小高区上浦",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

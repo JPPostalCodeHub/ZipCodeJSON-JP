@@ -1,17 +1,21 @@
 {
-  "jisCode": "15225",
-  "oldZipCode": "946  ",
-  "zipCode": "9460023",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ウオヌマシ",
-  "townKana": "ヒミゾ",
-  "prefecture": "新潟県",
-  "city": "魚沼市",
-  "town": "干溝",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15225",
+      "oldZipCode": "946  ",
+      "zipCode": "9460023",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ウオヌマシ",
+      "townKana": "ヒミゾ",
+      "prefecture": "新潟県",
+      "city": "魚沼市",
+      "town": "干溝",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

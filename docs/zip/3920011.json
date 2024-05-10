@@ -1,17 +1,21 @@
 {
-  "jisCode": "20206",
-  "oldZipCode": "392  ",
-  "zipCode": "3920011",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "スワシ",
-  "townKana": "アカハネ",
-  "prefecture": "長野県",
-  "city": "諏訪市",
-  "town": "赤羽根",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20206",
+      "oldZipCode": "392  ",
+      "zipCode": "3920011",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "スワシ",
+      "townKana": "アカハネ",
+      "prefecture": "長野県",
+      "city": "諏訪市",
+      "town": "赤羽根",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

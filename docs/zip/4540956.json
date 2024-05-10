@@ -1,17 +1,21 @@
 {
-  "jisCode": "23110",
-  "oldZipCode": "454  ",
-  "zipCode": "4540956",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ナゴヤシナカガワク",
-  "townKana": "トミダチョウクマイデン",
-  "prefecture": "愛知県",
-  "city": "名古屋市中川区",
-  "town": "富田町供米田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23110",
+      "oldZipCode": "454  ",
+      "zipCode": "4540956",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ナゴヤシナカガワク",
+      "townKana": "トミダチョウクマイデン",
+      "prefecture": "愛知県",
+      "city": "名古屋市中川区",
+      "town": "富田町供米田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

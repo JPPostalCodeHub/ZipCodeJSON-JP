@@ -1,17 +1,21 @@
 {
-  "jisCode": "19205",
-  "oldZipCode": "405  ",
-  "zipCode": "4050000",
-  "prefectureKana": "ヤマナシケン",
-  "cityKana": "ヤマナシシ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "山梨県",
-  "city": "山梨市",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "19205",
+      "oldZipCode": "405  ",
+      "zipCode": "4050000",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "ヤマナシシ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "山梨県",
+      "city": "山梨市",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

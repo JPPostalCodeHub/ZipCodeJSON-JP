@@ -1,17 +1,21 @@
 {
-  "jisCode": "39205",
-  "oldZipCode": "78111",
-  "zipCode": "7811152",
-  "prefectureKana": "コウチケン",
-  "cityKana": "トサシ",
-  "townKana": "モチイシ",
-  "prefecture": "高知県",
-  "city": "土佐市",
-  "town": "用石",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "39205",
+      "oldZipCode": "78111",
+      "zipCode": "7811152",
+      "prefectureKana": "コウチケン",
+      "cityKana": "トサシ",
+      "townKana": "モチイシ",
+      "prefecture": "高知県",
+      "city": "土佐市",
+      "town": "用石",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

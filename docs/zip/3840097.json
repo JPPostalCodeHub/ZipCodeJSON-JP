@@ -1,17 +1,21 @@
 {
-  "jisCode": "10425",
-  "oldZipCode": "377  ",
-  "zipCode": "3840097",
-  "prefectureKana": "グンマケン",
-  "cityKana": "アガツマグンツマゴイムラ",
-  "townKana": "カンバラ（タカミネコウゲン）",
-  "prefecture": "群馬県",
-  "city": "吾妻郡嬬恋村",
-  "town": "鎌原（高峰高原）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "10425",
+      "oldZipCode": "377  ",
+      "zipCode": "3840097",
+      "prefectureKana": "グンマケン",
+      "cityKana": "アガツマグンツマゴイムラ",
+      "townKana": "カンバラ（タカミネコウゲン）",
+      "prefecture": "群馬県",
+      "city": "吾妻郡嬬恋村",
+      "town": "鎌原（高峰高原）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

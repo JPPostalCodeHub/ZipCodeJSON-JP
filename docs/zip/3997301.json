@@ -1,17 +1,21 @@
 {
-  "jisCode": "20212",
-  "oldZipCode": "39973",
-  "zipCode": "3997301",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "オオマチシ",
-  "townKana": "ヤサカ",
-  "prefecture": "長野県",
-  "city": "大町市",
-  "town": "八坂",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20212",
+      "oldZipCode": "39973",
+      "zipCode": "3997301",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "オオマチシ",
+      "townKana": "ヤサカ",
+      "prefecture": "長野県",
+      "city": "大町市",
+      "town": "八坂",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

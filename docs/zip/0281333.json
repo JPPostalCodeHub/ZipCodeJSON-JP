@@ -1,17 +1,21 @@
 {
-  "jisCode": "03482",
-  "oldZipCode": "02813",
-  "zipCode": "0281333",
-  "prefectureKana": "イワテケン",
-  "cityKana": "シモヘイグンヤマダマチ",
-  "townKana": "コウラクチョウ",
-  "prefecture": "岩手県",
-  "city": "下閉伊郡山田町",
-  "town": "後楽町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "03482",
+      "oldZipCode": "02813",
+      "zipCode": "0281333",
+      "prefectureKana": "イワテケン",
+      "cityKana": "シモヘイグンヤマダマチ",
+      "townKana": "コウラクチョウ",
+      "prefecture": "岩手県",
+      "city": "下閉伊郡山田町",
+      "town": "後楽町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

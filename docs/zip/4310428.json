@@ -1,17 +1,21 @@
 {
-  "jisCode": "22221",
-  "oldZipCode": "43104",
-  "zipCode": "4310428",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "コサイシ",
-  "townKana": "トキワ",
-  "prefecture": "静岡県",
-  "city": "湖西市",
-  "town": "ときわ",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22221",
+      "oldZipCode": "43104",
+      "zipCode": "4310428",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "コサイシ",
+      "townKana": "トキワ",
+      "prefecture": "静岡県",
+      "city": "湖西市",
+      "town": "ときわ",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "11104",
-  "oldZipCode": "330  ",
-  "zipCode": "3370002",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "サイタマシミヌマク",
-  "townKana": "ハルノ",
-  "prefecture": "埼玉県",
-  "city": "さいたま市見沼区",
-  "town": "春野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11104",
+      "oldZipCode": "330  ",
+      "zipCode": "3370002",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "サイタマシミヌマク",
+      "townKana": "ハルノ",
+      "prefecture": "埼玉県",
+      "city": "さいたま市見沼区",
+      "town": "春野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

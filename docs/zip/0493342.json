@@ -1,17 +1,21 @@
 {
-  "jisCode": "01346",
-  "oldZipCode": "04933",
-  "zipCode": "0493342",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "フタミグンヤクモチョウ",
-  "townKana": "ヤマザキ",
-  "prefecture": "北海道",
-  "city": "二海郡八雲町",
-  "town": "山崎",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01346",
+      "oldZipCode": "04933",
+      "zipCode": "0493342",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "フタミグンヤクモチョウ",
+      "townKana": "ヤマザキ",
+      "prefecture": "北海道",
+      "city": "二海郡八雲町",
+      "town": "山崎",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

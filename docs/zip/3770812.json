@@ -1,17 +1,21 @@
 {
-  "jisCode": "10429",
-  "oldZipCode": "37708",
-  "zipCode": "3770812",
-  "prefectureKana": "グンマケン",
-  "cityKana": "アガツマグンヒガシアガツママチ",
-  "townKana": "アツダ",
-  "prefecture": "群馬県",
-  "city": "吾妻郡東吾妻町",
-  "town": "厚田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "10429",
+      "oldZipCode": "37708",
+      "zipCode": "3770812",
+      "prefectureKana": "グンマケン",
+      "cityKana": "アガツマグンヒガシアガツママチ",
+      "townKana": "アツダ",
+      "prefecture": "群馬県",
+      "city": "吾妻郡東吾妻町",
+      "town": "厚田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

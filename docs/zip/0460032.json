@@ -1,17 +1,21 @@
 {
-  "jisCode": "01408",
-  "oldZipCode": "046  ",
-  "zipCode": "0460032",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ヨイチグンヨイチチョウ",
-  "townKana": "トヨハマチョウ",
-  "prefecture": "北海道",
-  "city": "余市郡余市町",
-  "town": "豊浜町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01408",
+      "oldZipCode": "046  ",
+      "zipCode": "0460032",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ヨイチグンヨイチチョウ",
+      "townKana": "トヨハマチョウ",
+      "prefecture": "北海道",
+      "city": "余市郡余市町",
+      "town": "豊浜町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

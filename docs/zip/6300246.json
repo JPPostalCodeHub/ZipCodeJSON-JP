@@ -1,17 +1,21 @@
 {
-  "jisCode": "29209",
-  "oldZipCode": "63002",
-  "zipCode": "6300246",
-  "prefectureKana": "ナラケン",
-  "cityKana": "イコマシ",
-  "townKana": "ニシマツガオカ",
-  "prefecture": "奈良県",
-  "city": "生駒市",
-  "town": "西松ケ丘",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "29209",
+      "oldZipCode": "63002",
+      "zipCode": "6300246",
+      "prefectureKana": "ナラケン",
+      "cityKana": "イコマシ",
+      "townKana": "ニシマツガオカ",
+      "prefecture": "奈良県",
+      "city": "生駒市",
+      "town": "西松ケ丘",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

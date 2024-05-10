@@ -1,17 +1,38 @@
 {
-  "jisCode": "16201",
-  "oldZipCode": "93922",
-  "zipCode": "9392201",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "トヤマシ",
-  "townKana": "シンムラ",
-  "prefecture": "富山県",
-  "city": "富山市",
-  "town": "新村",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16201",
+      "oldZipCode": "93922",
+      "zipCode": "9392201",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "トヤマシ",
+      "townKana": "ゴウダ",
+      "prefecture": "富山県",
+      "city": "富山市",
+      "town": "合田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "16201",
+      "oldZipCode": "93922",
+      "zipCode": "9392201",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "トヤマシ",
+      "townKana": "シンムラ",
+      "prefecture": "富山県",
+      "city": "富山市",
+      "town": "新村",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "16343",
-  "oldZipCode": "93801",
-  "zipCode": "9380161",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "シモニイカワグンアサヒマチ",
-  "townKana": "トノマチ",
-  "prefecture": "富山県",
-  "city": "下新川郡朝日町",
-  "town": "殿町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16343",
+      "oldZipCode": "93801",
+      "zipCode": "9380161",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "シモニイカワグンアサヒマチ",
+      "townKana": "トノマチ",
+      "prefecture": "富山県",
+      "city": "下新川郡朝日町",
+      "town": "殿町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

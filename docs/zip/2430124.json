@@ -1,17 +1,21 @@
 {
-  "jisCode": "14212",
-  "oldZipCode": "24301",
-  "zipCode": "2430124",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "アツギシ",
-  "townKana": "モリノサトワカミヤ",
-  "prefecture": "神奈川県",
-  "city": "厚木市",
-  "town": "森の里若宮",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14212",
+      "oldZipCode": "24301",
+      "zipCode": "2430124",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "アツギシ",
+      "townKana": "モリノサトワカミヤ",
+      "prefecture": "神奈川県",
+      "city": "厚木市",
+      "town": "森の里若宮",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

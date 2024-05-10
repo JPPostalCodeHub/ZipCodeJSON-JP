@@ -1,17 +1,21 @@
 {
-  "jisCode": "38202",
-  "oldZipCode": "79401",
-  "zipCode": "7940114",
-  "prefectureKana": "エヒメケン",
-  "cityKana": "イマバリシ",
-  "townKana": "タマガワチョウヤワタ",
-  "prefecture": "愛媛県",
-  "city": "今治市",
-  "town": "玉川町八幡",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "38202",
+      "oldZipCode": "79401",
+      "zipCode": "7940114",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "イマバリシ",
+      "townKana": "タマガワチョウヤワタ",
+      "prefecture": "愛媛県",
+      "city": "今治市",
+      "town": "玉川町八幡",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

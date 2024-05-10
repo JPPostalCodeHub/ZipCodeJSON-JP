@@ -1,17 +1,21 @@
 {
-  "jisCode": "40610",
-  "oldZipCode": "82212",
-  "zipCode": "8221201",
-  "prefectureKana": "フクオカケン",
-  "cityKana": "タガワグンフクチマチ",
-  "townKana": "カナダ",
-  "prefecture": "福岡県",
-  "city": "田川郡福智町",
-  "town": "金田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "40610",
+      "oldZipCode": "82212",
+      "zipCode": "8221201",
+      "prefectureKana": "フクオカケン",
+      "cityKana": "タガワグンフクチマチ",
+      "townKana": "カナダ",
+      "prefecture": "福岡県",
+      "city": "田川郡福智町",
+      "town": "金田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

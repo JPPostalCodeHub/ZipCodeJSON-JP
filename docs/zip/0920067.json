@@ -1,17 +1,21 @@
 {
-  "jisCode": "01543",
-  "oldZipCode": "092  ",
-  "zipCode": "0920067",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "アバシリグンビホロチョウ",
-  "townKana": "ミツハシミナミ",
-  "prefecture": "北海道",
-  "city": "網走郡美幌町",
-  "town": "三橋南",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01543",
+      "oldZipCode": "092  ",
+      "zipCode": "0920067",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "アバシリグンビホロチョウ",
+      "townKana": "ミツハシミナミ",
+      "prefecture": "北海道",
+      "city": "網走郡美幌町",
+      "town": "三橋南",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

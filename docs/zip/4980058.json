@@ -1,17 +1,38 @@
 {
-  "jisCode": "23235",
-  "oldZipCode": "498  ",
-  "zipCode": "4980058",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ヤトミシ",
-  "townKana": "トミシマチョウ",
-  "prefecture": "愛知県",
-  "city": "弥富市",
-  "town": "富島町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23235",
+      "oldZipCode": "498  ",
+      "zipCode": "4980058",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ヤトミシ",
+      "townKana": "トミシマ",
+      "prefecture": "愛知県",
+      "city": "弥富市",
+      "town": "富島",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "23235",
+      "oldZipCode": "498  ",
+      "zipCode": "4980058",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ヤトミシ",
+      "townKana": "トミシマチョウ",
+      "prefecture": "愛知県",
+      "city": "弥富市",
+      "town": "富島町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

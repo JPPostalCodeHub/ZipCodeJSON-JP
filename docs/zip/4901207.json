@@ -1,17 +1,21 @@
 {
-  "jisCode": "23237",
-  "oldZipCode": "49012",
-  "zipCode": "4901207",
-  "prefectureKana": "アイチケン",
-  "cityKana": "アマシ",
-  "townKana": "フタツデラ",
-  "prefecture": "愛知県",
-  "city": "あま市",
-  "town": "二ツ寺",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23237",
+      "oldZipCode": "49012",
+      "zipCode": "4901207",
+      "prefectureKana": "アイチケン",
+      "cityKana": "アマシ",
+      "townKana": "フタツデラ",
+      "prefecture": "愛知県",
+      "city": "あま市",
+      "town": "二ツ寺",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,38 @@
 {
-  "jisCode": "07421",
-  "oldZipCode": "96965",
-  "zipCode": "9696542",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "カワヌマグンアイヅバンゲマチ",
-  "townKana": "フルヤシキコウ",
-  "prefecture": "福島県",
-  "city": "河沼郡会津坂下町",
-  "town": "古屋敷甲",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07421",
+      "oldZipCode": "96965",
+      "zipCode": "9696542",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "カワヌマグンアイヅバンゲマチ",
+      "townKana": "コウミョウジヒガシコウ",
+      "prefecture": "福島県",
+      "city": "河沼郡会津坂下町",
+      "town": "光明寺東甲",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "07421",
+      "oldZipCode": "96965",
+      "zipCode": "9696542",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "カワヌマグンアイヅバンゲマチ",
+      "townKana": "フルヤシキコウ",
+      "prefecture": "福島県",
+      "city": "河沼郡会津坂下町",
+      "town": "古屋敷甲",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

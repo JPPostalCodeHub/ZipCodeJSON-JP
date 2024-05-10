@@ -1,17 +1,21 @@
 {
-  "jisCode": "23427",
-  "oldZipCode": "49014",
-  "zipCode": "4901438",
-  "prefectureKana": "アイチケン",
-  "cityKana": "アマグントビシマムラ",
-  "townKana": "オオダカラ",
-  "prefecture": "愛知県",
-  "city": "海部郡飛島村",
-  "town": "大宝",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23427",
+      "oldZipCode": "49014",
+      "zipCode": "4901438",
+      "prefectureKana": "アイチケン",
+      "cityKana": "アマグントビシマムラ",
+      "townKana": "オオダカラ",
+      "prefecture": "愛知県",
+      "city": "海部郡飛島村",
+      "town": "大宝",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

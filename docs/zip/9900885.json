@@ -1,17 +1,21 @@
 {
-  "jisCode": "06201",
-  "oldZipCode": "990  ",
-  "zipCode": "9900885",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "ヤマガタシ",
-  "townKana": "シマキタ",
-  "prefecture": "山形県",
-  "city": "山形市",
-  "town": "嶋北",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06201",
+      "oldZipCode": "990  ",
+      "zipCode": "9900885",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "ヤマガタシ",
+      "townKana": "シマキタ",
+      "prefecture": "山形県",
+      "city": "山形市",
+      "town": "嶋北",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

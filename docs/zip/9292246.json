@@ -1,17 +1,21 @@
 {
-  "jisCode": "17202",
-  "oldZipCode": "92922",
-  "zipCode": "9292246",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "ナナオシ",
-  "townKana": "ナカジママチツチカワ",
-  "prefecture": "石川県",
-  "city": "七尾市",
-  "town": "中島町土川",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17202",
+      "oldZipCode": "92922",
+      "zipCode": "9292246",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "ナナオシ",
+      "townKana": "ナカジママチツチカワ",
+      "prefecture": "石川県",
+      "city": "七尾市",
+      "town": "中島町土川",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

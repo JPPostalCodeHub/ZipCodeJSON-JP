@@ -1,17 +1,21 @@
 {
-  "jisCode": "11365",
-  "oldZipCode": "36802",
-  "zipCode": "3680201",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "チチブグンオガノマチ",
-  "townKana": "リョウカミススキ",
-  "prefecture": "埼玉県",
-  "city": "秩父郡小鹿野町",
-  "town": "両神薄",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11365",
+      "oldZipCode": "36802",
+      "zipCode": "3680201",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "チチブグンオガノマチ",
+      "townKana": "リョウカミススキ",
+      "prefecture": "埼玉県",
+      "city": "秩父郡小鹿野町",
+      "town": "両神薄",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

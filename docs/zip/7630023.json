@@ -1,17 +1,21 @@
 {
-  "jisCode": "37202",
-  "oldZipCode": "763  ",
-  "zipCode": "7630023",
-  "prefectureKana": "カガワケン",
-  "cityKana": "マルガメシ",
-  "townKana": "ホンマチ",
-  "prefecture": "香川県",
-  "city": "丸亀市",
-  "town": "本町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "37202",
+      "oldZipCode": "763  ",
+      "zipCode": "7630023",
+      "prefectureKana": "カガワケン",
+      "cityKana": "マルガメシ",
+      "townKana": "ホンマチ",
+      "prefecture": "香川県",
+      "city": "丸亀市",
+      "town": "本町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

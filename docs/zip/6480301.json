@@ -1,17 +1,21 @@
 {
-  "jisCode": "29447",
-  "oldZipCode": "64803",
-  "zipCode": "6480301",
-  "prefectureKana": "ナラケン",
-  "cityKana": "ヨシノグンノセガワムラ",
-  "townKana": "イケツカワ",
-  "prefecture": "奈良県",
-  "city": "吉野郡野迫川村",
-  "town": "池津川",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "29447",
+      "oldZipCode": "64803",
+      "zipCode": "6480301",
+      "prefectureKana": "ナラケン",
+      "cityKana": "ヨシノグンノセガワムラ",
+      "townKana": "イケツカワ",
+      "prefecture": "奈良県",
+      "city": "吉野郡野迫川村",
+      "town": "池津川",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,38 @@
 {
-  "jisCode": "05207",
-  "oldZipCode": "012  ",
-  "zipCode": "0120824",
-  "prefectureKana": "アキタケン",
-  "cityKana": "ユザワシ",
-  "townKana": "サタケチョウ",
-  "prefecture": "秋田県",
-  "city": "湯沢市",
-  "town": "佐竹町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05207",
+      "oldZipCode": "012  ",
+      "zipCode": "0120824",
+      "prefectureKana": "アキタケン",
+      "cityKana": "ユザワシ",
+      "townKana": "ウラモン",
+      "prefecture": "秋田県",
+      "city": "湯沢市",
+      "town": "裏門",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "05207",
+      "oldZipCode": "012  ",
+      "zipCode": "0120824",
+      "prefectureKana": "アキタケン",
+      "cityKana": "ユザワシ",
+      "townKana": "サタケチョウ",
+      "prefecture": "秋田県",
+      "city": "湯沢市",
+      "town": "佐竹町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

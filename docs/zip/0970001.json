@@ -1,17 +1,21 @@
 {
-  "jisCode": "01214",
-  "oldZipCode": "097  ",
-  "zipCode": "0970001",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ワッカナイシ",
-  "townKana": "スエヒロ",
-  "prefecture": "北海道",
-  "city": "稚内市",
-  "town": "末広",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01214",
+      "oldZipCode": "097  ",
+      "zipCode": "0970001",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ワッカナイシ",
+      "townKana": "スエヒロ",
+      "prefecture": "北海道",
+      "city": "稚内市",
+      "town": "末広",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

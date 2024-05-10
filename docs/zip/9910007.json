@@ -1,17 +1,21 @@
 {
-  "jisCode": "06206",
-  "oldZipCode": "991  ",
-  "zipCode": "9910007",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "サガエシ",
-  "townKana": "ドウショウ",
-  "prefecture": "山形県",
-  "city": "寒河江市",
-  "town": "道生",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06206",
+      "oldZipCode": "991  ",
+      "zipCode": "9910007",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "サガエシ",
+      "townKana": "ドウショウ",
+      "prefecture": "山形県",
+      "city": "寒河江市",
+      "town": "道生",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

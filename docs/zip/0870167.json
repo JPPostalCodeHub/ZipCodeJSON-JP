@@ -1,17 +1,21 @@
 {
-  "jisCode": "01223",
-  "oldZipCode": "08701",
-  "zipCode": "0870167",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ネムロシ",
-  "townKana": "トヨサト",
-  "prefecture": "北海道",
-  "city": "根室市",
-  "town": "豊里",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01223",
+      "oldZipCode": "08701",
+      "zipCode": "0870167",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ネムロシ",
+      "townKana": "トヨサト",
+      "prefecture": "北海道",
+      "city": "根室市",
+      "town": "豊里",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "38402",
-  "oldZipCode": "79122",
-  "zipCode": "7912203",
-  "prefectureKana": "エヒメケン",
-  "cityKana": "イヨグントベチョウ",
-  "townKana": "ナカノカワ",
-  "prefecture": "愛媛県",
-  "city": "伊予郡砥部町",
-  "town": "中野川",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "38402",
+      "oldZipCode": "79122",
+      "zipCode": "7912203",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "イヨグントベチョウ",
+      "townKana": "ナカノカワ",
+      "prefecture": "愛媛県",
+      "city": "伊予郡砥部町",
+      "town": "中野川",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

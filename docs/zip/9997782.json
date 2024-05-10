@@ -1,17 +1,21 @@
 {
-  "jisCode": "06428",
-  "oldZipCode": "99977",
-  "zipCode": "9997782",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "ヒガシタガワグンショウナイマチ",
-  "townKana": "ショウヨウ",
-  "prefecture": "山形県",
-  "city": "東田川郡庄内町",
-  "town": "松陽",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06428",
+      "oldZipCode": "99977",
+      "zipCode": "9997782",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "ヒガシタガワグンショウナイマチ",
+      "townKana": "ショウヨウ",
+      "prefecture": "山形県",
+      "city": "東田川郡庄内町",
+      "town": "松陽",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "05213",
-  "oldZipCode": "01833",
-  "zipCode": "0183331",
-  "prefectureKana": "アキタケン",
-  "cityKana": "キタアキタシ",
-  "townKana": "タカノス（ソノタ）",
-  "prefecture": "秋田県",
-  "city": "北秋田市",
-  "town": "鷹巣（その他）",
-  "multipleZipCodes": "1",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05213",
+      "oldZipCode": "01833",
+      "zipCode": "0183331",
+      "prefectureKana": "アキタケン",
+      "cityKana": "キタアキタシ",
+      "townKana": "タカノス（ソノタ）",
+      "prefecture": "秋田県",
+      "city": "北秋田市",
+      "town": "鷹巣（その他）",
+      "multipleZipCodes": "1",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

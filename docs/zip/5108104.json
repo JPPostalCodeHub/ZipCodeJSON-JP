@@ -1,17 +1,21 @@
 {
-  "jisCode": "24343",
-  "oldZipCode": "512  ",
-  "zipCode": "5108104",
-  "prefectureKana": "ミエケン",
-  "cityKana": "ミエグンアサヒチョウ",
-  "townKana": "ウズナワ",
-  "prefecture": "三重県",
-  "city": "三重郡朝日町",
-  "town": "埋縄",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "24343",
+      "oldZipCode": "512  ",
+      "zipCode": "5108104",
+      "prefectureKana": "ミエケン",
+      "cityKana": "ミエグンアサヒチョウ",
+      "townKana": "ウズナワ",
+      "prefecture": "三重県",
+      "city": "三重郡朝日町",
+      "town": "埋縄",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

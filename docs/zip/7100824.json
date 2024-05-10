@@ -1,17 +1,21 @@
 {
-  "jisCode": "33202",
-  "oldZipCode": "710  ",
-  "zipCode": "7100824",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "クラシキシ",
-  "townKana": "バクロチョウ",
-  "prefecture": "岡山県",
-  "city": "倉敷市",
-  "town": "白楽町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33202",
+      "oldZipCode": "710  ",
+      "zipCode": "7100824",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "クラシキシ",
+      "townKana": "バクロチョウ",
+      "prefecture": "岡山県",
+      "city": "倉敷市",
+      "town": "白楽町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

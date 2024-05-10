@@ -1,17 +1,21 @@
 {
-  "jisCode": "07547",
-  "oldZipCode": "97917",
-  "zipCode": "9791706",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "フタバグンナミエマチ",
-  "townKana": "ムロハラ（コデヤ６７）",
-  "prefecture": "福島県",
-  "city": "双葉郡浪江町",
-  "town": "室原（小伝谷６７）",
-  "multipleZipCodes": "1",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07547",
+      "oldZipCode": "97917",
+      "zipCode": "9791706",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "フタバグンナミエマチ",
+      "townKana": "ムロハラ（コデヤ６７）",
+      "prefecture": "福島県",
+      "city": "双葉郡浪江町",
+      "town": "室原（小伝谷６７）",
+      "multipleZipCodes": "1",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

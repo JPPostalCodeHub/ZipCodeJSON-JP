@@ -1,17 +1,21 @@
 {
-  "jisCode": "23212",
-  "oldZipCode": "446  ",
-  "zipCode": "4460003",
-  "prefectureKana": "アイチケン",
-  "cityKana": "アンジョウシ",
-  "townKana": "カキサキチョウ",
-  "prefecture": "愛知県",
-  "city": "安城市",
-  "town": "柿さき町",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23212",
+      "oldZipCode": "446  ",
+      "zipCode": "4460003",
+      "prefectureKana": "アイチケン",
+      "cityKana": "アンジョウシ",
+      "townKana": "カキサキチョウ",
+      "prefecture": "愛知県",
+      "city": "安城市",
+      "town": "柿さき町",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

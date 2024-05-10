@@ -1,17 +1,21 @@
 {
-  "jisCode": "01552",
-  "oldZipCode": "09304",
-  "zipCode": "0930423",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "トコログンサロマチョウ",
-  "townKana": "ハマサロマ",
-  "prefecture": "北海道",
-  "city": "常呂郡佐呂間町",
-  "town": "浜佐呂間",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01552",
+      "oldZipCode": "09304",
+      "zipCode": "0930423",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "トコログンサロマチョウ",
+      "townKana": "ハマサロマ",
+      "prefecture": "北海道",
+      "city": "常呂郡佐呂間町",
+      "town": "浜佐呂間",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

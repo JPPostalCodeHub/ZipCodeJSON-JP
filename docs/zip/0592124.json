@@ -1,17 +1,21 @@
 {
-  "jisCode": "01601",
-  "oldZipCode": "05921",
-  "zipCode": "0592124",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "サルグンヒダカチョウ",
-  "townKana": "クラトミ",
-  "prefecture": "北海道",
-  "city": "沙流郡日高町",
-  "town": "庫富",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01601",
+      "oldZipCode": "05921",
+      "zipCode": "0592124",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "サルグンヒダカチョウ",
+      "townKana": "クラトミ",
+      "prefecture": "北海道",
+      "city": "沙流郡日高町",
+      "town": "庫富",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

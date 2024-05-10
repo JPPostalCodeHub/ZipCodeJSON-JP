@@ -1,17 +1,38 @@
 {
-  "jisCode": "17205",
-  "oldZipCode": "92712",
-  "zipCode": "9271221",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "スズシ",
-  "townKana": "ホウリュウマチコンポウジ",
-  "prefecture": "石川県",
-  "city": "珠洲市",
-  "town": "宝立町金峰寺",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17205",
+      "oldZipCode": "92712",
+      "zipCode": "9271221",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "スズシ",
+      "townKana": "ホウリュウマチカスガノ",
+      "prefecture": "石川県",
+      "city": "珠洲市",
+      "town": "宝立町春日野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "17205",
+      "oldZipCode": "92712",
+      "zipCode": "9271221",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "スズシ",
+      "townKana": "ホウリュウマチコンポウジ",
+      "prefecture": "石川県",
+      "city": "珠洲市",
+      "town": "宝立町金峰寺",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "41210",
-  "oldZipCode": "84201",
-  "zipCode": "8420107",
-  "prefectureKana": "サガケン",
-  "cityKana": "カンザキシ",
-  "townKana": "カンザキマチツル（１−２９９９バンチ）",
-  "prefecture": "佐賀県",
-  "city": "神埼市",
-  "town": "神埼町鶴（１〜２９９９番地）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "41210",
+      "oldZipCode": "84201",
+      "zipCode": "8420107",
+      "prefectureKana": "サガケン",
+      "cityKana": "カンザキシ",
+      "townKana": "カンザキマチツル（１−２９９９バンチ）",
+      "prefecture": "佐賀県",
+      "city": "神埼市",
+      "town": "神埼町鶴（１〜２９９９番地）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

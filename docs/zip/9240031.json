@@ -1,17 +1,21 @@
 {
-  "jisCode": "17210",
-  "oldZipCode": "924  ",
-  "zipCode": "9240031",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "ハクサンシ",
-  "townKana": "ムライヒガシ",
-  "prefecture": "石川県",
-  "city": "白山市",
-  "town": "村井東",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17210",
+      "oldZipCode": "924  ",
+      "zipCode": "9240031",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "ハクサンシ",
+      "townKana": "ムライヒガシ",
+      "prefecture": "石川県",
+      "city": "白山市",
+      "town": "村井東",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

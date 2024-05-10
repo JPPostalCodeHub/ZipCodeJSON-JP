@@ -1,17 +1,21 @@
 {
-  "jisCode": "37324",
-  "oldZipCode": "76144",
-  "zipCode": "7614402",
-  "prefectureKana": "カガワケン",
-  "cityKana": "ショウズグンショウドシマチョウ",
-  "townKana": "フクダ",
-  "prefecture": "香川県",
-  "city": "小豆郡小豆島町",
-  "town": "福田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "37324",
+      "oldZipCode": "76144",
+      "zipCode": "7614402",
+      "prefectureKana": "カガワケン",
+      "cityKana": "ショウズグンショウドシマチョウ",
+      "townKana": "フクダ",
+      "prefecture": "香川県",
+      "city": "小豆郡小豆島町",
+      "town": "福田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "21206",
-  "oldZipCode": "508  ",
-  "zipCode": "5080045",
-  "prefectureKana": "ギフケン",
-  "cityKana": "ナカツガワシ",
-  "townKana": "カヤノキチョウ",
-  "prefecture": "岐阜県",
-  "city": "中津川市",
-  "town": "かやの木町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "21206",
+      "oldZipCode": "508  ",
+      "zipCode": "5080045",
+      "prefectureKana": "ギフケン",
+      "cityKana": "ナカツガワシ",
+      "townKana": "カヤノキチョウ",
+      "prefecture": "岐阜県",
+      "city": "中津川市",
+      "town": "かやの木町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

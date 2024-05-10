@@ -1,17 +1,21 @@
 {
-  "jisCode": "24202",
-  "oldZipCode": "512  ",
-  "zipCode": "5108037",
-  "prefectureKana": "ミエケン",
-  "cityKana": "ヨッカイチシ",
-  "townKana": "タルサカチョウ",
-  "prefecture": "三重県",
-  "city": "四日市市",
-  "town": "垂坂町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "24202",
+      "oldZipCode": "512  ",
+      "zipCode": "5108037",
+      "prefectureKana": "ミエケン",
+      "cityKana": "ヨッカイチシ",
+      "townKana": "タルサカチョウ",
+      "prefecture": "三重県",
+      "city": "四日市市",
+      "town": "垂坂町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

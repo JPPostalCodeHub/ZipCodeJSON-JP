@@ -1,17 +1,21 @@
 {
-  "jisCode": "19346",
-  "oldZipCode": "40936",
-  "zipCode": "4093603",
-  "prefectureKana": "ヤマナシケン",
-  "cityKana": "ニシヤツシログンイチカワミサトチョウ",
-  "townKana": "クロザワ",
-  "prefecture": "山梨県",
-  "city": "西八代郡市川三郷町",
-  "town": "黒沢",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "19346",
+      "oldZipCode": "40936",
+      "zipCode": "4093603",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "ニシヤツシログンイチカワミサトチョウ",
+      "townKana": "クロザワ",
+      "prefecture": "山梨県",
+      "city": "西八代郡市川三郷町",
+      "town": "黒沢",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "06211",
-  "oldZipCode": "99937",
-  "zipCode": "9993728",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "ヒガシネシ",
-  "townKana": "オオタシンデン",
-  "prefecture": "山形県",
-  "city": "東根市",
-  "town": "太田新田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06211",
+      "oldZipCode": "99937",
+      "zipCode": "9993728",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "ヒガシネシ",
+      "townKana": "オオタシンデン",
+      "prefecture": "山形県",
+      "city": "東根市",
+      "town": "太田新田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

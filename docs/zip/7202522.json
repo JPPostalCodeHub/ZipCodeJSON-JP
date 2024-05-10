@@ -1,17 +1,21 @@
 {
-  "jisCode": "34207",
-  "oldZipCode": "72025",
-  "zipCode": "7202522",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "フクヤマシ",
-  "townKana": "エキヤチョウハットリナガタニ",
-  "prefecture": "広島県",
-  "city": "福山市",
-  "town": "駅家町服部永谷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34207",
+      "oldZipCode": "72025",
+      "zipCode": "7202522",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "フクヤマシ",
+      "townKana": "エキヤチョウハットリナガタニ",
+      "prefecture": "広島県",
+      "city": "福山市",
+      "town": "駅家町服部永谷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "43510",
-  "oldZipCode": "868  ",
-  "zipCode": "8680095",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "クマグンサガラムラ",
-  "townKana": "ヤナセ",
-  "prefecture": "熊本県",
-  "city": "球磨郡相良村",
-  "town": "柳瀬",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43510",
+      "oldZipCode": "868  ",
+      "zipCode": "8680095",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "クマグンサガラムラ",
+      "townKana": "ヤナセ",
+      "prefecture": "熊本県",
+      "city": "球磨郡相良村",
+      "town": "柳瀬",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "20384",
-  "oldZipCode": "39937",
-  "zipCode": "3993703",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "カミイナグンイイジママチ",
-  "townKana": "ヒッソリ",
-  "prefecture": "長野県",
-  "city": "上伊那郡飯島町",
-  "town": "日曽利",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20384",
+      "oldZipCode": "39937",
+      "zipCode": "3993703",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "カミイナグンイイジママチ",
+      "townKana": "ヒッソリ",
+      "prefecture": "長野県",
+      "city": "上伊那郡飯島町",
+      "town": "日曽利",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

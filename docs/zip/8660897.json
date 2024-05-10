@@ -1,17 +1,21 @@
 {
-  "jisCode": "43202",
-  "oldZipCode": "866  ",
-  "zipCode": "8660897",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "ヤツシロシ",
-  "townKana": "コガカミマチ",
-  "prefecture": "熊本県",
-  "city": "八代市",
-  "town": "古閑上町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43202",
+      "oldZipCode": "866  ",
+      "zipCode": "8660897",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "ヤツシロシ",
+      "townKana": "コガカミマチ",
+      "prefecture": "熊本県",
+      "city": "八代市",
+      "town": "古閑上町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "01212",
-  "oldZipCode": "07831",
-  "zipCode": "0783166",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ルモイシ",
-  "townKana": "ナカホロチョウ",
-  "prefecture": "北海道",
-  "city": "留萌市",
-  "town": "中幌町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01212",
+      "oldZipCode": "07831",
+      "zipCode": "0783166",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ルモイシ",
+      "townKana": "ナカホロチョウ",
+      "prefecture": "北海道",
+      "city": "留萌市",
+      "town": "中幌町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

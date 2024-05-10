@@ -1,17 +1,21 @@
 {
-  "jisCode": "26102",
-  "oldZipCode": "602  ",
-  "zipCode": "6028046",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシカミギョウク",
-  "townKana": "コノエチョウ",
-  "prefecture": "京都府",
-  "city": "京都市上京区",
-  "town": "近衛町（油小路通下立売上る、油小路通出水下る、出水通油小路西入、出水通油小路東入）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26102",
+      "oldZipCode": "602  ",
+      "zipCode": "6028046",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシカミギョウク",
+      "townKana": "コノエチョウ",
+      "prefecture": "京都府",
+      "city": "京都市上京区",
+      "town": "近衛町（油小路通下立売上る、油小路通出水下る、出水通油小路西入、出水通油小路東入）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

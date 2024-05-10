@@ -1,17 +1,21 @@
 {
-  "jisCode": "01604",
-  "oldZipCode": "05924",
-  "zipCode": "0592414",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ニイカップグンニイカップチョウ",
-  "townKana": "アサヒ",
-  "prefecture": "北海道",
-  "city": "新冠郡新冠町",
-  "town": "朝日",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01604",
+      "oldZipCode": "05924",
+      "zipCode": "0592414",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ニイカップグンニイカップチョウ",
+      "townKana": "アサヒ",
+      "prefecture": "北海道",
+      "city": "新冠郡新冠町",
+      "town": "朝日",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

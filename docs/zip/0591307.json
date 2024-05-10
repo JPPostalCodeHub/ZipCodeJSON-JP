@@ -1,17 +1,21 @@
 {
-  "jisCode": "01213",
-  "oldZipCode": "05913",
-  "zipCode": "0591307",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "トマコマイシ",
-  "townKana": "ウトナイミナミ",
-  "prefecture": "北海道",
-  "city": "苫小牧市",
-  "town": "ウトナイ南",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01213",
+      "oldZipCode": "05913",
+      "zipCode": "0591307",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "トマコマイシ",
+      "townKana": "ウトナイミナミ",
+      "prefecture": "北海道",
+      "city": "苫小牧市",
+      "town": "ウトナイ南",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

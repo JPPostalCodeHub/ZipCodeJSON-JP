@@ -1,17 +1,21 @@
 {
-  "jisCode": "09407",
-  "oldZipCode": "325  ",
-  "zipCode": "3250003",
-  "prefectureKana": "トチギケン",
-  "cityKana": "ナスグンナスマチ",
-  "townKana": "テラコオツ（７２０バンチ）",
-  "prefecture": "栃木県",
-  "city": "那須郡那須町",
-  "town": "寺子乙（７２０番地）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "09407",
+      "oldZipCode": "325  ",
+      "zipCode": "3250003",
+      "prefectureKana": "トチギケン",
+      "cityKana": "ナスグンナスマチ",
+      "townKana": "テラコオツ（７２０バンチ）",
+      "prefecture": "栃木県",
+      "city": "那須郡那須町",
+      "town": "寺子乙（７２０番地）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

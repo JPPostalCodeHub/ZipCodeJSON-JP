@@ -1,17 +1,21 @@
 {
-  "jisCode": "15107",
-  "oldZipCode": "95021",
-  "zipCode": "9502021",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ニイガタシニシク",
-  "townKana": "コバリフジヤマ",
-  "prefecture": "新潟県",
-  "city": "新潟市西区",
-  "town": "小針藤山",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15107",
+      "oldZipCode": "95021",
+      "zipCode": "9502021",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ニイガタシニシク",
+      "townKana": "コバリフジヤマ",
+      "prefecture": "新潟県",
+      "city": "新潟市西区",
+      "town": "小針藤山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

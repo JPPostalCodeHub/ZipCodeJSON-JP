@@ -1,17 +1,21 @@
 {
-  "jisCode": "04207",
-  "oldZipCode": "98112",
-  "zipCode": "9811240",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "ナトリシ",
-  "townKana": "メデシマノサト",
-  "prefecture": "宮城県",
-  "city": "名取市",
-  "town": "愛島郷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04207",
+      "oldZipCode": "98112",
+      "zipCode": "9811240",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "ナトリシ",
+      "townKana": "メデシマノサト",
+      "prefecture": "宮城県",
+      "city": "名取市",
+      "town": "愛島郷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

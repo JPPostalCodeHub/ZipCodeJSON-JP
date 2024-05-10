@@ -1,17 +1,21 @@
 {
-  "jisCode": "40205",
-  "oldZipCode": "820  ",
-  "zipCode": "8200077",
-  "prefectureKana": "フクオカケン",
-  "cityKana": "イイヅカシ",
-  "townKana": "ムクモト",
-  "prefecture": "福岡県",
-  "city": "飯塚市",
-  "town": "椋本",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "40205",
+      "oldZipCode": "820  ",
+      "zipCode": "8200077",
+      "prefectureKana": "フクオカケン",
+      "cityKana": "イイヅカシ",
+      "townKana": "ムクモト",
+      "prefecture": "福岡県",
+      "city": "飯塚市",
+      "town": "椋本",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "41401",
-  "oldZipCode": "84941",
-  "zipCode": "8494151",
-  "prefectureKana": "サガケン",
-  "cityKana": "ニシマツウラグンアリタチョウ",
-  "townKana": "ヒロセヤマ",
-  "prefecture": "佐賀県",
-  "city": "西松浦郡有田町",
-  "town": "広瀬山",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "41401",
+      "oldZipCode": "84941",
+      "zipCode": "8494151",
+      "prefectureKana": "サガケン",
+      "cityKana": "ニシマツウラグンアリタチョウ",
+      "townKana": "ヒロセヤマ",
+      "prefecture": "佐賀県",
+      "city": "西松浦郡有田町",
+      "town": "広瀬山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "06402",
-  "oldZipCode": "99207",
-  "zipCode": "9920771",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "ニシオキタマグンシラタカマチ",
-  "townKana": "アユカイ",
-  "prefecture": "山形県",
-  "city": "西置賜郡白鷹町",
-  "town": "鮎貝",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06402",
+      "oldZipCode": "99207",
+      "zipCode": "9920771",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "ニシオキタマグンシラタカマチ",
+      "townKana": "アユカイ",
+      "prefecture": "山形県",
+      "city": "西置賜郡白鷹町",
+      "town": "鮎貝",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

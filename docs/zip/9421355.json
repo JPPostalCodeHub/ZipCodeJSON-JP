@@ -1,17 +1,21 @@
 {
-  "jisCode": "15210",
-  "oldZipCode": "94213",
-  "zipCode": "9421355",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "トオカマチシ",
-  "townKana": "ナラダテ",
-  "prefecture": "新潟県",
-  "city": "十日町市",
-  "town": "奈良立",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15210",
+      "oldZipCode": "94213",
+      "zipCode": "9421355",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "トオカマチシ",
+      "townKana": "ナラダテ",
+      "prefecture": "新潟県",
+      "city": "十日町市",
+      "town": "奈良立",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "02207",
-  "oldZipCode": "03301",
-  "zipCode": "0330101",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "ミサワシ",
-  "townKana": "アマガモリ",
-  "prefecture": "青森県",
-  "city": "三沢市",
-  "town": "天ケ森",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02207",
+      "oldZipCode": "03301",
+      "zipCode": "0330101",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "ミサワシ",
+      "townKana": "アマガモリ",
+      "prefecture": "青森県",
+      "city": "三沢市",
+      "town": "天ケ森",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

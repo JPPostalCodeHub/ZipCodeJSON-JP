@@ -1,17 +1,21 @@
 {
-  "jisCode": "21401",
-  "oldZipCode": "50325",
-  "zipCode": "5032506",
-  "prefectureKana": "ギフケン",
-  "cityKana": "イビグンイビガワチョウ",
-  "townKana": "カスガコウロク",
-  "prefecture": "岐阜県",
-  "city": "揖斐郡揖斐川町",
-  "town": "春日香六",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "21401",
+      "oldZipCode": "50325",
+      "zipCode": "5032506",
+      "prefectureKana": "ギフケン",
+      "cityKana": "イビグンイビガワチョウ",
+      "townKana": "カスガコウロク",
+      "prefecture": "岐阜県",
+      "city": "揖斐郡揖斐川町",
+      "town": "春日香六",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

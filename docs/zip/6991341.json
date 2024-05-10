@@ -1,17 +1,21 @@
 {
-  "jisCode": "32209",
-  "oldZipCode": "69913",
-  "zipCode": "6991341",
-  "prefectureKana": "シマネケン",
-  "cityKana": "ウンナンシ",
-  "townKana": "キスキチョウキタハラ（ソノタ）",
-  "prefecture": "島根県",
-  "city": "雲南市",
-  "town": "木次町北原（その他）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "32209",
+      "oldZipCode": "69913",
+      "zipCode": "6991341",
+      "prefectureKana": "シマネケン",
+      "cityKana": "ウンナンシ",
+      "townKana": "キスキチョウキタハラ（ソノタ）",
+      "prefecture": "島根県",
+      "city": "雲南市",
+      "town": "木次町北原（その他）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

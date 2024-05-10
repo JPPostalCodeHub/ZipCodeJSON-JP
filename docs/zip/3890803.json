@@ -1,17 +1,21 @@
 {
-  "jisCode": "20218",
-  "oldZipCode": "38908",
-  "zipCode": "3890803",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "チクマシ",
-  "townKana": "センボンヤナギ",
-  "prefecture": "長野県",
-  "city": "千曲市",
-  "town": "千本柳",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20218",
+      "oldZipCode": "38908",
+      "zipCode": "3890803",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "チクマシ",
+      "townKana": "センボンヤナギ",
+      "prefecture": "長野県",
+      "city": "千曲市",
+      "town": "千本柳",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

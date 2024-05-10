@@ -1,17 +1,21 @@
 {
-  "jisCode": "30406",
-  "oldZipCode": "64931",
-  "zipCode": "6493167",
-  "prefectureKana": "ワカヤマケン",
-  "cityKana": "ニシムログンスサミチョウ",
-  "townKana": "サモトヒラノ",
-  "prefecture": "和歌山県",
-  "city": "西牟婁郡すさみ町",
-  "town": "佐本平野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "30406",
+      "oldZipCode": "64931",
+      "zipCode": "6493167",
+      "prefectureKana": "ワカヤマケン",
+      "cityKana": "ニシムログンスサミチョウ",
+      "townKana": "サモトヒラノ",
+      "prefecture": "和歌山県",
+      "city": "西牟婁郡すさみ町",
+      "town": "佐本平野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

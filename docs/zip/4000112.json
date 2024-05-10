@@ -1,17 +1,21 @@
 {
-  "jisCode": "19210",
-  "oldZipCode": "40001",
-  "zipCode": "4000112",
-  "prefectureKana": "ヤマナシケン",
-  "cityKana": "カイシ",
-  "townKana": "ナトリ",
-  "prefecture": "山梨県",
-  "city": "甲斐市",
-  "town": "名取",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "19210",
+      "oldZipCode": "40001",
+      "zipCode": "4000112",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "カイシ",
+      "townKana": "ナトリ",
+      "prefecture": "山梨県",
+      "city": "甲斐市",
+      "town": "名取",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

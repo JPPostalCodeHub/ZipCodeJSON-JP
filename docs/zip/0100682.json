@@ -1,17 +1,21 @@
 {
-  "jisCode": "05206",
-  "oldZipCode": "01006",
-  "zipCode": "0100682",
-  "prefectureKana": "アキタケン",
-  "cityKana": "オガシ",
-  "townKana": "キタウラオモテマチ",
-  "prefecture": "秋田県",
-  "city": "男鹿市",
-  "town": "北浦表町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05206",
+      "oldZipCode": "01006",
+      "zipCode": "0100682",
+      "prefectureKana": "アキタケン",
+      "cityKana": "オガシ",
+      "townKana": "キタウラオモテマチ",
+      "prefecture": "秋田県",
+      "city": "男鹿市",
+      "town": "北浦表町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

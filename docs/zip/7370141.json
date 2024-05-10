@@ -1,17 +1,21 @@
 {
-  "jisCode": "34202",
-  "oldZipCode": "73701",
-  "zipCode": "7370141",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "クレシ",
-  "townKana": "ヒロオオシンガイ",
-  "prefecture": "広島県",
-  "city": "呉市",
-  "town": "広大新開",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34202",
+      "oldZipCode": "73701",
+      "zipCode": "7370141",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "クレシ",
+      "townKana": "ヒロオオシンガイ",
+      "prefecture": "広島県",
+      "city": "呉市",
+      "town": "広大新開",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

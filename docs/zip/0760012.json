@@ -1,17 +1,21 @@
 {
-  "jisCode": "01229",
-  "oldZipCode": "076  ",
-  "zipCode": "0760012",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "フラノシ",
-  "townKana": "シモゴク",
-  "prefecture": "北海道",
-  "city": "富良野市",
-  "town": "下五区",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01229",
+      "oldZipCode": "076  ",
+      "zipCode": "0760012",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "フラノシ",
+      "townKana": "シモゴク",
+      "prefecture": "北海道",
+      "city": "富良野市",
+      "town": "下五区",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

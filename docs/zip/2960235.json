@@ -1,17 +1,21 @@
 {
-  "jisCode": "12223",
-  "oldZipCode": "29601",
-  "zipCode": "2960235",
-  "prefectureKana": "チバケン",
-  "cityKana": "カモガワシ",
-  "townKana": "ナラバヤシ",
-  "prefecture": "千葉県",
-  "city": "鴨川市",
-  "town": "奈良林",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12223",
+      "oldZipCode": "29601",
+      "zipCode": "2960235",
+      "prefectureKana": "チバケン",
+      "cityKana": "カモガワシ",
+      "townKana": "ナラバヤシ",
+      "prefecture": "千葉県",
+      "city": "鴨川市",
+      "town": "奈良林",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "01205",
-  "oldZipCode": "051  ",
-  "zipCode": "0510022",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ムロランシ",
-  "townKana": "カイガンチョウ",
-  "prefecture": "北海道",
-  "city": "室蘭市",
-  "town": "海岸町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01205",
+      "oldZipCode": "051  ",
+      "zipCode": "0510022",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ムロランシ",
+      "townKana": "カイガンチョウ",
+      "prefecture": "北海道",
+      "city": "室蘭市",
+      "town": "海岸町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

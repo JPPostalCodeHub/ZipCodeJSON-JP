@@ -1,17 +1,21 @@
 {
-  "jisCode": "20432",
-  "oldZipCode": "39961",
-  "zipCode": "3996101",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "キソグンキソマチ",
-  "townKana": "ヒヨシ",
-  "prefecture": "長野県",
-  "city": "木曽郡木曽町",
-  "town": "日義",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20432",
+      "oldZipCode": "39961",
+      "zipCode": "3996101",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "キソグンキソマチ",
+      "townKana": "ヒヨシ",
+      "prefecture": "長野県",
+      "city": "木曽郡木曽町",
+      "town": "日義",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

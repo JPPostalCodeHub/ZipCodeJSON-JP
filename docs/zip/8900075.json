@@ -1,17 +1,21 @@
 {
-  "jisCode": "46201",
-  "oldZipCode": "890  ",
-  "zipCode": "8900075",
-  "prefectureKana": "カゴシマケン",
-  "cityKana": "カゴシマシ",
-  "townKana": "サクラガオカ（７、８チョウメ）",
-  "prefecture": "鹿児島県",
-  "city": "鹿児島市",
-  "town": "桜ケ丘（７、８丁目）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "46201",
+      "oldZipCode": "890  ",
+      "zipCode": "8900075",
+      "prefectureKana": "カゴシマケン",
+      "cityKana": "カゴシマシ",
+      "townKana": "サクラガオカ（７、８チョウメ）",
+      "prefecture": "鹿児島県",
+      "city": "鹿児島市",
+      "town": "桜ケ丘（７、８丁目）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

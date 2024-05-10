@@ -1,17 +1,21 @@
 {
-  "jisCode": "11210",
-  "oldZipCode": "34911",
-  "zipCode": "3491148",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "カゾシ",
-  "townKana": "トヨノダイ",
-  "prefecture": "埼玉県",
-  "city": "加須市",
-  "town": "豊野台",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11210",
+      "oldZipCode": "34911",
+      "zipCode": "3491148",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "カゾシ",
+      "townKana": "トヨノダイ",
+      "prefecture": "埼玉県",
+      "city": "加須市",
+      "town": "豊野台",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

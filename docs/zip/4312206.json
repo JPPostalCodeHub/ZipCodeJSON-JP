@@ -1,17 +1,21 @@
 {
-  "jisCode": "22139",
-  "oldZipCode": "43122",
-  "zipCode": "4312206",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "ハママツシハマナク",
-  "townKana": "イナサチョウニシクロダ",
-  "prefecture": "静岡県",
-  "city": "浜松市浜名区",
-  "town": "引佐町西黒田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22139",
+      "oldZipCode": "43122",
+      "zipCode": "4312206",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "ハママツシハマナク",
+      "townKana": "イナサチョウニシクロダ",
+      "prefecture": "静岡県",
+      "city": "浜松市浜名区",
+      "town": "引佐町西黒田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

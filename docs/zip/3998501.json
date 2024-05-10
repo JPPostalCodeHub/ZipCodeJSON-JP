@@ -1,17 +1,21 @@
 {
-  "jisCode": "20482",
-  "oldZipCode": "39985",
-  "zipCode": "3998501",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "キタアヅミグンマツカワムラ",
-  "townKana": "マツカワムライチエン",
-  "prefecture": "長野県",
-  "city": "北安曇郡松川村",
-  "town": "松川村一円",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20482",
+      "oldZipCode": "39985",
+      "zipCode": "3998501",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "キタアヅミグンマツカワムラ",
+      "townKana": "マツカワムライチエン",
+      "prefecture": "長野県",
+      "city": "北安曇郡松川村",
+      "town": "松川村一円",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

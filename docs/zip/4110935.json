@@ -1,17 +1,21 @@
 {
-  "jisCode": "22342",
-  "oldZipCode": "411  ",
-  "zipCode": "4110935",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "スントウグンナガイズミチョウ",
-  "townKana": "カミナガクボ",
-  "prefecture": "静岡県",
-  "city": "駿東郡長泉町",
-  "town": "上長窪",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22342",
+      "oldZipCode": "411  ",
+      "zipCode": "4110935",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "スントウグンナガイズミチョウ",
+      "townKana": "カミナガクボ",
+      "prefecture": "静岡県",
+      "city": "駿東郡長泉町",
+      "town": "上長窪",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "01204",
-  "oldZipCode": "078  ",
-  "zipCode": "0788372",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "アサヒカワシ",
-  "townKana": "キョクシン２ジョウ",
-  "prefecture": "北海道",
-  "city": "旭川市",
-  "town": "旭神２条",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01204",
+      "oldZipCode": "078  ",
+      "zipCode": "0788372",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "アサヒカワシ",
+      "townKana": "キョクシン２ジョウ",
+      "prefecture": "北海道",
+      "city": "旭川市",
+      "town": "旭神２条",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

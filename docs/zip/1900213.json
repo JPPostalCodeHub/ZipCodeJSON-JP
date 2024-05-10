@@ -1,17 +1,21 @@
 {
-  "jisCode": "13307",
-  "oldZipCode": "19002",
-  "zipCode": "1900213",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "ニシタマグンヒノハラムラ",
-  "townKana": "シモモトゴウ",
-  "prefecture": "東京都",
-  "city": "西多摩郡檜原村",
-  "town": "下元郷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13307",
+      "oldZipCode": "19002",
+      "zipCode": "1900213",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "ニシタマグンヒノハラムラ",
+      "townKana": "シモモトゴウ",
+      "prefecture": "東京都",
+      "city": "西多摩郡檜原村",
+      "town": "下元郷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

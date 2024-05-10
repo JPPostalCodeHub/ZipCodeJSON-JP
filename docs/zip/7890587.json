@@ -1,17 +1,21 @@
 {
-  "jisCode": "39212",
-  "oldZipCode": "78905",
-  "zipCode": "7890587",
-  "prefectureKana": "コウチケン",
-  "cityKana": "カミシ",
-  "townKana": "トサヤマダチョウカミアナナイ",
-  "prefecture": "高知県",
-  "city": "香美市",
-  "town": "土佐山田町上穴内",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "39212",
+      "oldZipCode": "78905",
+      "zipCode": "7890587",
+      "prefectureKana": "コウチケン",
+      "cityKana": "カミシ",
+      "townKana": "トサヤマダチョウカミアナナイ",
+      "prefecture": "高知県",
+      "city": "香美市",
+      "town": "土佐山田町上穴内",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

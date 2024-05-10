@@ -1,17 +1,21 @@
 {
-  "jisCode": "09213",
-  "oldZipCode": "32501",
-  "zipCode": "3250106",
-  "prefectureKana": "トチギケン",
-  "cityKana": "ナスシオバラシ",
-  "townKana": "ドウジマ",
-  "prefecture": "栃木県",
-  "city": "那須塩原市",
-  "town": "洞島",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "09213",
+      "oldZipCode": "32501",
+      "zipCode": "3250106",
+      "prefectureKana": "トチギケン",
+      "cityKana": "ナスシオバラシ",
+      "townKana": "ドウジマ",
+      "prefecture": "栃木県",
+      "city": "那須塩原市",
+      "town": "洞島",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

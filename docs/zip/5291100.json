@@ -1,17 +1,21 @@
 {
-  "jisCode": "25441",
-  "oldZipCode": "52911",
-  "zipCode": "5291100",
-  "prefectureKana": "シガケン",
-  "cityKana": "イヌカミグントヨサトチョウ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "滋賀県",
-  "city": "犬上郡豊郷町",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "25441",
+      "oldZipCode": "52911",
+      "zipCode": "5291100",
+      "prefectureKana": "シガケン",
+      "cityKana": "イヌカミグントヨサトチョウ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "滋賀県",
+      "city": "犬上郡豊郷町",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

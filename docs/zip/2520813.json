@@ -1,17 +1,21 @@
 {
-  "jisCode": "14205",
-  "oldZipCode": "252  ",
-  "zipCode": "2520813",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "フジサワシ",
-  "townKana": "カメイノ",
-  "prefecture": "神奈川県",
-  "city": "藤沢市",
-  "town": "亀井野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14205",
+      "oldZipCode": "252  ",
+      "zipCode": "2520813",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "フジサワシ",
+      "townKana": "カメイノ",
+      "prefecture": "神奈川県",
+      "city": "藤沢市",
+      "town": "亀井野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

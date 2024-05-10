@@ -1,17 +1,21 @@
 {
-  "jisCode": "01691",
-  "oldZipCode": "08825",
-  "zipCode": "0882577",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ノツケグンベツカイチョウ",
-  "townKana": "ヤウスベツ（４０ノ１バンチ、４１ノ２バンチ）",
-  "prefecture": "北海道",
-  "city": "野付郡別海町",
-  "town": "矢臼別（４０の１番地、４１の２番地）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01691",
+      "oldZipCode": "08825",
+      "zipCode": "0882577",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ノツケグンベツカイチョウ",
+      "townKana": "ヤウスベツ（４０ノ１バンチ、４１ノ２バンチ）",
+      "prefecture": "北海道",
+      "city": "野付郡別海町",
+      "town": "矢臼別（４０の１番地、４１の２番地）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

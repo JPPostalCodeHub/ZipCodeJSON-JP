@@ -1,17 +1,21 @@
 {
-  "jisCode": "26366",
-  "oldZipCode": "61902",
-  "zipCode": "6190237",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "ソウラクグンセイカチョウ",
-  "townKana": "ヒカリダイ",
-  "prefecture": "京都府",
-  "city": "相楽郡精華町",
-  "town": "光台",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26366",
+      "oldZipCode": "61902",
+      "zipCode": "6190237",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "ソウラクグンセイカチョウ",
+      "townKana": "ヒカリダイ",
+      "prefecture": "京都府",
+      "city": "相楽郡精華町",
+      "town": "光台",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

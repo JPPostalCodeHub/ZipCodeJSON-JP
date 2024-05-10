@@ -1,17 +1,21 @@
 {
-  "jisCode": "19207",
-  "oldZipCode": "407  ",
-  "zipCode": "4070052",
-  "prefectureKana": "ヤマナシケン",
-  "cityKana": "ニラサキシ",
-  "townKana": "マルノマチシモツブライ",
-  "prefecture": "山梨県",
-  "city": "韮崎市",
-  "town": "円野町下円井",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "19207",
+      "oldZipCode": "407  ",
+      "zipCode": "4070052",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "ニラサキシ",
+      "townKana": "マルノマチシモツブライ",
+      "prefecture": "山梨県",
+      "city": "韮崎市",
+      "town": "円野町下円井",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

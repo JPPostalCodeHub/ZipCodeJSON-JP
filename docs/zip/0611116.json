@@ -1,17 +1,21 @@
 {
-  "jisCode": "01234",
-  "oldZipCode": "06111",
-  "zipCode": "0611116",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "キタヒロシマシ",
-  "townKana": "エフビレッジ",
-  "prefecture": "北海道",
-  "city": "北広島市",
-  "town": "Ｆビレッジ",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01234",
+      "oldZipCode": "06111",
+      "zipCode": "0611116",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "キタヒロシマシ",
+      "townKana": "エフビレッジ",
+      "prefecture": "北海道",
+      "city": "北広島市",
+      "town": "Ｆビレッジ",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

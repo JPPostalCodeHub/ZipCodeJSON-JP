@@ -1,17 +1,21 @@
 {
-  "jisCode": "35211",
-  "oldZipCode": "75945",
-  "zipCode": "7594503",
-  "prefectureKana": "ヤマグチケン",
-  "cityKana": "ナガトシ",
-  "townKana": "ユヤシンベツミョウ",
-  "prefecture": "山口県",
-  "city": "長門市",
-  "town": "油谷新別名",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "35211",
+      "oldZipCode": "75945",
+      "zipCode": "7594503",
+      "prefectureKana": "ヤマグチケン",
+      "cityKana": "ナガトシ",
+      "townKana": "ユヤシンベツミョウ",
+      "prefecture": "山口県",
+      "city": "長門市",
+      "town": "油谷新別名",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

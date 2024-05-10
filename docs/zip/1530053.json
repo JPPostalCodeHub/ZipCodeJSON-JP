@@ -1,17 +1,21 @@
 {
-  "jisCode": "13110",
-  "oldZipCode": "153  ",
-  "zipCode": "1530053",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "メグロク",
-  "townKana": "ゴホンギ",
-  "prefecture": "東京都",
-  "city": "目黒区",
-  "town": "五本木",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13110",
+      "oldZipCode": "153  ",
+      "zipCode": "1530053",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "メグロク",
+      "townKana": "ゴホンギ",
+      "prefecture": "東京都",
+      "city": "目黒区",
+      "town": "五本木",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

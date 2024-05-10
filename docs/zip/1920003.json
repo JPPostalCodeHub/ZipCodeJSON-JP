@@ -1,17 +1,21 @@
 {
-  "jisCode": "13201",
-  "oldZipCode": "192  ",
-  "zipCode": "1920003",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "ハチオウジシ",
-  "townKana": "タンギマチ",
-  "prefecture": "東京都",
-  "city": "八王子市",
-  "town": "丹木町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13201",
+      "oldZipCode": "192  ",
+      "zipCode": "1920003",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "ハチオウジシ",
+      "townKana": "タンギマチ",
+      "prefecture": "東京都",
+      "city": "八王子市",
+      "town": "丹木町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

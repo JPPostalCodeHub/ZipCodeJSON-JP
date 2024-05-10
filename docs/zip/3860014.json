@@ -1,17 +1,21 @@
 {
-  "jisCode": "20203",
-  "oldZipCode": "386  ",
-  "zipCode": "3860014",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "ウエダシ",
-  "townKana": "ザイモクチョウ",
-  "prefecture": "長野県",
-  "city": "上田市",
-  "town": "材木町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20203",
+      "oldZipCode": "386  ",
+      "zipCode": "3860014",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "ウエダシ",
+      "townKana": "ザイモクチョウ",
+      "prefecture": "長野県",
+      "city": "上田市",
+      "town": "材木町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

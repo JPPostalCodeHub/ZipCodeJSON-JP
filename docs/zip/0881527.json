@@ -1,17 +1,21 @@
 {
-  "jisCode": "01663",
-  "oldZipCode": "08815",
-  "zipCode": "0881527",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "アッケシグンハマナカチョウ",
-  "townKana": "シンカワヒガシ",
-  "prefecture": "北海道",
-  "city": "厚岸郡浜中町",
-  "town": "新川東",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01663",
+      "oldZipCode": "08815",
+      "zipCode": "0881527",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "アッケシグンハマナカチョウ",
+      "townKana": "シンカワヒガシ",
+      "prefecture": "北海道",
+      "city": "厚岸郡浜中町",
+      "town": "新川東",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

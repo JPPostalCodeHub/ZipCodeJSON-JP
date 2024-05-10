@@ -1,17 +1,21 @@
 {
-  "jisCode": "31370",
-  "oldZipCode": "68207",
-  "zipCode": "6820712",
-  "prefectureKana": "トットリケン",
-  "cityKana": "トウハクグンユリハマチョウ",
-  "townKana": "カミアソヅ",
-  "prefecture": "鳥取県",
-  "city": "東伯郡湯梨浜町",
-  "town": "上浅津",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "31370",
+      "oldZipCode": "68207",
+      "zipCode": "6820712",
+      "prefectureKana": "トットリケン",
+      "cityKana": "トウハクグンユリハマチョウ",
+      "townKana": "カミアソヅ",
+      "prefecture": "鳥取県",
+      "city": "東伯郡湯梨浜町",
+      "town": "上浅津",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

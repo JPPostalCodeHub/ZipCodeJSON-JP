@@ -1,17 +1,21 @@
 {
-  "jisCode": "34205",
-  "oldZipCode": "72202",
-  "zipCode": "7220213",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "オノミチシ",
-  "townKana": "ミノゴウチョウシロエ",
-  "prefecture": "広島県",
-  "city": "尾道市",
-  "town": "美ノ郷町白江",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34205",
+      "oldZipCode": "72202",
+      "zipCode": "7220213",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "オノミチシ",
+      "townKana": "ミノゴウチョウシロエ",
+      "prefecture": "広島県",
+      "city": "尾道市",
+      "town": "美ノ郷町白江",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,38 @@
 {
-  "jisCode": "01631",
-  "oldZipCode": "08002",
-  "zipCode": "0800272",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "カトウグンオトフケチョウ",
-  "townKana": "シモシホロカンセン",
-  "prefecture": "北海道",
-  "city": "河東郡音更町",
-  "town": "下士幌幹線",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01631",
+      "oldZipCode": "08002",
+      "zipCode": "0800272",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "カトウグンオトフケチョウ",
+      "townKana": "シモシホロ",
+      "prefecture": "北海道",
+      "city": "河東郡音更町",
+      "town": "下士幌",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "01631",
+      "oldZipCode": "08002",
+      "zipCode": "0800272",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "カトウグンオトフケチョウ",
+      "townKana": "シモシホロカンセン",
+      "prefecture": "北海道",
+      "city": "河東郡音更町",
+      "town": "下士幌幹線",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

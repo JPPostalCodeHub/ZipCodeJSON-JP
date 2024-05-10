@@ -1,17 +1,21 @@
 {
-  "jisCode": "23225",
-  "oldZipCode": "472  ",
-  "zipCode": "4720045",
-  "prefectureKana": "アイチケン",
-  "cityKana": "チリュウシ",
-  "townKana": "ナガシノチョウ",
-  "prefecture": "愛知県",
-  "city": "知立市",
-  "town": "長篠町",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23225",
+      "oldZipCode": "472  ",
+      "zipCode": "4720045",
+      "prefectureKana": "アイチケン",
+      "cityKana": "チリュウシ",
+      "townKana": "ナガシノチョウ",
+      "prefecture": "愛知県",
+      "city": "知立市",
+      "town": "長篠町",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

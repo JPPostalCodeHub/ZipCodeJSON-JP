@@ -1,17 +1,21 @@
 {
-  "jisCode": "43369",
-  "oldZipCode": "86501",
-  "zipCode": "8650114",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "タマナグンナゴミマチ",
-  "townKana": "イワシリ",
-  "prefecture": "熊本県",
-  "city": "玉名郡和水町",
-  "town": "岩尻",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43369",
+      "oldZipCode": "86501",
+      "zipCode": "8650114",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "タマナグンナゴミマチ",
+      "townKana": "イワシリ",
+      "prefecture": "熊本県",
+      "city": "玉名郡和水町",
+      "town": "岩尻",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

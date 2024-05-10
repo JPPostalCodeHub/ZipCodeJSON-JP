@@ -1,17 +1,21 @@
 {
-  "jisCode": "01409",
-  "oldZipCode": "04605",
-  "zipCode": "0460511",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ヨイチグンアカイガワムラ",
-  "townKana": "ヒノデ",
-  "prefecture": "北海道",
-  "city": "余市郡赤井川村",
-  "town": "日ノ出",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01409",
+      "oldZipCode": "04605",
+      "zipCode": "0460511",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ヨイチグンアカイガワムラ",
+      "townKana": "ヒノデ",
+      "prefecture": "北海道",
+      "city": "余市郡赤井川村",
+      "town": "日ノ出",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

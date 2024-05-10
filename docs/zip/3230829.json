@@ -1,17 +1,21 @@
 {
-  "jisCode": "09208",
-  "oldZipCode": "323  ",
-  "zipCode": "3230829",
-  "prefectureKana": "トチギケン",
-  "cityKana": "オヤマシ",
-  "townKana": "ヒガシジョウナン",
-  "prefecture": "栃木県",
-  "city": "小山市",
-  "town": "東城南",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "09208",
+      "oldZipCode": "323  ",
+      "zipCode": "3230829",
+      "prefectureKana": "トチギケン",
+      "cityKana": "オヤマシ",
+      "townKana": "ヒガシジョウナン",
+      "prefecture": "栃木県",
+      "city": "小山市",
+      "town": "東城南",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

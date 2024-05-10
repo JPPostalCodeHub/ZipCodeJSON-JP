@@ -1,17 +1,21 @@
 {
-  "jisCode": "05361",
-  "oldZipCode": "01817",
-  "zipCode": "0181725",
-  "prefectureKana": "アキタケン",
-  "cityKana": "ミナミアキタグンゴジョウメマチ",
-  "townKana": "ニシイソノメ",
-  "prefecture": "秋田県",
-  "city": "南秋田郡五城目町",
-  "town": "西磯ノ目",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05361",
+      "oldZipCode": "01817",
+      "zipCode": "0181725",
+      "prefectureKana": "アキタケン",
+      "cityKana": "ミナミアキタグンゴジョウメマチ",
+      "townKana": "ニシイソノメ",
+      "prefecture": "秋田県",
+      "city": "南秋田郡五城目町",
+      "town": "西磯ノ目",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

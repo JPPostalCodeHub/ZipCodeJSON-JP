@@ -1,17 +1,21 @@
 {
-  "jisCode": "01397",
-  "oldZipCode": "04817",
-  "zipCode": "0481700",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "アブタグンルスツムラ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "北海道",
-  "city": "虻田郡留寿都村",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01397",
+      "oldZipCode": "04817",
+      "zipCode": "0481700",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "アブタグンルスツムラ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "北海道",
+      "city": "虻田郡留寿都村",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

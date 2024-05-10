@@ -1,17 +1,21 @@
 {
-  "jisCode": "13104",
-  "oldZipCode": "169  ",
-  "zipCode": "1690071",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "シンジュクク",
-  "townKana": "トツカマチ",
-  "prefecture": "東京都",
-  "city": "新宿区",
-  "town": "戸塚町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13104",
+      "oldZipCode": "169  ",
+      "zipCode": "1690071",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "シンジュクク",
+      "townKana": "トツカマチ",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "town": "戸塚町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

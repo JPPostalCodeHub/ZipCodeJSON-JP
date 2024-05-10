@@ -1,17 +1,21 @@
 {
-  "jisCode": "28101",
-  "oldZipCode": "658  ",
-  "zipCode": "6580072",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "コウベシヒガシナダク",
-  "townKana": "オカモト",
-  "prefecture": "兵庫県",
-  "city": "神戸市東灘区",
-  "town": "岡本",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28101",
+      "oldZipCode": "658  ",
+      "zipCode": "6580072",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "コウベシヒガシナダク",
+      "townKana": "オカモト",
+      "prefecture": "兵庫県",
+      "city": "神戸市東灘区",
+      "town": "岡本",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

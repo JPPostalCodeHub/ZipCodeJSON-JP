@@ -1,17 +1,21 @@
 {
-  "jisCode": "21204",
-  "oldZipCode": "507  ",
-  "zipCode": "5070075",
-  "prefectureKana": "ギフケン",
-  "cityKana": "タジミシ",
-  "townKana": "オオサワチョウ",
-  "prefecture": "岐阜県",
-  "city": "多治見市",
-  "town": "大沢町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "21204",
+      "oldZipCode": "507  ",
+      "zipCode": "5070075",
+      "prefectureKana": "ギフケン",
+      "cityKana": "タジミシ",
+      "townKana": "オオサワチョウ",
+      "prefecture": "岐阜県",
+      "city": "多治見市",
+      "town": "大沢町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

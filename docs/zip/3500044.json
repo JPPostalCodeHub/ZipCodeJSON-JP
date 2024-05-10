@@ -1,17 +1,21 @@
 {
-  "jisCode": "11201",
-  "oldZipCode": "350  ",
-  "zipCode": "3500044",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "カワゴエシ",
-  "townKana": "トオリマチ",
-  "prefecture": "埼玉県",
-  "city": "川越市",
-  "town": "通町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11201",
+      "oldZipCode": "350  ",
+      "zipCode": "3500044",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "カワゴエシ",
+      "townKana": "トオリマチ",
+      "prefecture": "埼玉県",
+      "city": "川越市",
+      "town": "通町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

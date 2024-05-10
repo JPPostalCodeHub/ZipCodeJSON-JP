@@ -1,17 +1,21 @@
 {
-  "jisCode": "04421",
-  "oldZipCode": "98134",
-  "zipCode": "9813415",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "クロカワグンタイワチョウ",
-  "townKana": "ツルスオヅルサワ",
-  "prefecture": "宮城県",
-  "city": "黒川郡大和町",
-  "town": "鶴巣小鶴沢",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04421",
+      "oldZipCode": "98134",
+      "zipCode": "9813415",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "クロカワグンタイワチョウ",
+      "townKana": "ツルスオヅルサワ",
+      "prefecture": "宮城県",
+      "city": "黒川郡大和町",
+      "town": "鶴巣小鶴沢",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

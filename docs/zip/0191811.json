@@ -1,17 +1,21 @@
 {
-  "jisCode": "05212",
-  "oldZipCode": "01918",
-  "zipCode": "0191811",
-  "prefectureKana": "アキタケン",
-  "cityKana": "ダイセンシ",
-  "townKana": "ナンガイモトシュク",
-  "prefecture": "秋田県",
-  "city": "大仙市",
-  "town": "南外本宿",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05212",
+      "oldZipCode": "01918",
+      "zipCode": "0191811",
+      "prefectureKana": "アキタケン",
+      "cityKana": "ダイセンシ",
+      "townKana": "ナンガイモトシュク",
+      "prefecture": "秋田県",
+      "city": "大仙市",
+      "town": "南外本宿",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "18209",
-  "oldZipCode": "91502",
-  "zipCode": "9150215",
-  "prefectureKana": "フクイケン",
-  "cityKana": "エチゼンシ",
-  "townKana": "ヤナギモトマチ",
-  "prefecture": "福井県",
-  "city": "越前市",
-  "town": "柳元町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18209",
+      "oldZipCode": "91502",
+      "zipCode": "9150215",
+      "prefectureKana": "フクイケン",
+      "cityKana": "エチゼンシ",
+      "townKana": "ヤナギモトマチ",
+      "prefecture": "福井県",
+      "city": "越前市",
+      "town": "柳元町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

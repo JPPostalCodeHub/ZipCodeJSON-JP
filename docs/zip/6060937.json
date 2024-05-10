@@ -1,17 +1,21 @@
 {
-  "jisCode": "26103",
-  "oldZipCode": "606  ",
-  "zipCode": "6060937",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシサキョウク",
-  "townKana": "マツガサキキタウラチョウ",
-  "prefecture": "京都府",
-  "city": "京都市左京区",
-  "town": "松ケ崎北裏町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26103",
+      "oldZipCode": "606  ",
+      "zipCode": "6060937",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシサキョウク",
+      "townKana": "マツガサキキタウラチョウ",
+      "prefecture": "京都府",
+      "city": "京都市左京区",
+      "town": "松ケ崎北裏町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

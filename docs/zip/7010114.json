@@ -1,17 +1,21 @@
 {
-  "jisCode": "33202",
-  "oldZipCode": "70101",
-  "zipCode": "7010114",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "クラシキシ",
-  "townKana": "マツシマ",
-  "prefecture": "岡山県",
-  "city": "倉敷市",
-  "town": "松島",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33202",
+      "oldZipCode": "70101",
+      "zipCode": "7010114",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "クラシキシ",
+      "townKana": "マツシマ",
+      "prefecture": "岡山県",
+      "city": "倉敷市",
+      "town": "松島",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

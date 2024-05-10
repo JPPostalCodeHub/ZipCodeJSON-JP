@@ -1,17 +1,21 @@
 {
-  "jisCode": "35203",
-  "oldZipCode": "75302",
-  "zipCode": "7530231",
-  "prefectureKana": "ヤマグチケン",
-  "cityKana": "ヤマグチシ",
-  "townKana": "オオウチヒカミ",
-  "prefecture": "山口県",
-  "city": "山口市",
-  "town": "大内氷上",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "35203",
+      "oldZipCode": "75302",
+      "zipCode": "7530231",
+      "prefectureKana": "ヤマグチケン",
+      "cityKana": "ヤマグチシ",
+      "townKana": "オオウチヒカミ",
+      "prefecture": "山口県",
+      "city": "山口市",
+      "town": "大内氷上",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

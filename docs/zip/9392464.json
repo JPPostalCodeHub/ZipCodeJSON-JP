@@ -1,17 +1,38 @@
 {
-  "jisCode": "16201",
-  "oldZipCode": "93927",
-  "zipCode": "9392464",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "トヤマシ",
-  "townKana": "ヤツオマチミヤガシマ",
-  "prefecture": "富山県",
-  "city": "富山市",
-  "town": "八尾町宮ケ島",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16201",
+      "oldZipCode": "93923",
+      "zipCode": "9392464",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "トヤマシ",
+      "townKana": "ヤツオマチタケノウチ",
+      "prefecture": "富山県",
+      "city": "富山市",
+      "town": "八尾町竹ノ内",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "16201",
+      "oldZipCode": "93927",
+      "zipCode": "9392464",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "トヤマシ",
+      "townKana": "ヤツオマチミヤガシマ",
+      "prefecture": "富山県",
+      "city": "富山市",
+      "town": "八尾町宮ケ島",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

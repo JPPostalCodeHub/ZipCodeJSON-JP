@@ -1,17 +1,21 @@
 {
-  "jisCode": "20403",
-  "oldZipCode": "39931",
-  "zipCode": "3993106",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "シモイナグンタカモリマチ",
-  "townKana": "オオジマサン",
-  "prefecture": "長野県",
-  "city": "下伊那郡高森町",
-  "town": "大島山",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20403",
+      "oldZipCode": "39931",
+      "zipCode": "3993106",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "シモイナグンタカモリマチ",
+      "townKana": "オオジマサン",
+      "prefecture": "長野県",
+      "city": "下伊那郡高森町",
+      "town": "大島山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

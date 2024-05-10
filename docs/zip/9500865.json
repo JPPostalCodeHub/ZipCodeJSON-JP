@@ -1,17 +1,21 @@
 {
-  "jisCode": "15103",
-  "oldZipCode": "950  ",
-  "zipCode": "9500865",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ニイガタシチュウオウク",
-  "townKana": "モトウマコシ",
-  "prefecture": "新潟県",
-  "city": "新潟市中央区",
-  "town": "本馬越",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15103",
+      "oldZipCode": "950  ",
+      "zipCode": "9500865",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ニイガタシチュウオウク",
+      "townKana": "モトウマコシ",
+      "prefecture": "新潟県",
+      "city": "新潟市中央区",
+      "town": "本馬越",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "20205",
-  "oldZipCode": "39914",
-  "zipCode": "3991403",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "イイダシ",
-  "townKana": "カミムラ",
-  "prefecture": "長野県",
-  "city": "飯田市",
-  "town": "上村",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20205",
+      "oldZipCode": "39914",
+      "zipCode": "3991403",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "イイダシ",
+      "townKana": "カミムラ",
+      "prefecture": "長野県",
+      "city": "飯田市",
+      "town": "上村",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "23211",
-  "oldZipCode": "47005",
-  "zipCode": "4700573",
-  "prefectureKana": "アイチケン",
-  "cityKana": "トヨタシ",
-  "townKana": "キタオオノチョウ",
-  "prefecture": "愛知県",
-  "city": "豊田市",
-  "town": "北大野町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23211",
+      "oldZipCode": "47005",
+      "zipCode": "4700573",
+      "prefectureKana": "アイチケン",
+      "cityKana": "トヨタシ",
+      "townKana": "キタオオノチョウ",
+      "prefecture": "愛知県",
+      "city": "豊田市",
+      "town": "北大野町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

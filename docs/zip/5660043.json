@@ -1,17 +1,21 @@
 {
-  "jisCode": "27224",
-  "oldZipCode": "566  ",
-  "zipCode": "5660043",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "セッツシ",
-  "townKana": "ヒトツヤ",
-  "prefecture": "大阪府",
-  "city": "摂津市",
-  "town": "一津屋",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27224",
+      "oldZipCode": "566  ",
+      "zipCode": "5660043",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "セッツシ",
+      "townKana": "ヒトツヤ",
+      "prefecture": "大阪府",
+      "city": "摂津市",
+      "town": "一津屋",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

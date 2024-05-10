@@ -1,17 +1,21 @@
 {
-  "jisCode": "10524",
-  "oldZipCode": "37005",
-  "zipCode": "3700517",
-  "prefectureKana": "グンマケン",
-  "cityKana": "オウラグンオオイズミマチ",
-  "townKana": "ニシコイズミ",
-  "prefecture": "群馬県",
-  "city": "邑楽郡大泉町",
-  "town": "西小泉",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "10524",
+      "oldZipCode": "37005",
+      "zipCode": "3700517",
+      "prefectureKana": "グンマケン",
+      "cityKana": "オウラグンオオイズミマチ",
+      "townKana": "ニシコイズミ",
+      "prefecture": "群馬県",
+      "city": "邑楽郡大泉町",
+      "town": "西小泉",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

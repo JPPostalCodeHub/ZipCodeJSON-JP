@@ -1,17 +1,21 @@
 {
-  "jisCode": "22212",
-  "oldZipCode": "425  ",
-  "zipCode": "4250056",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "ヤイヅシ",
-  "townKana": "シモオダナカマチ",
-  "prefecture": "静岡県",
-  "city": "焼津市",
-  "town": "下小田中町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22212",
+      "oldZipCode": "425  ",
+      "zipCode": "4250056",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "ヤイヅシ",
+      "townKana": "シモオダナカマチ",
+      "prefecture": "静岡県",
+      "city": "焼津市",
+      "town": "下小田中町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "27220",
-  "oldZipCode": "56302",
-  "zipCode": "5630258",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "ミノオシ",
-  "townKana": "シンマチミナミ",
-  "prefecture": "大阪府",
-  "city": "箕面市",
-  "town": "森町南",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27220",
+      "oldZipCode": "56302",
+      "zipCode": "5630258",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "ミノオシ",
+      "townKana": "シンマチミナミ",
+      "prefecture": "大阪府",
+      "city": "箕面市",
+      "town": "森町南",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

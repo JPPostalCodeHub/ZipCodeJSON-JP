@@ -1,17 +1,21 @@
 {
-  "jisCode": "13119",
-  "oldZipCode": "173  ",
-  "zipCode": "1730035",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "イタバシク",
-  "townKana": "オオヤグチ",
-  "prefecture": "東京都",
-  "city": "板橋区",
-  "town": "大谷口",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13119",
+      "oldZipCode": "173  ",
+      "zipCode": "1730035",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "イタバシク",
+      "townKana": "オオヤグチ",
+      "prefecture": "東京都",
+      "city": "板橋区",
+      "town": "大谷口",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

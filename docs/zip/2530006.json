@@ -1,17 +1,21 @@
 {
-  "jisCode": "14207",
-  "oldZipCode": "253  ",
-  "zipCode": "2530006",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "チガサキシ",
-  "townKana": "ツツミ",
-  "prefecture": "神奈川県",
-  "city": "茅ヶ崎市",
-  "town": "堤",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14207",
+      "oldZipCode": "253  ",
+      "zipCode": "2530006",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "チガサキシ",
+      "townKana": "ツツミ",
+      "prefecture": "神奈川県",
+      "city": "茅ヶ崎市",
+      "town": "堤",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "20209",
-  "oldZipCode": "396  ",
-  "zipCode": "3960031",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "イナシ",
-  "townKana": "ナカノハラ",
-  "prefecture": "長野県",
-  "city": "伊那市",
-  "town": "中の原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20209",
+      "oldZipCode": "396  ",
+      "zipCode": "3960031",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "イナシ",
+      "townKana": "ナカノハラ",
+      "prefecture": "長野県",
+      "city": "伊那市",
+      "town": "中の原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

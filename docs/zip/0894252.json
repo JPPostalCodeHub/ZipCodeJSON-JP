@@ -1,17 +1,21 @@
 {
-  "jisCode": "01647",
-  "oldZipCode": "08942",
-  "zipCode": "0894252",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "アショログンアショロチョウ",
-  "townKana": "オヨチモトマチ",
-  "prefecture": "北海道",
-  "city": "足寄郡足寄町",
-  "town": "大誉地本町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01647",
+      "oldZipCode": "08942",
+      "zipCode": "0894252",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "アショログンアショロチョウ",
+      "townKana": "オヨチモトマチ",
+      "prefecture": "北海道",
+      "city": "足寄郡足寄町",
+      "town": "大誉地本町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

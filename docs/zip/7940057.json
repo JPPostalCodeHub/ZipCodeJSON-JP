@@ -1,17 +1,21 @@
 {
-  "jisCode": "38202",
-  "oldZipCode": "794  ",
-  "zipCode": "7940057",
-  "prefectureKana": "エヒメケン",
-  "cityKana": "イマバリシ",
-  "townKana": "イズミガワチョウ",
-  "prefecture": "愛媛県",
-  "city": "今治市",
-  "town": "泉川町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "38202",
+      "oldZipCode": "794  ",
+      "zipCode": "7940057",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "イマバリシ",
+      "townKana": "イズミガワチョウ",
+      "prefecture": "愛媛県",
+      "city": "今治市",
+      "town": "泉川町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

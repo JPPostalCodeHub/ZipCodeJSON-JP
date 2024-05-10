@@ -1,17 +1,21 @@
 {
-  "jisCode": "05214",
-  "oldZipCode": "01801",
-  "zipCode": "0180102",
-  "prefectureKana": "アキタケン",
-  "cityKana": "ニカホシ",
-  "townKana": "キサカタマチキドグチ",
-  "prefecture": "秋田県",
-  "city": "にかほ市",
-  "town": "象潟町木戸口",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05214",
+      "oldZipCode": "01801",
+      "zipCode": "0180102",
+      "prefectureKana": "アキタケン",
+      "cityKana": "ニカホシ",
+      "townKana": "キサカタマチキドグチ",
+      "prefecture": "秋田県",
+      "city": "にかほ市",
+      "town": "象潟町木戸口",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "11110",
-  "oldZipCode": "339  ",
-  "zipCode": "3390062",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "サイタマシイワツキク",
-  "townKana": "ミナミツジ",
-  "prefecture": "埼玉県",
-  "city": "さいたま市岩槻区",
-  "town": "南辻",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11110",
+      "oldZipCode": "339  ",
+      "zipCode": "3390062",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "サイタマシイワツキク",
+      "townKana": "ミナミツジ",
+      "prefecture": "埼玉県",
+      "city": "さいたま市岩槻区",
+      "town": "南辻",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

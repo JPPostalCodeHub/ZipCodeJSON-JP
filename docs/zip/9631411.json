@@ -1,17 +1,21 @@
 {
-  "jisCode": "07203",
-  "oldZipCode": "96314",
-  "zipCode": "9631411",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "コオリヤマシ",
-  "townKana": "コナンマチフナツ",
-  "prefecture": "福島県",
-  "city": "郡山市",
-  "town": "湖南町舟津",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07203",
+      "oldZipCode": "96314",
+      "zipCode": "9631411",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "コオリヤマシ",
+      "townKana": "コナンマチフナツ",
+      "prefecture": "福島県",
+      "city": "郡山市",
+      "town": "湖南町舟津",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

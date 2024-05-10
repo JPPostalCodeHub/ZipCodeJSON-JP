@@ -1,17 +1,21 @@
 {
-  "jisCode": "12207",
-  "oldZipCode": "271  ",
-  "zipCode": "2710065",
-  "prefectureKana": "チバケン",
-  "cityKana": "マツドシ",
-  "townKana": "ミナミハナシマ",
-  "prefecture": "千葉県",
-  "city": "松戸市",
-  "town": "南花島",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12207",
+      "oldZipCode": "271  ",
+      "zipCode": "2710065",
+      "prefectureKana": "チバケン",
+      "cityKana": "マツドシ",
+      "townKana": "ミナミハナシマ",
+      "prefecture": "千葉県",
+      "city": "松戸市",
+      "town": "南花島",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

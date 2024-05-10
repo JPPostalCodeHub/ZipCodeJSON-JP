@@ -1,17 +1,21 @@
 {
-  "jisCode": "28213",
-  "oldZipCode": "67903",
-  "zipCode": "6790323",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "ニシワキシ",
-  "townKana": "クロダショウチョウニシザワ",
-  "prefecture": "兵庫県",
-  "city": "西脇市",
-  "town": "黒田庄町西澤",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28213",
+      "oldZipCode": "67903",
+      "zipCode": "6790323",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "ニシワキシ",
+      "townKana": "クロダショウチョウニシザワ",
+      "prefecture": "兵庫県",
+      "city": "西脇市",
+      "town": "黒田庄町西澤",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

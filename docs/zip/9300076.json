@@ -1,17 +1,21 @@
 {
-  "jisCode": "16201",
-  "oldZipCode": "930  ",
-  "zipCode": "9300076",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "トヤマシ",
-  "townKana": "ナガエマチ",
-  "prefecture": "富山県",
-  "city": "富山市",
-  "town": "長柄町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16201",
+      "oldZipCode": "930  ",
+      "zipCode": "9300076",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "トヤマシ",
+      "townKana": "ナガエマチ",
+      "prefecture": "富山県",
+      "city": "富山市",
+      "town": "長柄町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

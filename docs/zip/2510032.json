@@ -1,17 +1,21 @@
 {
-  "jisCode": "14205",
-  "oldZipCode": "251  ",
-  "zipCode": "2510032",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "フジサワシ",
-  "townKana": "カタセ",
-  "prefecture": "神奈川県",
-  "city": "藤沢市",
-  "town": "片瀬",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14205",
+      "oldZipCode": "251  ",
+      "zipCode": "2510032",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "フジサワシ",
+      "townKana": "カタセ",
+      "prefecture": "神奈川県",
+      "city": "藤沢市",
+      "town": "片瀬",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

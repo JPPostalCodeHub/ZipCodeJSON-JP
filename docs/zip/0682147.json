@@ -1,17 +1,21 @@
 {
-  "jisCode": "01222",
-  "oldZipCode": "06821",
-  "zipCode": "0682147",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ミカサシ",
-  "townKana": "ホロナイシンエイチョウ",
-  "prefecture": "北海道",
-  "city": "三笠市",
-  "town": "幌内新栄町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01222",
+      "oldZipCode": "06821",
+      "zipCode": "0682147",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ミカサシ",
+      "townKana": "ホロナイシンエイチョウ",
+      "prefecture": "北海道",
+      "city": "三笠市",
+      "town": "幌内新栄町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

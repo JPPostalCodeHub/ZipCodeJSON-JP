@@ -1,17 +1,21 @@
 {
-  "jisCode": "06207",
-  "oldZipCode": "99931",
-  "zipCode": "9993216",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "カミノヤマシ",
-  "townKana": "ダイモン",
-  "prefecture": "山形県",
-  "city": "上山市",
-  "town": "大門",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06207",
+      "oldZipCode": "99931",
+      "zipCode": "9993216",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "カミノヤマシ",
+      "townKana": "ダイモン",
+      "prefecture": "山形県",
+      "city": "上山市",
+      "town": "大門",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

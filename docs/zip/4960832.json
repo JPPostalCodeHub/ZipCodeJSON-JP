@@ -1,17 +1,21 @@
 {
-  "jisCode": "23208",
-  "oldZipCode": "496  ",
-  "zipCode": "4960832",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ツシマシ",
-  "townKana": "トウヨウチョウ",
-  "prefecture": "愛知県",
-  "city": "津島市",
-  "town": "東洋町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23208",
+      "oldZipCode": "496  ",
+      "zipCode": "4960832",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ツシマシ",
+      "townKana": "トウヨウチョウ",
+      "prefecture": "愛知県",
+      "city": "津島市",
+      "town": "東洋町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

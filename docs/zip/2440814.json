@@ -1,17 +1,21 @@
 {
-  "jisCode": "14110",
-  "oldZipCode": "244  ",
-  "zipCode": "2440814",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "ヨコハマシトツカク",
-  "townKana": "ミナミマイオカ",
-  "prefecture": "神奈川県",
-  "city": "横浜市戸塚区",
-  "town": "南舞岡",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14110",
+      "oldZipCode": "244  ",
+      "zipCode": "2440814",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "ヨコハマシトツカク",
+      "townKana": "ミナミマイオカ",
+      "prefecture": "神奈川県",
+      "city": "横浜市戸塚区",
+      "town": "南舞岡",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "17201",
-  "oldZipCode": "92011",
-  "zipCode": "9201107",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "カナザワシ",
-  "townKana": "アズキザワマチ",
-  "prefecture": "石川県",
-  "city": "金沢市",
-  "town": "小豆沢町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17201",
+      "oldZipCode": "92011",
+      "zipCode": "9201107",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "カナザワシ",
+      "townKana": "アズキザワマチ",
+      "prefecture": "石川県",
+      "city": "金沢市",
+      "town": "小豆沢町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

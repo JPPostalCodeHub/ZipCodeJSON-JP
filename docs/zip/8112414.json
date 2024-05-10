@@ -1,17 +1,21 @@
 {
-  "jisCode": "40342",
-  "oldZipCode": "81124",
-  "zipCode": "8112414",
-  "prefectureKana": "フクオカケン",
-  "cityKana": "カスヤグンササグリマチ",
-  "townKana": "ワダ",
-  "prefecture": "福岡県",
-  "city": "糟屋郡篠栗町",
-  "town": "和田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "40342",
+      "oldZipCode": "81124",
+      "zipCode": "8112414",
+      "prefectureKana": "フクオカケン",
+      "cityKana": "カスヤグンササグリマチ",
+      "townKana": "ワダ",
+      "prefecture": "福岡県",
+      "city": "糟屋郡篠栗町",
+      "town": "和田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

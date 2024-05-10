@@ -1,17 +1,38 @@
 {
-  "jisCode": "16208",
-  "oldZipCode": "93914",
-  "zipCode": "9391401",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "トナミシ",
-  "townKana": "モトコバヤシ",
-  "prefecture": "富山県",
-  "city": "砺波市",
-  "town": "本小林",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16208",
+      "oldZipCode": "93914",
+      "zipCode": "9391401",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "トナミシ",
+      "townKana": "ヒガシボ",
+      "prefecture": "富山県",
+      "city": "砺波市",
+      "town": "東保",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "16208",
+      "oldZipCode": "93914",
+      "zipCode": "9391401",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "トナミシ",
+      "townKana": "モトコバヤシ",
+      "prefecture": "富山県",
+      "city": "砺波市",
+      "town": "本小林",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

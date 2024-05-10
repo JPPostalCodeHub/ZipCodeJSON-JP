@@ -1,17 +1,21 @@
 {
-  "jisCode": "20430",
-  "oldZipCode": "39955",
-  "zipCode": "3995500",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "キソグンオオクワムラ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "長野県",
-  "city": "木曽郡大桑村",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20430",
+      "oldZipCode": "39955",
+      "zipCode": "3995500",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "キソグンオオクワムラ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "長野県",
+      "city": "木曽郡大桑村",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

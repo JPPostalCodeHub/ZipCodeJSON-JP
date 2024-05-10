@@ -1,17 +1,21 @@
 {
-  "jisCode": "40213",
-  "oldZipCode": "824  ",
-  "zipCode": "8240008",
-  "prefectureKana": "フクオカケン",
-  "cityKana": "ユクハシシ",
-  "townKana": "ミヤイチマチ",
-  "prefecture": "福岡県",
-  "city": "行橋市",
-  "town": "宮市町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "40213",
+      "oldZipCode": "824  ",
+      "zipCode": "8240008",
+      "prefectureKana": "フクオカケン",
+      "cityKana": "ユクハシシ",
+      "townKana": "ミヤイチマチ",
+      "prefecture": "福岡県",
+      "city": "行橋市",
+      "town": "宮市町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

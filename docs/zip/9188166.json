@@ -1,17 +1,21 @@
 {
-  "jisCode": "18201",
-  "oldZipCode": "91037",
-  "zipCode": "9188166",
-  "prefectureKana": "フクイケン",
-  "cityKana": "フクイシ",
-  "townKana": "カズエナカチョウ",
-  "prefecture": "福井県",
-  "city": "福井市",
-  "town": "主計中町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18201",
+      "oldZipCode": "91037",
+      "zipCode": "9188166",
+      "prefectureKana": "フクイケン",
+      "cityKana": "フクイシ",
+      "townKana": "カズエナカチョウ",
+      "prefecture": "福井県",
+      "city": "福井市",
+      "town": "主計中町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

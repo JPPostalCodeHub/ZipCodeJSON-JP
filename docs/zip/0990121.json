@@ -1,17 +1,21 @@
 {
-  "jisCode": "01555",
-  "oldZipCode": "09901",
-  "zipCode": "0990121",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "モンベツグンエンガルチョウ",
-  "townKana": "シラタキキタシュウベツ",
-  "prefecture": "北海道",
-  "city": "紋別郡遠軽町",
-  "town": "白滝北支湧別",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01555",
+      "oldZipCode": "09901",
+      "zipCode": "0990121",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "モンベツグンエンガルチョウ",
+      "townKana": "シラタキキタシュウベツ",
+      "prefecture": "北海道",
+      "city": "紋別郡遠軽町",
+      "town": "白滝北支湧別",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

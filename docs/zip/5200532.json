@@ -1,17 +1,21 @@
 {
-  "jisCode": "25201",
-  "oldZipCode": "52005",
-  "zipCode": "5200532",
-  "prefectureKana": "シガケン",
-  "cityKana": "オオツシ",
-  "townKana": "コセイ",
-  "prefecture": "滋賀県",
-  "city": "大津市",
-  "town": "湖青",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "25201",
+      "oldZipCode": "52005",
+      "zipCode": "5200532",
+      "prefectureKana": "シガケン",
+      "cityKana": "オオツシ",
+      "townKana": "コセイ",
+      "prefecture": "滋賀県",
+      "city": "大津市",
+      "town": "湖青",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

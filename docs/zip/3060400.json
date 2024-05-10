@@ -1,17 +1,21 @@
 {
-  "jisCode": "08546",
-  "oldZipCode": "30604",
-  "zipCode": "3060400",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "サシマグンサカイマチ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "茨城県",
-  "city": "猿島郡境町",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08546",
+      "oldZipCode": "30604",
+      "zipCode": "3060400",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "サシマグンサカイマチ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "茨城県",
+      "city": "猿島郡境町",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

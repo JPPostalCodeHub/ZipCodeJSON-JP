@@ -1,17 +1,21 @@
 {
-  "jisCode": "24207",
-  "oldZipCode": "51011",
-  "zipCode": "5131122",
-  "prefectureKana": "ミエケン",
-  "cityKana": "スズカシ",
-  "townKana": "ハナガワチョウ",
-  "prefecture": "三重県",
-  "city": "鈴鹿市",
-  "town": "花川町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "24207",
+      "oldZipCode": "51011",
+      "zipCode": "5131122",
+      "prefectureKana": "ミエケン",
+      "cityKana": "スズカシ",
+      "townKana": "ハナガワチョウ",
+      "prefecture": "三重県",
+      "city": "鈴鹿市",
+      "town": "花川町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

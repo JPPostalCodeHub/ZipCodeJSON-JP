@@ -1,17 +1,21 @@
 {
-  "jisCode": "14204",
-  "oldZipCode": "248  ",
-  "zipCode": "2480021",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "カマクラシ",
-  "townKana": "サカノシタ",
-  "prefecture": "神奈川県",
-  "city": "鎌倉市",
-  "town": "坂ノ下",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14204",
+      "oldZipCode": "248  ",
+      "zipCode": "2480021",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "カマクラシ",
+      "townKana": "サカノシタ",
+      "prefecture": "神奈川県",
+      "city": "鎌倉市",
+      "town": "坂ノ下",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

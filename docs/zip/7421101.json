@@ -1,17 +1,21 @@
 {
-  "jisCode": "35344",
-  "oldZipCode": "74211",
-  "zipCode": "7421101",
-  "prefectureKana": "ヤマグチケン",
-  "cityKana": "クマゲグンヒラオチョウ",
-  "townKana": "ヒラオマチ",
-  "prefecture": "山口県",
-  "city": "熊毛郡平生町",
-  "town": "平生町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "35344",
+      "oldZipCode": "74211",
+      "zipCode": "7421101",
+      "prefectureKana": "ヤマグチケン",
+      "cityKana": "クマゲグンヒラオチョウ",
+      "townKana": "ヒラオマチ",
+      "prefecture": "山口県",
+      "city": "熊毛郡平生町",
+      "town": "平生町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

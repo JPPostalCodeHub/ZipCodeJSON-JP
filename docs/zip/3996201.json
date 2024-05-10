@@ -1,17 +1,21 @@
 {
-  "jisCode": "20425",
-  "oldZipCode": "39962",
-  "zipCode": "3996201",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "キソグンキソムラ",
-  "townKana": "ヤブハラ",
-  "prefecture": "長野県",
-  "city": "木曽郡木祖村",
-  "town": "薮原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20425",
+      "oldZipCode": "39962",
+      "zipCode": "3996201",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "キソグンキソムラ",
+      "townKana": "ヤブハラ",
+      "prefecture": "長野県",
+      "city": "木曽郡木祖村",
+      "town": "薮原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

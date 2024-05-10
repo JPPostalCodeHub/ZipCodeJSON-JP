@@ -1,17 +1,21 @@
 {
-  "jisCode": "09202",
-  "oldZipCode": "326  ",
-  "zipCode": "3260814",
-  "prefectureKana": "トチギケン",
-  "cityKana": "アシカガシ",
-  "townKana": "トオリ",
-  "prefecture": "栃木県",
-  "city": "足利市",
-  "town": "通",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "09202",
+      "oldZipCode": "326  ",
+      "zipCode": "3260814",
+      "prefectureKana": "トチギケン",
+      "cityKana": "アシカガシ",
+      "townKana": "トオリ",
+      "prefecture": "栃木県",
+      "city": "足利市",
+      "town": "通",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

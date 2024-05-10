@@ -1,17 +1,21 @@
 {
-  "jisCode": "26106",
-  "oldZipCode": "600  ",
-  "zipCode": "6008173",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシシモギョウク",
-  "townKana": "ブツグヤチョウ",
-  "prefecture": "京都府",
-  "city": "京都市下京区",
-  "town": "仏具屋町（不明門通五条下る２丁目、不明門通花屋町上る、不明門通六条上る、不明門通六条下る、花屋町通烏丸東入、花屋町通不明門西入、花屋町通不明門東入、六条通不明門西入、六条通不明門東入、六条通烏丸東入、六条通東洞院西入）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26106",
+      "oldZipCode": "600  ",
+      "zipCode": "6008173",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシシモギョウク",
+      "townKana": "ブツグヤチョウ",
+      "prefecture": "京都府",
+      "city": "京都市下京区",
+      "town": "仏具屋町（不明門通五条下る２丁目、不明門通花屋町上る、不明門通六条上る、不明門通六条下る、花屋町通烏丸東入、花屋町通不明門西入、花屋町通不明門東入、六条通不明門西入、六条通不明門東入、六条通烏丸東入、六条通東洞院西入）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

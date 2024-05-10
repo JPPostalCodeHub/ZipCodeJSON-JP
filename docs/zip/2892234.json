@@ -1,17 +1,21 @@
 {
-  "jisCode": "12347",
-  "oldZipCode": "28922",
-  "zipCode": "2892234",
-  "prefectureKana": "チバケン",
-  "cityKana": "カトリグンタコマチ",
-  "townKana": "ゴタンダ",
-  "prefecture": "千葉県",
-  "city": "香取郡多古町",
-  "town": "五反田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12347",
+      "oldZipCode": "28922",
+      "zipCode": "2892234",
+      "prefectureKana": "チバケン",
+      "cityKana": "カトリグンタコマチ",
+      "townKana": "ゴタンダ",
+      "prefecture": "千葉県",
+      "city": "香取郡多古町",
+      "town": "五反田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

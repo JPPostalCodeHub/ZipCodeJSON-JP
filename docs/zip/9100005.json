@@ -1,17 +1,21 @@
 {
-  "jisCode": "18201",
-  "oldZipCode": "910  ",
-  "zipCode": "9100005",
-  "prefectureKana": "フクイケン",
-  "cityKana": "フクイシ",
-  "townKana": "オオテ",
-  "prefecture": "福井県",
-  "city": "福井市",
-  "town": "大手",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18201",
+      "oldZipCode": "910  ",
+      "zipCode": "9100005",
+      "prefectureKana": "フクイケン",
+      "cityKana": "フクイシ",
+      "townKana": "オオテ",
+      "prefecture": "福井県",
+      "city": "福井市",
+      "town": "大手",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

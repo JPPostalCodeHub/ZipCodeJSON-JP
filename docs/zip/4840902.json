@@ -1,17 +1,21 @@
 {
-  "jisCode": "23215",
-  "oldZipCode": "484  ",
-  "zipCode": "4840902",
-  "prefectureKana": "アイチケン",
-  "cityKana": "イヌヤマシ",
-  "townKana": "オイワケ",
-  "prefecture": "愛知県",
-  "city": "犬山市",
-  "town": "追分",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23215",
+      "oldZipCode": "484  ",
+      "zipCode": "4840902",
+      "prefectureKana": "アイチケン",
+      "cityKana": "イヌヤマシ",
+      "townKana": "オイワケ",
+      "prefecture": "愛知県",
+      "city": "犬山市",
+      "town": "追分",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

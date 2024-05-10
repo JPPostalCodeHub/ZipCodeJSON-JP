@@ -1,17 +1,38 @@
 {
-  "jisCode": "16210",
-  "oldZipCode": "93918",
-  "zipCode": "9391837",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "ナントシ",
-  "townKana": "ニシハラ",
-  "prefecture": "富山県",
-  "city": "南砺市",
-  "town": "西原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16210",
+      "oldZipCode": "93918",
+      "zipCode": "9391837",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "ナントシ",
+      "townKana": "オオミヤノシン",
+      "prefecture": "富山県",
+      "city": "南砺市",
+      "town": "大宮野新",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "16210",
+      "oldZipCode": "93918",
+      "zipCode": "9391837",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "ナントシ",
+      "townKana": "ニシハラ",
+      "prefecture": "富山県",
+      "city": "南砺市",
+      "town": "西原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

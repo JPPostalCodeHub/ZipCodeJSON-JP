@@ -1,17 +1,21 @@
 {
-  "jisCode": "20583",
-  "oldZipCode": "38913",
-  "zipCode": "3891313",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "カミミノチグンシナノマチ",
-  "townKana": "フルマ",
-  "prefecture": "長野県",
-  "city": "上水内郡信濃町",
-  "town": "古間",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20583",
+      "oldZipCode": "38913",
+      "zipCode": "3891313",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "カミミノチグンシナノマチ",
+      "townKana": "フルマ",
+      "prefecture": "長野県",
+      "city": "上水内郡信濃町",
+      "town": "古間",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

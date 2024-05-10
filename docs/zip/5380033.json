@@ -1,17 +1,21 @@
 {
-  "jisCode": "27124",
-  "oldZipCode": "538  ",
-  "zipCode": "5380033",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "オオサカシツルミク",
-  "townKana": "ナカノチャヤ",
-  "prefecture": "大阪府",
-  "city": "大阪市鶴見区",
-  "town": "中茶屋",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27124",
+      "oldZipCode": "538  ",
+      "zipCode": "5380033",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "オオサカシツルミク",
+      "townKana": "ナカノチャヤ",
+      "prefecture": "大阪府",
+      "city": "大阪市鶴見区",
+      "town": "中茶屋",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

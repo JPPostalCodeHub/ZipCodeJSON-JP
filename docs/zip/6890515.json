@@ -1,17 +1,21 @@
 {
-  "jisCode": "31201",
-  "oldZipCode": "68905",
-  "zipCode": "6890515",
-  "prefectureKana": "トットリケン",
-  "cityKana": "トットリシ",
-  "townKana": "アオヤチョウカワラ",
-  "prefecture": "鳥取県",
-  "city": "鳥取市",
-  "town": "青谷町河原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "31201",
+      "oldZipCode": "68905",
+      "zipCode": "6890515",
+      "prefectureKana": "トットリケン",
+      "cityKana": "トットリシ",
+      "townKana": "アオヤチョウカワラ",
+      "prefecture": "鳥取県",
+      "city": "鳥取市",
+      "town": "青谷町河原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

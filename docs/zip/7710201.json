@@ -1,17 +1,21 @@
 {
-  "jisCode": "36402",
-  "oldZipCode": "77102",
-  "zipCode": "7710201",
-  "prefectureKana": "トクシマケン",
-  "cityKana": "イタノグンキタジマチョウ",
-  "townKana": "キタムラ",
-  "prefecture": "徳島県",
-  "city": "板野郡北島町",
-  "town": "北村",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "36402",
+      "oldZipCode": "77102",
+      "zipCode": "7710201",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "イタノグンキタジマチョウ",
+      "townKana": "キタムラ",
+      "prefecture": "徳島県",
+      "city": "板野郡北島町",
+      "town": "北村",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

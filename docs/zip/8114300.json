@@ -1,17 +1,21 @@
 {
-  "jisCode": "40384",
-  "oldZipCode": "81143",
-  "zipCode": "8114300",
-  "prefectureKana": "フクオカケン",
-  "cityKana": "オンガグンオンガチョウ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "福岡県",
-  "city": "遠賀郡遠賀町",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "40384",
+      "oldZipCode": "81143",
+      "zipCode": "8114300",
+      "prefectureKana": "フクオカケン",
+      "cityKana": "オンガグンオンガチョウ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "福岡県",
+      "city": "遠賀郡遠賀町",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "23224",
-  "oldZipCode": "478  ",
-  "zipCode": "4780037",
-  "prefectureKana": "アイチケン",
-  "cityKana": "チタシ",
-  "townKana": "シンマイコヒガシマチ",
-  "prefecture": "愛知県",
-  "city": "知多市",
-  "town": "新舞子東町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23224",
+      "oldZipCode": "478  ",
+      "zipCode": "4780037",
+      "prefectureKana": "アイチケン",
+      "cityKana": "チタシ",
+      "townKana": "シンマイコヒガシマチ",
+      "prefecture": "愛知県",
+      "city": "知多市",
+      "town": "新舞子東町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "27229",
-  "oldZipCode": "575  ",
-  "zipCode": "5750062",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "シジョウナワテシ",
-  "townKana": "キヨタキシンマチ",
-  "prefecture": "大阪府",
-  "city": "四條畷市",
-  "town": "清滝新町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27229",
+      "oldZipCode": "575  ",
+      "zipCode": "5750062",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "シジョウナワテシ",
+      "townKana": "キヨタキシンマチ",
+      "prefecture": "大阪府",
+      "city": "四條畷市",
+      "town": "清滝新町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

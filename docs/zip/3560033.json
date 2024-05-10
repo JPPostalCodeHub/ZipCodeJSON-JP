@@ -1,17 +1,21 @@
 {
-  "jisCode": "11245",
-  "oldZipCode": "356  ",
-  "zipCode": "3560033",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "フジミノシ",
-  "townKana": "シンデン",
-  "prefecture": "埼玉県",
-  "city": "ふじみ野市",
-  "town": "新田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11245",
+      "oldZipCode": "356  ",
+      "zipCode": "3560033",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "フジミノシ",
+      "townKana": "シンデン",
+      "prefecture": "埼玉県",
+      "city": "ふじみ野市",
+      "town": "新田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

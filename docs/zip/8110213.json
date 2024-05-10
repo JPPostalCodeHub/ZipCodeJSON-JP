@@ -1,17 +1,21 @@
 {
-  "jisCode": "40131",
-  "oldZipCode": "81102",
-  "zipCode": "8110213",
-  "prefectureKana": "フクオカケン",
-  "cityKana": "フクオカシヒガシク",
-  "townKana": "ワジロガオカ",
-  "prefecture": "福岡県",
-  "city": "福岡市東区",
-  "town": "和白丘",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "40131",
+      "oldZipCode": "81102",
+      "zipCode": "8110213",
+      "prefectureKana": "フクオカケン",
+      "cityKana": "フクオカシヒガシク",
+      "townKana": "ワジロガオカ",
+      "prefecture": "福岡県",
+      "city": "福岡市東区",
+      "town": "和白丘",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

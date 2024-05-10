@@ -1,17 +1,21 @@
 {
-  "jisCode": "07201",
-  "oldZipCode": "960  ",
-  "zipCode": "9608054",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "フクシマシ",
-  "townKana": "ミカワキタマチ",
-  "prefecture": "福島県",
-  "city": "福島市",
-  "town": "三河北町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07201",
+      "oldZipCode": "960  ",
+      "zipCode": "9608054",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "フクシマシ",
+      "townKana": "ミカワキタマチ",
+      "prefecture": "福島県",
+      "city": "福島市",
+      "town": "三河北町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

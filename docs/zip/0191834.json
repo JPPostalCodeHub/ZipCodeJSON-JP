@@ -1,17 +1,38 @@
 {
-  "jisCode": "05212",
-  "oldZipCode": "01918",
-  "zipCode": "0191834",
-  "prefectureKana": "アキタケン",
-  "cityKana": "ダイセンシ",
-  "townKana": "ナンガイキタダクロセ",
-  "prefecture": "秋田県",
-  "city": "大仙市",
-  "town": "南外北田黒瀬",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05212",
+      "oldZipCode": "01918",
+      "zipCode": "0191834",
+      "prefectureKana": "アキタケン",
+      "cityKana": "ダイセンシ",
+      "townKana": "ナンガイアゲツチヤマ",
+      "prefecture": "秋田県",
+      "city": "大仙市",
+      "town": "南外揚土山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "05212",
+      "oldZipCode": "01918",
+      "zipCode": "0191834",
+      "prefectureKana": "アキタケン",
+      "cityKana": "ダイセンシ",
+      "townKana": "ナンガイキタダクロセ",
+      "prefecture": "秋田県",
+      "city": "大仙市",
+      "town": "南外北田黒瀬",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

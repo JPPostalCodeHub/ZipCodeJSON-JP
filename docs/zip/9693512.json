@@ -1,17 +1,21 @@
 {
-  "jisCode": "07208",
-  "oldZipCode": "96935",
-  "zipCode": "9693512",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "キタカタシ",
-  "townKana": "シオカワマチヒガシサカエマチ",
-  "prefecture": "福島県",
-  "city": "喜多方市",
-  "town": "塩川町東栄町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07208",
+      "oldZipCode": "96935",
+      "zipCode": "9693512",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "キタカタシ",
+      "townKana": "シオカワマチヒガシサカエマチ",
+      "prefecture": "福島県",
+      "city": "喜多方市",
+      "town": "塩川町東栄町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

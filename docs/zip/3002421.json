@@ -1,17 +1,21 @@
 {
-  "jisCode": "08235",
-  "oldZipCode": "30024",
-  "zipCode": "3002421",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "ツクバミライシ",
-  "townKana": "ニシマルヤマ",
-  "prefecture": "茨城県",
-  "city": "つくばみらい市",
-  "town": "西丸山",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08235",
+      "oldZipCode": "30024",
+      "zipCode": "3002421",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "ツクバミライシ",
+      "townKana": "ニシマルヤマ",
+      "prefecture": "茨城県",
+      "city": "つくばみらい市",
+      "town": "西丸山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

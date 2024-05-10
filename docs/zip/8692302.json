@@ -1,17 +1,21 @@
 {
-  "jisCode": "43214",
-  "oldZipCode": "86923",
-  "zipCode": "8692302",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "アソシ",
-  "townKana": "ミクボ",
-  "prefecture": "熊本県",
-  "city": "阿蘇市",
-  "town": "三久保",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43214",
+      "oldZipCode": "86923",
+      "zipCode": "8692302",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "アソシ",
+      "townKana": "ミクボ",
+      "prefecture": "熊本県",
+      "city": "阿蘇市",
+      "town": "三久保",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "25202",
-  "oldZipCode": "52202",
-  "zipCode": "5220237",
-  "prefectureKana": "シガケン",
-  "cityKana": "ヒコネシ",
-  "townKana": "ホリチョウ",
-  "prefecture": "滋賀県",
-  "city": "彦根市",
-  "town": "堀町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "25202",
+      "oldZipCode": "52202",
+      "zipCode": "5220237",
+      "prefectureKana": "シガケン",
+      "cityKana": "ヒコネシ",
+      "townKana": "ホリチョウ",
+      "prefecture": "滋賀県",
+      "city": "彦根市",
+      "town": "堀町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

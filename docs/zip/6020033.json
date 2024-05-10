@@ -1,17 +1,21 @@
 {
-  "jisCode": "26102",
-  "oldZipCode": "602  ",
-  "zipCode": "6020033",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシカミギョウク",
-  "townKana": "イマデガワチョウ",
-  "prefecture": "京都府",
-  "city": "京都市上京区",
-  "town": "今出川町（烏丸通今出川上る、烏丸通今出川下る、今出川通烏丸西入、今出川通室町東入）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26102",
+      "oldZipCode": "602  ",
+      "zipCode": "6020033",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシカミギョウク",
+      "townKana": "イマデガワチョウ",
+      "prefecture": "京都府",
+      "city": "京都市上京区",
+      "town": "今出川町（烏丸通今出川上る、烏丸通今出川下る、今出川通烏丸西入、今出川通室町東入）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

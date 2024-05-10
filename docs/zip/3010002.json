@@ -1,17 +1,21 @@
 {
-  "jisCode": "08208",
-  "oldZipCode": "301  ",
-  "zipCode": "3010002",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "リュウガサキシ",
-  "townKana": "ナカネダイ",
-  "prefecture": "茨城県",
-  "city": "龍ケ崎市",
-  "town": "中根台",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08208",
+      "oldZipCode": "301  ",
+      "zipCode": "3010002",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "リュウガサキシ",
+      "townKana": "ナカネダイ",
+      "prefecture": "茨城県",
+      "city": "龍ケ崎市",
+      "town": "中根台",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

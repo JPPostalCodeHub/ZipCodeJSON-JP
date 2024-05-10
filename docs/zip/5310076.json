@@ -1,17 +1,21 @@
 {
-  "jisCode": "27127",
-  "oldZipCode": "531  ",
-  "zipCode": "5310076",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "オオサカシキタク",
-  "townKana": "オオヨドナカ（ツギノビルヲノゾク）",
-  "prefecture": "大阪府",
-  "city": "大阪市北区",
-  "town": "大淀中（次のビルを除く）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27127",
+      "oldZipCode": "531  ",
+      "zipCode": "5310076",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "オオサカシキタク",
+      "townKana": "オオヨドナカ（ツギノビルヲノゾク）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "town": "大淀中（次のビルを除く）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

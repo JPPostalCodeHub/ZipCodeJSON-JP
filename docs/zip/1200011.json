@@ -1,17 +1,21 @@
 {
-  "jisCode": "13121",
-  "oldZipCode": "120  ",
-  "zipCode": "1200011",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "アダチク",
-  "townKana": "チュウオウホンチョウ（１、２チョウメ）",
-  "prefecture": "東京都",
-  "city": "足立区",
-  "town": "中央本町（１、２丁目）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13121",
+      "oldZipCode": "120  ",
+      "zipCode": "1200011",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "アダチク",
+      "townKana": "チュウオウホンチョウ（１、２チョウメ）",
+      "prefecture": "東京都",
+      "city": "足立区",
+      "town": "中央本町（１、２丁目）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "15102",
-  "oldZipCode": "950  ",
-  "zipCode": "9500881",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ニイガタシヒガシク",
-  "townKana": "エノキチョウ",
-  "prefecture": "新潟県",
-  "city": "新潟市東区",
-  "town": "榎町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15102",
+      "oldZipCode": "950  ",
+      "zipCode": "9500881",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ニイガタシヒガシク",
+      "townKana": "エノキチョウ",
+      "prefecture": "新潟県",
+      "city": "新潟市東区",
+      "town": "榎町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

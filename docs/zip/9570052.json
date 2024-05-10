@@ -1,17 +1,21 @@
 {
-  "jisCode": "15206",
-  "oldZipCode": "957  ",
-  "zipCode": "9570052",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "シバタシ",
-  "townKana": "オオテマチ",
-  "prefecture": "新潟県",
-  "city": "新発田市",
-  "town": "大手町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15206",
+      "oldZipCode": "957  ",
+      "zipCode": "9570052",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "シバタシ",
+      "townKana": "オオテマチ",
+      "prefecture": "新潟県",
+      "city": "新発田市",
+      "town": "大手町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

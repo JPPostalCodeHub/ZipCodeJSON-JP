@@ -1,17 +1,21 @@
 {
-  "jisCode": "30406",
-  "oldZipCode": "64926",
-  "zipCode": "6492601",
-  "prefectureKana": "ワカヤマケン",
-  "cityKana": "ニシムログンスサミチョウ",
-  "townKana": "コツキ",
-  "prefecture": "和歌山県",
-  "city": "西牟婁郡すさみ町",
-  "town": "小附",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "30406",
+      "oldZipCode": "64926",
+      "zipCode": "6492601",
+      "prefectureKana": "ワカヤマケン",
+      "cityKana": "ニシムログンスサミチョウ",
+      "townKana": "コツキ",
+      "prefecture": "和歌山県",
+      "city": "西牟婁郡すさみ町",
+      "town": "小附",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

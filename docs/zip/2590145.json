@@ -1,17 +1,21 @@
 {
-  "jisCode": "14361",
-  "oldZipCode": "25901",
-  "zipCode": "2590145",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "アシガラカミグンナカイマチ",
-  "townKana": "タナカ",
-  "prefecture": "神奈川県",
-  "city": "足柄上郡中井町",
-  "town": "田中",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14361",
+      "oldZipCode": "25901",
+      "zipCode": "2590145",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "アシガラカミグンナカイマチ",
+      "townKana": "タナカ",
+      "prefecture": "神奈川県",
+      "city": "足柄上郡中井町",
+      "town": "田中",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

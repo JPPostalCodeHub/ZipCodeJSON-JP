@@ -1,17 +1,21 @@
 {
-  "jisCode": "47308",
-  "oldZipCode": "90502",
-  "zipCode": "9050227",
-  "prefectureKana": "オキナワケン",
-  "cityKana": "クニガミグンモトブチョウ",
-  "townKana": "セソコ",
-  "prefecture": "沖縄県",
-  "city": "国頭郡本部町",
-  "town": "瀬底",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "47308",
+      "oldZipCode": "90502",
+      "zipCode": "9050227",
+      "prefectureKana": "オキナワケン",
+      "cityKana": "クニガミグンモトブチョウ",
+      "townKana": "セソコ",
+      "prefecture": "沖縄県",
+      "city": "国頭郡本部町",
+      "town": "瀬底",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

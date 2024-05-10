@@ -1,17 +1,21 @@
 {
-  "jisCode": "13223",
-  "oldZipCode": "208  ",
-  "zipCode": "2080001",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "ムサシムラヤマシ",
-  "townKana": "ナカトウ",
-  "prefecture": "東京都",
-  "city": "武蔵村山市",
-  "town": "中藤",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13223",
+      "oldZipCode": "208  ",
+      "zipCode": "2080001",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "ムサシムラヤマシ",
+      "townKana": "ナカトウ",
+      "prefecture": "東京都",
+      "city": "武蔵村山市",
+      "town": "中藤",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "27214",
-  "oldZipCode": "584  ",
-  "zipCode": "5840057",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "トンダバヤシシ",
-  "townKana": "ヨコヤマ",
-  "prefecture": "大阪府",
-  "city": "富田林市",
-  "town": "横山",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27214",
+      "oldZipCode": "584  ",
+      "zipCode": "5840057",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "トンダバヤシシ",
+      "townKana": "ヨコヤマ",
+      "prefecture": "大阪府",
+      "city": "富田林市",
+      "town": "横山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

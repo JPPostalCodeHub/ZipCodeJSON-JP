@@ -1,17 +1,21 @@
 {
-  "jisCode": "13121",
-  "oldZipCode": "121  ",
-  "zipCode": "1210813",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "アダチク",
-  "townKana": "タケノツカ",
-  "prefecture": "東京都",
-  "city": "足立区",
-  "town": "竹の塚",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13121",
+      "oldZipCode": "121  ",
+      "zipCode": "1210813",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "アダチク",
+      "townKana": "タケノツカ",
+      "prefecture": "東京都",
+      "city": "足立区",
+      "town": "竹の塚",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "43432",
-  "oldZipCode": "86124",
-  "zipCode": "8612401",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "アソグンニシハラムラ",
-  "townKana": "トリコ",
-  "prefecture": "熊本県",
-  "city": "阿蘇郡西原村",
-  "town": "鳥子",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43432",
+      "oldZipCode": "86124",
+      "zipCode": "8612401",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "アソグンニシハラムラ",
+      "townKana": "トリコ",
+      "prefecture": "熊本県",
+      "city": "阿蘇郡西原村",
+      "town": "鳥子",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

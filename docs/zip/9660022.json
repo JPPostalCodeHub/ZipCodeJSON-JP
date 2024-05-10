@@ -1,17 +1,21 @@
 {
-  "jisCode": "07208",
-  "oldZipCode": "966  ",
-  "zipCode": "9660022",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "キタカタシ",
-  "townKana": "クマグラマチオグニ",
-  "prefecture": "福島県",
-  "city": "喜多方市",
-  "town": "熊倉町雄国",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07208",
+      "oldZipCode": "966  ",
+      "zipCode": "9660022",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "キタカタシ",
+      "townKana": "クマグラマチオグニ",
+      "prefecture": "福島県",
+      "city": "喜多方市",
+      "town": "熊倉町雄国",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

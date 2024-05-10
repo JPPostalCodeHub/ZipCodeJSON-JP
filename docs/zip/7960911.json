@@ -1,17 +1,21 @@
 {
-  "jisCode": "38214",
-  "oldZipCode": "79609",
-  "zipCode": "7960911",
-  "prefectureKana": "エヒメケン",
-  "cityKana": "セイヨシ",
-  "townKana": "ミカメチョウアラタチ",
-  "prefecture": "愛媛県",
-  "city": "西予市",
-  "town": "三瓶町有太刀",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "38214",
+      "oldZipCode": "79609",
+      "zipCode": "7960911",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "セイヨシ",
+      "townKana": "ミカメチョウアラタチ",
+      "prefecture": "愛媛県",
+      "city": "西予市",
+      "town": "三瓶町有太刀",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

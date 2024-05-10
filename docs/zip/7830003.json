@@ -1,17 +1,21 @@
 {
-  "jisCode": "39204",
-  "oldZipCode": "783  ",
-  "zipCode": "7830003",
-  "prefectureKana": "コウチケン",
-  "cityKana": "ナンコクシ",
-  "townKana": "ニシノダチョウ",
-  "prefecture": "高知県",
-  "city": "南国市",
-  "town": "西野田町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "39204",
+      "oldZipCode": "783  ",
+      "zipCode": "7830003",
+      "prefectureKana": "コウチケン",
+      "cityKana": "ナンコクシ",
+      "townKana": "ニシノダチョウ",
+      "prefecture": "高知県",
+      "city": "南国市",
+      "town": "西野田町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

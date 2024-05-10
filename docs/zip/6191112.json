@@ -1,17 +1,21 @@
 {
-  "jisCode": "26214",
-  "oldZipCode": "61911",
-  "zipCode": "6191112",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キヅガワシ",
-  "townKana": "カモチョウウナミ",
-  "prefecture": "京都府",
-  "city": "木津川市",
-  "town": "加茂町兎並",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26214",
+      "oldZipCode": "61911",
+      "zipCode": "6191112",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キヅガワシ",
+      "townKana": "カモチョウウナミ",
+      "prefecture": "京都府",
+      "city": "木津川市",
+      "town": "加茂町兎並",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

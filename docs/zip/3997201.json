@@ -1,17 +1,21 @@
 {
-  "jisCode": "20448",
-  "oldZipCode": "39972",
-  "zipCode": "3997201",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "ヒガシチクマグンイクサカムラ",
-  "townKana": "イクサカムラノツギニバンチガクルバアイ",
-  "prefecture": "長野県",
-  "city": "東筑摩郡生坂村",
-  "town": "生坂村の次に番地がくる場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20448",
+      "oldZipCode": "39972",
+      "zipCode": "3997201",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "ヒガシチクマグンイクサカムラ",
+      "townKana": "イクサカムラノツギニバンチガクルバアイ",
+      "prefecture": "長野県",
+      "city": "東筑摩郡生坂村",
+      "town": "生坂村の次に番地がくる場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

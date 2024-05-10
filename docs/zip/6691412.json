@@ -1,17 +1,21 @@
 {
-  "jisCode": "28219",
-  "oldZipCode": "66914",
-  "zipCode": "6691412",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "サンダシ",
-  "townKana": "コウヅキ",
-  "prefecture": "兵庫県",
-  "city": "三田市",
-  "town": "木器",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28219",
+      "oldZipCode": "66914",
+      "zipCode": "6691412",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "サンダシ",
+      "townKana": "コウヅキ",
+      "prefecture": "兵庫県",
+      "city": "三田市",
+      "town": "木器",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

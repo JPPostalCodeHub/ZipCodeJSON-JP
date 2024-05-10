@@ -1,17 +1,21 @@
 {
-  "jisCode": "08234",
-  "oldZipCode": "31115",
-  "zipCode": "3111528",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "ホコタシ",
-  "townKana": "トウマ",
-  "prefecture": "茨城県",
-  "city": "鉾田市",
-  "town": "当間",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08234",
+      "oldZipCode": "31115",
+      "zipCode": "3111528",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "ホコタシ",
+      "townKana": "トウマ",
+      "prefecture": "茨城県",
+      "city": "鉾田市",
+      "town": "当間",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "26201",
-  "oldZipCode": "62003",
-  "zipCode": "6200303",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "フクチヤマシ",
-  "townKana": "オオエチョウカナヤ",
-  "prefecture": "京都府",
-  "city": "福知山市",
-  "town": "大江町金屋",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26201",
+      "oldZipCode": "62003",
+      "zipCode": "6200303",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "フクチヤマシ",
+      "townKana": "オオエチョウカナヤ",
+      "prefecture": "京都府",
+      "city": "福知山市",
+      "town": "大江町金屋",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

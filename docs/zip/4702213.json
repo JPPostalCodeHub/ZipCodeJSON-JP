@@ -1,17 +1,21 @@
 {
-  "jisCode": "23441",
-  "oldZipCode": "47022",
-  "zipCode": "4702213",
-  "prefectureKana": "アイチケン",
-  "cityKana": "チタグンアグイチョウ",
-  "townKana": "アグイ",
-  "prefecture": "愛知県",
-  "city": "知多郡阿久比町",
-  "town": "阿久比",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23441",
+      "oldZipCode": "47022",
+      "zipCode": "4702213",
+      "prefectureKana": "アイチケン",
+      "cityKana": "チタグンアグイチョウ",
+      "townKana": "アグイ",
+      "prefecture": "愛知県",
+      "city": "知多郡阿久比町",
+      "town": "阿久比",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

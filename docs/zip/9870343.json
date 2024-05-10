@@ -1,17 +1,38 @@
 {
-  "jisCode": "04212",
-  "oldZipCode": "98703",
-  "zipCode": "9870343",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "トメシ",
-  "townKana": "トヨサトチョウサワジリ",
-  "prefecture": "宮城県",
-  "city": "登米市",
-  "town": "豊里町沢尻",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04212",
+      "oldZipCode": "98703",
+      "zipCode": "9870343",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "トメシ",
+      "townKana": "トヨサトチョウコヤチ",
+      "prefecture": "宮城県",
+      "city": "登米市",
+      "town": "豊里町小谷地",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "04212",
+      "oldZipCode": "98703",
+      "zipCode": "9870343",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "トメシ",
+      "townKana": "トヨサトチョウサワジリ",
+      "prefecture": "宮城県",
+      "city": "登米市",
+      "town": "豊里町沢尻",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

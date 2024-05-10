@@ -1,17 +1,38 @@
 {
-  "jisCode": "18201",
-  "oldZipCode": "910  ",
-  "zipCode": "9188027",
-  "prefectureKana": "フクイケン",
-  "cityKana": "フクイシ",
-  "townKana": "フクマチ",
-  "prefecture": "福井県",
-  "city": "福井市",
-  "town": "福町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18201",
+      "oldZipCode": "910  ",
+      "zipCode": "9188027",
+      "prefectureKana": "フクイケン",
+      "cityKana": "フクイシ",
+      "townKana": "フク",
+      "prefecture": "福井県",
+      "city": "福井市",
+      "town": "福",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "18201",
+      "oldZipCode": "910  ",
+      "zipCode": "9188027",
+      "prefectureKana": "フクイケン",
+      "cityKana": "フクイシ",
+      "townKana": "フクマチ",
+      "prefecture": "福井県",
+      "city": "福井市",
+      "town": "福町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

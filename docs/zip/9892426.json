@@ -1,17 +1,21 @@
 {
-  "jisCode": "04211",
-  "oldZipCode": "98924",
-  "zipCode": "9892426",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "イワヌマシ",
-  "townKana": "スエヒロ",
-  "prefecture": "宮城県",
-  "city": "岩沼市",
-  "town": "末広",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04211",
+      "oldZipCode": "98924",
+      "zipCode": "9892426",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "イワヌマシ",
+      "townKana": "スエヒロ",
+      "prefecture": "宮城県",
+      "city": "岩沼市",
+      "town": "末広",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

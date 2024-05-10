@@ -1,17 +1,21 @@
 {
-  "jisCode": "15581",
-  "oldZipCode": "95932",
-  "zipCode": "9593275",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "イワフネグンセキカワムラ",
-  "townKana": "ウチスガワ",
-  "prefecture": "新潟県",
-  "city": "岩船郡関川村",
-  "town": "内須川",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15581",
+      "oldZipCode": "95932",
+      "zipCode": "9593275",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "イワフネグンセキカワムラ",
+      "townKana": "ウチスガワ",
+      "prefecture": "新潟県",
+      "city": "岩船郡関川村",
+      "town": "内須川",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

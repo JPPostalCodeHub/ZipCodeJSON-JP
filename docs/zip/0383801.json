@@ -1,17 +1,21 @@
 {
-  "jisCode": "02361",
-  "oldZipCode": "03838",
-  "zipCode": "0383801",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "ミナミツガルグンフジサキマチ",
-  "townKana": "フジコシ",
-  "prefecture": "青森県",
-  "city": "南津軽郡藤崎町",
-  "town": "藤越",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02361",
+      "oldZipCode": "03838",
+      "zipCode": "0383801",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "ミナミツガルグンフジサキマチ",
+      "townKana": "フジコシ",
+      "prefecture": "青森県",
+      "city": "南津軽郡藤崎町",
+      "town": "藤越",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

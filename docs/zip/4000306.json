@@ -1,17 +1,21 @@
 {
-  "jisCode": "19208",
-  "oldZipCode": "40003",
-  "zipCode": "4000306",
-  "prefectureKana": "ヤマナシケン",
-  "cityKana": "ミナミアルプスシ",
-  "townKana": "オガサハラ",
-  "prefecture": "山梨県",
-  "city": "南アルプス市",
-  "town": "小笠原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "19208",
+      "oldZipCode": "40003",
+      "zipCode": "4000306",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "ミナミアルプスシ",
+      "townKana": "オガサハラ",
+      "prefecture": "山梨県",
+      "city": "南アルプス市",
+      "town": "小笠原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

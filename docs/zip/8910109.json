@@ -1,17 +1,21 @@
 {
-  "jisCode": "46201",
-  "oldZipCode": "89101",
-  "zipCode": "8910109",
-  "prefectureKana": "カゴシマケン",
-  "cityKana": "カゴシマシ",
-  "townKana": "セイワ",
-  "prefecture": "鹿児島県",
-  "city": "鹿児島市",
-  "town": "清和",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "46201",
+      "oldZipCode": "89101",
+      "zipCode": "8910109",
+      "prefectureKana": "カゴシマケン",
+      "cityKana": "カゴシマシ",
+      "townKana": "セイワ",
+      "prefecture": "鹿児島県",
+      "city": "鹿児島市",
+      "town": "清和",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

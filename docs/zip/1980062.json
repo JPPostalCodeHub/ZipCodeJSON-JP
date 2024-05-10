@@ -1,17 +1,21 @@
 {
-  "jisCode": "13205",
-  "oldZipCode": "198  ",
-  "zipCode": "1980062",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "オウメシ",
-  "townKana": "ワダマチ",
-  "prefecture": "東京都",
-  "city": "青梅市",
-  "town": "和田町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13205",
+      "oldZipCode": "198  ",
+      "zipCode": "1980062",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "オウメシ",
+      "townKana": "ワダマチ",
+      "prefecture": "東京都",
+      "city": "青梅市",
+      "town": "和田町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

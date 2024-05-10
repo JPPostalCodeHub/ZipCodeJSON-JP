@@ -1,17 +1,21 @@
 {
-  "jisCode": "42202",
-  "oldZipCode": "858  ",
-  "zipCode": "8580965",
-  "prefectureKana": "ナガサキケン",
-  "cityKana": "サセボシ",
-  "townKana": "オノチョウ（ソノタ）",
-  "prefecture": "長崎県",
-  "city": "佐世保市",
-  "town": "小野町（その他）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "42202",
+      "oldZipCode": "858  ",
+      "zipCode": "8580965",
+      "prefectureKana": "ナガサキケン",
+      "cityKana": "サセボシ",
+      "townKana": "オノチョウ（ソノタ）",
+      "prefecture": "長崎県",
+      "city": "佐世保市",
+      "town": "小野町（その他）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

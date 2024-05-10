@@ -1,17 +1,21 @@
 {
-  "jisCode": "01663",
-  "oldZipCode": "08815",
-  "zipCode": "0881571",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "アッケシグンハマナカチョウ",
-  "townKana": "ドウユウリン",
-  "prefecture": "北海道",
-  "city": "厚岸郡浜中町",
-  "town": "道有林",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01663",
+      "oldZipCode": "08815",
+      "zipCode": "0881571",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "アッケシグンハマナカチョウ",
+      "townKana": "ドウユウリン",
+      "prefecture": "北海道",
+      "city": "厚岸郡浜中町",
+      "town": "道有林",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

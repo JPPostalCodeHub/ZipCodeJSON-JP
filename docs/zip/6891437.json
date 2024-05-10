@@ -1,17 +1,21 @@
 {
-  "jisCode": "31328",
-  "oldZipCode": "68914",
-  "zipCode": "6891437",
-  "prefectureKana": "トットリケン",
-  "cityKana": "ヤズグンチヅチョウ",
-  "townKana": "ミタ",
-  "prefecture": "鳥取県",
-  "city": "八頭郡智頭町",
-  "town": "三田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "31328",
+      "oldZipCode": "68914",
+      "zipCode": "6891437",
+      "prefectureKana": "トットリケン",
+      "cityKana": "ヤズグンチヅチョウ",
+      "townKana": "ミタ",
+      "prefecture": "鳥取県",
+      "city": "八頭郡智頭町",
+      "town": "三田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,38 @@
 {
-  "jisCode": "02442",
-  "oldZipCode": "03915",
-  "zipCode": "0391531",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "サンノヘグンゴノヘマチ",
-  "townKana": "キツネモリキタ",
-  "prefecture": "青森県",
-  "city": "三戸郡五戸町",
-  "town": "狐森北",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02442",
+      "oldZipCode": "03915",
+      "zipCode": "0391531",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "サンノヘグンゴノヘマチ",
+      "townKana": "キツネモリ",
+      "prefecture": "青森県",
+      "city": "三戸郡五戸町",
+      "town": "狐森",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "02442",
+      "oldZipCode": "03915",
+      "zipCode": "0391531",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "サンノヘグンゴノヘマチ",
+      "townKana": "キツネモリキタ",
+      "prefecture": "青森県",
+      "city": "三戸郡五戸町",
+      "town": "狐森北",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

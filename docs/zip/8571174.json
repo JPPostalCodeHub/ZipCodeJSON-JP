@@ -1,17 +1,21 @@
 {
-  "jisCode": "42202",
-  "oldZipCode": "85711",
-  "zipCode": "8571174",
-  "prefectureKana": "ナガサキケン",
-  "cityKana": "サセボシ",
-  "townKana": "テンジン",
-  "prefecture": "長崎県",
-  "city": "佐世保市",
-  "town": "天神",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "42202",
+      "oldZipCode": "85711",
+      "zipCode": "8571174",
+      "prefectureKana": "ナガサキケン",
+      "cityKana": "サセボシ",
+      "townKana": "テンジン",
+      "prefecture": "長崎県",
+      "city": "佐世保市",
+      "town": "天神",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

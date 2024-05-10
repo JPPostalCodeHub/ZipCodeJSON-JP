@@ -1,17 +1,21 @@
 {
-  "jisCode": "15202",
-  "oldZipCode": "95402",
-  "zipCode": "9540203",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ナガオカシ",
-  "townKana": "コヌマシンデン",
-  "prefecture": "新潟県",
-  "city": "長岡市",
-  "town": "小沼新田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15202",
+      "oldZipCode": "95402",
+      "zipCode": "9540203",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ナガオカシ",
+      "townKana": "コヌマシンデン",
+      "prefecture": "新潟県",
+      "city": "長岡市",
+      "town": "小沼新田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

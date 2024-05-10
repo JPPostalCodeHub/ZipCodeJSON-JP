@@ -1,17 +1,21 @@
 {
-  "jisCode": "18501",
-  "oldZipCode": "91913",
-  "zipCode": "9191311",
-  "prefectureKana": "フクイケン",
-  "cityKana": "ミカタカミナカグンワカサチョウ",
-  "townKana": "フジイ",
-  "prefecture": "福井県",
-  "city": "三方上中郡若狭町",
-  "town": "藤井",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18501",
+      "oldZipCode": "91913",
+      "zipCode": "9191311",
+      "prefectureKana": "フクイケン",
+      "cityKana": "ミカタカミナカグンワカサチョウ",
+      "townKana": "フジイ",
+      "prefecture": "福井県",
+      "city": "三方上中郡若狭町",
+      "town": "藤井",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,38 @@
 {
-  "jisCode": "23233",
-  "oldZipCode": "452  ",
-  "zipCode": "4520034",
-  "prefectureKana": "アイチケン",
-  "cityKana": "キヨスシ",
-  "townKana": "ニシビワジマチョウヒノデ",
-  "prefecture": "愛知県",
-  "city": "清須市",
-  "town": "西枇杷島町日の出",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23233",
+      "oldZipCode": "452  ",
+      "zipCode": "4520034",
+      "prefectureKana": "アイチケン",
+      "cityKana": "キヨスシ",
+      "townKana": "ニシビワジマチョウヒノデ",
+      "prefecture": "愛知県",
+      "city": "清須市",
+      "town": "西枇杷島町日之出",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "23233",
+      "oldZipCode": "452  ",
+      "zipCode": "4520034",
+      "prefectureKana": "アイチケン",
+      "cityKana": "キヨスシ",
+      "townKana": "ニシビワジマチョウヒノデ",
+      "prefecture": "愛知県",
+      "city": "清須市",
+      "town": "西枇杷島町日の出",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

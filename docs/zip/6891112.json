@@ -1,17 +1,21 @@
 {
-  "jisCode": "31201",
-  "oldZipCode": "68911",
-  "zipCode": "6891112",
-  "prefectureKana": "トットリケン",
-  "cityKana": "トットリシ",
-  "townKana": "ワカバダイミナミ",
-  "prefecture": "鳥取県",
-  "city": "鳥取市",
-  "town": "若葉台南",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "31201",
+      "oldZipCode": "68911",
+      "zipCode": "6891112",
+      "prefectureKana": "トットリケン",
+      "cityKana": "トットリシ",
+      "townKana": "ワカバダイミナミ",
+      "prefecture": "鳥取県",
+      "city": "鳥取市",
+      "town": "若葉台南",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

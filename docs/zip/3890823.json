@@ -1,17 +1,21 @@
 {
-  "jisCode": "20218",
-  "oldZipCode": "38908",
-  "zipCode": "3890823",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "チクマシ",
-  "townKana": "アラヤマ",
-  "prefecture": "長野県",
-  "city": "千曲市",
-  "town": "新山",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20218",
+      "oldZipCode": "38908",
+      "zipCode": "3890823",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "チクマシ",
+      "townKana": "アラヤマ",
+      "prefecture": "長野県",
+      "city": "千曲市",
+      "town": "新山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

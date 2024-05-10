@@ -1,17 +1,21 @@
 {
-  "jisCode": "15210",
-  "oldZipCode": "94985",
-  "zipCode": "9498557",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "トオカマチシ",
-  "townKana": "ミズサワイチノサワ",
-  "prefecture": "新潟県",
-  "city": "十日町市",
-  "town": "水沢市之沢",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15210",
+      "oldZipCode": "94985",
+      "zipCode": "9498557",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "トオカマチシ",
+      "townKana": "ミズサワイチノサワ",
+      "prefecture": "新潟県",
+      "city": "十日町市",
+      "town": "水沢市之沢",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

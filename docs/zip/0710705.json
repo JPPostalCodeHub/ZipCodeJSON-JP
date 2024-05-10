@@ -1,17 +1,21 @@
 {
-  "jisCode": "01461",
-  "oldZipCode": "07107",
-  "zipCode": "0710705",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ソラチグンナカフラノチョウ",
-  "townKana": "ニシ１センキタ",
-  "prefecture": "北海道",
-  "city": "空知郡中富良野町",
-  "town": "西１線北",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01461",
+      "oldZipCode": "07107",
+      "zipCode": "0710705",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ソラチグンナカフラノチョウ",
+      "townKana": "ニシ１センキタ",
+      "prefecture": "北海道",
+      "city": "空知郡中富良野町",
+      "town": "西１線北",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

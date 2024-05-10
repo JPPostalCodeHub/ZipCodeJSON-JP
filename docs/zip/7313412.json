@@ -1,17 +1,21 @@
 {
-  "jisCode": "34368",
-  "oldZipCode": "73134",
-  "zipCode": "7313412",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "ヤマガタグンアキオオタチョウ",
-  "townKana": "ツボノ",
-  "prefecture": "広島県",
-  "city": "山県郡安芸太田町",
-  "town": "坪野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34368",
+      "oldZipCode": "73134",
+      "zipCode": "7313412",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ヤマガタグンアキオオタチョウ",
+      "townKana": "ツボノ",
+      "prefecture": "広島県",
+      "city": "山県郡安芸太田町",
+      "town": "坪野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

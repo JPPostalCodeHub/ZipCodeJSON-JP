@@ -1,17 +1,21 @@
 {
-  "jisCode": "15105",
-  "oldZipCode": "956  ",
-  "zipCode": "9560837",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ニイガタシアキハク",
-  "townKana": "ヨシオカチョウ",
-  "prefecture": "新潟県",
-  "city": "新潟市秋葉区",
-  "town": "吉岡町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15105",
+      "oldZipCode": "956  ",
+      "zipCode": "9560837",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ニイガタシアキハク",
+      "townKana": "ヨシオカチョウ",
+      "prefecture": "新潟県",
+      "city": "新潟市秋葉区",
+      "town": "吉岡町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

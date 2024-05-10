@@ -1,17 +1,21 @@
 {
-  "jisCode": "45205",
-  "oldZipCode": "88601",
-  "zipCode": "8860101",
-  "prefectureKana": "ミヤザキケン",
-  "cityKana": "コバヤシシ",
-  "townKana": "ヒガシカタ（５７４１、５８７１バンチ）",
-  "prefecture": "宮崎県",
-  "city": "小林市",
-  "town": "東方（５７４１、５８７１番地）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "45205",
+      "oldZipCode": "88601",
+      "zipCode": "8860101",
+      "prefectureKana": "ミヤザキケン",
+      "cityKana": "コバヤシシ",
+      "townKana": "ヒガシカタ（５７４１、５８７１バンチ）",
+      "prefecture": "宮崎県",
+      "city": "小林市",
+      "town": "東方（５７４１、５８７１番地）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

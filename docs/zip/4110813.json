@@ -1,17 +1,21 @@
 {
-  "jisCode": "22206",
-  "oldZipCode": "411  ",
-  "zipCode": "4110813",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "ミシマシ",
-  "townKana": "ツルハミ",
-  "prefecture": "静岡県",
-  "city": "三島市",
-  "town": "鶴喰",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22206",
+      "oldZipCode": "411  ",
+      "zipCode": "4110813",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "ミシマシ",
+      "townKana": "ツルハミ",
+      "prefecture": "静岡県",
+      "city": "三島市",
+      "town": "鶴喰",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

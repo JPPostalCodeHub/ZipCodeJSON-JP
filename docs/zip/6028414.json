@@ -1,17 +1,21 @@
 {
-  "jisCode": "26102",
-  "oldZipCode": "602  ",
-  "zipCode": "6028414",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシカミギョウク",
-  "townKana": "ニシキタコウジチョウ",
-  "prefecture": "京都府",
-  "city": "京都市上京区",
-  "town": "西北小路町（猪熊通上立売上る、猪熊通寺之内下る、大宮通寺之内下る東入、大宮通寺之内半丁下る東入、大宮通寺之内下る東入１丁目、寺之内通大宮東入下る、寺之内通大宮東入１丁目下る）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26102",
+      "oldZipCode": "602  ",
+      "zipCode": "6028414",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシカミギョウク",
+      "townKana": "ニシキタコウジチョウ",
+      "prefecture": "京都府",
+      "city": "京都市上京区",
+      "town": "西北小路町（猪熊通上立売上る、猪熊通寺之内下る、大宮通寺之内下る東入、大宮通寺之内半丁下る東入、大宮通寺之内下る東入１丁目、寺之内通大宮東入下る、寺之内通大宮東入１丁目下る）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

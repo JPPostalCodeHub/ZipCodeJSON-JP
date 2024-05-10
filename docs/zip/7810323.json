@@ -1,17 +1,21 @@
 {
-  "jisCode": "39201",
-  "oldZipCode": "78103",
-  "zipCode": "7810323",
-  "prefectureKana": "コウチケン",
-  "cityKana": "コウチシ",
-  "townKana": "ハルノチョウニノ",
-  "prefecture": "高知県",
-  "city": "高知市",
-  "town": "春野町仁ノ",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "39201",
+      "oldZipCode": "78103",
+      "zipCode": "7810323",
+      "prefectureKana": "コウチケン",
+      "cityKana": "コウチシ",
+      "townKana": "ハルノチョウニノ",
+      "prefecture": "高知県",
+      "city": "高知市",
+      "town": "春野町仁ノ",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

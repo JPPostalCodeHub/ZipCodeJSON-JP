@@ -1,17 +1,21 @@
 {
-  "jisCode": "44202",
-  "oldZipCode": "874  ",
-  "zipCode": "8740819",
-  "prefectureKana": "オオイタケン",
-  "cityKana": "ベップシ",
-  "townKana": "アカマツ",
-  "prefecture": "大分県",
-  "city": "別府市",
-  "town": "赤松",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "44202",
+      "oldZipCode": "874  ",
+      "zipCode": "8740819",
+      "prefectureKana": "オオイタケン",
+      "cityKana": "ベップシ",
+      "townKana": "アカマツ",
+      "prefecture": "大分県",
+      "city": "別府市",
+      "town": "赤松",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

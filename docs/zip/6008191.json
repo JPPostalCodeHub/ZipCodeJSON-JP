@@ -1,17 +1,21 @@
 {
-  "jisCode": "26106",
-  "oldZipCode": "600  ",
-  "zipCode": "6008191",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシシモギョウク",
-  "townKana": "サカイチョウ（ゴジョウドオリタカクラニシイル、ゴジョウドオリタカクラヒガシイル、タカクラドオリゴジョウサガル）",
-  "prefecture": "京都府",
-  "city": "京都市下京区",
-  "town": "堺町（五条通高倉西入、五条通高倉東入、高倉通五条下る）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26106",
+      "oldZipCode": "600  ",
+      "zipCode": "6008191",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシシモギョウク",
+      "townKana": "サカイチョウ（ゴジョウドオリタカクラニシイル、ゴジョウドオリタカクラヒガシイル、タカクラドオリゴジョウサガル）",
+      "prefecture": "京都府",
+      "city": "京都市下京区",
+      "town": "堺町（五条通高倉西入、五条通高倉東入、高倉通五条下る）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

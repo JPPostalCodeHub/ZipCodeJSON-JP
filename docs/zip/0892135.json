@@ -1,17 +1,21 @@
 {
-  "jisCode": "01641",
-  "oldZipCode": "08921",
-  "zipCode": "0892135",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ヒロオグンタイキチョウ",
-  "townKana": "ミナミドオリ",
-  "prefecture": "北海道",
-  "city": "広尾郡大樹町",
-  "town": "南通",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01641",
+      "oldZipCode": "08921",
+      "zipCode": "0892135",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ヒロオグンタイキチョウ",
+      "townKana": "ミナミドオリ",
+      "prefecture": "北海道",
+      "city": "広尾郡大樹町",
+      "town": "南通",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

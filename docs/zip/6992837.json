@@ -1,17 +1,21 @@
 {
-  "jisCode": "32207",
-  "oldZipCode": "69928",
-  "zipCode": "6992837",
-  "prefectureKana": "シマネケン",
-  "cityKana": "ゴウツシ",
-  "townKana": "マツカワチョウカミカワド",
-  "prefecture": "島根県",
-  "city": "江津市",
-  "town": "松川町上河戸",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "32207",
+      "oldZipCode": "69928",
+      "zipCode": "6992837",
+      "prefectureKana": "シマネケン",
+      "cityKana": "ゴウツシ",
+      "townKana": "マツカワチョウカミカワド",
+      "prefecture": "島根県",
+      "city": "江津市",
+      "town": "松川町上河戸",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

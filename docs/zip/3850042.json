@@ -1,17 +1,21 @@
 {
-  "jisCode": "20217",
-  "oldZipCode": "38401",
-  "zipCode": "3850042",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "サクシ",
-  "townKana": "タカヤギ",
-  "prefecture": "長野県",
-  "city": "佐久市",
-  "town": "高柳",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20217",
+      "oldZipCode": "38401",
+      "zipCode": "3850042",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "サクシ",
+      "townKana": "タカヤギ",
+      "prefecture": "長野県",
+      "city": "佐久市",
+      "town": "高柳",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

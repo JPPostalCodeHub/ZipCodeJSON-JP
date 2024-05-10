@@ -1,17 +1,21 @@
 {
-  "jisCode": "22207",
-  "oldZipCode": "41903",
-  "zipCode": "4190305",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "フジノミヤシ",
-  "townKana": "シモユノ",
-  "prefecture": "静岡県",
-  "city": "富士宮市",
-  "town": "下柚野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22207",
+      "oldZipCode": "41903",
+      "zipCode": "4190305",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "フジノミヤシ",
+      "townKana": "シモユノ",
+      "prefecture": "静岡県",
+      "city": "富士宮市",
+      "town": "下柚野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

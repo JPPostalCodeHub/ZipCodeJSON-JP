@@ -1,17 +1,21 @@
 {
-  "jisCode": "30202",
-  "oldZipCode": "64011",
-  "zipCode": "6401171",
-  "prefectureKana": "ワカヤマケン",
-  "cityKana": "カイナンシ",
-  "townKana": "ノカミナカ",
-  "prefecture": "和歌山県",
-  "city": "海南市",
-  "town": "野上中",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "30202",
+      "oldZipCode": "64011",
+      "zipCode": "6401171",
+      "prefectureKana": "ワカヤマケン",
+      "cityKana": "カイナンシ",
+      "townKana": "ノカミナカ",
+      "prefecture": "和歌山県",
+      "city": "海南市",
+      "town": "野上中",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

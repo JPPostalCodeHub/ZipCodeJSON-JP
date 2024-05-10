@@ -1,17 +1,21 @@
 {
-  "jisCode": "15482",
-  "oldZipCode": "94982",
-  "zipCode": "9498202",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ナカウオヌマグンツナンマチ",
-  "townKana": "アシガサキ（ソノタ）",
-  "prefecture": "新潟県",
-  "city": "中魚沼郡津南町",
-  "town": "芦ケ崎（その他）",
-  "multipleZipCodes": "1",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15482",
+      "oldZipCode": "94982",
+      "zipCode": "9498202",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ナカウオヌマグンツナンマチ",
+      "townKana": "アシガサキ（ソノタ）",
+      "prefecture": "新潟県",
+      "city": "中魚沼郡津南町",
+      "town": "芦ケ崎（その他）",
+      "multipleZipCodes": "1",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

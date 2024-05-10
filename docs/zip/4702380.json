@@ -1,17 +1,21 @@
 {
-  "jisCode": "23447",
-  "oldZipCode": "47023",
-  "zipCode": "4702380",
-  "prefectureKana": "アイチケン",
-  "cityKana": "チタグンタケトヨチョウ",
-  "townKana": "ヒライ",
-  "prefecture": "愛知県",
-  "city": "知多郡武豊町",
-  "town": "平井",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23447",
+      "oldZipCode": "47023",
+      "zipCode": "4702380",
+      "prefectureKana": "アイチケン",
+      "cityKana": "チタグンタケトヨチョウ",
+      "townKana": "ヒライ",
+      "prefecture": "愛知県",
+      "city": "知多郡武豊町",
+      "town": "平井",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

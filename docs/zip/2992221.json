@@ -1,17 +1,21 @@
 {
-  "jisCode": "12234",
-  "oldZipCode": "29922",
-  "zipCode": "2992221",
-  "prefectureKana": "チバケン",
-  "cityKana": "ミナミボウソウシ",
-  "townKana": "ゴウド",
-  "prefecture": "千葉県",
-  "city": "南房総市",
-  "town": "合戸",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12234",
+      "oldZipCode": "29922",
+      "zipCode": "2992221",
+      "prefectureKana": "チバケン",
+      "cityKana": "ミナミボウソウシ",
+      "townKana": "ゴウド",
+      "prefecture": "千葉県",
+      "city": "南房総市",
+      "town": "合戸",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

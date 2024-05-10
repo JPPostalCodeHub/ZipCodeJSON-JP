@@ -1,17 +1,21 @@
 {
-  "jisCode": "02321",
-  "oldZipCode": "03827",
-  "zipCode": "0382747",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "ニシツガルグンアジガサワマチ",
-  "townKana": "ヨドマチ",
-  "prefecture": "青森県",
-  "city": "西津軽郡鰺ヶ沢町",
-  "town": "淀町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02321",
+      "oldZipCode": "03827",
+      "zipCode": "0382747",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "ニシツガルグンアジガサワマチ",
+      "townKana": "ヨドマチ",
+      "prefecture": "青森県",
+      "city": "西津軽郡鰺ヶ沢町",
+      "town": "淀町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

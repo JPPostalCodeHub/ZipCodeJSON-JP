@@ -1,17 +1,21 @@
 {
-  "jisCode": "20202",
-  "oldZipCode": "390  ",
-  "zipCode": "3900842",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "マツモトシ",
-  "townKana": "ソヤノ",
-  "prefecture": "長野県",
-  "city": "松本市",
-  "town": "征矢野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20202",
+      "oldZipCode": "390  ",
+      "zipCode": "3900842",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "マツモトシ",
+      "townKana": "ソヤノ",
+      "prefecture": "長野県",
+      "city": "松本市",
+      "town": "征矢野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

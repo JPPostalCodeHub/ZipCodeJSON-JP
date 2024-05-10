@@ -1,17 +1,21 @@
 {
-  "jisCode": "08201",
-  "oldZipCode": "31141",
-  "zipCode": "3114161",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "ミトシ",
-  "townKana": "マタグマチョウ",
-  "prefecture": "茨城県",
-  "city": "水戸市",
-  "town": "全隈町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08201",
+      "oldZipCode": "31141",
+      "zipCode": "3114161",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "ミトシ",
+      "townKana": "マタグマチョウ",
+      "prefecture": "茨城県",
+      "city": "水戸市",
+      "town": "全隈町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

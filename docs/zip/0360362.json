@@ -1,17 +1,21 @@
 {
-  "jisCode": "02204",
-  "oldZipCode": "03603",
-  "zipCode": "0360362",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "クロイシシ",
-  "townKana": "キョウマチ",
-  "prefecture": "青森県",
-  "city": "黒石市",
-  "town": "京町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02204",
+      "oldZipCode": "03603",
+      "zipCode": "0360362",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "クロイシシ",
+      "townKana": "キョウマチ",
+      "prefecture": "青森県",
+      "city": "黒石市",
+      "town": "京町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,38 @@
 {
-  "jisCode": "07208",
-  "oldZipCode": "966  ",
-  "zipCode": "9660035",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "キタカタシ",
-  "townKana": "ハタケダイ",
-  "prefecture": "福島県",
-  "city": "喜多方市",
-  "town": "畑台",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07208",
+      "oldZipCode": "966  ",
+      "zipCode": "9660035",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "キタカタシ",
+      "townKana": "ナカダイ",
+      "prefecture": "福島県",
+      "city": "喜多方市",
+      "town": "中台",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "07208",
+      "oldZipCode": "966  ",
+      "zipCode": "9660035",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "キタカタシ",
+      "townKana": "ハタケダイ",
+      "prefecture": "福島県",
+      "city": "喜多方市",
+      "town": "畑台",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

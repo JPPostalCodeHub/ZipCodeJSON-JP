@@ -1,17 +1,21 @@
 {
-  "jisCode": "27226",
-  "oldZipCode": "583  ",
-  "zipCode": "5830008",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "フジイデラシ",
-  "townKana": "オオイ",
-  "prefecture": "大阪府",
-  "city": "藤井寺市",
-  "town": "大井",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27226",
+      "oldZipCode": "583  ",
+      "zipCode": "5830008",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "フジイデラシ",
+      "townKana": "オオイ",
+      "prefecture": "大阪府",
+      "city": "藤井寺市",
+      "town": "大井",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

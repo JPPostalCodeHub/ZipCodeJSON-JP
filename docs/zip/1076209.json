@@ -1,17 +1,21 @@
 {
-  "jisCode": "13103",
-  "oldZipCode": "107  ",
-  "zipCode": "1076209",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "ミナトク",
-  "townKana": "アカサカミッドタウン・タワー（９カイ）",
-  "prefecture": "東京都",
-  "city": "港区",
-  "town": "赤坂ミッドタウン・タワー（９階）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13103",
+      "oldZipCode": "107  ",
+      "zipCode": "1076209",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "ミナトク",
+      "townKana": "アカサカミッドタウン・タワー（９カイ）",
+      "prefecture": "東京都",
+      "city": "港区",
+      "town": "赤坂ミッドタウン・タワー（９階）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

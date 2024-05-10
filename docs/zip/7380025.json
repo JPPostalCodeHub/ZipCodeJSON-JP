@@ -1,17 +1,21 @@
 {
-  "jisCode": "34213",
-  "oldZipCode": "738  ",
-  "zipCode": "7380025",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "ハツカイチシ",
-  "townKana": "ヘラ",
-  "prefecture": "広島県",
-  "city": "廿日市市",
-  "town": "平良",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34213",
+      "oldZipCode": "738  ",
+      "zipCode": "7380025",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ハツカイチシ",
+      "townKana": "ヘラ",
+      "prefecture": "広島県",
+      "city": "廿日市市",
+      "town": "平良",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

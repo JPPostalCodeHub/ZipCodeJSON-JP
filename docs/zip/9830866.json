@@ -1,17 +1,21 @@
 {
-  "jisCode": "04102",
-  "oldZipCode": "983  ",
-  "zipCode": "9830866",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "センダイシミヤギノク",
-  "townKana": "カキョウインドオリ",
-  "prefecture": "宮城県",
-  "city": "仙台市宮城野区",
-  "town": "花京院通",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04102",
+      "oldZipCode": "983  ",
+      "zipCode": "9830866",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "センダイシミヤギノク",
+      "townKana": "カキョウインドオリ",
+      "prefecture": "宮城県",
+      "city": "仙台市宮城野区",
+      "town": "花京院通",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

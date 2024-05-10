@@ -1,17 +1,21 @@
 {
-  "jisCode": "16201",
-  "oldZipCode": "93001",
-  "zipCode": "9300102",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "トヤマシ",
-  "townKana": "クレハノダ",
-  "prefecture": "富山県",
-  "city": "富山市",
-  "town": "呉羽野田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16201",
+      "oldZipCode": "93001",
+      "zipCode": "9300102",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "トヤマシ",
+      "townKana": "クレハノダ",
+      "prefecture": "富山県",
+      "city": "富山市",
+      "town": "呉羽野田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

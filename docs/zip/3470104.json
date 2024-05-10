@@ -1,17 +1,21 @@
 {
-  "jisCode": "11210",
-  "oldZipCode": "34701",
-  "zipCode": "3470104",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "カゾシ",
-  "townKana": "ネゴヤ",
-  "prefecture": "埼玉県",
-  "city": "加須市",
-  "town": "根古屋",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11210",
+      "oldZipCode": "34701",
+      "zipCode": "3470104",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "カゾシ",
+      "townKana": "ネゴヤ",
+      "prefecture": "埼玉県",
+      "city": "加須市",
+      "town": "根古屋",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

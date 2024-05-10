@@ -1,17 +1,38 @@
 {
-  "jisCode": "43102",
-  "oldZipCode": "862  ",
-  "zipCode": "8620941",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "クマモトシヒガシク",
-  "townKana": "イズミ",
-  "prefecture": "熊本県",
-  "city": "熊本市東区",
-  "town": "出水",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43101",
+      "oldZipCode": "862  ",
+      "zipCode": "8620941",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "クマモトシチュウオウク",
+      "townKana": "イズミ",
+      "prefecture": "熊本県",
+      "city": "熊本市中央区",
+      "town": "出水",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "43102",
+      "oldZipCode": "862  ",
+      "zipCode": "8620941",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "クマモトシヒガシク",
+      "townKana": "イズミ",
+      "prefecture": "熊本県",
+      "city": "熊本市東区",
+      "town": "出水",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

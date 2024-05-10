@@ -1,17 +1,21 @@
 {
-  "jisCode": "01635",
-  "oldZipCode": "08101",
-  "zipCode": "0810162",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "カミカワグンシントクチョウ",
-  "townKana": "クッタリカシワマチヒガシ",
-  "prefecture": "北海道",
-  "city": "上川郡新得町",
-  "town": "屈足柏町東",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01635",
+      "oldZipCode": "08101",
+      "zipCode": "0810162",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "カミカワグンシントクチョウ",
+      "townKana": "クッタリカシワマチヒガシ",
+      "prefecture": "北海道",
+      "city": "上川郡新得町",
+      "town": "屈足柏町東",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

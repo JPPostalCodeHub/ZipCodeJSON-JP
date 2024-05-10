@@ -1,17 +1,21 @@
 {
-  "jisCode": "08220",
-  "oldZipCode": "30012",
-  "zipCode": "3001243",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "ツクバシ",
-  "townKana": "オオイ",
-  "prefecture": "茨城県",
-  "city": "つくば市",
-  "town": "大井",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08220",
+      "oldZipCode": "30012",
+      "zipCode": "3001243",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "ツクバシ",
+      "townKana": "オオイ",
+      "prefecture": "茨城県",
+      "city": "つくば市",
+      "town": "大井",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

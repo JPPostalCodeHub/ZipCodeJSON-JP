@@ -1,17 +1,21 @@
 {
-  "jisCode": "17201",
-  "oldZipCode": "92002",
-  "zipCode": "9200231",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "カナザワシ",
-  "townKana": "オオノマチ（ソ、タ、ヌ、ヨ、レ）",
-  "prefecture": "石川県",
-  "city": "金沢市",
-  "town": "大野町（ソ、タ、ヌ、ヨ、レ）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17201",
+      "oldZipCode": "92002",
+      "zipCode": "9200231",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "カナザワシ",
+      "townKana": "オオノマチ（ソ、タ、ヌ、ヨ、レ）",
+      "prefecture": "石川県",
+      "city": "金沢市",
+      "town": "大野町（ソ、タ、ヌ、ヨ、レ）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

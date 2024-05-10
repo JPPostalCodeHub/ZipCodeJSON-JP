@@ -1,17 +1,21 @@
 {
-  "jisCode": "13363",
-  "oldZipCode": "10005",
-  "zipCode": "1000511",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "ニイジマムラ",
-  "townKana": "シキネジマ",
-  "prefecture": "東京都",
-  "city": "新島村",
-  "town": "式根島",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13363",
+      "oldZipCode": "10005",
+      "zipCode": "1000511",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "ニイジマムラ",
+      "townKana": "シキネジマ",
+      "prefecture": "東京都",
+      "city": "新島村",
+      "town": "式根島",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

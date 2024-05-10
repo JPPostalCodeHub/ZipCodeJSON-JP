@@ -1,17 +1,21 @@
 {
-  "jisCode": "45403",
-  "oldZipCode": "88113",
-  "zipCode": "8811301",
-  "prefectureKana": "ミヤザキケン",
-  "cityKana": "コユグンニシメラソン",
-  "townKana": "コシノオ",
-  "prefecture": "宮崎県",
-  "city": "児湯郡西米良村",
-  "town": "越野尾",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "45403",
+      "oldZipCode": "88113",
+      "zipCode": "8811301",
+      "prefectureKana": "ミヤザキケン",
+      "cityKana": "コユグンニシメラソン",
+      "townKana": "コシノオ",
+      "prefecture": "宮崎県",
+      "city": "児湯郡西米良村",
+      "town": "越野尾",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

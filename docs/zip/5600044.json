@@ -1,17 +1,21 @@
 {
-  "jisCode": "27203",
-  "oldZipCode": "560  ",
-  "zipCode": "5600044",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "トヨナカシ",
-  "townKana": "トネヤマモトマチ",
-  "prefecture": "大阪府",
-  "city": "豊中市",
-  "town": "刀根山元町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27203",
+      "oldZipCode": "560  ",
+      "zipCode": "5600044",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "トヨナカシ",
+      "townKana": "トネヤマモトマチ",
+      "prefecture": "大阪府",
+      "city": "豊中市",
+      "town": "刀根山元町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

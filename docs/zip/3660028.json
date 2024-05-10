@@ -1,17 +1,21 @@
 {
-  "jisCode": "11218",
-  "oldZipCode": "366  ",
-  "zipCode": "3660028",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "フカヤシ",
-  "townKana": "イナリチョウキタ",
-  "prefecture": "埼玉県",
-  "city": "深谷市",
-  "town": "稲荷町北",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11218",
+      "oldZipCode": "366  ",
+      "zipCode": "3660028",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "フカヤシ",
+      "townKana": "イナリチョウキタ",
+      "prefecture": "埼玉県",
+      "city": "深谷市",
+      "town": "稲荷町北",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

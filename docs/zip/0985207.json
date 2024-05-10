@@ -1,17 +1,21 @@
 {
-  "jisCode": "01514",
-  "oldZipCode": "09852",
-  "zipCode": "0985207",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "エサシグンエサシチョウ",
-  "townKana": "ウタノボリヒガシマチ",
-  "prefecture": "北海道",
-  "city": "枝幸郡枝幸町",
-  "town": "歌登東町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01514",
+      "oldZipCode": "09852",
+      "zipCode": "0985207",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "エサシグンエサシチョウ",
+      "townKana": "ウタノボリヒガシマチ",
+      "prefecture": "北海道",
+      "city": "枝幸郡枝幸町",
+      "town": "歌登東町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

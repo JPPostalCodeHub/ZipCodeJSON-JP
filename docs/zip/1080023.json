@@ -1,17 +1,21 @@
 {
-  "jisCode": "13103",
-  "oldZipCode": "108  ",
-  "zipCode": "1080023",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "ミナトク",
-  "townKana": "シバウラ（２−４チョウメ）",
-  "prefecture": "東京都",
-  "city": "港区",
-  "town": "芝浦（２〜４丁目）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13103",
+      "oldZipCode": "108  ",
+      "zipCode": "1080023",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "ミナトク",
+      "townKana": "シバウラ（２−４チョウメ）",
+      "prefecture": "東京都",
+      "city": "港区",
+      "town": "芝浦（２〜４丁目）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

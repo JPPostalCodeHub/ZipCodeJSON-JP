@@ -1,17 +1,21 @@
 {
-  "jisCode": "26106",
-  "oldZipCode": "600  ",
-  "zipCode": "6008266",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシシモギョウク",
-  "townKana": "カミノチョウ",
-  "prefecture": "京都府",
-  "city": "京都市下京区",
-  "town": "上之町（大宮通木津屋橋上る、大宮通七条下る、大宮通下魚棚下る、木津屋橋通大宮東入、下魚棚通大宮東入）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26106",
+      "oldZipCode": "600  ",
+      "zipCode": "6008266",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシシモギョウク",
+      "townKana": "カミノチョウ",
+      "prefecture": "京都府",
+      "city": "京都市下京区",
+      "town": "上之町（大宮通木津屋橋上る、大宮通七条下る、大宮通下魚棚下る、木津屋橋通大宮東入、下魚棚通大宮東入）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

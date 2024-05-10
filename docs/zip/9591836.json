@@ -1,17 +1,21 @@
 {
-  "jisCode": "15218",
-  "oldZipCode": "95916",
-  "zipCode": "9591836",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ゴセンシ",
-  "townKana": "ミナミホンチョウ",
-  "prefecture": "新潟県",
-  "city": "五泉市",
-  "town": "南本町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15218",
+      "oldZipCode": "95916",
+      "zipCode": "9591836",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ゴセンシ",
+      "townKana": "ミナミホンチョウ",
+      "prefecture": "新潟県",
+      "city": "五泉市",
+      "town": "南本町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

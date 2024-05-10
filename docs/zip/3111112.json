@@ -1,17 +1,21 @@
 {
-  "jisCode": "08201",
-  "oldZipCode": "31111",
-  "zipCode": "3111112",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "ミトシ",
-  "townKana": "カワマタチョウ",
-  "prefecture": "茨城県",
-  "city": "水戸市",
-  "town": "川又町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08201",
+      "oldZipCode": "31111",
+      "zipCode": "3111112",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "ミトシ",
+      "townKana": "カワマタチョウ",
+      "prefecture": "茨城県",
+      "city": "水戸市",
+      "town": "川又町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "02445",
-  "oldZipCode": "03901",
-  "zipCode": "0390106",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "サンノヘグンナンブチョウ",
-  "townKana": "アイナイ（ソノタ）",
-  "prefecture": "青森県",
-  "city": "三戸郡南部町",
-  "town": "相内（その他）",
-  "multipleZipCodes": "1",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02445",
+      "oldZipCode": "03901",
+      "zipCode": "0390106",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "サンノヘグンナンブチョウ",
+      "townKana": "アイナイ（ソノタ）",
+      "prefecture": "青森県",
+      "city": "三戸郡南部町",
+      "town": "相内（その他）",
+      "multipleZipCodes": "1",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

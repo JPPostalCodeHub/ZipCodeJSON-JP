@@ -1,17 +1,38 @@
 {
-  "jisCode": "23201",
-  "oldZipCode": "440  ",
-  "zipCode": "4400832",
-  "prefectureKana": "アイチケン",
-  "cityKana": "トヨハシシ",
-  "townKana": "ナカイワタ",
-  "prefecture": "愛知県",
-  "city": "豊橋市",
-  "town": "中岩田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23201",
+      "oldZipCode": "440  ",
+      "zipCode": "4400832",
+      "prefectureKana": "アイチケン",
+      "cityKana": "トヨハシシ",
+      "townKana": "イワタチョウ",
+      "prefecture": "愛知県",
+      "city": "豊橋市",
+      "town": "岩田町",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "23201",
+      "oldZipCode": "440  ",
+      "zipCode": "4400832",
+      "prefectureKana": "アイチケン",
+      "cityKana": "トヨハシシ",
+      "townKana": "ナカイワタ",
+      "prefecture": "愛知県",
+      "city": "豊橋市",
+      "town": "中岩田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

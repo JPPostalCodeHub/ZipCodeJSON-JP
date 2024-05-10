@@ -1,17 +1,21 @@
 {
-  "jisCode": "34209",
-  "oldZipCode": "72804",
-  "zipCode": "7280402",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "ミヨシシ",
-  "townKana": "キミタチョウニシイリギミ",
-  "prefecture": "広島県",
-  "city": "三次市",
-  "town": "君田町西入君",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34209",
+      "oldZipCode": "72804",
+      "zipCode": "7280402",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ミヨシシ",
+      "townKana": "キミタチョウニシイリギミ",
+      "prefecture": "広島県",
+      "city": "三次市",
+      "town": "君田町西入君",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

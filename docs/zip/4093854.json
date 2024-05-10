@@ -1,17 +1,21 @@
 {
-  "jisCode": "19384",
-  "oldZipCode": "40938",
-  "zipCode": "4093854",
-  "prefectureKana": "ヤマナシケン",
-  "cityKana": "ナカコマグンショウワチョウ",
-  "townKana": "ツイジシンデン",
-  "prefecture": "山梨県",
-  "city": "中巨摩郡昭和町",
-  "town": "築地新田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "19384",
+      "oldZipCode": "40938",
+      "zipCode": "4093854",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "ナカコマグンショウワチョウ",
+      "townKana": "ツイジシンデン",
+      "prefecture": "山梨県",
+      "city": "中巨摩郡昭和町",
+      "town": "築地新田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

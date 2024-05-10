@@ -1,17 +1,21 @@
 {
-  "jisCode": "22203",
-  "oldZipCode": "410  ",
-  "zipCode": "4100801",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "ヌマヅシ",
-  "townKana": "オオテマチ",
-  "prefecture": "静岡県",
-  "city": "沼津市",
-  "town": "大手町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22203",
+      "oldZipCode": "410  ",
+      "zipCode": "4100801",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "ヌマヅシ",
+      "townKana": "オオテマチ",
+      "prefecture": "静岡県",
+      "city": "沼津市",
+      "town": "大手町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

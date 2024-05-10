@@ -1,17 +1,21 @@
 {
-  "jisCode": "24216",
-  "oldZipCode": "518  ",
-  "zipCode": "5180023",
-  "prefectureKana": "ミエケン",
-  "cityKana": "イガシ",
-  "townKana": "ノマ",
-  "prefecture": "三重県",
-  "city": "伊賀市",
-  "town": "野間",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "24216",
+      "oldZipCode": "518  ",
+      "zipCode": "5180023",
+      "prefectureKana": "ミエケン",
+      "cityKana": "イガシ",
+      "townKana": "ノマ",
+      "prefecture": "三重県",
+      "city": "伊賀市",
+      "town": "野間",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

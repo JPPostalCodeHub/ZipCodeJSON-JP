@@ -1,17 +1,21 @@
 {
-  "jisCode": "20217",
-  "oldZipCode": "38403",
-  "zipCode": "3840303",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "サクシ",
-  "townKana": "シモオタギリ",
-  "prefecture": "長野県",
-  "city": "佐久市",
-  "town": "下小田切",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20217",
+      "oldZipCode": "38403",
+      "zipCode": "3840303",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "サクシ",
+      "townKana": "シモオタギリ",
+      "prefecture": "長野県",
+      "city": "佐久市",
+      "town": "下小田切",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

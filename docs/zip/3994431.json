@@ -1,17 +1,21 @@
 {
-  "jisCode": "20209",
-  "oldZipCode": "39944",
-  "zipCode": "3994431",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "イナシ",
-  "townKana": "ニシハルチカ",
-  "prefecture": "長野県",
-  "city": "伊那市",
-  "town": "西春近",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20209",
+      "oldZipCode": "39944",
+      "zipCode": "3994431",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "イナシ",
+      "townKana": "ニシハルチカ",
+      "prefecture": "長野県",
+      "city": "伊那市",
+      "town": "西春近",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

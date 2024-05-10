@@ -1,17 +1,21 @@
 {
-  "jisCode": "40217",
-  "oldZipCode": "818  ",
-  "zipCode": "8180012",
-  "prefectureKana": "フクオカケン",
-  "cityKana": "チクシノシ",
-  "townKana": "アマヤマ",
-  "prefecture": "福岡県",
-  "city": "筑紫野市",
-  "town": "天山",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "40217",
+      "oldZipCode": "818  ",
+      "zipCode": "8180012",
+      "prefectureKana": "フクオカケン",
+      "cityKana": "チクシノシ",
+      "townKana": "アマヤマ",
+      "prefecture": "福岡県",
+      "city": "筑紫野市",
+      "town": "天山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

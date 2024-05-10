@@ -1,17 +1,21 @@
 {
-  "jisCode": "38202",
-  "oldZipCode": "79413",
-  "zipCode": "7941301",
-  "prefectureKana": "エヒメケン",
-  "cityKana": "イマバリシ",
-  "townKana": "オオミシマチョウヒガイ",
-  "prefecture": "愛媛県",
-  "city": "今治市",
-  "town": "大三島町肥海",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "38202",
+      "oldZipCode": "79413",
+      "zipCode": "7941301",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "イマバリシ",
+      "townKana": "オオミシマチョウヒガイ",
+      "prefecture": "愛媛県",
+      "city": "今治市",
+      "town": "大三島町肥海",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

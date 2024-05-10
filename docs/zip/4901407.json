@@ -1,17 +1,21 @@
 {
-  "jisCode": "23235",
-  "oldZipCode": "49014",
-  "zipCode": "4901407",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ヤトミシ",
-  "townKana": "サンビャクジマ",
-  "prefecture": "愛知県",
-  "city": "弥富市",
-  "town": "三百島",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23235",
+      "oldZipCode": "49014",
+      "zipCode": "4901407",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ヤトミシ",
+      "townKana": "サンビャクジマ",
+      "prefecture": "愛知県",
+      "city": "弥富市",
+      "town": "三百島",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

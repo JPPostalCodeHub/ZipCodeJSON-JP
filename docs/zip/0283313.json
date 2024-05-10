@@ -1,17 +1,21 @@
 {
-  "jisCode": "03321",
-  "oldZipCode": "02833",
-  "zipCode": "0283313",
-  "prefectureKana": "イワテケン",
-  "cityKana": "シワグンシワチョウ",
-  "townKana": "ホシヤマ",
-  "prefecture": "岩手県",
-  "city": "紫波郡紫波町",
-  "town": "星山",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "03321",
+      "oldZipCode": "02833",
+      "zipCode": "0283313",
+      "prefectureKana": "イワテケン",
+      "cityKana": "シワグンシワチョウ",
+      "townKana": "ホシヤマ",
+      "prefecture": "岩手県",
+      "city": "紫波郡紫波町",
+      "town": "星山",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

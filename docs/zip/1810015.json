@@ -1,17 +1,21 @@
 {
-  "jisCode": "13204",
-  "oldZipCode": "181  ",
-  "zipCode": "1810015",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "ミタカシ",
-  "townKana": "オオサワ",
-  "prefecture": "東京都",
-  "city": "三鷹市",
-  "town": "大沢",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13204",
+      "oldZipCode": "181  ",
+      "zipCode": "1810015",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "ミタカシ",
+      "townKana": "オオサワ",
+      "prefecture": "東京都",
+      "city": "三鷹市",
+      "town": "大沢",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

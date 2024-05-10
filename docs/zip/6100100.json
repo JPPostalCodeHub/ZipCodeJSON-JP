@@ -1,17 +1,21 @@
 {
-  "jisCode": "26207",
-  "oldZipCode": "61001",
-  "zipCode": "6100100",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "ジョウヨウシ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "京都府",
-  "city": "城陽市",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26207",
+      "oldZipCode": "61001",
+      "zipCode": "6100100",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "ジョウヨウシ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "京都府",
+      "city": "城陽市",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

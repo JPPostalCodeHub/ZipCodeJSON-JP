@@ -1,17 +1,21 @@
 {
-  "jisCode": "01214",
-  "oldZipCode": "09845",
-  "zipCode": "0984582",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ワッカナイシ",
-  "townKana": "コエトイムラ（サラキトマナイ）",
-  "prefecture": "北海道",
-  "city": "稚内市",
-  "town": "声問村（更喜苫内）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01214",
+      "oldZipCode": "09845",
+      "zipCode": "0984582",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ワッカナイシ",
+      "townKana": "コエトイムラ（サラキトマナイ）",
+      "prefecture": "北海道",
+      "city": "稚内市",
+      "town": "声問村（更喜苫内）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

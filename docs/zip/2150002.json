@@ -1,17 +1,21 @@
 {
-  "jisCode": "14137",
-  "oldZipCode": "215  ",
-  "zipCode": "2150002",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "カワサキシアサオク",
-  "townKana": "タマミ",
-  "prefecture": "神奈川県",
-  "city": "川崎市麻生区",
-  "town": "多摩美",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14137",
+      "oldZipCode": "215  ",
+      "zipCode": "2150002",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "カワサキシアサオク",
+      "townKana": "タマミ",
+      "prefecture": "神奈川県",
+      "city": "川崎市麻生区",
+      "town": "多摩美",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

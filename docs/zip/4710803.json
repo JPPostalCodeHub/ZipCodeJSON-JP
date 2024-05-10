@@ -1,17 +1,21 @@
 {
-  "jisCode": "23211",
-  "oldZipCode": "471  ",
-  "zipCode": "4710803",
-  "prefectureKana": "アイチケン",
-  "cityKana": "トヨタシ",
-  "townKana": "イズミチョウ",
-  "prefecture": "愛知県",
-  "city": "豊田市",
-  "town": "泉町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23211",
+      "oldZipCode": "471  ",
+      "zipCode": "4710803",
+      "prefectureKana": "アイチケン",
+      "cityKana": "トヨタシ",
+      "townKana": "イズミチョウ",
+      "prefecture": "愛知県",
+      "city": "豊田市",
+      "town": "泉町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

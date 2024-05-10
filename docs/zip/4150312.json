@@ -1,17 +1,38 @@
 {
-  "jisCode": "22304",
-  "oldZipCode": "41503",
-  "zipCode": "4150312",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "カモグンミナミイズチョウ",
-  "townKana": "サシダ",
-  "prefecture": "静岡県",
-  "city": "賀茂郡南伊豆町",
-  "town": "差田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22304",
+      "oldZipCode": "41503",
+      "zipCode": "4150312",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "カモグンミナミイズチョウ",
+      "townKana": "イルマ",
+      "prefecture": "静岡県",
+      "city": "賀茂郡南伊豆町",
+      "town": "入間",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "22304",
+      "oldZipCode": "41503",
+      "zipCode": "4150312",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "カモグンミナミイズチョウ",
+      "townKana": "サシダ",
+      "prefecture": "静岡県",
+      "city": "賀茂郡南伊豆町",
+      "town": "差田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

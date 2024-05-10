@@ -1,17 +1,21 @@
 {
-  "jisCode": "05215",
-  "oldZipCode": "01411",
-  "zipCode": "0141113",
-  "prefectureKana": "アキタケン",
-  "cityKana": "センボクシ",
-  "townKana": "タザワコソツダ",
-  "prefecture": "秋田県",
-  "city": "仙北市",
-  "town": "田沢湖卒田",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05215",
+      "oldZipCode": "01411",
+      "zipCode": "0141113",
+      "prefectureKana": "アキタケン",
+      "cityKana": "センボクシ",
+      "townKana": "タザワコソツダ",
+      "prefecture": "秋田県",
+      "city": "仙北市",
+      "town": "田沢湖卒田",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

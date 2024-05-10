@@ -1,17 +1,21 @@
 {
-  "jisCode": "08214",
-  "oldZipCode": "31801",
-  "zipCode": "3180106",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "タカハギシ",
-  "townKana": "シモキミダ",
-  "prefecture": "茨城県",
-  "city": "高萩市",
-  "town": "下君田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08214",
+      "oldZipCode": "31801",
+      "zipCode": "3180106",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "タカハギシ",
+      "townKana": "シモキミダ",
+      "prefecture": "茨城県",
+      "city": "高萩市",
+      "town": "下君田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

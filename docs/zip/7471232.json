@@ -1,17 +1,21 @@
 {
-  "jisCode": "35206",
-  "oldZipCode": "74712",
-  "zipCode": "7471232",
-  "prefectureKana": "ヤマグチケン",
-  "cityKana": "ホウフシ",
-  "townKana": "ダイドウ",
-  "prefecture": "山口県",
-  "city": "防府市",
-  "town": "台道",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "35206",
+      "oldZipCode": "74712",
+      "zipCode": "7471232",
+      "prefectureKana": "ヤマグチケン",
+      "cityKana": "ホウフシ",
+      "townKana": "ダイドウ",
+      "prefecture": "山口県",
+      "city": "防府市",
+      "town": "台道",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

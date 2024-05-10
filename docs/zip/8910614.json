@@ -1,17 +1,21 @@
 {
-  "jisCode": "46210",
-  "oldZipCode": "89106",
-  "zipCode": "8910614",
-  "prefectureKana": "カゴシマケン",
-  "cityKana": "イブスキシ",
-  "townKana": "ヤマガワオオヤマ（１４００−１７１７バン）",
-  "prefecture": "鹿児島県",
-  "city": "指宿市",
-  "town": "山川大山（１４００〜１７１７番）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "46210",
+      "oldZipCode": "89106",
+      "zipCode": "8910614",
+      "prefectureKana": "カゴシマケン",
+      "cityKana": "イブスキシ",
+      "townKana": "ヤマガワオオヤマ（１４００−１７１７バン）",
+      "prefecture": "鹿児島県",
+      "city": "指宿市",
+      "town": "山川大山（１４００〜１７１７番）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

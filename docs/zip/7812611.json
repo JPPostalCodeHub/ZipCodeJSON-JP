@@ -1,17 +1,21 @@
 {
-  "jisCode": "39386",
-  "oldZipCode": "78126",
-  "zipCode": "7812611",
-  "prefectureKana": "コウチケン",
-  "cityKana": "アガワグンイノチョウ",
-  "townKana": "ワキノヤマ",
-  "prefecture": "高知県",
-  "city": "吾川郡いの町",
-  "town": "脇ノ山",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "39386",
+      "oldZipCode": "78126",
+      "zipCode": "7812611",
+      "prefectureKana": "コウチケン",
+      "cityKana": "アガワグンイノチョウ",
+      "townKana": "ワキノヤマ",
+      "prefecture": "高知県",
+      "city": "吾川郡いの町",
+      "town": "脇ノ山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

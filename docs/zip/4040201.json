@@ -1,17 +1,21 @@
 {
-  "jisCode": "19205",
-  "oldZipCode": "40402",
-  "zipCode": "4040201",
-  "prefectureKana": "ヤマナシケン",
-  "cityKana": "ヤマナシシ",
-  "townKana": "ミトミカワウラ",
-  "prefecture": "山梨県",
-  "city": "山梨市",
-  "town": "三富川浦",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "19205",
+      "oldZipCode": "40402",
+      "zipCode": "4040201",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "ヤマナシシ",
+      "townKana": "ミトミカワウラ",
+      "prefecture": "山梨県",
+      "city": "山梨市",
+      "town": "三富川浦",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

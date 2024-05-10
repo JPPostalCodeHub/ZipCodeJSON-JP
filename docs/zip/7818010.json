@@ -1,17 +1,21 @@
 {
-  "jisCode": "39201",
-  "oldZipCode": "781  ",
-  "zipCode": "7818010",
-  "prefectureKana": "コウチケン",
-  "cityKana": "コウチシ",
-  "townKana": "サンバシドオリ",
-  "prefecture": "高知県",
-  "city": "高知市",
-  "town": "桟橋通",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "39201",
+      "oldZipCode": "781  ",
+      "zipCode": "7818010",
+      "prefectureKana": "コウチケン",
+      "cityKana": "コウチシ",
+      "townKana": "サンバシドオリ",
+      "prefecture": "高知県",
+      "city": "高知市",
+      "town": "桟橋通",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

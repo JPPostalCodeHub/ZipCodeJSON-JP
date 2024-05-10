@@ -1,17 +1,21 @@
 {
-  "jisCode": "01638",
-  "oldZipCode": "08913",
-  "zipCode": "0891313",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "カサイグンナカサツナイムラ",
-  "townKana": "ナカサツナイニシ",
-  "prefecture": "北海道",
-  "city": "河西郡中札内村",
-  "town": "中札内西",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01638",
+      "oldZipCode": "08913",
+      "zipCode": "0891313",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "カサイグンナカサツナイムラ",
+      "townKana": "ナカサツナイニシ",
+      "prefecture": "北海道",
+      "city": "河西郡中札内村",
+      "town": "中札内西",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

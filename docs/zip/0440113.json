@@ -1,17 +1,21 @@
 {
-  "jisCode": "01399",
-  "oldZipCode": "04401",
-  "zipCode": "0440113",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "アブタグンキョウゴクチョウ",
-  "townKana": "マツカワ",
-  "prefecture": "北海道",
-  "city": "虻田郡京極町",
-  "town": "松川",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01399",
+      "oldZipCode": "04401",
+      "zipCode": "0440113",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "アブタグンキョウゴクチョウ",
+      "townKana": "マツカワ",
+      "prefecture": "北海道",
+      "city": "虻田郡京極町",
+      "town": "松川",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

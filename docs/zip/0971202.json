@@ -1,17 +1,21 @@
 {
-  "jisCode": "01517",
-  "oldZipCode": "09712",
-  "zipCode": "0971202",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "レブングンレブンチョウ",
-  "townKana": "フナドマリムラ（ウエンナイ）",
-  "prefecture": "北海道",
-  "city": "礼文郡礼文町",
-  "town": "船泊村（ウヱンナイ）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01517",
+      "oldZipCode": "09712",
+      "zipCode": "0971202",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "レブングンレブンチョウ",
+      "townKana": "フナドマリムラ（ウエンナイ）",
+      "prefecture": "北海道",
+      "city": "礼文郡礼文町",
+      "town": "船泊村（ウヱンナイ）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

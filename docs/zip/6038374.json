@@ -1,17 +1,21 @@
 {
-  "jisCode": "26101",
-  "oldZipCode": "603  ",
-  "zipCode": "6038374",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシキタク",
-  "townKana": "キヌガサタカハシチョウ",
-  "prefecture": "京都府",
-  "city": "京都市北区",
-  "town": "衣笠高橋町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26101",
+      "oldZipCode": "603  ",
+      "zipCode": "6038374",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシキタク",
+      "townKana": "キヌガサタカハシチョウ",
+      "prefecture": "京都府",
+      "city": "京都市北区",
+      "town": "衣笠高橋町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

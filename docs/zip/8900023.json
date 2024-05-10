@@ -1,17 +1,21 @@
 {
-  "jisCode": "46201",
-  "oldZipCode": "890  ",
-  "zipCode": "8900023",
-  "prefectureKana": "カゴシマケン",
-  "cityKana": "カゴシマシ",
-  "townKana": "ナガヨシ",
-  "prefecture": "鹿児島県",
-  "city": "鹿児島市",
-  "town": "永吉",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "46201",
+      "oldZipCode": "890  ",
+      "zipCode": "8900023",
+      "prefectureKana": "カゴシマケン",
+      "cityKana": "カゴシマシ",
+      "townKana": "ナガヨシ",
+      "prefecture": "鹿児島県",
+      "city": "鹿児島市",
+      "town": "永吉",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

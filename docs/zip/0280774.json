@@ -1,17 +1,21 @@
 {
-  "jisCode": "03208",
-  "oldZipCode": "02807",
-  "zipCode": "0280774",
-  "prefectureKana": "イワテケン",
-  "cityKana": "トオノシ",
-  "townKana": "カミゴウチョウライナイ",
-  "prefecture": "岩手県",
-  "city": "遠野市",
-  "town": "上郷町来内",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "03208",
+      "oldZipCode": "02807",
+      "zipCode": "0280774",
+      "prefectureKana": "イワテケン",
+      "cityKana": "トオノシ",
+      "townKana": "カミゴウチョウライナイ",
+      "prefecture": "岩手県",
+      "city": "遠野市",
+      "town": "上郷町来内",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

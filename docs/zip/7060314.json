@@ -1,17 +1,38 @@
 {
-  "jisCode": "33204",
-  "oldZipCode": "70603",
-  "zipCode": "7060314",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "タマノシ",
-  "townKana": "ヤマダ",
-  "prefecture": "岡山県",
-  "city": "玉野市",
-  "town": "山田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33204",
+      "oldZipCode": "70603",
+      "zipCode": "7060314",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "タマノシ",
+      "townKana": "ヒガシノザキ",
+      "prefecture": "岡山県",
+      "city": "玉野市",
+      "town": "東野崎",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "33204",
+      "oldZipCode": "70603",
+      "zipCode": "7060314",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "タマノシ",
+      "townKana": "ヤマダ",
+      "prefecture": "岡山県",
+      "city": "玉野市",
+      "town": "山田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

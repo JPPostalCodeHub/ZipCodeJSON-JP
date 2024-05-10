@@ -1,17 +1,21 @@
 {
-  "jisCode": "44204",
-  "oldZipCode": "87711",
-  "zipCode": "8771111",
-  "prefectureKana": "オオイタケン",
-  "cityKana": "ヒタシ",
-  "townKana": "ヨアケカミマチ",
-  "prefecture": "大分県",
-  "city": "日田市",
-  "town": "夜明上町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "44204",
+      "oldZipCode": "87711",
+      "zipCode": "8771111",
+      "prefectureKana": "オオイタケン",
+      "cityKana": "ヒタシ",
+      "townKana": "ヨアケカミマチ",
+      "prefecture": "大分県",
+      "city": "日田市",
+      "town": "夜明上町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

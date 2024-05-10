@@ -1,17 +1,21 @@
 {
-  "jisCode": "06210",
-  "oldZipCode": "994  ",
-  "zipCode": "9940004",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "テンドウシ",
-  "townKana": "コセキ",
-  "prefecture": "山形県",
-  "city": "天童市",
-  "town": "小関",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06210",
+      "oldZipCode": "994  ",
+      "zipCode": "9940004",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "テンドウシ",
+      "townKana": "コセキ",
+      "prefecture": "山形県",
+      "city": "天童市",
+      "town": "小関",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

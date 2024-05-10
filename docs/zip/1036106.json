@@ -1,17 +1,21 @@
 {
-  "jisCode": "13102",
-  "oldZipCode": "103  ",
-  "zipCode": "1036106",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "チュウオウク",
-  "townKana": "ニホンバシニホンバシタカシマヤミツイビルディング（６カイ）",
-  "prefecture": "東京都",
-  "city": "中央区",
-  "town": "日本橋日本橋高島屋三井ビルディング（６階）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13102",
+      "oldZipCode": "103  ",
+      "zipCode": "1036106",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "チュウオウク",
+      "townKana": "ニホンバシニホンバシタカシマヤミツイビルディング（６カイ）",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "town": "日本橋日本橋高島屋三井ビルディング（６階）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

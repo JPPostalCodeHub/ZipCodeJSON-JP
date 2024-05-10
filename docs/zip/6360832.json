@@ -1,17 +1,21 @@
 {
-  "jisCode": "29343",
-  "oldZipCode": "636  ",
-  "zipCode": "6360832",
-  "prefectureKana": "ナラケン",
-  "cityKana": "イコマグンサンゴウチョウ",
-  "townKana": "シギサンニシ",
-  "prefecture": "奈良県",
-  "city": "生駒郡三郷町",
-  "town": "信貴山西",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "29343",
+      "oldZipCode": "636  ",
+      "zipCode": "6360832",
+      "prefectureKana": "ナラケン",
+      "cityKana": "イコマグンサンゴウチョウ",
+      "townKana": "シギサンニシ",
+      "prefecture": "奈良県",
+      "city": "生駒郡三郷町",
+      "town": "信貴山西",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

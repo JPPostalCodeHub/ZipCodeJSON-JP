@@ -1,17 +1,21 @@
 {
-  "jisCode": "23215",
-  "oldZipCode": "484  ",
-  "zipCode": "4840823",
-  "prefectureKana": "アイチケン",
-  "cityKana": "イヌヤマシ",
-  "townKana": "キタダイモン",
-  "prefecture": "愛知県",
-  "city": "犬山市",
-  "town": "北大門",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23215",
+      "oldZipCode": "484  ",
+      "zipCode": "4840823",
+      "prefectureKana": "アイチケン",
+      "cityKana": "イヌヤマシ",
+      "townKana": "キタダイモン",
+      "prefecture": "愛知県",
+      "city": "犬山市",
+      "town": "北大門",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

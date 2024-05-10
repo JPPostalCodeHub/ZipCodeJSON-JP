@@ -1,17 +1,21 @@
 {
-  "jisCode": "43213",
-  "oldZipCode": "86143",
-  "zipCode": "8614306",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "ウキシ",
-  "townKana": "トヨノマチヤスミ",
-  "prefecture": "熊本県",
-  "city": "宇城市",
-  "town": "豊野町安見",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43213",
+      "oldZipCode": "86143",
+      "zipCode": "8614306",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "ウキシ",
+      "townKana": "トヨノマチヤスミ",
+      "prefecture": "熊本県",
+      "city": "宇城市",
+      "town": "豊野町安見",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

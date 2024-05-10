@@ -1,17 +1,21 @@
 {
-  "jisCode": "31202",
-  "oldZipCode": "68934",
-  "zipCode": "6893423",
-  "prefectureKana": "トットリケン",
-  "cityKana": "ヨナゴシ",
-  "townKana": "ヨドエチョウコナミ",
-  "prefecture": "鳥取県",
-  "city": "米子市",
-  "town": "淀江町小波",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "31202",
+      "oldZipCode": "68934",
+      "zipCode": "6893423",
+      "prefectureKana": "トットリケン",
+      "cityKana": "ヨナゴシ",
+      "townKana": "ヨドエチョウコナミ",
+      "prefecture": "鳥取県",
+      "city": "米子市",
+      "town": "淀江町小波",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

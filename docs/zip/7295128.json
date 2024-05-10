@@ -1,17 +1,21 @@
 {
-  "jisCode": "34210",
-  "oldZipCode": "72951",
-  "zipCode": "7295128",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "ショウバラシ",
-  "townKana": "トウジョウチョウウケバラ（オンジ、ナカノタニ）",
-  "prefecture": "広島県",
-  "city": "庄原市",
-  "town": "東城町受原（隠地、中ノ谷）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34210",
+      "oldZipCode": "72951",
+      "zipCode": "7295128",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ショウバラシ",
+      "townKana": "トウジョウチョウウケバラ（オンジ、ナカノタニ）",
+      "prefecture": "広島県",
+      "city": "庄原市",
+      "town": "東城町受原（隠地、中ノ谷）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

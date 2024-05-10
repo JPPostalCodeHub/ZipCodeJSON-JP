@@ -1,17 +1,21 @@
 {
-  "jisCode": "13381",
-  "oldZipCode": "10012",
-  "zipCode": "1001212",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "ミヤケジマミヤケムラ",
-  "townKana": "アコ",
-  "prefecture": "東京都",
-  "city": "三宅島三宅村",
-  "town": "阿古",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13381",
+      "oldZipCode": "10012",
+      "zipCode": "1001212",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "ミヤケジマミヤケムラ",
+      "townKana": "アコ",
+      "prefecture": "東京都",
+      "city": "三宅島三宅村",
+      "town": "阿古",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

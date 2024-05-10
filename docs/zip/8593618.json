@@ -1,17 +1,21 @@
 {
-  "jisCode": "42322",
-  "oldZipCode": "85936",
-  "zipCode": "8593618",
-  "prefectureKana": "ナガサキケン",
-  "cityKana": "ヒガシソノギグンカワタナチョウ",
-  "townKana": "オグシゴウ",
-  "prefecture": "長崎県",
-  "city": "東彼杵郡川棚町",
-  "town": "小串郷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "42322",
+      "oldZipCode": "85936",
+      "zipCode": "8593618",
+      "prefectureKana": "ナガサキケン",
+      "cityKana": "ヒガシソノギグンカワタナチョウ",
+      "townKana": "オグシゴウ",
+      "prefecture": "長崎県",
+      "city": "東彼杵郡川棚町",
+      "town": "小串郷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

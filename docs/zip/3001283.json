@@ -1,17 +1,21 @@
 {
-  "jisCode": "08219",
-  "oldZipCode": "30005",
-  "zipCode": "3001283",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "ウシクシ",
-  "townKana": "オクバラチョウ",
-  "prefecture": "茨城県",
-  "city": "牛久市",
-  "town": "奥原町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08219",
+      "oldZipCode": "30005",
+      "zipCode": "3001283",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "ウシクシ",
+      "townKana": "オクバラチョウ",
+      "prefecture": "茨城県",
+      "city": "牛久市",
+      "town": "奥原町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

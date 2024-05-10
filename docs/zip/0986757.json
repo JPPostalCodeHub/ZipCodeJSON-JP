@@ -1,17 +1,21 @@
 {
-  "jisCode": "01214",
-  "oldZipCode": "09867",
-  "zipCode": "0986757",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ワッカナイシ",
-  "townKana": "ソウヤムラ（マスホロハマ）",
-  "prefecture": "北海道",
-  "city": "稚内市",
-  "town": "宗谷村（増幌浜）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01214",
+      "oldZipCode": "09867",
+      "zipCode": "0986757",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ワッカナイシ",
+      "townKana": "ソウヤムラ（マスホロハマ）",
+      "prefecture": "北海道",
+      "city": "稚内市",
+      "town": "宗谷村（増幌浜）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

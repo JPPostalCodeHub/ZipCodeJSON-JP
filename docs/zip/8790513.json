@@ -1,17 +1,21 @@
 {
-  "jisCode": "44211",
-  "oldZipCode": "87905",
-  "zipCode": "8790513",
-  "prefectureKana": "オオイタケン",
-  "cityKana": "ウサシ",
-  "townKana": "ナカ",
-  "prefecture": "大分県",
-  "city": "宇佐市",
-  "town": "中",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "44211",
+      "oldZipCode": "87905",
+      "zipCode": "8790513",
+      "prefectureKana": "オオイタケン",
+      "cityKana": "ウサシ",
+      "townKana": "ナカ",
+      "prefecture": "大分県",
+      "city": "宇佐市",
+      "town": "中",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

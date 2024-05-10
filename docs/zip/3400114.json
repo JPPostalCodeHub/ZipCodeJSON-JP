@@ -1,17 +1,21 @@
 {
-  "jisCode": "11240",
-  "oldZipCode": "34001",
-  "zipCode": "3400114",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "サッテシ",
-  "townKana": "ヒガシ",
-  "prefecture": "埼玉県",
-  "city": "幸手市",
-  "town": "東",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11240",
+      "oldZipCode": "34001",
+      "zipCode": "3400114",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "サッテシ",
+      "townKana": "ヒガシ",
+      "prefecture": "埼玉県",
+      "city": "幸手市",
+      "town": "東",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

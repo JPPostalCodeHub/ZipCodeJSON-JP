@@ -1,17 +1,21 @@
 {
-  "jisCode": "12106",
-  "oldZipCode": "261  ",
-  "zipCode": "2617106",
-  "prefectureKana": "チバケン",
-  "cityKana": "チバシミハマク",
-  "townKana": "ナカセワールドビジネスガーデン（６カイ）",
-  "prefecture": "千葉県",
-  "city": "千葉市美浜区",
-  "town": "中瀬ワールドビジネスガーデン（６階）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12106",
+      "oldZipCode": "261  ",
+      "zipCode": "2617106",
+      "prefectureKana": "チバケン",
+      "cityKana": "チバシミハマク",
+      "townKana": "ナカセワールドビジネスガーデン（６カイ）",
+      "prefecture": "千葉県",
+      "city": "千葉市美浜区",
+      "town": "中瀬ワールドビジネスガーデン（６階）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

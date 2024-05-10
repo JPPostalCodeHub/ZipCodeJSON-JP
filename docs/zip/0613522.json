@@ -1,17 +1,21 @@
 {
-  "jisCode": "01235",
-  "oldZipCode": "06135",
-  "zipCode": "0613522",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "イシカリシ",
-  "townKana": "アツタクミネトマリ",
-  "prefecture": "北海道",
-  "city": "石狩市",
-  "town": "厚田区嶺泊",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01235",
+      "oldZipCode": "06135",
+      "zipCode": "0613522",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "イシカリシ",
+      "townKana": "アツタクミネトマリ",
+      "prefecture": "北海道",
+      "city": "石狩市",
+      "town": "厚田区嶺泊",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "44208",
-  "oldZipCode": "87961",
-  "zipCode": "8796121",
-  "prefectureKana": "オオイタケン",
-  "cityKana": "タケタシ",
-  "townKana": "オギマチクワギ",
-  "prefecture": "大分県",
-  "city": "竹田市",
-  "town": "荻町桑木",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "44208",
+      "oldZipCode": "87961",
+      "zipCode": "8796121",
+      "prefectureKana": "オオイタケン",
+      "cityKana": "タケタシ",
+      "townKana": "オギマチクワギ",
+      "prefecture": "大分県",
+      "city": "竹田市",
+      "town": "荻町桑木",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

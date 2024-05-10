@@ -1,17 +1,21 @@
 {
-  "jisCode": "07522",
-  "oldZipCode": "96333",
-  "zipCode": "9633313",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "タムラグンオノマチ",
-  "townKana": "ミナミタワライ",
-  "prefecture": "福島県",
-  "city": "田村郡小野町",
-  "town": "南田原井",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07522",
+      "oldZipCode": "96333",
+      "zipCode": "9633313",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "タムラグンオノマチ",
+      "townKana": "ミナミタワライ",
+      "prefecture": "福島県",
+      "city": "田村郡小野町",
+      "town": "南田原井",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

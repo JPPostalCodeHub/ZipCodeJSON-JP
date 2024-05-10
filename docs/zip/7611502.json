@@ -1,17 +1,21 @@
 {
-  "jisCode": "37201",
-  "oldZipCode": "76115",
-  "zipCode": "7611502",
-  "prefectureKana": "カガワケン",
-  "cityKana": "タカマツシ",
-  "townKana": "シオノエチョウヤスハラシモ（ダイ２ゴウ）",
-  "prefecture": "香川県",
-  "city": "高松市",
-  "town": "塩江町安原下（第２号）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "37201",
+      "oldZipCode": "76115",
+      "zipCode": "7611502",
+      "prefectureKana": "カガワケン",
+      "cityKana": "タカマツシ",
+      "townKana": "シオノエチョウヤスハラシモ（ダイ２ゴウ）",
+      "prefecture": "香川県",
+      "city": "高松市",
+      "town": "塩江町安原下（第２号）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

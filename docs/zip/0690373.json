@@ -1,17 +1,21 @@
 {
-  "jisCode": "01210",
-  "oldZipCode": "06903",
-  "zipCode": "0690373",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "イワミザワシ",
-  "townKana": "ホロムイミナミ３ジョウ",
-  "prefecture": "北海道",
-  "city": "岩見沢市",
-  "town": "幌向南三条",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01210",
+      "oldZipCode": "06903",
+      "zipCode": "0690373",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "イワミザワシ",
+      "townKana": "ホロムイミナミ３ジョウ",
+      "prefecture": "北海道",
+      "city": "岩見沢市",
+      "town": "幌向南三条",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

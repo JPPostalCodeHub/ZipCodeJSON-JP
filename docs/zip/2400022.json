@@ -1,17 +1,21 @@
 {
-  "jisCode": "14106",
-  "oldZipCode": "240  ",
-  "zipCode": "2400022",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "ヨコハマシホドガヤク",
-  "townKana": "ニシクボチョウ",
-  "prefecture": "神奈川県",
-  "city": "横浜市保土ケ谷区",
-  "town": "西久保町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14106",
+      "oldZipCode": "240  ",
+      "zipCode": "2400022",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "ヨコハマシホドガヤク",
+      "townKana": "ニシクボチョウ",
+      "prefecture": "神奈川県",
+      "city": "横浜市保土ケ谷区",
+      "town": "西久保町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

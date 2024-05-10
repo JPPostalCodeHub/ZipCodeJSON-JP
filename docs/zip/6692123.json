@@ -1,17 +1,21 @@
 {
-  "jisCode": "28221",
-  "oldZipCode": "66921",
-  "zipCode": "6692123",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "タンバササヤマシ",
-  "townKana": "フルイチ",
-  "prefecture": "兵庫県",
-  "city": "丹波篠山市",
-  "town": "古市",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28221",
+      "oldZipCode": "66921",
+      "zipCode": "6692123",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "タンバササヤマシ",
+      "townKana": "フルイチ",
+      "prefecture": "兵庫県",
+      "city": "丹波篠山市",
+      "town": "古市",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

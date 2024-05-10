@@ -1,17 +1,21 @@
 {
-  "jisCode": "31386",
-  "oldZipCode": "68932",
-  "zipCode": "6893205",
-  "prefectureKana": "トットリケン",
-  "cityKana": "サイハクグンダイセンチョウ",
-  "townKana": "ニシツボ",
-  "prefecture": "鳥取県",
-  "city": "西伯郡大山町",
-  "town": "西坪",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "31386",
+      "oldZipCode": "68932",
+      "zipCode": "6893205",
+      "prefectureKana": "トットリケン",
+      "cityKana": "サイハクグンダイセンチョウ",
+      "townKana": "ニシツボ",
+      "prefecture": "鳥取県",
+      "city": "西伯郡大山町",
+      "town": "西坪",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

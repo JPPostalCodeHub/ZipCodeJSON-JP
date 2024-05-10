@@ -1,17 +1,21 @@
 {
-  "jisCode": "36368",
-  "oldZipCode": "77161",
-  "zipCode": "7716104",
-  "prefectureKana": "トクシマケン",
-  "cityKana": "ナカグンナカチョウ",
-  "townKana": "トウヤマ",
-  "prefecture": "徳島県",
-  "city": "那賀郡那賀町",
-  "town": "当山",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "36368",
+      "oldZipCode": "77161",
+      "zipCode": "7716104",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "ナカグンナカチョウ",
+      "townKana": "トウヤマ",
+      "prefecture": "徳島県",
+      "city": "那賀郡那賀町",
+      "town": "当山",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

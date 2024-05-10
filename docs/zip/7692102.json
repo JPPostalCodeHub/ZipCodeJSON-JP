@@ -1,17 +1,21 @@
 {
-  "jisCode": "37206",
-  "oldZipCode": "76921",
-  "zipCode": "7692102",
-  "prefectureKana": "カガワケン",
-  "cityKana": "サヌキシ",
-  "townKana": "カモショウ",
-  "prefecture": "香川県",
-  "city": "さぬき市",
-  "town": "鴨庄",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "37206",
+      "oldZipCode": "76921",
+      "zipCode": "7692102",
+      "prefectureKana": "カガワケン",
+      "cityKana": "サヌキシ",
+      "townKana": "カモショウ",
+      "prefecture": "香川県",
+      "city": "さぬき市",
+      "town": "鴨庄",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

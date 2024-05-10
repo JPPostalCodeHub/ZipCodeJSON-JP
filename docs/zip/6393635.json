@@ -1,17 +1,21 @@
 {
-  "jisCode": "29452",
-  "oldZipCode": "63936",
-  "zipCode": "6393635",
-  "prefectureKana": "ナラケン",
-  "cityKana": "ヨシノグンカワカミムラ",
-  "townKana": "コウノタニ",
-  "prefecture": "奈良県",
-  "city": "吉野郡川上村",
-  "town": "神之谷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "29452",
+      "oldZipCode": "63936",
+      "zipCode": "6393635",
+      "prefectureKana": "ナラケン",
+      "cityKana": "ヨシノグンカワカミムラ",
+      "townKana": "コウノタニ",
+      "prefecture": "奈良県",
+      "city": "吉野郡川上村",
+      "town": "神之谷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

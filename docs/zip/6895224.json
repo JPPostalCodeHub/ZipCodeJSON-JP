@@ -1,17 +1,21 @@
 {
-  "jisCode": "31401",
-  "oldZipCode": "68952",
-  "zipCode": "6895224",
-  "prefectureKana": "トットリケン",
-  "cityKana": "ヒノグンニチナンチョウ",
-  "townKana": "タリ",
-  "prefecture": "鳥取県",
-  "city": "日野郡日南町",
-  "town": "多里",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "31401",
+      "oldZipCode": "68952",
+      "zipCode": "6895224",
+      "prefectureKana": "トットリケン",
+      "cityKana": "ヒノグンニチナンチョウ",
+      "townKana": "タリ",
+      "prefecture": "鳥取県",
+      "city": "日野郡日南町",
+      "town": "多里",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "01104",
-  "oldZipCode": "003  ",
-  "zipCode": "0030821",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "サッポロシシロイシク",
-  "townKana": "キクスイモトマチ１ジョウ",
-  "prefecture": "北海道",
-  "city": "札幌市白石区",
-  "town": "菊水元町一条",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01104",
+      "oldZipCode": "003  ",
+      "zipCode": "0030821",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "サッポロシシロイシク",
+      "townKana": "キクスイモトマチ１ジョウ",
+      "prefecture": "北海道",
+      "city": "札幌市白石区",
+      "town": "菊水元町一条",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

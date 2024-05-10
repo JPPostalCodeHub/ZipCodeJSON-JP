@@ -1,17 +1,21 @@
 {
-  "jisCode": "01610",
-  "oldZipCode": "05601",
-  "zipCode": "0560145",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ヒダカグンシンヒダカチョウ",
-  "townKana": "シズナイメナ（１８、１２７、４５３、４６５−２、４６６、４８０バンチ）",
-  "prefecture": "北海道",
-  "city": "日高郡新ひだか町",
-  "town": "静内目名（１８、１２７、４５３、４６５−２、４６６、４８０番地）",
-  "multipleZipCodes": "1",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01610",
+      "oldZipCode": "05601",
+      "zipCode": "0560145",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ヒダカグンシンヒダカチョウ",
+      "townKana": "シズナイメナ（１８、１２７、４５３、４６５−２、４６６、４８０バンチ）",
+      "prefecture": "北海道",
+      "city": "日高郡新ひだか町",
+      "town": "静内目名（１８、１２７、４５３、４６５−２、４６６、４８０番地）",
+      "multipleZipCodes": "1",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "21214",
-  "oldZipCode": "50902",
-  "zipCode": "5090201",
-  "prefectureKana": "ギフケン",
-  "cityKana": "カニシ",
-  "townKana": "カワイ",
-  "prefecture": "岐阜県",
-  "city": "可児市",
-  "town": "川合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "21214",
+      "oldZipCode": "50902",
+      "zipCode": "5090201",
+      "prefectureKana": "ギフケン",
+      "cityKana": "カニシ",
+      "townKana": "カワイ",
+      "prefecture": "岐阜県",
+      "city": "可児市",
+      "town": "川合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

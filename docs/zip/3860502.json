@@ -1,17 +1,21 @@
 {
-  "jisCode": "20203",
-  "oldZipCode": "38605",
-  "zipCode": "3860502",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "ウエダシ",
-  "townKana": "タケシオキ",
-  "prefecture": "長野県",
-  "city": "上田市",
-  "town": "武石沖",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20203",
+      "oldZipCode": "38605",
+      "zipCode": "3860502",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "ウエダシ",
+      "townKana": "タケシオキ",
+      "prefecture": "長野県",
+      "city": "上田市",
+      "town": "武石沖",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

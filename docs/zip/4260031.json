@@ -1,17 +1,21 @@
 {
-  "jisCode": "22214",
-  "oldZipCode": "426  ",
-  "zipCode": "4260031",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "フジエダシ",
-  "townKana": "ツイジ",
-  "prefecture": "静岡県",
-  "city": "藤枝市",
-  "town": "築地",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22214",
+      "oldZipCode": "426  ",
+      "zipCode": "4260031",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "フジエダシ",
+      "townKana": "ツイジ",
+      "prefecture": "静岡県",
+      "city": "藤枝市",
+      "town": "築地",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

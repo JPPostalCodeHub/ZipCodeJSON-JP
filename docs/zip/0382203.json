@@ -1,17 +1,21 @@
 {
-  "jisCode": "02323",
-  "oldZipCode": "03822",
-  "zipCode": "0382203",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "ニシツガルグンフカウラマチ",
-  "townKana": "ショウドウジリ",
-  "prefecture": "青森県",
-  "city": "西津軽郡深浦町",
-  "town": "正道尻",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02323",
+      "oldZipCode": "03822",
+      "zipCode": "0382203",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "ニシツガルグンフカウラマチ",
+      "townKana": "ショウドウジリ",
+      "prefecture": "青森県",
+      "city": "西津軽郡深浦町",
+      "town": "正道尻",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

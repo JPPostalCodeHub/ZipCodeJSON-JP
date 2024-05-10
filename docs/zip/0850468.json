@@ -1,17 +1,21 @@
 {
-  "jisCode": "01206",
-  "oldZipCode": "08504",
-  "zipCode": "0850468",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "クシロシ",
-  "townKana": "アカンチョウオクルシュベ",
-  "prefecture": "北海道",
-  "city": "釧路市",
-  "town": "阿寒町オクルシュベ",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01206",
+      "oldZipCode": "08504",
+      "zipCode": "0850468",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "クシロシ",
+      "townKana": "アカンチョウオクルシュベ",
+      "prefecture": "北海道",
+      "city": "釧路市",
+      "town": "阿寒町オクルシュベ",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

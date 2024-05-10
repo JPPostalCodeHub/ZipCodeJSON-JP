@@ -1,17 +1,21 @@
 {
-  "jisCode": "42210",
-  "oldZipCode": "81152",
-  "zipCode": "8115204",
-  "prefectureKana": "ナガサキケン",
-  "cityKana": "イキシ",
-  "townKana": "イシダチョウツツキニシフレ",
-  "prefecture": "長崎県",
-  "city": "壱岐市",
-  "town": "石田町筒城西触",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "42210",
+      "oldZipCode": "81152",
+      "zipCode": "8115204",
+      "prefectureKana": "ナガサキケン",
+      "cityKana": "イキシ",
+      "townKana": "イシダチョウツツキニシフレ",
+      "prefecture": "長崎県",
+      "city": "壱岐市",
+      "town": "石田町筒城西触",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

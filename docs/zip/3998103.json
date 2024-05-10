@@ -1,17 +1,21 @@
 {
-  "jisCode": "20220",
-  "oldZipCode": "39981",
-  "zipCode": "3998103",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "アヅミノシ",
-  "townKana": "ミサトオグラ",
-  "prefecture": "長野県",
-  "city": "安曇野市",
-  "town": "三郷小倉",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20220",
+      "oldZipCode": "39981",
+      "zipCode": "3998103",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "アヅミノシ",
+      "townKana": "ミサトオグラ",
+      "prefecture": "長野県",
+      "city": "安曇野市",
+      "town": "三郷小倉",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

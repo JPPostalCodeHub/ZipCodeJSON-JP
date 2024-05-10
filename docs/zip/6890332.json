@@ -1,17 +1,21 @@
 {
-  "jisCode": "31201",
-  "oldZipCode": "68903",
-  "zipCode": "6890332",
-  "prefectureKana": "トットリケン",
-  "cityKana": "トットリシ",
-  "townKana": "ケタカチョウカチミ",
-  "prefecture": "鳥取県",
-  "city": "鳥取市",
-  "town": "気高町勝見",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "31201",
+      "oldZipCode": "68903",
+      "zipCode": "6890332",
+      "prefectureKana": "トットリケン",
+      "cityKana": "トットリシ",
+      "townKana": "ケタカチョウカチミ",
+      "prefecture": "鳥取県",
+      "city": "鳥取市",
+      "town": "気高町勝見",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

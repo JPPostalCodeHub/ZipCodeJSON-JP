@@ -1,17 +1,21 @@
 {
-  "jisCode": "15216",
-  "oldZipCode": "94903",
-  "zipCode": "9490303",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "イトイガワシ",
-  "townKana": "トウミ",
-  "prefecture": "新潟県",
-  "city": "糸魚川市",
-  "town": "田海",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15216",
+      "oldZipCode": "94903",
+      "zipCode": "9490303",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "イトイガワシ",
+      "townKana": "トウミ",
+      "prefecture": "新潟県",
+      "city": "糸魚川市",
+      "town": "田海",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

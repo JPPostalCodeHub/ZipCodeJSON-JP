@@ -1,17 +1,21 @@
 {
-  "jisCode": "11239",
-  "oldZipCode": "35002",
-  "zipCode": "3500224",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "サカドシ",
-  "townKana": "ヤマタチョウ",
-  "prefecture": "埼玉県",
-  "city": "坂戸市",
-  "town": "山田町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11239",
+      "oldZipCode": "35002",
+      "zipCode": "3500224",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "サカドシ",
+      "townKana": "ヤマタチョウ",
+      "prefecture": "埼玉県",
+      "city": "坂戸市",
+      "town": "山田町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

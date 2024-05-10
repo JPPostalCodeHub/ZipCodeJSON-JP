@@ -1,17 +1,21 @@
 {
-  "jisCode": "01224",
-  "oldZipCode": "06911",
-  "zipCode": "0691181",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "チトセシ",
-  "townKana": "ヒガシオカ",
-  "prefecture": "北海道",
-  "city": "千歳市",
-  "town": "東丘",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01224",
+      "oldZipCode": "06911",
+      "zipCode": "0691181",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "チトセシ",
+      "townKana": "ヒガシオカ",
+      "prefecture": "北海道",
+      "city": "千歳市",
+      "town": "東丘",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "20202",
-  "oldZipCode": "39974",
-  "zipCode": "3997416",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "マツモトシ",
-  "townKana": "ナナアラシ",
-  "prefecture": "長野県",
-  "city": "松本市",
-  "town": "七嵐",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20202",
+      "oldZipCode": "39974",
+      "zipCode": "3997416",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "マツモトシ",
+      "townKana": "ナナアラシ",
+      "prefecture": "長野県",
+      "city": "松本市",
+      "town": "七嵐",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "11104",
-  "oldZipCode": "330  ",
-  "zipCode": "3370011",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "サイタマシミヌマク",
-  "townKana": "ミヤガヤトウ",
-  "prefecture": "埼玉県",
-  "city": "さいたま市見沼区",
-  "town": "宮ヶ谷塔",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11104",
+      "oldZipCode": "330  ",
+      "zipCode": "3370011",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "サイタマシミヌマク",
+      "townKana": "ミヤガヤトウ",
+      "prefecture": "埼玉県",
+      "city": "さいたま市見沼区",
+      "town": "宮ヶ谷塔",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

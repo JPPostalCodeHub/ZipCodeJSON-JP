@@ -1,17 +1,21 @@
 {
-  "jisCode": "11203",
-  "oldZipCode": "332  ",
-  "zipCode": "3320031",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "カワグチシ",
-  "townKana": "アオキ",
-  "prefecture": "埼玉県",
-  "city": "川口市",
-  "town": "青木",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11203",
+      "oldZipCode": "332  ",
+      "zipCode": "3320031",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "カワグチシ",
+      "townKana": "アオキ",
+      "prefecture": "埼玉県",
+      "city": "川口市",
+      "town": "青木",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

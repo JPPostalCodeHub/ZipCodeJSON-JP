@@ -1,17 +1,21 @@
 {
-  "jisCode": "28107",
-  "oldZipCode": "654  ",
-  "zipCode": "6540073",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "コウベシスマク",
-  "townKana": "セキモリチョウ",
-  "prefecture": "兵庫県",
-  "city": "神戸市須磨区",
-  "town": "関守町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28107",
+      "oldZipCode": "654  ",
+      "zipCode": "6540073",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "コウベシスマク",
+      "townKana": "セキモリチョウ",
+      "prefecture": "兵庫県",
+      "city": "神戸市須磨区",
+      "town": "関守町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

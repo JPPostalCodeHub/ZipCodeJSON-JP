@@ -1,17 +1,21 @@
 {
-  "jisCode": "23237",
-  "oldZipCode": "497  ",
-  "zipCode": "4970012",
-  "prefectureKana": "アイチケン",
-  "cityKana": "アマシ",
-  "townKana": "シッポウチョウシモダ",
-  "prefecture": "愛知県",
-  "city": "あま市",
-  "town": "七宝町下田",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23237",
+      "oldZipCode": "497  ",
+      "zipCode": "4970012",
+      "prefectureKana": "アイチケン",
+      "cityKana": "アマシ",
+      "townKana": "シッポウチョウシモダ",
+      "prefecture": "愛知県",
+      "city": "あま市",
+      "town": "七宝町下田",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

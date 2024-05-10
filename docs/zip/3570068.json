@@ -1,17 +1,21 @@
 {
-  "jisCode": "11209",
-  "oldZipCode": "357  ",
-  "zipCode": "3570068",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "ハンノウシ",
-  "townKana": "クスミ",
-  "prefecture": "埼玉県",
-  "city": "飯能市",
-  "town": "久須美",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11209",
+      "oldZipCode": "357  ",
+      "zipCode": "3570068",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "ハンノウシ",
+      "townKana": "クスミ",
+      "prefecture": "埼玉県",
+      "city": "飯能市",
+      "town": "久須美",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

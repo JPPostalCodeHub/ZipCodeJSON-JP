@@ -1,17 +1,21 @@
 {
-  "jisCode": "42307",
-  "oldZipCode": "85906",
-  "zipCode": "8512131",
-  "prefectureKana": "ナガサキケン",
-  "cityKana": "ニシソノギグンナガヨチョウ",
-  "townKana": "ホクヨウダイ",
-  "prefecture": "長崎県",
-  "city": "西彼杵郡長与町",
-  "town": "北陽台",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "42307",
+      "oldZipCode": "85906",
+      "zipCode": "8512131",
+      "prefectureKana": "ナガサキケン",
+      "cityKana": "ニシソノギグンナガヨチョウ",
+      "townKana": "ホクヨウダイ",
+      "prefecture": "長崎県",
+      "city": "西彼杵郡長与町",
+      "town": "北陽台",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

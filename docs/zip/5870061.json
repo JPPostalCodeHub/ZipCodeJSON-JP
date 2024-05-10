@@ -1,17 +1,21 @@
 {
-  "jisCode": "27147",
-  "oldZipCode": "587  ",
-  "zipCode": "5870061",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "サカイシミハラク",
-  "townKana": "イマイ",
-  "prefecture": "大阪府",
-  "city": "堺市美原区",
-  "town": "今井",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27147",
+      "oldZipCode": "587  ",
+      "zipCode": "5870061",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "サカイシミハラク",
+      "townKana": "イマイ",
+      "prefecture": "大阪府",
+      "city": "堺市美原区",
+      "town": "今井",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

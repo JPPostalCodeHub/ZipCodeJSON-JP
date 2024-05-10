@@ -1,17 +1,21 @@
 {
-  "jisCode": "23206",
-  "oldZipCode": "487  ",
-  "zipCode": "4870034",
-  "prefectureKana": "アイチケン",
-  "cityKana": "カスガイシ",
-  "townKana": "シラヤマチョウ",
-  "prefecture": "愛知県",
-  "city": "春日井市",
-  "town": "白山町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23206",
+      "oldZipCode": "487  ",
+      "zipCode": "4870034",
+      "prefectureKana": "アイチケン",
+      "cityKana": "カスガイシ",
+      "townKana": "シラヤマチョウ",
+      "prefecture": "愛知県",
+      "city": "春日井市",
+      "town": "白山町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

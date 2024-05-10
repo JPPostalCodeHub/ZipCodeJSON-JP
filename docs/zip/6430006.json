@@ -1,17 +1,21 @@
 {
-  "jisCode": "30361",
-  "oldZipCode": "643  ",
-  "zipCode": "6430006",
-  "prefectureKana": "ワカヤマケン",
-  "cityKana": "アリダグンユアサチョウ",
-  "townKana": "タ",
-  "prefecture": "和歌山県",
-  "city": "有田郡湯浅町",
-  "town": "田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "30361",
+      "oldZipCode": "643  ",
+      "zipCode": "6430006",
+      "prefectureKana": "ワカヤマケン",
+      "cityKana": "アリダグンユアサチョウ",
+      "townKana": "タ",
+      "prefecture": "和歌山県",
+      "city": "有田郡湯浅町",
+      "town": "田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

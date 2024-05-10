@@ -1,17 +1,21 @@
 {
-  "jisCode": "20219",
-  "oldZipCode": "38905",
-  "zipCode": "3890502",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "トウミシ",
-  "townKana": "クラカケ",
-  "prefecture": "長野県",
-  "city": "東御市",
-  "town": "鞍掛",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20219",
+      "oldZipCode": "38905",
+      "zipCode": "3890502",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "トウミシ",
+      "townKana": "クラカケ",
+      "prefecture": "長野県",
+      "city": "東御市",
+      "town": "鞍掛",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "01482",
-  "oldZipCode": "07833",
-  "zipCode": "0783303",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ルモイグンオビラチョウ",
-  "townKana": "トヨヒラ",
-  "prefecture": "北海道",
-  "city": "留萌郡小平町",
-  "town": "豊平",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01482",
+      "oldZipCode": "07833",
+      "zipCode": "0783303",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ルモイグンオビラチョウ",
+      "townKana": "トヨヒラ",
+      "prefecture": "北海道",
+      "city": "留萌郡小平町",
+      "town": "豊平",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

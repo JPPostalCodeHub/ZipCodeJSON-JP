@@ -1,17 +1,21 @@
 {
-  "jisCode": "39201",
-  "oldZipCode": "78151",
-  "zipCode": "7815108",
-  "prefectureKana": "コウチケン",
-  "cityKana": "コウチシ",
-  "townKana": "シオミダイ",
-  "prefecture": "高知県",
-  "city": "高知市",
-  "town": "潮見台",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "39201",
+      "oldZipCode": "78151",
+      "zipCode": "7815108",
+      "prefectureKana": "コウチケン",
+      "cityKana": "コウチシ",
+      "townKana": "シオミダイ",
+      "prefecture": "高知県",
+      "city": "高知市",
+      "town": "潮見台",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

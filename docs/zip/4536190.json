@@ -1,17 +1,21 @@
 {
-  "jisCode": "23105",
-  "oldZipCode": "453  ",
-  "zipCode": "4536190",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ナゴヤシナカムラク",
-  "townKana": "ヒライケチョウグローバルゲート（チカイ・カイソウフメイ）",
-  "prefecture": "愛知県",
-  "city": "名古屋市中村区",
-  "town": "平池町グローバルゲート（地階・階層不明）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23105",
+      "oldZipCode": "453  ",
+      "zipCode": "4536190",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ナゴヤシナカムラク",
+      "townKana": "ヒライケチョウグローバルゲート（チカイ・カイソウフメイ）",
+      "prefecture": "愛知県",
+      "city": "名古屋市中村区",
+      "town": "平池町グローバルゲート（地階・階層不明）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

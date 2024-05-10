@@ -1,17 +1,21 @@
 {
-  "jisCode": "12224",
-  "oldZipCode": "27301",
-  "zipCode": "2730106",
-  "prefectureKana": "チバケン",
-  "cityKana": "カマガヤシ",
-  "townKana": "ミナミカマガヤ",
-  "prefecture": "千葉県",
-  "city": "鎌ケ谷市",
-  "town": "南鎌ケ谷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12224",
+      "oldZipCode": "27301",
+      "zipCode": "2730106",
+      "prefectureKana": "チバケン",
+      "cityKana": "カマガヤシ",
+      "townKana": "ミナミカマガヤ",
+      "prefecture": "千葉県",
+      "city": "鎌ケ谷市",
+      "town": "南鎌ケ谷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

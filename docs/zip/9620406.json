@@ -1,17 +1,21 @@
 {
-  "jisCode": "07207",
-  "oldZipCode": "96204",
-  "zipCode": "9620406",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "スカガワシ",
-  "townKana": "ミヤノモリ",
-  "prefecture": "福島県",
-  "city": "須賀川市",
-  "town": "宮の杜",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07207",
+      "oldZipCode": "96204",
+      "zipCode": "9620406",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "スカガワシ",
+      "townKana": "ミヤノモリ",
+      "prefecture": "福島県",
+      "city": "須賀川市",
+      "town": "宮の杜",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

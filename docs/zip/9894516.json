@@ -1,17 +1,21 @@
 {
-  "jisCode": "04213",
-  "oldZipCode": "98945",
-  "zipCode": "9894516",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "クリハラシ",
-  "townKana": "セミネチョウジャハラ",
-  "prefecture": "宮城県",
-  "city": "栗原市",
-  "town": "瀬峰長者原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04213",
+      "oldZipCode": "98945",
+      "zipCode": "9894516",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "クリハラシ",
+      "townKana": "セミネチョウジャハラ",
+      "prefecture": "宮城県",
+      "city": "栗原市",
+      "town": "瀬峰長者原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

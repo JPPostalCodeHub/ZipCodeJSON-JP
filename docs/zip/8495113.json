@@ -1,17 +1,21 @@
 {
-  "jisCode": "41202",
-  "oldZipCode": "84951",
-  "zipCode": "8495113",
-  "prefectureKana": "サガケン",
-  "cityKana": "カラツシ",
-  "townKana": "ハマタママチトリス",
-  "prefecture": "佐賀県",
-  "city": "唐津市",
-  "town": "浜玉町鳥巣",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "41202",
+      "oldZipCode": "84951",
+      "zipCode": "8495113",
+      "prefectureKana": "サガケン",
+      "cityKana": "カラツシ",
+      "townKana": "ハマタママチトリス",
+      "prefecture": "佐賀県",
+      "city": "唐津市",
+      "town": "浜玉町鳥巣",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

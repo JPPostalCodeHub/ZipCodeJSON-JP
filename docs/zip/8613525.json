@@ -1,17 +1,21 @@
 {
-  "jisCode": "43447",
-  "oldZipCode": "86135",
-  "zipCode": "8613525",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "カミマシキグンヤマトチョウ",
-  "townKana": "マキノ",
-  "prefecture": "熊本県",
-  "city": "上益城郡山都町",
-  "town": "牧野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43447",
+      "oldZipCode": "86135",
+      "zipCode": "8613525",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "カミマシキグンヤマトチョウ",
+      "townKana": "マキノ",
+      "prefecture": "熊本県",
+      "city": "上益城郡山都町",
+      "town": "牧野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,38 @@
 {
-  "jisCode": "23214",
-  "oldZipCode": "443  ",
-  "zipCode": "4430052",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ガマゴオリシ",
-  "townKana": "アライチョウミナミ",
-  "prefecture": "愛知県",
-  "city": "蒲郡市",
-  "town": "新井町南",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23214",
+      "oldZipCode": "443  ",
+      "zipCode": "4430052",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ガマゴオリシ",
+      "townKana": "アライチョウ",
+      "prefecture": "愛知県",
+      "city": "蒲郡市",
+      "town": "新井町",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "23214",
+      "oldZipCode": "443  ",
+      "zipCode": "4430052",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ガマゴオリシ",
+      "townKana": "アライチョウミナミ",
+      "prefecture": "愛知県",
+      "city": "蒲郡市",
+      "town": "新井町南",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

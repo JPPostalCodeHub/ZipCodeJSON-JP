@@ -1,17 +1,21 @@
 {
-  "jisCode": "03302",
-  "oldZipCode": "02851",
-  "zipCode": "0285102",
-  "prefectureKana": "イワテケン",
-  "cityKana": "イワテグンクズマキマチ",
-  "townKana": "クズマキ（ダイ４０チワリ＜５７バンチ１２５、１７６ヲノゾク＞−ダイ４５チワリ）",
-  "prefecture": "岩手県",
-  "city": "岩手郡葛巻町",
-  "town": "葛巻（第４０地割「５７番地１２５、１７６を除く」〜第４５地割）",
-  "multipleZipCodes": "1",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "03302",
+      "oldZipCode": "02851",
+      "zipCode": "0285102",
+      "prefectureKana": "イワテケン",
+      "cityKana": "イワテグンクズマキマチ",
+      "townKana": "クズマキ（ダイ４０チワリ＜５７バンチ１２５、１７６ヲノゾク＞−ダイ４５チワリ）",
+      "prefecture": "岩手県",
+      "city": "岩手郡葛巻町",
+      "town": "葛巻（第４０地割「５７番地１２５、１７６を除く」〜第４５地割）",
+      "multipleZipCodes": "1",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

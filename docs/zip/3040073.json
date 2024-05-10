@@ -1,17 +1,21 @@
 {
-  "jisCode": "08210",
-  "oldZipCode": "304  ",
-  "zipCode": "3040073",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "シモツマシ",
-  "townKana": "キリガセ",
-  "prefecture": "茨城県",
-  "city": "下妻市",
-  "town": "桐ケ瀬",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08210",
+      "oldZipCode": "304  ",
+      "zipCode": "3040073",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "シモツマシ",
+      "townKana": "キリガセ",
+      "prefecture": "茨城県",
+      "city": "下妻市",
+      "town": "桐ケ瀬",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

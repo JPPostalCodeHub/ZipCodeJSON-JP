@@ -1,17 +1,38 @@
 {
-  "jisCode": "24208",
-  "oldZipCode": "51804",
-  "zipCode": "5180607",
-  "prefectureKana": "ミエケン",
-  "cityKana": "ナバリシ",
-  "townKana": "クズオ",
-  "prefecture": "三重県",
-  "city": "名張市",
-  "town": "葛尾",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "24208",
+      "oldZipCode": "51804",
+      "zipCode": "5180607",
+      "prefectureKana": "ミエケン",
+      "cityKana": "ナバリシ",
+      "townKana": "イエノ",
+      "prefecture": "三重県",
+      "city": "名張市",
+      "town": "家野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "24208",
+      "oldZipCode": "51804",
+      "zipCode": "5180607",
+      "prefectureKana": "ミエケン",
+      "cityKana": "ナバリシ",
+      "townKana": "クズオ",
+      "prefecture": "三重県",
+      "city": "名張市",
+      "town": "葛尾",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

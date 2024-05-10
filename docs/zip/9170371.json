@@ -1,17 +1,21 @@
 {
-  "jisCode": "18483",
-  "oldZipCode": "91703",
-  "zipCode": "9170371",
-  "prefectureKana": "フクイケン",
-  "cityKana": "オオイグンオオイチョウ",
-  "townKana": "ナタショウオグラ",
-  "prefecture": "福井県",
-  "city": "大飯郡おおい町",
-  "town": "名田庄小倉",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18483",
+      "oldZipCode": "91703",
+      "zipCode": "9170371",
+      "prefectureKana": "フクイケン",
+      "cityKana": "オオイグンオオイチョウ",
+      "townKana": "ナタショウオグラ",
+      "prefecture": "福井県",
+      "city": "大飯郡おおい町",
+      "town": "名田庄小倉",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

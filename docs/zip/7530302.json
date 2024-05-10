@@ -1,17 +1,21 @@
 {
-  "jisCode": "35203",
-  "oldZipCode": "75303",
-  "zipCode": "7530302",
-  "prefectureKana": "ヤマグチケン",
-  "cityKana": "ヤマグチシ",
-  "townKana": "ニホナカゴウ",
-  "prefecture": "山口県",
-  "city": "山口市",
-  "town": "仁保中郷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "35203",
+      "oldZipCode": "75303",
+      "zipCode": "7530302",
+      "prefectureKana": "ヤマグチケン",
+      "cityKana": "ヤマグチシ",
+      "townKana": "ニホナカゴウ",
+      "prefecture": "山口県",
+      "city": "山口市",
+      "town": "仁保中郷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

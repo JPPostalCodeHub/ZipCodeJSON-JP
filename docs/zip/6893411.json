@@ -1,17 +1,21 @@
 {
-  "jisCode": "31202",
-  "oldZipCode": "68934",
-  "zipCode": "6893411",
-  "prefectureKana": "トットリケン",
-  "cityKana": "ヨナゴシ",
-  "townKana": "ヨドエチョウフクオカ",
-  "prefecture": "鳥取県",
-  "city": "米子市",
-  "town": "淀江町福岡",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "31202",
+      "oldZipCode": "68934",
+      "zipCode": "6893411",
+      "prefectureKana": "トットリケン",
+      "cityKana": "ヨナゴシ",
+      "townKana": "ヨドエチョウフクオカ",
+      "prefecture": "鳥取県",
+      "city": "米子市",
+      "town": "淀江町福岡",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

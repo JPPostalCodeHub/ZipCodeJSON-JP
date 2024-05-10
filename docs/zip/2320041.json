@@ -1,17 +1,21 @@
 {
-  "jisCode": "14105",
-  "oldZipCode": "232  ",
-  "zipCode": "2320041",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "ヨコハマシミナミク",
-  "townKana": "ムツミチョウ",
-  "prefecture": "神奈川県",
-  "city": "横浜市南区",
-  "town": "睦町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14105",
+      "oldZipCode": "232  ",
+      "zipCode": "2320041",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "ヨコハマシミナミク",
+      "townKana": "ムツミチョウ",
+      "prefecture": "神奈川県",
+      "city": "横浜市南区",
+      "town": "睦町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

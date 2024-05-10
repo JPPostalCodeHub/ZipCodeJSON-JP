@@ -1,17 +1,21 @@
 {
-  "jisCode": "13104",
-  "oldZipCode": "162  ",
-  "zipCode": "1620812",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "シンジュクク",
-  "townKana": "ニシゴケンチョウ",
-  "prefecture": "東京都",
-  "city": "新宿区",
-  "town": "西五軒町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13104",
+      "oldZipCode": "162  ",
+      "zipCode": "1620812",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "シンジュクク",
+      "townKana": "ニシゴケンチョウ",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "town": "西五軒町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

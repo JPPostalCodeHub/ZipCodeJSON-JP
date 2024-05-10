@@ -1,17 +1,21 @@
 {
-  "jisCode": "12206",
-  "oldZipCode": "292  ",
-  "zipCode": "2920014",
-  "prefectureKana": "チバケン",
-  "cityKana": "キサラヅシ",
-  "townKana": "タカヤナギ",
-  "prefecture": "千葉県",
-  "city": "木更津市",
-  "town": "高柳",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12206",
+      "oldZipCode": "292  ",
+      "zipCode": "2920014",
+      "prefectureKana": "チバケン",
+      "cityKana": "キサラヅシ",
+      "townKana": "タカヤナギ",
+      "prefecture": "千葉県",
+      "city": "木更津市",
+      "town": "高柳",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

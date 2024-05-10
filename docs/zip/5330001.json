@@ -1,17 +1,21 @@
 {
-  "jisCode": "27114",
-  "oldZipCode": "533  ",
-  "zipCode": "5330001",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "オオサカシヒガシヨドガワク",
-  "townKana": "イタカノ",
-  "prefecture": "大阪府",
-  "city": "大阪市東淀川区",
-  "town": "井高野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27114",
+      "oldZipCode": "533  ",
+      "zipCode": "5330001",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "オオサカシヒガシヨドガワク",
+      "townKana": "イタカノ",
+      "prefecture": "大阪府",
+      "city": "大阪市東淀川区",
+      "town": "井高野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

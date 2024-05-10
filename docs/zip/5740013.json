@@ -1,17 +1,21 @@
 {
-  "jisCode": "27218",
-  "oldZipCode": "574  ",
-  "zipCode": "5740013",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "ダイトウシ",
-  "townKana": "ナカガイト",
-  "prefecture": "大阪府",
-  "city": "大東市",
-  "town": "中垣内",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27218",
+      "oldZipCode": "574  ",
+      "zipCode": "5740013",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "ダイトウシ",
+      "townKana": "ナカガイト",
+      "prefecture": "大阪府",
+      "city": "大東市",
+      "town": "中垣内",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

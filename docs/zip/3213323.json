@@ -1,17 +1,21 @@
 {
-  "jisCode": "09345",
-  "oldZipCode": "32133",
-  "zipCode": "3213323",
-  "prefectureKana": "トチギケン",
-  "cityKana": "ハガグンハガマチ",
-  "townKana": "キタナガシマ",
-  "prefecture": "栃木県",
-  "city": "芳賀郡芳賀町",
-  "town": "北長島",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "09345",
+      "oldZipCode": "32133",
+      "zipCode": "3213323",
+      "prefectureKana": "トチギケン",
+      "cityKana": "ハガグンハガマチ",
+      "townKana": "キタナガシマ",
+      "prefecture": "栃木県",
+      "city": "芳賀郡芳賀町",
+      "town": "北長島",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

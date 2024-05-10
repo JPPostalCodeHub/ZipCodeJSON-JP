@@ -1,17 +1,21 @@
 {
-  "jisCode": "15216",
-  "oldZipCode": "941  ",
-  "zipCode": "9410065",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "イトイガワシ",
-  "townKana": "シンテツ",
-  "prefecture": "新潟県",
-  "city": "糸魚川市",
-  "town": "新鉄",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15216",
+      "oldZipCode": "941  ",
+      "zipCode": "9410065",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "イトイガワシ",
+      "townKana": "シンテツ",
+      "prefecture": "新潟県",
+      "city": "糸魚川市",
+      "town": "新鉄",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "17205",
-  "oldZipCode": "92713",
-  "zipCode": "9271302",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "スズシ",
-  "townKana": "ササナミマチ",
-  "prefecture": "石川県",
-  "city": "珠洲市",
-  "town": "笹波町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17205",
+      "oldZipCode": "92713",
+      "zipCode": "9271302",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "スズシ",
+      "townKana": "ササナミマチ",
+      "prefecture": "石川県",
+      "city": "珠洲市",
+      "town": "笹波町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

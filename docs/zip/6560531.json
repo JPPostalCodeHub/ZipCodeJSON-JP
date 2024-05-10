@@ -1,17 +1,21 @@
 {
-  "jisCode": "28224",
-  "oldZipCode": "65605",
-  "zipCode": "6560531",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "ミナミアワジシ",
-  "townKana": "キタアマイガノ",
-  "prefecture": "兵庫県",
-  "city": "南あわじ市",
-  "town": "北阿万伊賀野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28224",
+      "oldZipCode": "65605",
+      "zipCode": "6560531",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "ミナミアワジシ",
+      "townKana": "キタアマイガノ",
+      "prefecture": "兵庫県",
+      "city": "南あわじ市",
+      "town": "北阿万伊賀野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

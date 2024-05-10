@@ -1,17 +1,21 @@
 {
-  "jisCode": "01693",
-  "oldZipCode": "08616",
-  "zipCode": "0861651",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "シベツグンシベツチョウ",
-  "townKana": "ミナミ１ジョウ",
-  "prefecture": "北海道",
-  "city": "標津郡標津町",
-  "town": "南一条",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01693",
+      "oldZipCode": "08616",
+      "zipCode": "0861651",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "シベツグンシベツチョウ",
+      "townKana": "ミナミ１ジョウ",
+      "prefecture": "北海道",
+      "city": "標津郡標津町",
+      "town": "南一条",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

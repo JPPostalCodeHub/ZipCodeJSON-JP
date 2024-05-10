@@ -1,17 +1,21 @@
 {
-  "jisCode": "06202",
-  "oldZipCode": "992  ",
-  "zipCode": "9920064",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "ヨネザワシ",
-  "townKana": "スギノメマチ",
-  "prefecture": "山形県",
-  "city": "米沢市",
-  "town": "杉の目町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06202",
+      "oldZipCode": "992  ",
+      "zipCode": "9920064",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "ヨネザワシ",
+      "townKana": "スギノメマチ",
+      "prefecture": "山形県",
+      "city": "米沢市",
+      "town": "杉の目町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

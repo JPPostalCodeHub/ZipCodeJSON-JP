@@ -1,17 +1,21 @@
 {
-  "jisCode": "15205",
-  "oldZipCode": "94515",
-  "zipCode": "9451505",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "カシワザキシ",
-  "townKana": "タカヤナギチョウタカオ",
-  "prefecture": "新潟県",
-  "city": "柏崎市",
-  "town": "高柳町高尾",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15205",
+      "oldZipCode": "94515",
+      "zipCode": "9451505",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "カシワザキシ",
+      "townKana": "タカヤナギチョウタカオ",
+      "prefecture": "新潟県",
+      "city": "柏崎市",
+      "town": "高柳町高尾",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

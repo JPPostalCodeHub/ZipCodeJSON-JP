@@ -1,17 +1,21 @@
 {
-  "jisCode": "41208",
-  "oldZipCode": "84903",
-  "zipCode": "8490306",
-  "prefectureKana": "サガケン",
-  "cityKana": "オギシ",
-  "townKana": "ウシヅチョウカツ",
-  "prefecture": "佐賀県",
-  "city": "小城市",
-  "town": "牛津町勝",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "41208",
+      "oldZipCode": "84903",
+      "zipCode": "8490306",
+      "prefectureKana": "サガケン",
+      "cityKana": "オギシ",
+      "townKana": "ウシヅチョウカツ",
+      "prefecture": "佐賀県",
+      "city": "小城市",
+      "town": "牛津町勝",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

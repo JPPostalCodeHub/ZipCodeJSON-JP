@@ -1,17 +1,21 @@
 {
-  "jisCode": "27127",
-  "oldZipCode": "531  ",
-  "zipCode": "5310041",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "オオサカシキタク",
-  "townKana": "テンジンバシ（７、８チョウメ）",
-  "prefecture": "大阪府",
-  "city": "大阪市北区",
-  "town": "天神橋（７、８丁目）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27127",
+      "oldZipCode": "531  ",
+      "zipCode": "5310041",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "オオサカシキタク",
+      "townKana": "テンジンバシ（７、８チョウメ）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "town": "天神橋（７、８丁目）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

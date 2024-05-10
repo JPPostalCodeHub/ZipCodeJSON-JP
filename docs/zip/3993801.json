@@ -1,17 +1,21 @@
 {
-  "jisCode": "20386",
-  "oldZipCode": "39938",
-  "zipCode": "3993801",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "カミイナグンナカガワムラ",
-  "townKana": "オオクサ",
-  "prefecture": "長野県",
-  "city": "上伊那郡中川村",
-  "town": "大草",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20386",
+      "oldZipCode": "39938",
+      "zipCode": "3993801",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "カミイナグンナカガワムラ",
+      "townKana": "オオクサ",
+      "prefecture": "長野県",
+      "city": "上伊那郡中川村",
+      "town": "大草",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "32501",
-  "oldZipCode": "69956",
-  "zipCode": "6995607",
-  "prefectureKana": "シマネケン",
-  "cityKana": "カノアシグンツワノチョウ",
-  "townKana": "コウダ",
-  "prefecture": "島根県",
-  "city": "鹿足郡津和野町",
-  "town": "耕田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "32501",
+      "oldZipCode": "69956",
+      "zipCode": "6995607",
+      "prefectureKana": "シマネケン",
+      "cityKana": "カノアシグンツワノチョウ",
+      "townKana": "コウダ",
+      "prefecture": "島根県",
+      "city": "鹿足郡津和野町",
+      "town": "耕田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "05207",
-  "oldZipCode": "012  ",
-  "zipCode": "0120836",
-  "prefectureKana": "アキタケン",
-  "cityKana": "ユザワシ",
-  "townKana": "カネホリザワヤマ",
-  "prefecture": "秋田県",
-  "city": "湯沢市",
-  "town": "金堀沢山",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05207",
+      "oldZipCode": "012  ",
+      "zipCode": "0120836",
+      "prefectureKana": "アキタケン",
+      "cityKana": "ユザワシ",
+      "townKana": "カネホリザワヤマ",
+      "prefecture": "秋田県",
+      "city": "湯沢市",
+      "town": "金堀沢山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

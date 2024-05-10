@@ -1,17 +1,21 @@
 {
-  "jisCode": "12441",
-  "oldZipCode": "29802",
-  "zipCode": "2980213",
-  "prefectureKana": "チバケン",
-  "cityKana": "イスミグンオオタキマチ",
-  "townKana": "サクラダイ",
-  "prefecture": "千葉県",
-  "city": "夷隅郡大多喜町",
-  "town": "桜台",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12441",
+      "oldZipCode": "29802",
+      "zipCode": "2980213",
+      "prefectureKana": "チバケン",
+      "cityKana": "イスミグンオオタキマチ",
+      "townKana": "サクラダイ",
+      "prefecture": "千葉県",
+      "city": "夷隅郡大多喜町",
+      "town": "桜台",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

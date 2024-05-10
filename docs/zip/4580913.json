@@ -1,17 +1,21 @@
 {
-  "jisCode": "23114",
-  "oldZipCode": "458  ",
-  "zipCode": "4580913",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ナゴヤシミドリク",
-  "townKana": "オケハザマキタ",
-  "prefecture": "愛知県",
-  "city": "名古屋市緑区",
-  "town": "桶狭間北",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23114",
+      "oldZipCode": "458  ",
+      "zipCode": "4580913",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ナゴヤシミドリク",
+      "townKana": "オケハザマキタ",
+      "prefecture": "愛知県",
+      "city": "名古屋市緑区",
+      "town": "桶狭間北",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

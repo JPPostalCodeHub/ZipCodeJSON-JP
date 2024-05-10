@@ -1,17 +1,21 @@
 {
-  "jisCode": "13204",
-  "oldZipCode": "181  ",
-  "zipCode": "1810011",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "ミタカシ",
-  "townKana": "イグチ",
-  "prefecture": "東京都",
-  "city": "三鷹市",
-  "town": "井口",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13204",
+      "oldZipCode": "181  ",
+      "zipCode": "1810011",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "ミタカシ",
+      "townKana": "イグチ",
+      "prefecture": "東京都",
+      "city": "三鷹市",
+      "town": "井口",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

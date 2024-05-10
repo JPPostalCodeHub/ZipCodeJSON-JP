@@ -1,17 +1,21 @@
 {
-  "jisCode": "32209",
-  "oldZipCode": "69025",
-  "zipCode": "6902522",
-  "prefectureKana": "シマネケン",
-  "cityKana": "ウンナンシ",
-  "townKana": "ミトヤチョウムエ",
-  "prefecture": "島根県",
-  "city": "雲南市",
-  "town": "三刀屋町六重",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "32209",
+      "oldZipCode": "69025",
+      "zipCode": "6902522",
+      "prefectureKana": "シマネケン",
+      "cityKana": "ウンナンシ",
+      "townKana": "ミトヤチョウムエ",
+      "prefecture": "島根県",
+      "city": "雲南市",
+      "town": "三刀屋町六重",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

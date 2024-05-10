@@ -1,17 +1,21 @@
 {
-  "jisCode": "10382",
-  "oldZipCode": "37026",
-  "zipCode": "3702611",
-  "prefectureKana": "グンマケン",
-  "cityKana": "カンラグンシモニタマチ",
-  "townKana": "アオクラ",
-  "prefecture": "群馬県",
-  "city": "甘楽郡下仁田町",
-  "town": "青倉",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "10382",
+      "oldZipCode": "37026",
+      "zipCode": "3702611",
+      "prefectureKana": "グンマケン",
+      "cityKana": "カンラグンシモニタマチ",
+      "townKana": "アオクラ",
+      "prefecture": "群馬県",
+      "city": "甘楽郡下仁田町",
+      "town": "青倉",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

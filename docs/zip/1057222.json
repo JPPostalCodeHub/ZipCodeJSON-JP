@@ -1,17 +1,21 @@
 {
-  "jisCode": "13103",
-  "oldZipCode": "105  ",
-  "zipCode": "1057222",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "ミナトク",
-  "townKana": "ヒガシシンバシシオドメメディアタワー（２２カイ）",
-  "prefecture": "東京都",
-  "city": "港区",
-  "town": "東新橋汐留メディアタワー（２２階）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13103",
+      "oldZipCode": "105  ",
+      "zipCode": "1057222",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "ミナトク",
+      "townKana": "ヒガシシンバシシオドメメディアタワー（２２カイ）",
+      "prefecture": "東京都",
+      "city": "港区",
+      "town": "東新橋汐留メディアタワー（２２階）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

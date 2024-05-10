@@ -1,17 +1,21 @@
 {
-  "jisCode": "35215",
-  "oldZipCode": "745  ",
-  "zipCode": "7450015",
-  "prefectureKana": "ヤマグチケン",
-  "cityKana": "シュウナンシ",
-  "townKana": "ヘイワドオリ",
-  "prefecture": "山口県",
-  "city": "周南市",
-  "town": "平和通り",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "35215",
+      "oldZipCode": "745  ",
+      "zipCode": "7450015",
+      "prefectureKana": "ヤマグチケン",
+      "cityKana": "シュウナンシ",
+      "townKana": "ヘイワドオリ",
+      "prefecture": "山口県",
+      "city": "周南市",
+      "town": "平和通り",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

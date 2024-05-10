@@ -1,17 +1,21 @@
 {
-  "jisCode": "13103",
-  "oldZipCode": "105  ",
-  "zipCode": "1057427",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "ミナトク",
-  "townKana": "ヒガシシンバシニホンテレビタワー（２７カイ）",
-  "prefecture": "東京都",
-  "city": "港区",
-  "town": "東新橋日本テレビタワー（２７階）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13103",
+      "oldZipCode": "105  ",
+      "zipCode": "1057427",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "ミナトク",
+      "townKana": "ヒガシシンバシニホンテレビタワー（２７カイ）",
+      "prefecture": "東京都",
+      "city": "港区",
+      "town": "東新橋日本テレビタワー（２７階）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

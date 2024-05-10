@@ -1,17 +1,21 @@
 {
-  "jisCode": "28203",
-  "oldZipCode": "673  ",
-  "zipCode": "6730862",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "アカシシ",
-  "townKana": "マツガオカ",
-  "prefecture": "兵庫県",
-  "city": "明石市",
-  "town": "松が丘",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28203",
+      "oldZipCode": "673  ",
+      "zipCode": "6730862",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "アカシシ",
+      "townKana": "マツガオカ",
+      "prefecture": "兵庫県",
+      "city": "明石市",
+      "town": "松が丘",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

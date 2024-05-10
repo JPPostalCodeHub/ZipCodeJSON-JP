@@ -1,17 +1,21 @@
 {
-  "jisCode": "23215",
-  "oldZipCode": "484  ",
-  "zipCode": "4840059",
-  "prefectureKana": "アイチケン",
-  "cityKana": "イヌヤマシ",
-  "townKana": "カミサカチョウ",
-  "prefecture": "愛知県",
-  "city": "犬山市",
-  "town": "上坂町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23215",
+      "oldZipCode": "484  ",
+      "zipCode": "4840059",
+      "prefectureKana": "アイチケン",
+      "cityKana": "イヌヤマシ",
+      "townKana": "カミサカチョウ",
+      "prefecture": "愛知県",
+      "city": "犬山市",
+      "town": "上坂町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

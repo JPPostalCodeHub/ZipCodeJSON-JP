@@ -1,17 +1,21 @@
 {
-  "jisCode": "44203",
-  "oldZipCode": "871  ",
-  "zipCode": "8710078",
-  "prefectureKana": "オオイタケン",
-  "cityKana": "ナカツシ",
-  "townKana": "コイワイ（カミカタマチ、ナカシママチ、ホンマチ、ミナトマチ）",
-  "prefecture": "大分県",
-  "city": "中津市",
-  "town": "小祝（上方町、中島町、本町、港町）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "44203",
+      "oldZipCode": "871  ",
+      "zipCode": "8710078",
+      "prefectureKana": "オオイタケン",
+      "cityKana": "ナカツシ",
+      "townKana": "コイワイ（カミカタマチ、ナカシママチ、ホンマチ、ミナトマチ）",
+      "prefecture": "大分県",
+      "city": "中津市",
+      "town": "小祝（上方町、中島町、本町、港町）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

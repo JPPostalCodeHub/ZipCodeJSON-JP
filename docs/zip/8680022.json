@@ -1,17 +1,38 @@
 {
-  "jisCode": "43203",
-  "oldZipCode": "868  ",
-  "zipCode": "8680022",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "ヒトヨシシ",
-  "townKana": "キタガンジョウジマチ",
-  "prefecture": "熊本県",
-  "city": "人吉市",
-  "town": "北願成寺町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43203",
+      "oldZipCode": "868  ",
+      "zipCode": "8680022",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "ヒトヨシシ",
+      "townKana": "ガンジョウジマチ",
+      "prefecture": "熊本県",
+      "city": "人吉市",
+      "town": "願成寺町",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "43203",
+      "oldZipCode": "868  ",
+      "zipCode": "8680022",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "ヒトヨシシ",
+      "townKana": "キタガンジョウジマチ",
+      "prefecture": "熊本県",
+      "city": "人吉市",
+      "town": "北願成寺町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

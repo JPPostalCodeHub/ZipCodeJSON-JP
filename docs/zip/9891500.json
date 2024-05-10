@@ -1,17 +1,21 @@
 {
-  "jisCode": "04324",
-  "oldZipCode": "98915",
-  "zipCode": "9891500",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "シバタグンカワサキマチ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "宮城県",
-  "city": "柴田郡川崎町",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04324",
+      "oldZipCode": "98915",
+      "zipCode": "9891500",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "シバタグンカワサキマチ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "宮城県",
+      "city": "柴田郡川崎町",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

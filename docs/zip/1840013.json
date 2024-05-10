@@ -1,17 +1,21 @@
 {
-  "jisCode": "13210",
-  "oldZipCode": "184  ",
-  "zipCode": "1840013",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "コガネイシ",
-  "townKana": "マエハラチョウ",
-  "prefecture": "東京都",
-  "city": "小金井市",
-  "town": "前原町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13210",
+      "oldZipCode": "184  ",
+      "zipCode": "1840013",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "コガネイシ",
+      "townKana": "マエハラチョウ",
+      "prefecture": "東京都",
+      "city": "小金井市",
+      "town": "前原町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

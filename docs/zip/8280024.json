@@ -1,17 +1,21 @@
 {
-  "jisCode": "40214",
-  "oldZipCode": "828  ",
-  "zipCode": "8280024",
-  "prefectureKana": "フクオカケン",
-  "cityKana": "ブゼンシ",
-  "townKana": "ヒサマツ",
-  "prefecture": "福岡県",
-  "city": "豊前市",
-  "town": "久松",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "40214",
+      "oldZipCode": "828  ",
+      "zipCode": "8280024",
+      "prefectureKana": "フクオカケン",
+      "cityKana": "ブゼンシ",
+      "townKana": "ヒサマツ",
+      "prefecture": "福岡県",
+      "city": "豊前市",
+      "town": "久松",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

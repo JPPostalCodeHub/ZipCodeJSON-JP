@@ -1,17 +1,21 @@
 {
-  "jisCode": "01487",
-  "oldZipCode": "09829",
-  "zipCode": "0983136",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "テシオグンテシオチョウ",
-  "townKana": "シモコクネップ",
-  "prefecture": "北海道",
-  "city": "天塩郡天塩町",
-  "town": "下コクネップ",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01487",
+      "oldZipCode": "09829",
+      "zipCode": "0983136",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "テシオグンテシオチョウ",
+      "townKana": "シモコクネップ",
+      "prefecture": "北海道",
+      "city": "天塩郡天塩町",
+      "town": "下コクネップ",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

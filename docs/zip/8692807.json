@@ -1,17 +1,21 @@
 {
-  "jisCode": "43214",
-  "oldZipCode": "86928",
-  "zipCode": "8692807",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "アソシ",
-  "townKana": "ナミノシンナミノ",
-  "prefecture": "熊本県",
-  "city": "阿蘇市",
-  "town": "波野新波野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43214",
+      "oldZipCode": "86928",
+      "zipCode": "8692807",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "アソシ",
+      "townKana": "ナミノシンナミノ",
+      "prefecture": "熊本県",
+      "city": "阿蘇市",
+      "town": "波野新波野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "04212",
-  "oldZipCode": "98707",
-  "zipCode": "9870702",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "トメシ",
-  "townKana": "トヨママチテライケ",
-  "prefecture": "宮城県",
-  "city": "登米市",
-  "town": "登米町寺池",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04212",
+      "oldZipCode": "98707",
+      "zipCode": "9870702",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "トメシ",
+      "townKana": "トヨママチテライケ",
+      "prefecture": "宮城県",
+      "city": "登米市",
+      "town": "登米町寺池",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "26108",
-  "oldZipCode": "616  ",
-  "zipCode": "6168291",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシウキョウク",
-  "townKana": "ウメガハタマキノオチョウ",
-  "prefecture": "京都府",
-  "city": "京都市右京区",
-  "town": "梅ケ畑槇尾町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26108",
+      "oldZipCode": "616  ",
+      "zipCode": "6168291",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシウキョウク",
+      "townKana": "ウメガハタマキノオチョウ",
+      "prefecture": "京都府",
+      "city": "京都市右京区",
+      "town": "梅ケ畑槇尾町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

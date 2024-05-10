@@ -1,17 +1,21 @@
 {
-  "jisCode": "13222",
-  "oldZipCode": "203  ",
-  "zipCode": "2030021",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "ヒガシクルメシ",
-  "townKana": "ガクエンチョウ",
-  "prefecture": "東京都",
-  "city": "東久留米市",
-  "town": "学園町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13222",
+      "oldZipCode": "203  ",
+      "zipCode": "2030021",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "ヒガシクルメシ",
+      "townKana": "ガクエンチョウ",
+      "prefecture": "東京都",
+      "city": "東久留米市",
+      "town": "学園町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

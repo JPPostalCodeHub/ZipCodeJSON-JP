@@ -1,17 +1,21 @@
 {
-  "jisCode": "02208",
-  "oldZipCode": "035  ",
-  "zipCode": "0350022",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "ムツシ",
-  "townKana": "セキネ",
-  "prefecture": "青森県",
-  "city": "むつ市",
-  "town": "関根",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02208",
+      "oldZipCode": "035  ",
+      "zipCode": "0350022",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "ムツシ",
+      "townKana": "セキネ",
+      "prefecture": "青森県",
+      "city": "むつ市",
+      "town": "関根",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

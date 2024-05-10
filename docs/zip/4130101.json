@@ -1,17 +1,21 @@
 {
-  "jisCode": "22205",
-  "oldZipCode": "41301",
-  "zipCode": "4130101",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "アタミシ",
-  "townKana": "カミタガ",
-  "prefecture": "静岡県",
-  "city": "熱海市",
-  "town": "上多賀",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22205",
+      "oldZipCode": "41301",
+      "zipCode": "4130101",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "アタミシ",
+      "townKana": "カミタガ",
+      "prefecture": "静岡県",
+      "city": "熱海市",
+      "town": "上多賀",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

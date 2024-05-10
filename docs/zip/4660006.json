@@ -1,17 +1,21 @@
 {
-  "jisCode": "23107",
-  "oldZipCode": "466  ",
-  "zipCode": "4660006",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ナゴヤシショウワク",
-  "townKana": "キタヤマチョウ",
-  "prefecture": "愛知県",
-  "city": "名古屋市昭和区",
-  "town": "北山町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23107",
+      "oldZipCode": "466  ",
+      "zipCode": "4660006",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ナゴヤシショウワク",
+      "townKana": "キタヤマチョウ",
+      "prefecture": "愛知県",
+      "city": "名古屋市昭和区",
+      "town": "北山町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

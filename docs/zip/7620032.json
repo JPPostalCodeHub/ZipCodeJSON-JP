@@ -1,17 +1,21 @@
 {
-  "jisCode": "37203",
-  "oldZipCode": "762  ",
-  "zipCode": "7620032",
-  "prefectureKana": "カガワケン",
-  "cityKana": "サカイデシ",
-  "townKana": "コマドメチョウ",
-  "prefecture": "香川県",
-  "city": "坂出市",
-  "town": "駒止町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "37203",
+      "oldZipCode": "762  ",
+      "zipCode": "7620032",
+      "prefectureKana": "カガワケン",
+      "cityKana": "サカイデシ",
+      "townKana": "コマドメチョウ",
+      "prefecture": "香川県",
+      "city": "坂出市",
+      "town": "駒止町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

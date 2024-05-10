@@ -1,17 +1,21 @@
 {
-  "jisCode": "01668",
-  "oldZipCode": "08805",
-  "zipCode": "0880575",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "シラヌカグンシラヌカチョウ",
-  "townKana": "ニシショロガクエンドオリ",
-  "prefecture": "北海道",
-  "city": "白糠郡白糠町",
-  "town": "西庶路学園通",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01668",
+      "oldZipCode": "08805",
+      "zipCode": "0880575",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "シラヌカグンシラヌカチョウ",
+      "townKana": "ニシショロガクエンドオリ",
+      "prefecture": "北海道",
+      "city": "白糠郡白糠町",
+      "town": "西庶路学園通",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

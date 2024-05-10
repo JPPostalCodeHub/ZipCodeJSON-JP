@@ -1,17 +1,21 @@
 {
-  "jisCode": "09411",
-  "oldZipCode": "32405",
-  "zipCode": "3240515",
-  "prefectureKana": "トチギケン",
-  "cityKana": "ナスグンナカガワマチ",
-  "townKana": "カタヒラ",
-  "prefecture": "栃木県",
-  "city": "那須郡那珂川町",
-  "town": "片平",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "09411",
+      "oldZipCode": "32405",
+      "zipCode": "3240515",
+      "prefectureKana": "トチギケン",
+      "cityKana": "ナスグンナカガワマチ",
+      "townKana": "カタヒラ",
+      "prefecture": "栃木県",
+      "city": "那須郡那珂川町",
+      "town": "片平",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

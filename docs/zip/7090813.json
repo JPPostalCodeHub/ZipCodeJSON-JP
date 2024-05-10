@@ -1,17 +1,21 @@
 {
-  "jisCode": "33213",
-  "oldZipCode": "70908",
-  "zipCode": "7090813",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "アカイワシ",
-  "townKana": "サイドミ",
-  "prefecture": "岡山県",
-  "city": "赤磐市",
-  "town": "斎富",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33213",
+      "oldZipCode": "70908",
+      "zipCode": "7090813",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "アカイワシ",
+      "townKana": "サイドミ",
+      "prefecture": "岡山県",
+      "city": "赤磐市",
+      "town": "斎富",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

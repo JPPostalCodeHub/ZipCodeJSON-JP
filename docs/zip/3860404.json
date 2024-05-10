@@ -1,17 +1,21 @@
 {
-  "jisCode": "20203",
-  "oldZipCode": "38604",
-  "zipCode": "3860404",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "ウエダシ",
-  "townKana": "カミマルコ",
-  "prefecture": "長野県",
-  "city": "上田市",
-  "town": "上丸子",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20203",
+      "oldZipCode": "38604",
+      "zipCode": "3860404",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "ウエダシ",
+      "townKana": "カミマルコ",
+      "prefecture": "長野県",
+      "city": "上田市",
+      "town": "上丸子",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

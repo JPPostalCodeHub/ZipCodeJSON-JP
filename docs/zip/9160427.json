@@ -1,17 +1,21 @@
 {
-  "jisCode": "18423",
-  "oldZipCode": "91604",
-  "zipCode": "9160427",
-  "prefectureKana": "フクイケン",
-  "cityKana": "ニュウグンエチゼンチョウ",
-  "townKana": "ロクロシ",
-  "prefecture": "福井県",
-  "city": "丹生郡越前町",
-  "town": "六呂師",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18423",
+      "oldZipCode": "91604",
+      "zipCode": "9160427",
+      "prefectureKana": "フクイケン",
+      "cityKana": "ニュウグンエチゼンチョウ",
+      "townKana": "ロクロシ",
+      "prefecture": "福井県",
+      "city": "丹生郡越前町",
+      "town": "六呂師",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

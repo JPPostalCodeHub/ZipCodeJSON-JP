@@ -1,17 +1,21 @@
 {
-  "jisCode": "28221",
-  "oldZipCode": "66921",
-  "zipCode": "6692132",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "タンバササヤマシ",
-  "townKana": "コンダチョウカミオノバラ",
-  "prefecture": "兵庫県",
-  "city": "丹波篠山市",
-  "town": "今田町上小野原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28221",
+      "oldZipCode": "66921",
+      "zipCode": "6692132",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "タンバササヤマシ",
+      "townKana": "コンダチョウカミオノバラ",
+      "prefecture": "兵庫県",
+      "city": "丹波篠山市",
+      "town": "今田町上小野原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

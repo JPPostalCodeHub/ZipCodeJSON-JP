@@ -1,17 +1,21 @@
 {
-  "jisCode": "20220",
-  "oldZipCode": "39982",
-  "zipCode": "3998211",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "アヅミノシ",
-  "townKana": "ホリガネカラスガワ",
-  "prefecture": "長野県",
-  "city": "安曇野市",
-  "town": "堀金烏川",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20220",
+      "oldZipCode": "39982",
+      "zipCode": "3998211",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "アヅミノシ",
+      "townKana": "ホリガネカラスガワ",
+      "prefecture": "長野県",
+      "city": "安曇野市",
+      "town": "堀金烏川",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

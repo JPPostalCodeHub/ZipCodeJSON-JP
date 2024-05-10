@@ -1,17 +1,21 @@
 {
-  "jisCode": "15225",
-  "oldZipCode": "94974",
-  "zipCode": "9497423",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ウオヌマシ",
-  "townKana": "ウオノジ",
-  "prefecture": "新潟県",
-  "city": "魚沼市",
-  "town": "魚野地",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15225",
+      "oldZipCode": "94974",
+      "zipCode": "9497423",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ウオヌマシ",
+      "townKana": "ウオノジ",
+      "prefecture": "新潟県",
+      "city": "魚沼市",
+      "town": "魚野地",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

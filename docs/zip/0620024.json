@@ -1,17 +1,21 @@
 {
-  "jisCode": "01105",
-  "oldZipCode": "062  ",
-  "zipCode": "0620024",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "サッポロシトヨヒラク",
-  "townKana": "ツキサムニシ４ジョウ",
-  "prefecture": "北海道",
-  "city": "札幌市豊平区",
-  "town": "月寒西四条",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01105",
+      "oldZipCode": "062  ",
+      "zipCode": "0620024",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "サッポロシトヨヒラク",
+      "townKana": "ツキサムニシ４ジョウ",
+      "prefecture": "北海道",
+      "city": "札幌市豊平区",
+      "town": "月寒西四条",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

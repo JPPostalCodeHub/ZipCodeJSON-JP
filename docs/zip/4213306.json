@@ -1,17 +1,21 @@
 {
-  "jisCode": "22210",
-  "oldZipCode": "42133",
-  "zipCode": "4213306",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "フジシ",
-  "townKana": "ナカノゴウ",
-  "prefecture": "静岡県",
-  "city": "富士市",
-  "town": "中之郷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22210",
+      "oldZipCode": "42133",
+      "zipCode": "4213306",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "フジシ",
+      "townKana": "ナカノゴウ",
+      "prefecture": "静岡県",
+      "city": "富士市",
+      "town": "中之郷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

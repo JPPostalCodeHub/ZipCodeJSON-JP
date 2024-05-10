@@ -1,17 +1,21 @@
 {
-  "jisCode": "01642",
-  "oldZipCode": "08926",
-  "zipCode": "0892631",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ヒロオグンヒロオチョウ",
-  "townKana": "シラカバドオリキタ",
-  "prefecture": "北海道",
-  "city": "広尾郡広尾町",
-  "town": "白樺通北",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01642",
+      "oldZipCode": "08926",
+      "zipCode": "0892631",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ヒロオグンヒロオチョウ",
+      "townKana": "シラカバドオリキタ",
+      "prefecture": "北海道",
+      "city": "広尾郡広尾町",
+      "town": "白樺通北",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "06204",
-  "oldZipCode": "998  ",
-  "zipCode": "9980852",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "サカタシ",
-  "townKana": "コガネチョウ",
-  "prefecture": "山形県",
-  "city": "酒田市",
-  "town": "こがね町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06204",
+      "oldZipCode": "998  ",
+      "zipCode": "9980852",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "サカタシ",
+      "townKana": "コガネチョウ",
+      "prefecture": "山形県",
+      "city": "酒田市",
+      "town": "こがね町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

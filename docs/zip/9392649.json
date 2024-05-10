@@ -1,17 +1,21 @@
 {
-  "jisCode": "16201",
-  "oldZipCode": "93926",
-  "zipCode": "9392649",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "トヤマシ",
-  "townKana": "フチュウマチヨカワ（ニシヨカワ）",
-  "prefecture": "富山県",
-  "city": "富山市",
-  "town": "婦中町余川（西余川）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16201",
+      "oldZipCode": "93926",
+      "zipCode": "9392649",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "トヤマシ",
+      "townKana": "フチュウマチヨカワ（ニシヨカワ）",
+      "prefecture": "富山県",
+      "city": "富山市",
+      "town": "婦中町余川（西余川）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

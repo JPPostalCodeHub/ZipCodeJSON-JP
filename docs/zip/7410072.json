@@ -1,17 +1,21 @@
 {
-  "jisCode": "35208",
-  "oldZipCode": "741  ",
-  "zipCode": "7410072",
-  "prefectureKana": "ヤマグチケン",
-  "cityKana": "イワクニシ",
-  "townKana": "ヒラタ",
-  "prefecture": "山口県",
-  "city": "岩国市",
-  "town": "平田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "35208",
+      "oldZipCode": "741  ",
+      "zipCode": "7410072",
+      "prefectureKana": "ヤマグチケン",
+      "cityKana": "イワクニシ",
+      "townKana": "ヒラタ",
+      "prefecture": "山口県",
+      "city": "岩国市",
+      "town": "平田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

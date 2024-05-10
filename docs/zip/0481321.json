@@ -1,17 +1,38 @@
 {
-  "jisCode": "01394",
-  "oldZipCode": "04813",
-  "zipCode": "0481321",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "イソヤグンランコシチョウ",
-  "townKana": "ユノサト",
-  "prefecture": "北海道",
-  "city": "磯谷郡蘭越町",
-  "town": "湯里",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01394",
+      "oldZipCode": "04813",
+      "zipCode": "0481321",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "イソヤグンランコシチョウ",
+      "townKana": "コンブオンセン",
+      "prefecture": "北海道",
+      "city": "磯谷郡蘭越町",
+      "town": "昆布温泉",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "01394",
+      "oldZipCode": "04813",
+      "zipCode": "0481321",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "イソヤグンランコシチョウ",
+      "townKana": "ユノサト",
+      "prefecture": "北海道",
+      "city": "磯谷郡蘭越町",
+      "town": "湯里",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

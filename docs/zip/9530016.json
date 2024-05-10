@@ -1,17 +1,21 @@
 {
-  "jisCode": "15108",
-  "oldZipCode": "953  ",
-  "zipCode": "9530016",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ニイガタシニシカンク",
-  "townKana": "マツヤマ",
-  "prefecture": "新潟県",
-  "city": "新潟市西蒲区",
-  "town": "松山",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15108",
+      "oldZipCode": "953  ",
+      "zipCode": "9530016",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ニイガタシニシカンク",
+      "townKana": "マツヤマ",
+      "prefecture": "新潟県",
+      "city": "新潟市西蒲区",
+      "town": "松山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

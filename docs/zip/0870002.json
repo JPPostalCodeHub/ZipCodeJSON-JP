@@ -1,17 +1,21 @@
 {
-  "jisCode": "01223",
-  "oldZipCode": "087  ",
-  "zipCode": "0870002",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ネムロシ",
-  "townKana": "マキノウチ",
-  "prefecture": "北海道",
-  "city": "根室市",
-  "town": "牧の内",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01223",
+      "oldZipCode": "087  ",
+      "zipCode": "0870002",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ネムロシ",
+      "townKana": "マキノウチ",
+      "prefecture": "北海道",
+      "city": "根室市",
+      "town": "牧の内",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

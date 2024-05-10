@@ -1,17 +1,21 @@
 {
-  "jisCode": "05348",
-  "oldZipCode": "01824",
-  "zipCode": "0182400",
-  "prefectureKana": "アキタケン",
-  "cityKana": "ヤマモトグンミタネチョウ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "秋田県",
-  "city": "山本郡三種町",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05348",
+      "oldZipCode": "01824",
+      "zipCode": "0182400",
+      "prefectureKana": "アキタケン",
+      "cityKana": "ヤマモトグンミタネチョウ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "秋田県",
+      "city": "山本郡三種町",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

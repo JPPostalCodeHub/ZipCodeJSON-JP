@@ -1,17 +1,21 @@
 {
-  "jisCode": "42213",
-  "oldZipCode": "85912",
-  "zipCode": "8591214",
-  "prefectureKana": "ナガサキケン",
-  "cityKana": "ウンゼンシ",
-  "townKana": "ミズホチョウイフクオツ",
-  "prefecture": "長崎県",
-  "city": "雲仙市",
-  "town": "瑞穂町伊福乙",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "42213",
+      "oldZipCode": "85912",
+      "zipCode": "8591214",
+      "prefectureKana": "ナガサキケン",
+      "cityKana": "ウンゼンシ",
+      "townKana": "ミズホチョウイフクオツ",
+      "prefecture": "長崎県",
+      "city": "雲仙市",
+      "town": "瑞穂町伊福乙",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

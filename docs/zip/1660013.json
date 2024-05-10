@@ -1,17 +1,21 @@
 {
-  "jisCode": "13115",
-  "oldZipCode": "166  ",
-  "zipCode": "1660013",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "スギナミク",
-  "townKana": "ホリノウチ",
-  "prefecture": "東京都",
-  "city": "杉並区",
-  "town": "堀ノ内",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13115",
+      "oldZipCode": "166  ",
+      "zipCode": "1660013",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "スギナミク",
+      "townKana": "ホリノウチ",
+      "prefecture": "東京都",
+      "city": "杉並区",
+      "town": "堀ノ内",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

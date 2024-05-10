@@ -1,17 +1,21 @@
 {
-  "jisCode": "19365",
-  "oldZipCode": "40925",
-  "zipCode": "4092523",
-  "prefectureKana": "ヤマナシケン",
-  "cityKana": "ミナミコマグンミノブチョウ",
-  "townKana": "ハキイ",
-  "prefecture": "山梨県",
-  "city": "南巨摩郡身延町",
-  "town": "波木井",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "19365",
+      "oldZipCode": "40925",
+      "zipCode": "4092523",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "ミナミコマグンミノブチョウ",
+      "townKana": "ハキイ",
+      "prefecture": "山梨県",
+      "city": "南巨摩郡身延町",
+      "town": "波木井",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

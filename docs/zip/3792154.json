@@ -1,17 +1,21 @@
 {
-  "jisCode": "10201",
-  "oldZipCode": "37921",
-  "zipCode": "3792154",
-  "prefectureKana": "グンマケン",
-  "cityKana": "マエバシシ",
-  "townKana": "アマガワオオシママチ",
-  "prefecture": "群馬県",
-  "city": "前橋市",
-  "town": "天川大島町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "10201",
+      "oldZipCode": "37921",
+      "zipCode": "3792154",
+      "prefectureKana": "グンマケン",
+      "cityKana": "マエバシシ",
+      "townKana": "アマガワオオシママチ",
+      "prefecture": "群馬県",
+      "city": "前橋市",
+      "town": "天川大島町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

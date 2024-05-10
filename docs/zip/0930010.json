@@ -1,17 +1,21 @@
 {
-  "jisCode": "01211",
-  "oldZipCode": "093  ",
-  "zipCode": "0930010",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "アバシリシ",
-  "townKana": "ミナミ１０ジョウヒガシ",
-  "prefecture": "北海道",
-  "city": "網走市",
-  "town": "南十条東",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01211",
+      "oldZipCode": "093  ",
+      "zipCode": "0930010",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "アバシリシ",
+      "townKana": "ミナミ１０ジョウヒガシ",
+      "prefecture": "北海道",
+      "city": "網走市",
+      "town": "南十条東",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

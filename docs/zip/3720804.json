@@ -1,17 +1,21 @@
 {
-  "jisCode": "10204",
-  "oldZipCode": "372  ",
-  "zipCode": "3720804",
-  "prefectureKana": "グンマケン",
-  "cityKana": "イセサキシ",
-  "townKana": "イナリチョウ",
-  "prefecture": "群馬県",
-  "city": "伊勢崎市",
-  "town": "稲荷町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "10204",
+      "oldZipCode": "372  ",
+      "zipCode": "3720804",
+      "prefectureKana": "グンマケン",
+      "cityKana": "イセサキシ",
+      "townKana": "イナリチョウ",
+      "prefecture": "群馬県",
+      "city": "伊勢崎市",
+      "town": "稲荷町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

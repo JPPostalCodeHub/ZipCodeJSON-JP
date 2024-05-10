@@ -1,17 +1,21 @@
 {
-  "jisCode": "13122",
-  "oldZipCode": "125  ",
-  "zipCode": "1250002",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "カツシカク",
-  "townKana": "ニシカメアリ（３、４チョウメ）",
-  "prefecture": "東京都",
-  "city": "葛飾区",
-  "town": "西亀有（３、４丁目）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13122",
+      "oldZipCode": "125  ",
+      "zipCode": "1250002",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "カツシカク",
+      "townKana": "ニシカメアリ（３、４チョウメ）",
+      "prefecture": "東京都",
+      "city": "葛飾区",
+      "town": "西亀有（３、４丁目）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

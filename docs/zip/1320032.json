@@ -1,17 +1,21 @@
 {
-  "jisCode": "13123",
-  "oldZipCode": "132  ",
-  "zipCode": "1320032",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "エドガワク",
-  "townKana": "ニシコマツガワマチ",
-  "prefecture": "東京都",
-  "city": "江戸川区",
-  "town": "西小松川町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13123",
+      "oldZipCode": "132  ",
+      "zipCode": "1320032",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "エドガワク",
+      "townKana": "ニシコマツガワマチ",
+      "prefecture": "東京都",
+      "city": "江戸川区",
+      "town": "西小松川町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

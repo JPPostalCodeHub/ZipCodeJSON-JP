@@ -1,17 +1,21 @@
 {
-  "jisCode": "30421",
-  "oldZipCode": "64951",
-  "zipCode": "6495147",
-  "prefectureKana": "ワカヤマケン",
-  "cityKana": "ヒガシムログンナチカツウラチョウ",
-  "townKana": "ショウ",
-  "prefecture": "和歌山県",
-  "city": "東牟婁郡那智勝浦町",
-  "town": "庄",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "30421",
+      "oldZipCode": "64951",
+      "zipCode": "6495147",
+      "prefectureKana": "ワカヤマケン",
+      "cityKana": "ヒガシムログンナチカツウラチョウ",
+      "townKana": "ショウ",
+      "prefecture": "和歌山県",
+      "city": "東牟婁郡那智勝浦町",
+      "town": "庄",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

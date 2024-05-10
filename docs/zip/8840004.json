@@ -1,17 +1,21 @@
 {
-  "jisCode": "45401",
-  "oldZipCode": "884  ",
-  "zipCode": "8840004",
-  "prefectureKana": "ミヤザキケン",
-  "cityKana": "コユグンタカナベチョウ",
-  "townKana": "カグチウラ",
-  "prefecture": "宮崎県",
-  "city": "児湯郡高鍋町",
-  "town": "蚊口浦",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "45401",
+      "oldZipCode": "884  ",
+      "zipCode": "8840004",
+      "prefectureKana": "ミヤザキケン",
+      "cityKana": "コユグンタカナベチョウ",
+      "townKana": "カグチウラ",
+      "prefecture": "宮崎県",
+      "city": "児湯郡高鍋町",
+      "town": "蚊口浦",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

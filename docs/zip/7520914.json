@@ -1,17 +1,21 @@
 {
-  "jisCode": "35201",
-  "oldZipCode": "752  ",
-  "zipCode": "7520914",
-  "prefectureKana": "ヤマグチケン",
-  "cityKana": "シモノセキシ",
-  "townKana": "チドリハマチョウ",
-  "prefecture": "山口県",
-  "city": "下関市",
-  "town": "千鳥浜町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "35201",
+      "oldZipCode": "752  ",
+      "zipCode": "7520914",
+      "prefectureKana": "ヤマグチケン",
+      "cityKana": "シモノセキシ",
+      "townKana": "チドリハマチョウ",
+      "prefecture": "山口県",
+      "city": "下関市",
+      "town": "千鳥浜町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

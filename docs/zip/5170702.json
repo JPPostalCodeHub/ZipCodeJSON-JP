@@ -1,17 +1,21 @@
 {
-  "jisCode": "24215",
-  "oldZipCode": "51707",
-  "zipCode": "5170702",
-  "prefectureKana": "ミエケン",
-  "cityKana": "シマシ",
-  "townKana": "シマチョウフセダ",
-  "prefecture": "三重県",
-  "city": "志摩市",
-  "town": "志摩町布施田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "24215",
+      "oldZipCode": "51707",
+      "zipCode": "5170702",
+      "prefectureKana": "ミエケン",
+      "cityKana": "シマシ",
+      "townKana": "シマチョウフセダ",
+      "prefecture": "三重県",
+      "city": "志摩市",
+      "town": "志摩町布施田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

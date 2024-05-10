@@ -1,17 +1,21 @@
 {
-  "jisCode": "29441",
-  "oldZipCode": "63931",
-  "zipCode": "6393107",
-  "prefectureKana": "ナラケン",
-  "cityKana": "ヨシノグンヨシノチョウ",
-  "townKana": "ササラ",
-  "prefecture": "奈良県",
-  "city": "吉野郡吉野町",
-  "town": "佐々羅",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "29441",
+      "oldZipCode": "63931",
+      "zipCode": "6393107",
+      "prefectureKana": "ナラケン",
+      "cityKana": "ヨシノグンヨシノチョウ",
+      "townKana": "ササラ",
+      "prefecture": "奈良県",
+      "city": "吉野郡吉野町",
+      "town": "佐々羅",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

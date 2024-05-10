@@ -1,17 +1,21 @@
 {
-  "jisCode": "07521",
-  "oldZipCode": "96377",
-  "zipCode": "9637767",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "タムラグンミハルマチ",
-  "townKana": "ゴメンマチ",
-  "prefecture": "福島県",
-  "city": "田村郡三春町",
-  "town": "御免町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07521",
+      "oldZipCode": "96377",
+      "zipCode": "9637767",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "タムラグンミハルマチ",
+      "townKana": "ゴメンマチ",
+      "prefecture": "福島県",
+      "city": "田村郡三春町",
+      "town": "御免町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

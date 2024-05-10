@@ -1,17 +1,21 @@
 {
-  "jisCode": "39402",
-  "oldZipCode": "78912",
-  "zipCode": "7891203",
-  "prefectureKana": "コウチケン",
-  "cityKana": "タカオカグンサカワチョウ",
-  "townKana": "ヘイ",
-  "prefecture": "高知県",
-  "city": "高岡郡佐川町",
-  "town": "丙",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "39402",
+      "oldZipCode": "78912",
+      "zipCode": "7891203",
+      "prefectureKana": "コウチケン",
+      "cityKana": "タカオカグンサカワチョウ",
+      "townKana": "ヘイ",
+      "prefecture": "高知県",
+      "city": "高岡郡佐川町",
+      "town": "丙",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "23232",
-  "oldZipCode": "496  ",
-  "zipCode": "4968012",
-  "prefectureKana": "アイチケン",
-  "cityKana": "アイサイシ",
-  "townKana": "ネダカチョウ",
-  "prefecture": "愛知県",
-  "city": "愛西市",
-  "town": "根高町",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23232",
+      "oldZipCode": "496  ",
+      "zipCode": "4968012",
+      "prefectureKana": "アイチケン",
+      "cityKana": "アイサイシ",
+      "townKana": "ネダカチョウ",
+      "prefecture": "愛知県",
+      "city": "愛西市",
+      "town": "根高町",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "34205",
-  "oldZipCode": "722  ",
-  "zipCode": "7220034",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "オノミチシ",
-  "townKana": "トヨヒモトマチ",
-  "prefecture": "広島県",
-  "city": "尾道市",
-  "town": "十四日元町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34205",
+      "oldZipCode": "722  ",
+      "zipCode": "7220034",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "オノミチシ",
+      "townKana": "トヨヒモトマチ",
+      "prefecture": "広島県",
+      "city": "尾道市",
+      "town": "十四日元町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,38 @@
 {
-  "jisCode": "15106",
-  "oldZipCode": "95011",
-  "zipCode": "9501134",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ニイガタシミナミク",
-  "townKana": "アマノ",
-  "prefecture": "新潟県",
-  "city": "新潟市南区",
-  "town": "天野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15104",
+      "oldZipCode": "95011",
+      "zipCode": "9501134",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ニイガタシコウナンク",
+      "townKana": "アマノ",
+      "prefecture": "新潟県",
+      "city": "新潟市江南区",
+      "town": "天野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "15106",
+      "oldZipCode": "95011",
+      "zipCode": "9501134",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ニイガタシミナミク",
+      "townKana": "アマノ",
+      "prefecture": "新潟県",
+      "city": "新潟市南区",
+      "town": "天野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

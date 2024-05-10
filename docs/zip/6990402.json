@@ -1,17 +1,21 @@
 {
-  "jisCode": "32201",
-  "oldZipCode": "69904",
-  "zipCode": "6990402",
-  "prefectureKana": "シマネケン",
-  "cityKana": "マツエシ",
-  "townKana": "シンジチョウハクイシ",
-  "prefecture": "島根県",
-  "city": "松江市",
-  "town": "宍道町白石",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "32201",
+      "oldZipCode": "69904",
+      "zipCode": "6990402",
+      "prefectureKana": "シマネケン",
+      "cityKana": "マツエシ",
+      "townKana": "シンジチョウハクイシ",
+      "prefecture": "島根県",
+      "city": "松江市",
+      "town": "宍道町白石",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

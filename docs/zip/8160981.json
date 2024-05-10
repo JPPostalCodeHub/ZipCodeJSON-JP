@@ -1,17 +1,21 @@
 {
-  "jisCode": "40219",
-  "oldZipCode": "816  ",
-  "zipCode": "8160981",
-  "prefectureKana": "フクオカケン",
-  "cityKana": "オオノジョウシ",
-  "townKana": "ワカクサ",
-  "prefecture": "福岡県",
-  "city": "大野城市",
-  "town": "若草",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "40219",
+      "oldZipCode": "816  ",
+      "zipCode": "8160981",
+      "prefectureKana": "フクオカケン",
+      "cityKana": "オオノジョウシ",
+      "townKana": "ワカクサ",
+      "prefecture": "福岡県",
+      "city": "大野城市",
+      "town": "若草",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

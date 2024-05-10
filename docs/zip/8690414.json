@@ -1,17 +1,21 @@
 {
-  "jisCode": "43211",
-  "oldZipCode": "86904",
-  "zipCode": "8690414",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "ウトシ",
-  "townKana": "タチオカマチ",
-  "prefecture": "熊本県",
-  "city": "宇土市",
-  "town": "立岡町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43211",
+      "oldZipCode": "86904",
+      "zipCode": "8690414",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "ウトシ",
+      "townKana": "タチオカマチ",
+      "prefecture": "熊本県",
+      "city": "宇土市",
+      "town": "立岡町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

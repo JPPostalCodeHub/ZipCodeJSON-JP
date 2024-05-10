@@ -1,17 +1,21 @@
 {
-  "jisCode": "44205",
-  "oldZipCode": "87601",
-  "zipCode": "8760123",
-  "prefectureKana": "オオイタケン",
-  "cityKana": "サイキシ",
-  "townKana": "ヤヨイヒライ",
-  "prefecture": "大分県",
-  "city": "佐伯市",
-  "town": "弥生平井",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "44205",
+      "oldZipCode": "87601",
+      "zipCode": "8760123",
+      "prefectureKana": "オオイタケン",
+      "cityKana": "サイキシ",
+      "townKana": "ヤヨイヒライ",
+      "prefecture": "大分県",
+      "city": "佐伯市",
+      "town": "弥生平井",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

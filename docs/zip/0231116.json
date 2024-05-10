@@ -1,17 +1,21 @@
 {
-  "jisCode": "03215",
-  "oldZipCode": "02311",
-  "zipCode": "0231116",
-  "prefectureKana": "イワテケン",
-  "cityKana": "オウシュウシ",
-  "townKana": "エサシチョウゼンジ",
-  "prefecture": "岩手県",
-  "city": "奥州市",
-  "town": "江刺重染寺",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "03215",
+      "oldZipCode": "02311",
+      "zipCode": "0231116",
+      "prefectureKana": "イワテケン",
+      "cityKana": "オウシュウシ",
+      "townKana": "エサシチョウゼンジ",
+      "prefecture": "岩手県",
+      "city": "奥州市",
+      "town": "江刺重染寺",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

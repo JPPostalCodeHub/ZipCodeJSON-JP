@@ -1,17 +1,21 @@
 {
-  "jisCode": "27203",
-  "oldZipCode": "560  ",
-  "zipCode": "5600035",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "トヨナカシ",
-  "townKana": "ミノワ",
-  "prefecture": "大阪府",
-  "city": "豊中市",
-  "town": "箕輪",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27203",
+      "oldZipCode": "560  ",
+      "zipCode": "5600035",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "トヨナカシ",
+      "townKana": "ミノワ",
+      "prefecture": "大阪府",
+      "city": "豊中市",
+      "town": "箕輪",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "01337",
-  "oldZipCode": "04111",
-  "zipCode": "0411103",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "カメダグンナナエチョウ",
-  "townKana": "フジシロ",
-  "prefecture": "北海道",
-  "city": "亀田郡七飯町",
-  "town": "藤城",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01337",
+      "oldZipCode": "04111",
+      "zipCode": "0411103",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "カメダグンナナエチョウ",
+      "townKana": "フジシロ",
+      "prefecture": "北海道",
+      "city": "亀田郡七飯町",
+      "town": "藤城",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

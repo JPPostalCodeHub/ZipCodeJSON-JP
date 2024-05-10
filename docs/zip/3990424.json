@@ -1,17 +1,21 @@
 {
-  "jisCode": "20382",
-  "oldZipCode": "39904",
-  "zipCode": "3990424",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "カミイナグンタツノマチ",
-  "townKana": "アカハネ",
-  "prefecture": "長野県",
-  "city": "上伊那郡辰野町",
-  "town": "赤羽",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20382",
+      "oldZipCode": "39904",
+      "zipCode": "3990424",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "カミイナグンタツノマチ",
+      "townKana": "アカハネ",
+      "prefecture": "長野県",
+      "city": "上伊那郡辰野町",
+      "town": "赤羽",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

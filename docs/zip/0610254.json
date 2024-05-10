@@ -1,17 +1,21 @@
 {
-  "jisCode": "01303",
-  "oldZipCode": "06103",
-  "zipCode": "0610254",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "イシカリグントウベツチョウ",
-  "townKana": "アオヤマチュウオウ（アオヤマオク）",
-  "prefecture": "北海道",
-  "city": "石狩郡当別町",
-  "town": "青山中央（青山奥）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01303",
+      "oldZipCode": "06103",
+      "zipCode": "0610254",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "イシカリグントウベツチョウ",
+      "townKana": "アオヤマチュウオウ（アオヤマオク）",
+      "prefecture": "北海道",
+      "city": "石狩郡当別町",
+      "town": "青山中央（青山奥）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

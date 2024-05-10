@@ -1,17 +1,21 @@
 {
-  "jisCode": "07543",
-  "oldZipCode": "97911",
-  "zipCode": "9791131",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "フタバグントミオカマチ",
-  "townKana": "カミコオリヤマ",
-  "prefecture": "福島県",
-  "city": "双葉郡富岡町",
-  "town": "上郡山",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07543",
+      "oldZipCode": "97911",
+      "zipCode": "9791131",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "フタバグントミオカマチ",
+      "townKana": "カミコオリヤマ",
+      "prefecture": "福島県",
+      "city": "双葉郡富岡町",
+      "town": "上郡山",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

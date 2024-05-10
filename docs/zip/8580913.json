@@ -1,17 +1,21 @@
 {
-  "jisCode": "42202",
-  "oldZipCode": "858  ",
-  "zipCode": "8580913",
-  "prefectureKana": "ナガサキケン",
-  "cityKana": "サセボシ",
-  "townKana": "シンデンチョウ",
-  "prefecture": "長崎県",
-  "city": "佐世保市",
-  "town": "新田町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "42202",
+      "oldZipCode": "858  ",
+      "zipCode": "8580913",
+      "prefectureKana": "ナガサキケン",
+      "cityKana": "サセボシ",
+      "townKana": "シンデンチョウ",
+      "prefecture": "長崎県",
+      "city": "佐世保市",
+      "town": "新田町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

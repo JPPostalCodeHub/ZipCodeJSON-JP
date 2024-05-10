@@ -1,17 +1,21 @@
 {
-  "jisCode": "03485",
-  "oldZipCode": "02883",
-  "zipCode": "0288313",
-  "prefectureKana": "イワテケン",
-  "cityKana": "シモヘイグンフダイムラ",
-  "townKana": "ツチトリバ",
-  "prefecture": "岩手県",
-  "city": "下閉伊郡普代村",
-  "town": "土取場",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "03485",
+      "oldZipCode": "02883",
+      "zipCode": "0288313",
+      "prefectureKana": "イワテケン",
+      "cityKana": "シモヘイグンフダイムラ",
+      "townKana": "ツチトリバ",
+      "prefecture": "岩手県",
+      "city": "下閉伊郡普代村",
+      "town": "土取場",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

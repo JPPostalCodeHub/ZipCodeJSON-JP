@@ -1,17 +1,21 @@
 {
-  "jisCode": "42207",
-  "oldZipCode": "85948",
-  "zipCode": "8594822",
-  "prefectureKana": "ナガサキケン",
-  "cityKana": "ヒラドシ",
-  "townKana": "タビラチョウイッセキメン",
-  "prefecture": "長崎県",
-  "city": "平戸市",
-  "town": "田平町一関免",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "42207",
+      "oldZipCode": "85948",
+      "zipCode": "8594822",
+      "prefectureKana": "ナガサキケン",
+      "cityKana": "ヒラドシ",
+      "townKana": "タビラチョウイッセキメン",
+      "prefecture": "長崎県",
+      "city": "平戸市",
+      "town": "田平町一関免",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

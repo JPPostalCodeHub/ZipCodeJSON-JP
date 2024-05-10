@@ -1,17 +1,21 @@
 {
-  "jisCode": "07421",
-  "oldZipCode": "96965",
-  "zipCode": "9696567",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "カワヌマグンアイヅバンゲマチ",
-  "townKana": "ヌマタコウ",
-  "prefecture": "福島県",
-  "city": "河沼郡会津坂下町",
-  "town": "沼田甲",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07421",
+      "oldZipCode": "96965",
+      "zipCode": "9696567",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "カワヌマグンアイヅバンゲマチ",
+      "townKana": "ヌマタコウ",
+      "prefecture": "福島県",
+      "city": "河沼郡会津坂下町",
+      "town": "沼田甲",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

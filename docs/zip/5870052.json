@@ -1,17 +1,21 @@
 {
-  "jisCode": "27147",
-  "oldZipCode": "587  ",
-  "zipCode": "5870052",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "サカイシミハラク",
-  "townKana": "ミナミアマベ",
-  "prefecture": "大阪府",
-  "city": "堺市美原区",
-  "town": "南余部",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27147",
+      "oldZipCode": "587  ",
+      "zipCode": "5870052",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "サカイシミハラク",
+      "townKana": "ミナミアマベ",
+      "prefecture": "大阪府",
+      "city": "堺市美原区",
+      "town": "南余部",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

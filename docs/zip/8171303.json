@@ -1,17 +1,21 @@
 {
-  "jisCode": "42209",
-  "oldZipCode": "81713",
-  "zipCode": "8171303",
-  "prefectureKana": "ナガサキケン",
-  "cityKana": "ツシマシ",
-  "townKana": "ミネマチキサカ",
-  "prefecture": "長崎県",
-  "city": "対馬市",
-  "town": "峰町木坂",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "42209",
+      "oldZipCode": "81713",
+      "zipCode": "8171303",
+      "prefectureKana": "ナガサキケン",
+      "cityKana": "ツシマシ",
+      "townKana": "ミネマチキサカ",
+      "prefecture": "長崎県",
+      "city": "対馬市",
+      "town": "峰町木坂",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

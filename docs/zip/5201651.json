@@ -1,17 +1,21 @@
 {
-  "jisCode": "25212",
-  "oldZipCode": "52016",
-  "zipCode": "5201651",
-  "prefectureKana": "シガケン",
-  "cityKana": "タカシマシ",
-  "townKana": "イマヅチョウサナミ",
-  "prefecture": "滋賀県",
-  "city": "高島市",
-  "town": "今津町酒波",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "25212",
+      "oldZipCode": "52016",
+      "zipCode": "5201651",
+      "prefectureKana": "シガケン",
+      "cityKana": "タカシマシ",
+      "townKana": "イマヅチョウサナミ",
+      "prefecture": "滋賀県",
+      "city": "高島市",
+      "town": "今津町酒波",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

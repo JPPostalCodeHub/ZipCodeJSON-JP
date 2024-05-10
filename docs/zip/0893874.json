@@ -1,17 +1,21 @@
 {
-  "jisCode": "01647",
-  "oldZipCode": "08938",
-  "zipCode": "0893874",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "アショログンアショロチョウ",
-  "townKana": "キトウシ",
-  "prefecture": "北海道",
-  "city": "足寄郡足寄町",
-  "town": "喜登牛",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01647",
+      "oldZipCode": "08938",
+      "zipCode": "0893874",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "アショログンアショロチョウ",
+      "townKana": "キトウシ",
+      "prefecture": "北海道",
+      "city": "足寄郡足寄町",
+      "town": "喜登牛",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

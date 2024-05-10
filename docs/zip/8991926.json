@@ -1,17 +1,21 @@
 {
-  "jisCode": "46215",
-  "oldZipCode": "89919",
-  "zipCode": "8991926",
-  "prefectureKana": "カゴシマケン",
-  "cityKana": "サツマセンダイシ",
-  "townKana": "サーキュラーパーク",
-  "prefecture": "鹿児島県",
-  "city": "薩摩川内市",
-  "town": "サーキュラーパーク",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "1",
-  "updateReason": "5"
+  "entries": [
+    {
+      "jisCode": "46215",
+      "oldZipCode": "89919",
+      "zipCode": "8991926",
+      "prefectureKana": "カゴシマケン",
+      "cityKana": "サツマセンダイシ",
+      "townKana": "サーキュラーパーク",
+      "prefecture": "鹿児島県",
+      "city": "薩摩川内市",
+      "town": "サーキュラーパーク",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "1",
+      "updateReason": "5"
+    }
+  ]
 }

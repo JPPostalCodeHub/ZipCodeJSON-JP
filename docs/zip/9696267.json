@@ -1,17 +1,38 @@
 {
-  "jisCode": "07447",
-  "oldZipCode": "96962",
-  "zipCode": "9696267",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "オオヌマグンアイヅミサトマチ",
-  "townKana": "ニシウラ",
-  "prefecture": "福島県",
-  "city": "大沼郡会津美里町",
-  "town": "西裏",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07447",
+      "oldZipCode": "96962",
+      "zipCode": "9696267",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "オオヌマグンアイヅミサトマチ",
+      "townKana": "シンチョウニシ",
+      "prefecture": "福島県",
+      "city": "大沼郡会津美里町",
+      "town": "新丁西",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "07447",
+      "oldZipCode": "96962",
+      "zipCode": "9696267",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "オオヌマグンアイヅミサトマチ",
+      "townKana": "ニシウラ",
+      "prefecture": "福島県",
+      "city": "大沼郡会津美里町",
+      "town": "西裏",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "17207",
-  "oldZipCode": "925  ",
-  "zipCode": "9250025",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "ハクイシ",
-  "townKana": "オオタマチ",
-  "prefecture": "石川県",
-  "city": "羽咋市",
-  "town": "太田町",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17207",
+      "oldZipCode": "925  ",
+      "zipCode": "9250025",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "ハクイシ",
+      "townKana": "オオタマチ",
+      "prefecture": "石川県",
+      "city": "羽咋市",
+      "town": "太田町",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

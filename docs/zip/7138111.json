@@ -1,17 +1,21 @@
 {
-  "jisCode": "33202",
-  "oldZipCode": "713  ",
-  "zipCode": "7138111",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "クラシキシ",
-  "townKana": "タマシマハットリ",
-  "prefecture": "岡山県",
-  "city": "倉敷市",
-  "town": "玉島服部",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33202",
+      "oldZipCode": "713  ",
+      "zipCode": "7138111",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "クラシキシ",
+      "townKana": "タマシマハットリ",
+      "prefecture": "岡山県",
+      "city": "倉敷市",
+      "town": "玉島服部",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "26102",
-  "oldZipCode": "602  ",
-  "zipCode": "6020849",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシカミギョウク",
-  "townKana": "オオイノクマチョウ",
-  "prefecture": "京都府",
-  "city": "京都市上京区",
-  "town": "大猪熊町（中筋通石薬師上る、石薬師通河原町西入、石薬師通寺町東入、石薬師通中筋西入、石薬師通中筋東入）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26102",
+      "oldZipCode": "602  ",
+      "zipCode": "6020849",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシカミギョウク",
+      "townKana": "オオイノクマチョウ",
+      "prefecture": "京都府",
+      "city": "京都市上京区",
+      "town": "大猪熊町（中筋通石薬師上る、石薬師通河原町西入、石薬師通寺町東入、石薬師通中筋西入、石薬師通中筋東入）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

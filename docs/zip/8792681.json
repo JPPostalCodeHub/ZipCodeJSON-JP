@@ -1,17 +1,21 @@
 {
-  "jisCode": "44207",
-  "oldZipCode": "87926",
-  "zipCode": "8792681",
-  "prefectureKana": "オオイタケン",
-  "cityKana": "ツクミシ",
-  "townKana": "ヒミ",
-  "prefecture": "大分県",
-  "city": "津久見市",
-  "town": "日見",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "44207",
+      "oldZipCode": "87926",
+      "zipCode": "8792681",
+      "prefectureKana": "オオイタケン",
+      "cityKana": "ツクミシ",
+      "townKana": "ヒミ",
+      "prefecture": "大分県",
+      "city": "津久見市",
+      "town": "日見",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

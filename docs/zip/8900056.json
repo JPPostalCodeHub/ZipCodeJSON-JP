@@ -1,17 +1,21 @@
 {
-  "jisCode": "46201",
-  "oldZipCode": "890  ",
-  "zipCode": "8900056",
-  "prefectureKana": "カゴシマケン",
-  "cityKana": "カゴシマシ",
-  "townKana": "シモアラタ",
-  "prefecture": "鹿児島県",
-  "city": "鹿児島市",
-  "town": "下荒田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "46201",
+      "oldZipCode": "890  ",
+      "zipCode": "8900056",
+      "prefectureKana": "カゴシマケン",
+      "cityKana": "カゴシマシ",
+      "townKana": "シモアラタ",
+      "prefecture": "鹿児島県",
+      "city": "鹿児島市",
+      "town": "下荒田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

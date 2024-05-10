@@ -1,17 +1,21 @@
 {
-  "jisCode": "43369",
-  "oldZipCode": "86109",
-  "zipCode": "8610906",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "タマナグンナゴミマチ",
-  "townKana": "ニシヨシジ",
-  "prefecture": "熊本県",
-  "city": "玉名郡和水町",
-  "town": "西吉地",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43369",
+      "oldZipCode": "86109",
+      "zipCode": "8610906",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "タマナグンナゴミマチ",
+      "townKana": "ニシヨシジ",
+      "prefecture": "熊本県",
+      "city": "玉名郡和水町",
+      "town": "西吉地",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

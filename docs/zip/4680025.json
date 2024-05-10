@@ -1,17 +1,21 @@
 {
-  "jisCode": "23116",
-  "oldZipCode": "468  ",
-  "zipCode": "4680025",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ナゴヤシテンパクク",
-  "townKana": "タカサカチョウ",
-  "prefecture": "愛知県",
-  "city": "名古屋市天白区",
-  "town": "高坂町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23116",
+      "oldZipCode": "468  ",
+      "zipCode": "4680025",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ナゴヤシテンパクク",
+      "townKana": "タカサカチョウ",
+      "prefecture": "愛知県",
+      "city": "名古屋市天白区",
+      "town": "高坂町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

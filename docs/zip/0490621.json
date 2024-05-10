@@ -1,17 +1,21 @@
 {
-  "jisCode": "01362",
-  "oldZipCode": "04906",
-  "zipCode": "0490621",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ヒヤマグンカミノクニチョウ",
-  "townKana": "ウチゴウ",
-  "prefecture": "北海道",
-  "city": "檜山郡上ノ国町",
-  "town": "内郷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01362",
+      "oldZipCode": "04906",
+      "zipCode": "0490621",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ヒヤマグンカミノクニチョウ",
+      "townKana": "ウチゴウ",
+      "prefecture": "北海道",
+      "city": "檜山郡上ノ国町",
+      "town": "内郷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

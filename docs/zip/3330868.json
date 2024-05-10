@@ -1,17 +1,21 @@
 {
-  "jisCode": "11203",
-  "oldZipCode": "333  ",
-  "zipCode": "3330868",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "カワグチシ",
-  "townKana": "シバタカギ",
-  "prefecture": "埼玉県",
-  "city": "川口市",
-  "town": "芝高木",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11203",
+      "oldZipCode": "333  ",
+      "zipCode": "3330868",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "カワグチシ",
+      "townKana": "シバタカギ",
+      "prefecture": "埼玉県",
+      "city": "川口市",
+      "town": "芝高木",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

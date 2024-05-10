@@ -1,17 +1,21 @@
 {
-  "jisCode": "42321",
-  "oldZipCode": "85939",
-  "zipCode": "8593932",
-  "prefectureKana": "ナガサキケン",
-  "cityKana": "ヒガシソノギグンヒガシソノギチョウ",
-  "townKana": "トオメゴウ",
-  "prefecture": "長崎県",
-  "city": "東彼杵郡東彼杵町",
-  "town": "遠目郷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "42321",
+      "oldZipCode": "85939",
+      "zipCode": "8593932",
+      "prefectureKana": "ナガサキケン",
+      "cityKana": "ヒガシソノギグンヒガシソノギチョウ",
+      "townKana": "トオメゴウ",
+      "prefecture": "長崎県",
+      "city": "東彼杵郡東彼杵町",
+      "town": "遠目郷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

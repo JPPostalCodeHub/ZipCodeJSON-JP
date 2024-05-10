@@ -1,17 +1,21 @@
 {
-  "jisCode": "09203",
-  "oldZipCode": "32944",
-  "zipCode": "3294421",
-  "prefectureKana": "トチギケン",
-  "cityKana": "トチギシ",
-  "townKana": "オオヒラマチニシノダ",
-  "prefecture": "栃木県",
-  "city": "栃木市",
-  "town": "大平町西野田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "09203",
+      "oldZipCode": "32944",
+      "zipCode": "3294421",
+      "prefectureKana": "トチギケン",
+      "cityKana": "トチギシ",
+      "townKana": "オオヒラマチニシノダ",
+      "prefecture": "栃木県",
+      "city": "栃木市",
+      "town": "大平町西野田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "12233",
-  "oldZipCode": "28602",
-  "zipCode": "2860222",
-  "prefectureKana": "チバケン",
-  "cityKana": "トミサトシ",
-  "townKana": "ナカザワ",
-  "prefecture": "千葉県",
-  "city": "富里市",
-  "town": "中沢",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12233",
+      "oldZipCode": "28602",
+      "zipCode": "2860222",
+      "prefectureKana": "チバケン",
+      "cityKana": "トミサトシ",
+      "townKana": "ナカザワ",
+      "prefecture": "千葉県",
+      "city": "富里市",
+      "town": "中沢",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

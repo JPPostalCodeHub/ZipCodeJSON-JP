@@ -1,17 +1,21 @@
 {
-  "jisCode": "26201",
-  "oldZipCode": "620  ",
-  "zipCode": "6200855",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "フクチヤマシ",
-  "townKana": "ハゼ（シンマチ）",
-  "prefecture": "京都府",
-  "city": "福知山市",
-  "town": "土師（新町）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26201",
+      "oldZipCode": "620  ",
+      "zipCode": "6200855",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "フクチヤマシ",
+      "townKana": "ハゼ（シンマチ）",
+      "prefecture": "京都府",
+      "city": "福知山市",
+      "town": "土師（新町）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "24207",
-  "oldZipCode": "513  ",
-  "zipCode": "5130805",
-  "prefectureKana": "ミエケン",
-  "cityKana": "スズカシ",
-  "townKana": "サンジョチョウ",
-  "prefecture": "三重県",
-  "city": "鈴鹿市",
-  "town": "算所町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "24207",
+      "oldZipCode": "513  ",
+      "zipCode": "5130805",
+      "prefectureKana": "ミエケン",
+      "cityKana": "スズカシ",
+      "townKana": "サンジョチョウ",
+      "prefecture": "三重県",
+      "city": "鈴鹿市",
+      "town": "算所町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

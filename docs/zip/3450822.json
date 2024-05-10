@@ -1,17 +1,21 @@
 {
-  "jisCode": "11442",
-  "oldZipCode": "345  ",
-  "zipCode": "3450822",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "ミナミサイタマグンミヤシロマチ",
-  "townKana": "カサハラ",
-  "prefecture": "埼玉県",
-  "city": "南埼玉郡宮代町",
-  "town": "笠原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11442",
+      "oldZipCode": "345  ",
+      "zipCode": "3450822",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "ミナミサイタマグンミヤシロマチ",
+      "townKana": "カサハラ",
+      "prefecture": "埼玉県",
+      "city": "南埼玉郡宮代町",
+      "town": "笠原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

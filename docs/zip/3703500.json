@@ -1,17 +1,21 @@
 {
-  "jisCode": "10344",
-  "oldZipCode": "37035",
-  "zipCode": "3703500",
-  "prefectureKana": "グンマケン",
-  "cityKana": "キタグンマグンシントウムラ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "群馬県",
-  "city": "北群馬郡榛東村",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "10344",
+      "oldZipCode": "37035",
+      "zipCode": "3703500",
+      "prefectureKana": "グンマケン",
+      "cityKana": "キタグンマグンシントウムラ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "群馬県",
+      "city": "北群馬郡榛東村",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

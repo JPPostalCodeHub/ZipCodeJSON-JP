@@ -1,17 +1,21 @@
 {
-  "jisCode": "29449",
-  "oldZipCode": "63715",
-  "zipCode": "6371557",
-  "prefectureKana": "ナラケン",
-  "cityKana": "ヨシノグントツカワムラ",
-  "townKana": "ナナイロ",
-  "prefecture": "奈良県",
-  "city": "吉野郡十津川村",
-  "town": "七色",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "29449",
+      "oldZipCode": "63715",
+      "zipCode": "6371557",
+      "prefectureKana": "ナラケン",
+      "cityKana": "ヨシノグントツカワムラ",
+      "townKana": "ナナイロ",
+      "prefecture": "奈良県",
+      "city": "吉野郡十津川村",
+      "town": "七色",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

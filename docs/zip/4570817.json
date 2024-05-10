@@ -1,17 +1,21 @@
 {
-  "jisCode": "23112",
-  "oldZipCode": "457  ",
-  "zipCode": "4570817",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ナゴヤシミナミク",
-  "townKana": "モトシバタニシマチ",
-  "prefecture": "愛知県",
-  "city": "名古屋市南区",
-  "town": "元柴田西町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23112",
+      "oldZipCode": "457  ",
+      "zipCode": "4570817",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ナゴヤシミナミク",
+      "townKana": "モトシバタニシマチ",
+      "prefecture": "愛知県",
+      "city": "名古屋市南区",
+      "town": "元柴田西町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

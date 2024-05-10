@@ -1,17 +1,21 @@
 {
-  "jisCode": "47214",
-  "oldZipCode": "906  ",
-  "zipCode": "9060002",
-  "prefectureKana": "オキナワケン",
-  "cityKana": "ミヤコジマシ",
-  "townKana": "ヒララカリマタ",
-  "prefecture": "沖縄県",
-  "city": "宮古島市",
-  "town": "平良狩俣",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "47214",
+      "oldZipCode": "906  ",
+      "zipCode": "9060002",
+      "prefectureKana": "オキナワケン",
+      "cityKana": "ミヤコジマシ",
+      "townKana": "ヒララカリマタ",
+      "prefecture": "沖縄県",
+      "city": "宮古島市",
+      "town": "平良狩俣",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

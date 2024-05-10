@@ -1,17 +1,21 @@
 {
-  "jisCode": "38207",
-  "oldZipCode": "795  ",
-  "zipCode": "7950042",
-  "prefectureKana": "エヒメケン",
-  "cityKana": "オオズシ",
-  "townKana": "ヨナヅ",
-  "prefecture": "愛媛県",
-  "city": "大洲市",
-  "town": "米津",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "38207",
+      "oldZipCode": "795  ",
+      "zipCode": "7950042",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "オオズシ",
+      "townKana": "ヨナヅ",
+      "prefecture": "愛媛県",
+      "city": "大洲市",
+      "town": "米津",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

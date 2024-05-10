@@ -1,17 +1,21 @@
 {
-  "jisCode": "14217",
-  "oldZipCode": "25001",
-  "zipCode": "2500100",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "ミナミアシガラシ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "神奈川県",
-  "city": "南足柄市",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14217",
+      "oldZipCode": "25001",
+      "zipCode": "2500100",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "ミナミアシガラシ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "神奈川県",
+      "city": "南足柄市",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

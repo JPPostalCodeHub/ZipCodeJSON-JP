@@ -1,17 +1,38 @@
 {
-  "jisCode": "16205",
-  "oldZipCode": "93501",
-  "zipCode": "9350115",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "ヒミシ",
-  "townKana": "ホコネ",
-  "prefecture": "富山県",
-  "city": "氷見市",
-  "town": "鉾根",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16205",
+      "oldZipCode": "93501",
+      "zipCode": "9350115",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "ヒミシ",
+      "townKana": "クラボネ",
+      "prefecture": "富山県",
+      "city": "氷見市",
+      "town": "鞍骨",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "16205",
+      "oldZipCode": "93501",
+      "zipCode": "9350115",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "ヒミシ",
+      "townKana": "ホコネ",
+      "prefecture": "富山県",
+      "city": "氷見市",
+      "town": "鉾根",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

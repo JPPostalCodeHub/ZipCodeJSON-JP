@@ -1,17 +1,21 @@
 {
-  "jisCode": "01585",
-  "oldZipCode": "05919",
-  "zipCode": "0591941",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ユウフツグンアビラチョウ",
-  "townKana": "オイワケアオバ",
-  "prefecture": "北海道",
-  "city": "勇払郡安平町",
-  "town": "追分青葉",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01585",
+      "oldZipCode": "05919",
+      "zipCode": "0591941",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ユウフツグンアビラチョウ",
+      "townKana": "オイワケアオバ",
+      "prefecture": "北海道",
+      "city": "勇払郡安平町",
+      "town": "追分青葉",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

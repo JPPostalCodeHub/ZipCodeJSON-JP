@@ -1,17 +1,21 @@
 {
-  "jisCode": "01459",
-  "oldZipCode": "07103",
-  "zipCode": "0711474",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "カミカワグンビエイチョウ",
-  "townKana": "チュウベツ",
-  "prefecture": "北海道",
-  "city": "上川郡美瑛町",
-  "town": "忠別",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01459",
+      "oldZipCode": "07103",
+      "zipCode": "0711474",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "カミカワグンビエイチョウ",
+      "townKana": "チュウベツ",
+      "prefecture": "北海道",
+      "city": "上川郡美瑛町",
+      "town": "忠別",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

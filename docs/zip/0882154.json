@@ -1,17 +1,21 @@
 {
-  "jisCode": "01661",
-  "oldZipCode": "08821",
-  "zipCode": "0882154",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "クシログンクシロチョウ",
-  "townKana": "カシワヒガシ",
-  "prefecture": "北海道",
-  "city": "釧路郡釧路町",
-  "town": "柏東",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01661",
+      "oldZipCode": "08821",
+      "zipCode": "0882154",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "クシログンクシロチョウ",
+      "townKana": "カシワヒガシ",
+      "prefecture": "北海道",
+      "city": "釧路郡釧路町",
+      "town": "柏東",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

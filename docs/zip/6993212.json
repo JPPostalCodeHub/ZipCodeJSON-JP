@@ -1,17 +1,21 @@
 {
-  "jisCode": "32202",
-  "oldZipCode": "69932",
-  "zipCode": "6993212",
-  "prefectureKana": "シマネケン",
-  "cityKana": "ハマダシ",
-  "townKana": "ミスミチョウムカイノタ",
-  "prefecture": "島根県",
-  "city": "浜田市",
-  "town": "三隅町向野田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "32202",
+      "oldZipCode": "69932",
+      "zipCode": "6993212",
+      "prefectureKana": "シマネケン",
+      "cityKana": "ハマダシ",
+      "townKana": "ミスミチョウムカイノタ",
+      "prefecture": "島根県",
+      "city": "浜田市",
+      "town": "三隅町向野田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

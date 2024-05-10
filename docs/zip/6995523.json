@@ -1,17 +1,21 @@
 {
-  "jisCode": "32505",
-  "oldZipCode": "69955",
-  "zipCode": "6995523",
-  "prefectureKana": "シマネケン",
-  "cityKana": "カノアシグンヨシカチョウ",
-  "townKana": "アサクラ",
-  "prefecture": "島根県",
-  "city": "鹿足郡吉賀町",
-  "town": "朝倉",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "32505",
+      "oldZipCode": "69955",
+      "zipCode": "6995523",
+      "prefectureKana": "シマネケン",
+      "cityKana": "カノアシグンヨシカチョウ",
+      "townKana": "アサクラ",
+      "prefecture": "島根県",
+      "city": "鹿足郡吉賀町",
+      "town": "朝倉",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

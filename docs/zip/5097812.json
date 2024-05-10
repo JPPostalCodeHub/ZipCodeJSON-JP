@@ -1,17 +1,21 @@
 {
-  "jisCode": "21210",
-  "oldZipCode": "50978",
-  "zipCode": "5097812",
-  "prefectureKana": "ギフケン",
-  "cityKana": "エナシ",
-  "townKana": "クシハラ（モリアゲ）",
-  "prefecture": "岐阜県",
-  "city": "恵那市",
-  "town": "串原（森上）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "21210",
+      "oldZipCode": "50978",
+      "zipCode": "5097812",
+      "prefectureKana": "ギフケン",
+      "cityKana": "エナシ",
+      "townKana": "クシハラ（モリアゲ）",
+      "prefecture": "岐阜県",
+      "city": "恵那市",
+      "town": "串原（森上）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

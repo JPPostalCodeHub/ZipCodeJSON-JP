@@ -1,17 +1,21 @@
 {
-  "jisCode": "25201",
-  "oldZipCode": "52021",
-  "zipCode": "5202134",
-  "prefectureKana": "シガケン",
-  "cityKana": "オオツシ",
-  "townKana": "セタ",
-  "prefecture": "滋賀県",
-  "city": "大津市",
-  "town": "瀬田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "25201",
+      "oldZipCode": "52021",
+      "zipCode": "5202134",
+      "prefectureKana": "シガケン",
+      "cityKana": "オオツシ",
+      "townKana": "セタ",
+      "prefecture": "滋賀県",
+      "city": "大津市",
+      "town": "瀬田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

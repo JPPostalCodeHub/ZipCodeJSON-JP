@@ -1,17 +1,21 @@
 {
-  "jisCode": "34207",
-  "oldZipCode": "72024",
-  "zipCode": "7202418",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "フクヤマシ",
-  "townKana": "カモチョウナカノ",
-  "prefecture": "広島県",
-  "city": "福山市",
-  "town": "加茂町中野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34207",
+      "oldZipCode": "72024",
+      "zipCode": "7202418",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "フクヤマシ",
+      "townKana": "カモチョウナカノ",
+      "prefecture": "広島県",
+      "city": "福山市",
+      "town": "加茂町中野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

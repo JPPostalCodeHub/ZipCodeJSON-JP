@@ -1,17 +1,21 @@
 {
-  "jisCode": "12106",
-  "oldZipCode": "261  ",
-  "zipCode": "2610021",
-  "prefectureKana": "チバケン",
-  "cityKana": "チバシミハマク",
-  "townKana": "ヒビノ",
-  "prefecture": "千葉県",
-  "city": "千葉市美浜区",
-  "town": "ひび野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12106",
+      "oldZipCode": "261  ",
+      "zipCode": "2610021",
+      "prefectureKana": "チバケン",
+      "cityKana": "チバシミハマク",
+      "townKana": "ヒビノ",
+      "prefecture": "千葉県",
+      "city": "千葉市美浜区",
+      "town": "ひび野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

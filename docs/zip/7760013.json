@@ -1,17 +1,21 @@
 {
-  "jisCode": "36205",
-  "oldZipCode": "776  ",
-  "zipCode": "7760013",
-  "prefectureKana": "トクシマケン",
-  "cityKana": "ヨシノガワシ",
-  "townKana": "カモジマチョウジョウゲジマ",
-  "prefecture": "徳島県",
-  "city": "吉野川市",
-  "town": "鴨島町上下島",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "36205",
+      "oldZipCode": "776  ",
+      "zipCode": "7760013",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "ヨシノガワシ",
+      "townKana": "カモジマチョウジョウゲジマ",
+      "prefecture": "徳島県",
+      "city": "吉野川市",
+      "town": "鴨島町上下島",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

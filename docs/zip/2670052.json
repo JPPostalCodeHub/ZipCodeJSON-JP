@@ -1,17 +1,21 @@
 {
-  "jisCode": "12105",
-  "oldZipCode": "267  ",
-  "zipCode": "2670052",
-  "prefectureKana": "チバケン",
-  "cityKana": "チバシミドリク",
-  "townKana": "シモオオワダチョウ",
-  "prefecture": "千葉県",
-  "city": "千葉市緑区",
-  "town": "下大和田町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12105",
+      "oldZipCode": "267  ",
+      "zipCode": "2670052",
+      "prefectureKana": "チバケン",
+      "cityKana": "チバシミドリク",
+      "townKana": "シモオオワダチョウ",
+      "prefecture": "千葉県",
+      "city": "千葉市緑区",
+      "town": "下大和田町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

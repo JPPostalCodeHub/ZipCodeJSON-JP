@@ -1,17 +1,21 @@
 {
-  "jisCode": "01637",
-  "oldZipCode": "082  ",
-  "zipCode": "0820031",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "カサイグンメムロチョウ",
-  "townKana": "ニシ１ジョウ",
-  "prefecture": "北海道",
-  "city": "河西郡芽室町",
-  "town": "西一条",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01637",
+      "oldZipCode": "082  ",
+      "zipCode": "0820031",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "カサイグンメムロチョウ",
+      "townKana": "ニシ１ジョウ",
+      "prefecture": "北海道",
+      "city": "河西郡芽室町",
+      "town": "西一条",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

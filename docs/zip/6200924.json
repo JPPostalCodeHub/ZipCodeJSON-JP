@@ -1,17 +1,38 @@
 {
-  "jisCode": "26201",
-  "oldZipCode": "620  ",
-  "zipCode": "6200924",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "フクチヤマシ",
-  "townKana": "シモサソオ",
-  "prefecture": "京都府",
-  "city": "福知山市",
-  "town": "下篠尾",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26201",
+      "oldZipCode": "620  ",
+      "zipCode": "6200924",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "フクチヤマシ",
+      "townKana": "サソオ（シモサソオ）",
+      "prefecture": "京都府",
+      "city": "福知山市",
+      "town": "篠尾（下篠尾）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "26201",
+      "oldZipCode": "620  ",
+      "zipCode": "6200924",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "フクチヤマシ",
+      "townKana": "シモサソオ",
+      "prefecture": "京都府",
+      "city": "福知山市",
+      "town": "下篠尾",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

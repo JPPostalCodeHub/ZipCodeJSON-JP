@@ -1,17 +1,21 @@
 {
-  "jisCode": "04421",
-  "oldZipCode": "98136",
-  "zipCode": "9813626",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "クロカワグンタイワチョウ",
-  "townKana": "ヨシオカミナミ",
-  "prefecture": "宮城県",
-  "city": "黒川郡大和町",
-  "town": "吉岡南",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04421",
+      "oldZipCode": "98136",
+      "zipCode": "9813626",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "クロカワグンタイワチョウ",
+      "townKana": "ヨシオカミナミ",
+      "prefecture": "宮城県",
+      "city": "黒川郡大和町",
+      "town": "吉岡南",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

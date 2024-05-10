@@ -1,17 +1,21 @@
 {
-  "jisCode": "08202",
-  "oldZipCode": "31913",
-  "zipCode": "3191308",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "ヒタチシ",
-  "townKana": "ジュウオウチョウシロノオカ",
-  "prefecture": "茨城県",
-  "city": "日立市",
-  "town": "十王町城の丘",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08202",
+      "oldZipCode": "31913",
+      "zipCode": "3191308",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "ヒタチシ",
+      "townKana": "ジュウオウチョウシロノオカ",
+      "prefecture": "茨城県",
+      "city": "日立市",
+      "town": "十王町城の丘",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

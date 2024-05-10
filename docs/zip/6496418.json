@@ -1,17 +1,21 @@
 {
-  "jisCode": "30208",
-  "oldZipCode": "64964",
-  "zipCode": "6496418",
-  "prefectureKana": "ワカヤマケン",
-  "cityKana": "キノカワシ",
-  "townKana": "クルベキ",
-  "prefecture": "和歌山県",
-  "city": "紀の川市",
-  "town": "久留壁",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "30208",
+      "oldZipCode": "64964",
+      "zipCode": "6496418",
+      "prefectureKana": "ワカヤマケン",
+      "cityKana": "キノカワシ",
+      "townKana": "クルベキ",
+      "prefecture": "和歌山県",
+      "city": "紀の川市",
+      "town": "久留壁",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

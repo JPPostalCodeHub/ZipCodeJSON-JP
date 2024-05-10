@@ -1,17 +1,21 @@
 {
-  "jisCode": "22461",
-  "oldZipCode": "43702",
-  "zipCode": "4370212",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "シュウチグンモリマチ",
-  "townKana": "ムカイアマガタ",
-  "prefecture": "静岡県",
-  "city": "周智郡森町",
-  "town": "向天方",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22461",
+      "oldZipCode": "43702",
+      "zipCode": "4370212",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "シュウチグンモリマチ",
+      "townKana": "ムカイアマガタ",
+      "prefecture": "静岡県",
+      "city": "周智郡森町",
+      "town": "向天方",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "33208",
-  "oldZipCode": "71911",
-  "zipCode": "7191100",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "ソウジャシ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "岡山県",
-  "city": "総社市",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33208",
+      "oldZipCode": "71911",
+      "zipCode": "7191100",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "ソウジャシ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "岡山県",
+      "city": "総社市",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

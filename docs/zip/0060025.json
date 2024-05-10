@@ -1,17 +1,21 @@
 {
-  "jisCode": "01109",
-  "oldZipCode": "006  ",
-  "zipCode": "0060025",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "サッポロシテイネク",
-  "townKana": "テイネホンチョウ５ジョウ",
-  "prefecture": "北海道",
-  "city": "札幌市手稲区",
-  "town": "手稲本町五条",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01109",
+      "oldZipCode": "006  ",
+      "zipCode": "0060025",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "サッポロシテイネク",
+      "townKana": "テイネホンチョウ５ジョウ",
+      "prefecture": "北海道",
+      "city": "札幌市手稲区",
+      "town": "手稲本町五条",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

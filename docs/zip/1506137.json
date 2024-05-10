@@ -1,17 +1,21 @@
 {
-  "jisCode": "13113",
-  "oldZipCode": "150  ",
-  "zipCode": "1506137",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "シブヤク",
-  "townKana": "シブヤシブヤスクランブルスクエア（３７カイ）",
-  "prefecture": "東京都",
-  "city": "渋谷区",
-  "town": "渋谷渋谷スクランブルスクエア（３７階）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13113",
+      "oldZipCode": "150  ",
+      "zipCode": "1506137",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "シブヤク",
+      "townKana": "シブヤシブヤスクランブルスクエア（３７カイ）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "town": "渋谷渋谷スクランブルスクエア（３７階）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

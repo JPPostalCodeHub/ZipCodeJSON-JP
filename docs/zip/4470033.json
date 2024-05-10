@@ -1,17 +1,21 @@
 {
-  "jisCode": "23209",
-  "oldZipCode": "447  ",
-  "zipCode": "4470033",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ヘキナンシ",
-  "townKana": "テンジンマチ",
-  "prefecture": "愛知県",
-  "city": "碧南市",
-  "town": "天神町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23209",
+      "oldZipCode": "447  ",
+      "zipCode": "4470033",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ヘキナンシ",
+      "townKana": "テンジンマチ",
+      "prefecture": "愛知県",
+      "city": "碧南市",
+      "town": "天神町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

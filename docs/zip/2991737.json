@@ -1,17 +1,21 @@
 {
-  "jisCode": "12226",
-  "oldZipCode": "29917",
-  "zipCode": "2991737",
-  "prefectureKana": "チバケン",
-  "cityKana": "フッツシ",
-  "townKana": "ヒガシオオワダ",
-  "prefecture": "千葉県",
-  "city": "富津市",
-  "town": "東大和田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12226",
+      "oldZipCode": "29917",
+      "zipCode": "2991737",
+      "prefectureKana": "チバケン",
+      "cityKana": "フッツシ",
+      "townKana": "ヒガシオオワダ",
+      "prefecture": "千葉県",
+      "city": "富津市",
+      "town": "東大和田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

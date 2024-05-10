@@ -1,17 +1,21 @@
 {
-  "jisCode": "10525",
-  "oldZipCode": "37006",
-  "zipCode": "3700606",
-  "prefectureKana": "グンマケン",
-  "cityKana": "オウラグンオウラマチ",
-  "townKana": "アキヅマ",
-  "prefecture": "群馬県",
-  "city": "邑楽郡邑楽町",
-  "town": "秋妻",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "10525",
+      "oldZipCode": "37006",
+      "zipCode": "3700606",
+      "prefectureKana": "グンマケン",
+      "cityKana": "オウラグンオウラマチ",
+      "townKana": "アキヅマ",
+      "prefecture": "群馬県",
+      "city": "邑楽郡邑楽町",
+      "town": "秋妻",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

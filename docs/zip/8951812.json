@@ -1,17 +1,21 @@
 {
-  "jisCode": "46392",
-  "oldZipCode": "89518",
-  "zipCode": "8951812",
-  "prefectureKana": "カゴシマケン",
-  "cityKana": "サツマグンサツマチョウ",
-  "townKana": "トライマチ",
-  "prefecture": "鹿児島県",
-  "city": "薩摩郡さつま町",
-  "town": "虎居町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "46392",
+      "oldZipCode": "89518",
+      "zipCode": "8951812",
+      "prefectureKana": "カゴシマケン",
+      "cityKana": "サツマグンサツマチョウ",
+      "townKana": "トライマチ",
+      "prefecture": "鹿児島県",
+      "city": "薩摩郡さつま町",
+      "town": "虎居町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

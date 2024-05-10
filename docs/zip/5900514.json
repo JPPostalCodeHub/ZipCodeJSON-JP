@@ -1,17 +1,21 @@
 {
-  "jisCode": "27228",
-  "oldZipCode": "59005",
-  "zipCode": "5900514",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "センナンシ",
-  "townKana": "シンダチキンユウジ",
-  "prefecture": "大阪府",
-  "city": "泉南市",
-  "town": "信達金熊寺",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27228",
+      "oldZipCode": "59005",
+      "zipCode": "5900514",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "センナンシ",
+      "townKana": "シンダチキンユウジ",
+      "prefecture": "大阪府",
+      "city": "泉南市",
+      "town": "信達金熊寺",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

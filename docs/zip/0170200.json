@@ -1,17 +1,21 @@
 {
-  "jisCode": "05303",
-  "oldZipCode": "01702",
-  "zipCode": "0170200",
-  "prefectureKana": "アキタケン",
-  "cityKana": "カヅノグンコサカマチ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "秋田県",
-  "city": "鹿角郡小坂町",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05303",
+      "oldZipCode": "01702",
+      "zipCode": "0170200",
+      "prefectureKana": "アキタケン",
+      "cityKana": "カヅノグンコサカマチ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "秋田県",
+      "city": "鹿角郡小坂町",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

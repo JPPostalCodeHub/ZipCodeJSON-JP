@@ -1,17 +1,21 @@
 {
-  "jisCode": "23235",
-  "oldZipCode": "498  ",
-  "zipCode": "4980031",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ヤトミシ",
-  "townKana": "ヘイジマチョウ（ソノタ）",
-  "prefecture": "愛知県",
-  "city": "弥富市",
-  "town": "平島町（その他）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23235",
+      "oldZipCode": "498  ",
+      "zipCode": "4980031",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ヤトミシ",
+      "townKana": "ヘイジマチョウ（ソノタ）",
+      "prefecture": "愛知県",
+      "city": "弥富市",
+      "town": "平島町（その他）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "22210",
-  "oldZipCode": "41902",
-  "zipCode": "4190204",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "フジシ",
-  "townKana": "イリヤマセ",
-  "prefecture": "静岡県",
-  "city": "富士市",
-  "town": "入山瀬",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22210",
+      "oldZipCode": "41902",
+      "zipCode": "4190204",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "フジシ",
+      "townKana": "イリヤマセ",
+      "prefecture": "静岡県",
+      "city": "富士市",
+      "town": "入山瀬",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

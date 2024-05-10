@@ -1,17 +1,21 @@
 {
-  "jisCode": "28382",
-  "oldZipCode": "67501",
-  "zipCode": "6750141",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "カコグンハリマチョウ",
-  "townKana": "ノゾエジョウ",
-  "prefecture": "兵庫県",
-  "city": "加古郡播磨町",
-  "town": "野添城",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28382",
+      "oldZipCode": "67501",
+      "zipCode": "6750141",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "カコグンハリマチョウ",
+      "townKana": "ノゾエジョウ",
+      "prefecture": "兵庫県",
+      "city": "加古郡播磨町",
+      "town": "野添城",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

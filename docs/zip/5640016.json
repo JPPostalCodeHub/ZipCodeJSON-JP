@@ -1,17 +1,21 @@
 {
-  "jisCode": "27205",
-  "oldZipCode": "564  ",
-  "zipCode": "5640016",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "スイタシ",
-  "townKana": "ヒラマツチョウ",
-  "prefecture": "大阪府",
-  "city": "吹田市",
-  "town": "平松町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27205",
+      "oldZipCode": "564  ",
+      "zipCode": "5640016",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "スイタシ",
+      "townKana": "ヒラマツチョウ",
+      "prefecture": "大阪府",
+      "city": "吹田市",
+      "town": "平松町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

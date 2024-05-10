@@ -1,17 +1,38 @@
 {
-  "jisCode": "29201",
-  "oldZipCode": "631  ",
-  "zipCode": "6310061",
-  "prefectureKana": "ナラケン",
-  "cityKana": "ナラシ",
-  "townKana": "ミツガラスチョウ",
-  "prefecture": "奈良県",
-  "city": "奈良市",
-  "town": "三碓町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "29201",
+      "oldZipCode": "631  ",
+      "zipCode": "6310061",
+      "prefectureKana": "ナラケン",
+      "cityKana": "ナラシ",
+      "townKana": "ミツガラス",
+      "prefecture": "奈良県",
+      "city": "奈良市",
+      "town": "三碓",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "29201",
+      "oldZipCode": "631  ",
+      "zipCode": "6310061",
+      "prefectureKana": "ナラケン",
+      "cityKana": "ナラシ",
+      "townKana": "ミツガラスチョウ",
+      "prefecture": "奈良県",
+      "city": "奈良市",
+      "town": "三碓町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

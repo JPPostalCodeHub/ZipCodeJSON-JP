@@ -1,17 +1,21 @@
 {
-  "jisCode": "23223",
-  "oldZipCode": "474  ",
-  "zipCode": "4740038",
-  "prefectureKana": "アイチケン",
-  "cityKana": "オオブシ",
-  "townKana": "モリオカチョウ（チョウメ）",
-  "prefecture": "愛知県",
-  "city": "大府市",
-  "town": "森岡町（丁目）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23223",
+      "oldZipCode": "474  ",
+      "zipCode": "4740038",
+      "prefectureKana": "アイチケン",
+      "cityKana": "オオブシ",
+      "townKana": "モリオカチョウ（チョウメ）",
+      "prefecture": "愛知県",
+      "city": "大府市",
+      "town": "森岡町（丁目）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

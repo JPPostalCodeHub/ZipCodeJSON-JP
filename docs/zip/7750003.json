@@ -1,17 +1,21 @@
 {
-  "jisCode": "36383",
-  "oldZipCode": "775  ",
-  "zipCode": "7750003",
-  "prefectureKana": "トクシマケン",
-  "cityKana": "カイフグンムギチョウ",
-  "townKana": "ヘガワ",
-  "prefecture": "徳島県",
-  "city": "海部郡牟岐町",
-  "town": "辺川",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "36383",
+      "oldZipCode": "775  ",
+      "zipCode": "7750003",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "カイフグンムギチョウ",
+      "townKana": "ヘガワ",
+      "prefecture": "徳島県",
+      "city": "海部郡牟岐町",
+      "town": "辺川",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

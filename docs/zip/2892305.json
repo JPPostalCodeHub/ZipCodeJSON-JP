@@ -1,17 +1,21 @@
 {
-  "jisCode": "12347",
-  "oldZipCode": "28923",
-  "zipCode": "2892305",
-  "prefectureKana": "チバケン",
-  "cityKana": "カトリグンタコマチ",
-  "townKana": "オオタカ",
-  "prefecture": "千葉県",
-  "city": "香取郡多古町",
-  "town": "大高",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12347",
+      "oldZipCode": "28923",
+      "zipCode": "2892305",
+      "prefectureKana": "チバケン",
+      "cityKana": "カトリグンタコマチ",
+      "townKana": "オオタカ",
+      "prefecture": "千葉県",
+      "city": "香取郡多古町",
+      "town": "大高",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

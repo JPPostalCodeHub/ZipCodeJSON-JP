@@ -1,17 +1,21 @@
 {
-  "jisCode": "24211",
-  "oldZipCode": "517  ",
-  "zipCode": "5170011",
-  "prefectureKana": "ミエケン",
-  "cityKana": "トバシ",
-  "townKana": "トバ",
-  "prefecture": "三重県",
-  "city": "鳥羽市",
-  "town": "鳥羽",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "24211",
+      "oldZipCode": "517  ",
+      "zipCode": "5170011",
+      "prefectureKana": "ミエケン",
+      "cityKana": "トバシ",
+      "townKana": "トバ",
+      "prefecture": "三重県",
+      "city": "鳥羽市",
+      "town": "鳥羽",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

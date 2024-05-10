@@ -1,17 +1,38 @@
 {
-  "jisCode": "01641",
-  "oldZipCode": "08922",
-  "zipCode": "0892272",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ヒロオグンタイキチョウ",
-  "townKana": "スミヨシ",
-  "prefecture": "北海道",
-  "city": "広尾郡大樹町",
-  "town": "住吉",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01641",
+      "oldZipCode": "08922",
+      "zipCode": "0892272",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ヒロオグンタイキチョウ",
+      "townKana": "コウトク",
+      "prefecture": "北海道",
+      "city": "広尾郡大樹町",
+      "town": "幸徳",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "01641",
+      "oldZipCode": "08922",
+      "zipCode": "0892272",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ヒロオグンタイキチョウ",
+      "townKana": "スミヨシ",
+      "prefecture": "北海道",
+      "city": "広尾郡大樹町",
+      "town": "住吉",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "09201",
-  "oldZipCode": "32101",
-  "zipCode": "3210164",
-  "prefectureKana": "トチギケン",
-  "cityKana": "ウツノミヤシ",
-  "townKana": "フタバ",
-  "prefecture": "栃木県",
-  "city": "宇都宮市",
-  "town": "双葉",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "09201",
+      "oldZipCode": "32101",
+      "zipCode": "3210164",
+      "prefectureKana": "トチギケン",
+      "cityKana": "ウツノミヤシ",
+      "townKana": "フタバ",
+      "prefecture": "栃木県",
+      "city": "宇都宮市",
+      "town": "双葉",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

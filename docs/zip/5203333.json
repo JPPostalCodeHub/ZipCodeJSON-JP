@@ -1,17 +1,21 @@
 {
-  "jisCode": "25209",
-  "oldZipCode": "52033",
-  "zipCode": "5203333",
-  "prefectureKana": "シガケン",
-  "cityKana": "コウカシ",
-  "townKana": "コウナンチョウキボウガオカ",
-  "prefecture": "滋賀県",
-  "city": "甲賀市",
-  "town": "甲南町希望ケ丘",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "25209",
+      "oldZipCode": "52033",
+      "zipCode": "5203333",
+      "prefectureKana": "シガケン",
+      "cityKana": "コウカシ",
+      "townKana": "コウナンチョウキボウガオカ",
+      "prefecture": "滋賀県",
+      "city": "甲賀市",
+      "town": "甲南町希望ケ丘",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

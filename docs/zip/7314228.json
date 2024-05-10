@@ -1,17 +1,21 @@
 {
-  "jisCode": "34307",
-  "oldZipCode": "73142",
-  "zipCode": "7314228",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "アキグンクマノチョウ",
-  "townKana": "カキサコ",
-  "prefecture": "広島県",
-  "city": "安芸郡熊野町",
-  "town": "柿迫",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34307",
+      "oldZipCode": "73142",
+      "zipCode": "7314228",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "アキグンクマノチョウ",
+      "townKana": "カキサコ",
+      "prefecture": "広島県",
+      "city": "安芸郡熊野町",
+      "town": "柿迫",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

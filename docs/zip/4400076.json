@@ -1,17 +1,21 @@
 {
-  "jisCode": "23201",
-  "oldZipCode": "440  ",
-  "zipCode": "4400076",
-  "prefectureKana": "アイチケン",
-  "cityKana": "トヨハシシ",
-  "townKana": "オオハシドオリ",
-  "prefecture": "愛知県",
-  "city": "豊橋市",
-  "town": "大橋通",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23201",
+      "oldZipCode": "440  ",
+      "zipCode": "4400076",
+      "prefectureKana": "アイチケン",
+      "cityKana": "トヨハシシ",
+      "townKana": "オオハシドオリ",
+      "prefecture": "愛知県",
+      "city": "豊橋市",
+      "town": "大橋通",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

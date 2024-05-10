@@ -1,17 +1,21 @@
 {
-  "jisCode": "31202",
-  "oldZipCode": "683  ",
-  "zipCode": "6830023",
-  "prefectureKana": "トットリケン",
-  "cityKana": "ヨナゴシ",
-  "townKana": "ハシモト",
-  "prefecture": "鳥取県",
-  "city": "米子市",
-  "town": "橋本",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "31202",
+      "oldZipCode": "683  ",
+      "zipCode": "6830023",
+      "prefectureKana": "トットリケン",
+      "cityKana": "ヨナゴシ",
+      "townKana": "ハシモト",
+      "prefecture": "鳥取県",
+      "city": "米子市",
+      "town": "橋本",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "04421",
-  "oldZipCode": "98136",
-  "zipCode": "9813629",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "クロカワグンタイワチョウ",
-  "townKana": "テクノヒルズ",
-  "prefecture": "宮城県",
-  "city": "黒川郡大和町",
-  "town": "テクノヒルズ",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04421",
+      "oldZipCode": "98136",
+      "zipCode": "9813629",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "クロカワグンタイワチョウ",
+      "townKana": "テクノヒルズ",
+      "prefecture": "宮城県",
+      "city": "黒川郡大和町",
+      "town": "テクノヒルズ",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "34368",
-  "oldZipCode": "73135",
-  "zipCode": "7313502",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "ヤマガタグンアキオオタチョウ",
-  "townKana": "ツナミ",
-  "prefecture": "広島県",
-  "city": "山県郡安芸太田町",
-  "town": "津浪",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34368",
+      "oldZipCode": "73135",
+      "zipCode": "7313502",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ヤマガタグンアキオオタチョウ",
+      "townKana": "ツナミ",
+      "prefecture": "広島県",
+      "city": "山県郡安芸太田町",
+      "town": "津浪",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

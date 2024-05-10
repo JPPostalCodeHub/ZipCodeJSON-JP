@@ -1,17 +1,21 @@
 {
-  "jisCode": "01235",
-  "oldZipCode": "06132",
-  "zipCode": "0613261",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "イシカリシ",
-  "townKana": "ハナカワヒガシ１ジョウ",
-  "prefecture": "北海道",
-  "city": "石狩市",
-  "town": "花川東一条",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01235",
+      "oldZipCode": "06132",
+      "zipCode": "0613261",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "イシカリシ",
+      "townKana": "ハナカワヒガシ１ジョウ",
+      "prefecture": "北海道",
+      "city": "石狩市",
+      "town": "花川東一条",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

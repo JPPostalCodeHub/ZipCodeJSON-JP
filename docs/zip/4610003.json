@@ -1,17 +1,38 @@
 {
-  "jisCode": "23102",
-  "oldZipCode": "461  ",
-  "zipCode": "4610003",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ナゴヤシヒガシク",
-  "townKana": "ツツイチョウ",
-  "prefecture": "愛知県",
-  "city": "名古屋市東区",
-  "town": "筒井町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23102",
+      "oldZipCode": "461  ",
+      "zipCode": "4610003",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ナゴヤシヒガシク",
+      "townKana": "ツツイ",
+      "prefecture": "愛知県",
+      "city": "名古屋市東区",
+      "town": "筒井",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "23102",
+      "oldZipCode": "461  ",
+      "zipCode": "4610003",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ナゴヤシヒガシク",
+      "townKana": "ツツイチョウ",
+      "prefecture": "愛知県",
+      "city": "名古屋市東区",
+      "town": "筒井町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

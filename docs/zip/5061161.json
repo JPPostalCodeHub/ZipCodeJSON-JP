@@ -1,17 +1,38 @@
 {
-  "jisCode": "21217",
-  "oldZipCode": "50611",
-  "zipCode": "5061161",
-  "prefectureKana": "ギフケン",
-  "cityKana": "ヒダシ",
-  "townKana": "カミオカチョウマキガヒラ",
-  "prefecture": "岐阜県",
-  "city": "飛騨市",
-  "town": "神岡町牧ケ平",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "21217",
+      "oldZipCode": "50611",
+      "zipCode": "5061161",
+      "prefectureKana": "ギフケン",
+      "cityKana": "ヒダシ",
+      "townKana": "カミオカチョウフナツ",
+      "prefecture": "岐阜県",
+      "city": "飛騨市",
+      "town": "神岡町船津",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "21217",
+      "oldZipCode": "50611",
+      "zipCode": "5061161",
+      "prefectureKana": "ギフケン",
+      "cityKana": "ヒダシ",
+      "townKana": "カミオカチョウマキガヒラ",
+      "prefecture": "岐阜県",
+      "city": "飛騨市",
+      "town": "神岡町牧ケ平",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

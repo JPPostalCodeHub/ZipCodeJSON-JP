@@ -1,17 +1,21 @@
 {
-  "jisCode": "43103",
-  "oldZipCode": "86152",
-  "zipCode": "8615289",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "クマモトシニシク",
-  "townKana": "カミマツオマチ",
-  "prefecture": "熊本県",
-  "city": "熊本市西区",
-  "town": "上松尾町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43103",
+      "oldZipCode": "86152",
+      "zipCode": "8615289",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "クマモトシニシク",
+      "townKana": "カミマツオマチ",
+      "prefecture": "熊本県",
+      "city": "熊本市西区",
+      "town": "上松尾町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

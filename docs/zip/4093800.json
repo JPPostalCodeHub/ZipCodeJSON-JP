@@ -1,17 +1,38 @@
 {
-  "jisCode": "19384",
-  "oldZipCode": "40938",
-  "zipCode": "4093800",
-  "prefectureKana": "ヤマナシケン",
-  "cityKana": "ナカコマグンショウワチョウ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "山梨県",
-  "city": "中巨摩郡昭和町",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "19214",
+      "oldZipCode": "40938",
+      "zipCode": "4093800",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "チュウオウシ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "山梨県",
+      "city": "中央市",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "19384",
+      "oldZipCode": "40938",
+      "zipCode": "4093800",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "ナカコマグンショウワチョウ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "山梨県",
+      "city": "中巨摩郡昭和町",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

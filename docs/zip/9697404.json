@@ -1,17 +1,21 @@
 {
-  "jisCode": "07444",
-  "oldZipCode": "96974",
-  "zipCode": "9697404",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "オオヌマグンミシママチ",
-  "townKana": "タカシミズ",
-  "prefecture": "福島県",
-  "city": "大沼郡三島町",
-  "town": "高清水",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07444",
+      "oldZipCode": "96974",
+      "zipCode": "9697404",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "オオヌマグンミシママチ",
+      "townKana": "タカシミズ",
+      "prefecture": "福島県",
+      "city": "大沼郡三島町",
+      "town": "高清水",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

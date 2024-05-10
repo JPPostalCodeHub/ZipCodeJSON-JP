@@ -1,17 +1,21 @@
 {
-  "jisCode": "31329",
-  "oldZipCode": "68004",
-  "zipCode": "6800412",
-  "prefectureKana": "トットリケン",
-  "cityKana": "ヤズグンヤズチョウ",
-  "townKana": "ミナクチ",
-  "prefecture": "鳥取県",
-  "city": "八頭郡八頭町",
-  "town": "水口",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "31329",
+      "oldZipCode": "68004",
+      "zipCode": "6800412",
+      "prefectureKana": "トットリケン",
+      "cityKana": "ヤズグンヤズチョウ",
+      "townKana": "ミナクチ",
+      "prefecture": "鳥取県",
+      "city": "八頭郡八頭町",
+      "town": "水口",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

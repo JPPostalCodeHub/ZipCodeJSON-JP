@@ -1,17 +1,21 @@
 {
-  "jisCode": "27381",
-  "oldZipCode": "583  ",
-  "zipCode": "5830996",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "ミナミカワチグンタイシチョウ",
-  "townKana": "セイワダイ",
-  "prefecture": "大阪府",
-  "city": "南河内郡太子町",
-  "town": "聖和台",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27381",
+      "oldZipCode": "583  ",
+      "zipCode": "5830996",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "ミナミカワチグンタイシチョウ",
+      "townKana": "セイワダイ",
+      "prefecture": "大阪府",
+      "city": "南河内郡太子町",
+      "town": "聖和台",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

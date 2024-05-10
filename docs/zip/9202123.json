@@ -1,17 +1,21 @@
 {
-  "jisCode": "17210",
-  "oldZipCode": "92021",
-  "zipCode": "9202123",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "ハクサンシ",
-  "townKana": "ツルギヒヅメチョウ",
-  "prefecture": "石川県",
-  "city": "白山市",
-  "town": "鶴来日詰町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17210",
+      "oldZipCode": "92021",
+      "zipCode": "9202123",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "ハクサンシ",
+      "townKana": "ツルギヒヅメチョウ",
+      "prefecture": "石川県",
+      "city": "白山市",
+      "town": "鶴来日詰町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

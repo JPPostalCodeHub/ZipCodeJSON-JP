@@ -1,17 +1,21 @@
 {
-  "jisCode": "14116",
-  "oldZipCode": "245  ",
-  "zipCode": "2450006",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "ヨコハマシイズミク",
-  "townKana": "ニシガオカ",
-  "prefecture": "神奈川県",
-  "city": "横浜市泉区",
-  "town": "西が岡",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14116",
+      "oldZipCode": "245  ",
+      "zipCode": "2450006",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "ヨコハマシイズミク",
+      "townKana": "ニシガオカ",
+      "prefecture": "神奈川県",
+      "city": "横浜市泉区",
+      "town": "西が岡",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

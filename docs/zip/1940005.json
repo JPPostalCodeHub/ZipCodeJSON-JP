@@ -1,17 +1,21 @@
 {
-  "jisCode": "13209",
-  "oldZipCode": "194  ",
-  "zipCode": "1940005",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "マチダシ",
-  "townKana": "ミナミマチダ",
-  "prefecture": "東京都",
-  "city": "町田市",
-  "town": "南町田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13209",
+      "oldZipCode": "194  ",
+      "zipCode": "1940005",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "マチダシ",
+      "townKana": "ミナミマチダ",
+      "prefecture": "東京都",
+      "city": "町田市",
+      "town": "南町田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

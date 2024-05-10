@@ -1,17 +1,21 @@
 {
-  "jisCode": "02209",
-  "oldZipCode": "03831",
-  "zipCode": "0383135",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "ツガルシ",
-  "townKana": "キヅクリウラクマチ",
-  "prefecture": "青森県",
-  "city": "つがる市",
-  "town": "木造有楽町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02209",
+      "oldZipCode": "03831",
+      "zipCode": "0383135",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "ツガルシ",
+      "townKana": "キヅクリウラクマチ",
+      "prefecture": "青森県",
+      "city": "つがる市",
+      "town": "木造有楽町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

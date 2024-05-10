@@ -1,17 +1,21 @@
 {
-  "jisCode": "01667",
-  "oldZipCode": "08511",
-  "zipCode": "0851142",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "アカングンツルイムラ",
-  "townKana": "ホロロヒガシ",
-  "prefecture": "北海道",
-  "city": "阿寒郡鶴居村",
-  "town": "幌呂東",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01667",
+      "oldZipCode": "08511",
+      "zipCode": "0851142",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "アカングンツルイムラ",
+      "townKana": "ホロロヒガシ",
+      "prefecture": "北海道",
+      "city": "阿寒郡鶴居村",
+      "town": "幌呂東",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

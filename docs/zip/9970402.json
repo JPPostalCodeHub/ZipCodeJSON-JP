@@ -1,17 +1,21 @@
 {
-  "jisCode": "06203",
-  "oldZipCode": "99704",
-  "zipCode": "9970402",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "ツルオカシ",
-  "townKana": "ヒガシイワモト",
-  "prefecture": "山形県",
-  "city": "鶴岡市",
-  "town": "東岩本",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06203",
+      "oldZipCode": "99704",
+      "zipCode": "9970402",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "ツルオカシ",
+      "townKana": "ヒガシイワモト",
+      "prefecture": "山形県",
+      "city": "鶴岡市",
+      "town": "東岩本",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,38 @@
 {
-  "jisCode": "16323",
-  "oldZipCode": "93013",
-  "zipCode": "9301361",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "ナカニイカワグンタテヤママチ",
-  "townKana": "ミサダ",
-  "prefecture": "富山県",
-  "city": "中新川郡立山町",
-  "town": "下田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16323",
+      "oldZipCode": "93013",
+      "zipCode": "9301361",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "ナカニイカワグンタテヤママチ",
+      "townKana": "イズバヤシ",
+      "prefecture": "富山県",
+      "city": "中新川郡立山町",
+      "town": "伊豆林",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "16323",
+      "oldZipCode": "93013",
+      "zipCode": "9301361",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "ナカニイカワグンタテヤママチ",
+      "townKana": "ミサダ",
+      "prefecture": "富山県",
+      "city": "中新川郡立山町",
+      "town": "下田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "16210",
-  "oldZipCode": "93915",
-  "zipCode": "9391566",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "ナントシ",
-  "townKana": "フクノ（タナカマチ）",
-  "prefecture": "富山県",
-  "city": "南砺市",
-  "town": "福野（田中町）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16210",
+      "oldZipCode": "93915",
+      "zipCode": "9391566",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "ナントシ",
+      "townKana": "フクノ（タナカマチ）",
+      "prefecture": "富山県",
+      "city": "南砺市",
+      "town": "福野（田中町）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

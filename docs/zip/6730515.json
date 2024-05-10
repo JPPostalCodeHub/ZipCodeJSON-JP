@@ -1,17 +1,21 @@
 {
-  "jisCode": "28215",
-  "oldZipCode": "67305",
-  "zipCode": "6730515",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "ミキシ",
-  "townKana": "シジミチョウミツダ",
-  "prefecture": "兵庫県",
-  "city": "三木市",
-  "town": "志染町三津田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28215",
+      "oldZipCode": "67305",
+      "zipCode": "6730515",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "ミキシ",
+      "townKana": "シジミチョウミツダ",
+      "prefecture": "兵庫県",
+      "city": "三木市",
+      "town": "志染町三津田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

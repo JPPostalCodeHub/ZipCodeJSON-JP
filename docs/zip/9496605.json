@@ -1,17 +1,21 @@
 {
-  "jisCode": "15226",
-  "oldZipCode": "94966",
-  "zipCode": "9496605",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ミナミウオヌマシ",
-  "townKana": "アオキシンデン（６９５、７２９、９９２−１０７４バンチ）",
-  "prefecture": "新潟県",
-  "city": "南魚沼市",
-  "town": "青木新田（６９５、７２９、９９２〜１０７４番地）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15226",
+      "oldZipCode": "94966",
+      "zipCode": "9496605",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ミナミウオヌマシ",
+      "townKana": "アオキシンデン（６９５、７２９、９９２−１０７４バンチ）",
+      "prefecture": "新潟県",
+      "city": "南魚沼市",
+      "town": "青木新田（６９５、７２９、９９２〜１０７４番地）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

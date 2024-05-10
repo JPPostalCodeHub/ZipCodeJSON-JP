@@ -1,17 +1,21 @@
 {
-  "jisCode": "08215",
-  "oldZipCode": "31917",
-  "zipCode": "3191702",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "キタイバラキシ",
-  "townKana": "オオツチョウ",
-  "prefecture": "茨城県",
-  "city": "北茨城市",
-  "town": "大津町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08215",
+      "oldZipCode": "31917",
+      "zipCode": "3191702",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "キタイバラキシ",
+      "townKana": "オオツチョウ",
+      "prefecture": "茨城県",
+      "city": "北茨城市",
+      "town": "大津町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

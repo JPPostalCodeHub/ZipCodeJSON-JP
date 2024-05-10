@@ -1,17 +1,21 @@
 {
-  "jisCode": "15482",
-  "oldZipCode": "94981",
-  "zipCode": "9498124",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ナカウオヌマグンツナンマチ",
-  "townKana": "カミゴウコタネシンデン",
-  "prefecture": "新潟県",
-  "city": "中魚沼郡津南町",
-  "town": "上郷子種新田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15482",
+      "oldZipCode": "94981",
+      "zipCode": "9498124",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ナカウオヌマグンツナンマチ",
+      "townKana": "カミゴウコタネシンデン",
+      "prefecture": "新潟県",
+      "city": "中魚沼郡津南町",
+      "town": "上郷子種新田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

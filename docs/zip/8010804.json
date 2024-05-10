@@ -1,17 +1,21 @@
 {
-  "jisCode": "40101",
-  "oldZipCode": "801  ",
-  "zipCode": "8010804",
-  "prefectureKana": "フクオカケン",
-  "cityKana": "キタキュウシュウシモジク",
-  "townKana": "タノウラカイガン",
-  "prefecture": "福岡県",
-  "city": "北九州市門司区",
-  "town": "田野浦海岸",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "40101",
+      "oldZipCode": "801  ",
+      "zipCode": "8010804",
+      "prefectureKana": "フクオカケン",
+      "cityKana": "キタキュウシュウシモジク",
+      "townKana": "タノウラカイガン",
+      "prefecture": "福岡県",
+      "city": "北九州市門司区",
+      "town": "田野浦海岸",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

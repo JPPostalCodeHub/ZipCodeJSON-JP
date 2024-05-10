@@ -1,17 +1,21 @@
 {
-  "jisCode": "01204",
-  "oldZipCode": "071  ",
-  "zipCode": "0718137",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "アサヒカワシ",
-  "townKana": "スエヒロ７ジョウ",
-  "prefecture": "北海道",
-  "city": "旭川市",
-  "town": "末広７条",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01204",
+      "oldZipCode": "071  ",
+      "zipCode": "0718137",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "アサヒカワシ",
+      "townKana": "スエヒロ７ジョウ",
+      "prefecture": "北海道",
+      "city": "旭川市",
+      "town": "末広７条",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

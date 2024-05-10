@@ -1,17 +1,21 @@
 {
-  "jisCode": "03507",
-  "oldZipCode": "02879",
-  "zipCode": "0287902",
-  "prefectureKana": "イワテケン",
-  "cityKana": "クノヘグンヒロノチョウ",
-  "townKana": "タネイチダイ４チワリ−ダイ７チワリ（シュクノヘ）",
-  "prefecture": "岩手県",
-  "city": "九戸郡洋野町",
-  "town": "種市第４地割〜第７地割（宿戸）",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "03507",
+      "oldZipCode": "02879",
+      "zipCode": "0287902",
+      "prefectureKana": "イワテケン",
+      "cityKana": "クノヘグンヒロノチョウ",
+      "townKana": "タネイチダイ４チワリ−ダイ７チワリ（シュクノヘ）",
+      "prefecture": "岩手県",
+      "city": "九戸郡洋野町",
+      "town": "種市第４地割〜第７地割（宿戸）",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

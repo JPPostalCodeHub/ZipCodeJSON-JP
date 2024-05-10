@@ -1,17 +1,38 @@
 {
-  "jisCode": "16202",
-  "oldZipCode": "93301",
-  "zipCode": "9330134",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "タカオカシ",
-  "townKana": "オオタ（タンボ）",
-  "prefecture": "富山県",
-  "city": "高岡市",
-  "town": "太田（旦保）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16202",
+      "oldZipCode": "93301",
+      "zipCode": "9330134",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "タカオカシ",
+      "townKana": "オオタ（タツノクチ）",
+      "prefecture": "富山県",
+      "city": "高岡市",
+      "town": "太田（辰ノ口）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "16202",
+      "oldZipCode": "93301",
+      "zipCode": "9330134",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "タカオカシ",
+      "townKana": "オオタ（タンボ）",
+      "prefecture": "富山県",
+      "city": "高岡市",
+      "town": "太田（旦保）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "09209",
-  "oldZipCode": "32143",
-  "zipCode": "3214307",
-  "prefectureKana": "トチギケン",
-  "cityKana": "モオカシ",
-  "townKana": "ニシゴウ",
-  "prefecture": "栃木県",
-  "city": "真岡市",
-  "town": "西郷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "09209",
+      "oldZipCode": "32143",
+      "zipCode": "3214307",
+      "prefectureKana": "トチギケン",
+      "cityKana": "モオカシ",
+      "townKana": "ニシゴウ",
+      "prefecture": "栃木県",
+      "city": "真岡市",
+      "town": "西郷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

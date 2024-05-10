@@ -1,17 +1,21 @@
 {
-  "jisCode": "20429",
-  "oldZipCode": "39702",
-  "zipCode": "3970201",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "キソグンオウタキムラ",
-  "townKana": "オウタキムライチエン",
-  "prefecture": "長野県",
-  "city": "木曽郡王滝村",
-  "town": "王滝村一円",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20429",
+      "oldZipCode": "39702",
+      "zipCode": "3970201",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "キソグンオウタキムラ",
+      "townKana": "オウタキムライチエン",
+      "prefecture": "長野県",
+      "city": "木曽郡王滝村",
+      "town": "王滝村一円",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

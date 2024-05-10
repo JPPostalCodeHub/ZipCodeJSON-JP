@@ -1,17 +1,21 @@
 {
-  "jisCode": "45202",
-  "oldZipCode": "885  ",
-  "zipCode": "8850053",
-  "prefectureKana": "ミヤザキケン",
-  "cityKana": "ミヤコノジョウシ",
-  "townKana": "カミヒガシチョウ",
-  "prefecture": "宮崎県",
-  "city": "都城市",
-  "town": "上東町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "45202",
+      "oldZipCode": "885  ",
+      "zipCode": "8850053",
+      "prefectureKana": "ミヤザキケン",
+      "cityKana": "ミヤコノジョウシ",
+      "townKana": "カミヒガシチョウ",
+      "prefecture": "宮崎県",
+      "city": "都城市",
+      "town": "上東町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

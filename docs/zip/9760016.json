@@ -1,17 +1,21 @@
 {
-  "jisCode": "07209",
-  "oldZipCode": "976  ",
-  "zipCode": "9760016",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "ソウマシ",
-  "townKana": "オキノウチ",
-  "prefecture": "福島県",
-  "city": "相馬市",
-  "town": "沖ノ内",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07209",
+      "oldZipCode": "976  ",
+      "zipCode": "9760016",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "ソウマシ",
+      "townKana": "オキノウチ",
+      "prefecture": "福島県",
+      "city": "相馬市",
+      "town": "沖ノ内",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

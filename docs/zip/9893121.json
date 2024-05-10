@@ -1,17 +1,21 @@
 {
-  "jisCode": "04101",
-  "oldZipCode": "98931",
-  "zipCode": "9893121",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "センダイシアオバク",
-  "townKana": "ゴウロク",
-  "prefecture": "宮城県",
-  "city": "仙台市青葉区",
-  "town": "郷六",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04101",
+      "oldZipCode": "98931",
+      "zipCode": "9893121",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "センダイシアオバク",
+      "townKana": "ゴウロク",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "town": "郷六",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

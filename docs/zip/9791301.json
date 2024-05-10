@@ -1,17 +1,21 @@
 {
-  "jisCode": "07545",
-  "oldZipCode": "97913",
-  "zipCode": "9791301",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "フタバグンオオクママチ",
-  "townKana": "オットザワ",
-  "prefecture": "福島県",
-  "city": "双葉郡大熊町",
-  "town": "夫沢",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07545",
+      "oldZipCode": "97913",
+      "zipCode": "9791301",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "フタバグンオオクママチ",
+      "townKana": "オットザワ",
+      "prefecture": "福島県",
+      "city": "双葉郡大熊町",
+      "town": "夫沢",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

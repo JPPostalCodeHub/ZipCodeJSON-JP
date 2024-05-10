@@ -1,17 +1,21 @@
 {
-  "jisCode": "26106",
-  "oldZipCode": "600  ",
-  "zipCode": "6008044",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシシモギョウク",
-  "townKana": "タチバナチョウ",
-  "prefecture": "京都府",
-  "city": "京都市下京区",
-  "town": "橘町（御幸町通高辻上る、御幸町通仏光寺下る、高辻通御幸町西入、高辻通御幸町東入）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26106",
+      "oldZipCode": "600  ",
+      "zipCode": "6008044",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシシモギョウク",
+      "townKana": "タチバナチョウ",
+      "prefecture": "京都府",
+      "city": "京都市下京区",
+      "town": "橘町（御幸町通高辻上る、御幸町通仏光寺下る、高辻通御幸町西入、高辻通御幸町東入）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

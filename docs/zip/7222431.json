@@ -1,17 +1,21 @@
 {
-  "jisCode": "34205",
-  "oldZipCode": "72224",
-  "zipCode": "7222431",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "オノミチシ",
-  "townKana": "インノシマスノエチョウ",
-  "prefecture": "広島県",
-  "city": "尾道市",
-  "town": "因島洲江町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34205",
+      "oldZipCode": "72224",
+      "zipCode": "7222431",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "オノミチシ",
+      "townKana": "インノシマスノエチョウ",
+      "prefecture": "広島県",
+      "city": "尾道市",
+      "town": "因島洲江町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

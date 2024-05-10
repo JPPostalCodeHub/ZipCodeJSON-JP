@@ -1,17 +1,21 @@
 {
-  "jisCode": "08207",
-  "oldZipCode": "307  ",
-  "zipCode": "3070052",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "ユウキシ",
-  "townKana": "チュウオウチョウ",
-  "prefecture": "茨城県",
-  "city": "結城市",
-  "town": "中央町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08207",
+      "oldZipCode": "307  ",
+      "zipCode": "3070052",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "ユウキシ",
+      "townKana": "チュウオウチョウ",
+      "prefecture": "茨城県",
+      "city": "結城市",
+      "town": "中央町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

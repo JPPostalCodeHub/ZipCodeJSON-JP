@@ -1,17 +1,21 @@
 {
-  "jisCode": "17203",
-  "oldZipCode": "92301",
-  "zipCode": "9230181",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "コマツシ",
-  "townKana": "ナガタニマチ",
-  "prefecture": "石川県",
-  "city": "小松市",
-  "town": "長谷町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17203",
+      "oldZipCode": "92301",
+      "zipCode": "9230181",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "コマツシ",
+      "townKana": "ナガタニマチ",
+      "prefecture": "石川県",
+      "city": "小松市",
+      "town": "長谷町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

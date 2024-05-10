@@ -1,17 +1,21 @@
 {
-  "jisCode": "33666",
-  "oldZipCode": "70937",
-  "zipCode": "7093722",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "クメグンミサキチョウ",
-  "townKana": "オオハガヒガシ",
-  "prefecture": "岡山県",
-  "city": "久米郡美咲町",
-  "town": "大垪和東",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33666",
+      "oldZipCode": "70937",
+      "zipCode": "7093722",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "クメグンミサキチョウ",
+      "townKana": "オオハガヒガシ",
+      "prefecture": "岡山県",
+      "city": "久米郡美咲町",
+      "town": "大垪和東",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

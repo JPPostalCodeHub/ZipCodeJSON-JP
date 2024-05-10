@@ -1,17 +1,21 @@
 {
-  "jisCode": "12210",
-  "oldZipCode": "297  ",
-  "zipCode": "2970024",
-  "prefectureKana": "チバケン",
-  "cityKana": "モバラシ",
-  "townKana": "ヤチヨ",
-  "prefecture": "千葉県",
-  "city": "茂原市",
-  "town": "八千代",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12210",
+      "oldZipCode": "297  ",
+      "zipCode": "2970024",
+      "prefectureKana": "チバケン",
+      "cityKana": "モバラシ",
+      "townKana": "ヤチヨ",
+      "prefecture": "千葉県",
+      "city": "茂原市",
+      "town": "八千代",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,38 @@
 {
-  "jisCode": "01233",
-  "oldZipCode": "052  ",
-  "zipCode": "0520001",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ダテシ",
-  "townKana": "シモンケチョウ",
-  "prefecture": "北海道",
-  "city": "伊達市",
-  "town": "志門気町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01233",
+      "oldZipCode": "052  ",
+      "zipCode": "0520001",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ダテシ",
+      "townKana": "キモンベツチョウ",
+      "prefecture": "北海道",
+      "city": "伊達市",
+      "town": "喜門別町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "01233",
+      "oldZipCode": "052  ",
+      "zipCode": "0520001",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ダテシ",
+      "townKana": "シモンケチョウ",
+      "prefecture": "北海道",
+      "city": "伊達市",
+      "town": "志門気町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

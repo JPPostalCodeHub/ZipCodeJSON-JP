@@ -1,17 +1,21 @@
 {
-  "jisCode": "02424",
-  "oldZipCode": "03501",
-  "zipCode": "0350104",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "シモキタグンヒガシドオリムラ",
-  "townKana": "ガマノサワ（イナザキ、ハマノタイ）",
-  "prefecture": "青森県",
-  "city": "下北郡東通村",
-  "town": "蒲野沢（稲崎、浜の平）",
-  "multipleZipCodes": "1",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02424",
+      "oldZipCode": "03501",
+      "zipCode": "0350104",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "シモキタグンヒガシドオリムラ",
+      "townKana": "ガマノサワ（イナザキ、ハマノタイ）",
+      "prefecture": "青森県",
+      "city": "下北郡東通村",
+      "town": "蒲野沢（稲崎、浜の平）",
+      "multipleZipCodes": "1",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

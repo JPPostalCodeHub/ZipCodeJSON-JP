@@ -1,17 +1,38 @@
 {
-  "jisCode": "18204",
-  "oldZipCode": "91702",
-  "zipCode": "9170223",
-  "prefectureKana": "フクイケン",
-  "cityKana": "オバマシ",
-  "townKana": "カモ",
-  "prefecture": "福井県",
-  "city": "小浜市",
-  "town": "加茂",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18204",
+      "oldZipCode": "91702",
+      "zipCode": "9170223",
+      "prefectureKana": "フクイケン",
+      "cityKana": "オバマシ",
+      "townKana": "オオド",
+      "prefecture": "福井県",
+      "city": "小浜市",
+      "town": "大戸",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "18204",
+      "oldZipCode": "91702",
+      "zipCode": "9170223",
+      "prefectureKana": "フクイケン",
+      "cityKana": "オバマシ",
+      "townKana": "カモ",
+      "prefecture": "福井県",
+      "city": "小浜市",
+      "town": "加茂",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

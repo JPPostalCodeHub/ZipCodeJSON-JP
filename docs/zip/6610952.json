@@ -1,17 +1,21 @@
 {
-  "jisCode": "28202",
-  "oldZipCode": "661  ",
-  "zipCode": "6610952",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "アマガサキシ",
-  "townKana": "シドウ",
-  "prefecture": "兵庫県",
-  "city": "尼崎市",
-  "town": "椎堂",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28202",
+      "oldZipCode": "661  ",
+      "zipCode": "6610952",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "アマガサキシ",
+      "townKana": "シドウ",
+      "prefecture": "兵庫県",
+      "city": "尼崎市",
+      "town": "椎堂",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "41201",
-  "oldZipCode": "840  ",
-  "zipCode": "8400045",
-  "prefectureKana": "サガケン",
-  "cityKana": "サガシ",
-  "townKana": "ニシタシロ",
-  "prefecture": "佐賀県",
-  "city": "佐賀市",
-  "town": "西田代",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "41201",
+      "oldZipCode": "840  ",
+      "zipCode": "8400045",
+      "prefectureKana": "サガケン",
+      "cityKana": "サガシ",
+      "townKana": "ニシタシロ",
+      "prefecture": "佐賀県",
+      "city": "佐賀市",
+      "town": "西田代",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

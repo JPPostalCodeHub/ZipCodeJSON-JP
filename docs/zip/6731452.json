@@ -1,17 +1,21 @@
 {
-  "jisCode": "28228",
-  "oldZipCode": "67314",
-  "zipCode": "6731452",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "カトウシ",
-  "townKana": "トリイ",
-  "prefecture": "兵庫県",
-  "city": "加東市",
-  "town": "鳥居",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28228",
+      "oldZipCode": "67314",
+      "zipCode": "6731452",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "カトウシ",
+      "townKana": "トリイ",
+      "prefecture": "兵庫県",
+      "city": "加東市",
+      "town": "鳥居",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

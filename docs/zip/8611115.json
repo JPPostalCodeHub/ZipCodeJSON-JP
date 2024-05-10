@@ -1,17 +1,21 @@
 {
-  "jisCode": "43216",
-  "oldZipCode": "86111",
-  "zipCode": "8611115",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "コウシシ",
-  "townKana": "トヨオカ",
-  "prefecture": "熊本県",
-  "city": "合志市",
-  "town": "豊岡",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43216",
+      "oldZipCode": "86111",
+      "zipCode": "8611115",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "コウシシ",
+      "townKana": "トヨオカ",
+      "prefecture": "熊本県",
+      "city": "合志市",
+      "town": "豊岡",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

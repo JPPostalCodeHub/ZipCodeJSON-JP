@@ -1,17 +1,21 @@
 {
-  "jisCode": "37201",
-  "oldZipCode": "76104",
-  "zipCode": "7610446",
-  "prefectureKana": "カガワケン",
-  "cityKana": "タカマツシ",
-  "townKana": "ヒガシウエタチョウ",
-  "prefecture": "香川県",
-  "city": "高松市",
-  "town": "東植田町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "37201",
+      "oldZipCode": "76104",
+      "zipCode": "7610446",
+      "prefectureKana": "カガワケン",
+      "cityKana": "タカマツシ",
+      "townKana": "ヒガシウエタチョウ",
+      "prefecture": "香川県",
+      "city": "高松市",
+      "town": "東植田町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

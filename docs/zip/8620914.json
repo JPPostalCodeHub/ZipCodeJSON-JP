@@ -1,17 +1,21 @@
 {
-  "jisCode": "43102",
-  "oldZipCode": "862  ",
-  "zipCode": "8620914",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "クマモトシヒガシク",
-  "townKana": "ヤマノウチ",
-  "prefecture": "熊本県",
-  "city": "熊本市東区",
-  "town": "山ノ内",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43102",
+      "oldZipCode": "862  ",
+      "zipCode": "8620914",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "クマモトシヒガシク",
+      "townKana": "ヤマノウチ",
+      "prefecture": "熊本県",
+      "city": "熊本市東区",
+      "town": "山ノ内",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

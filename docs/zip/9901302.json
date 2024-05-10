@@ -1,17 +1,21 @@
 {
-  "jisCode": "06323",
-  "oldZipCode": "99013",
-  "zipCode": "9901302",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "ニシムラヤマグンアサヒマチ",
-  "townKana": "タマノイ",
-  "prefecture": "山形県",
-  "city": "西村山郡朝日町",
-  "town": "玉ノ井",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06323",
+      "oldZipCode": "99013",
+      "zipCode": "9901302",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "ニシムラヤマグンアサヒマチ",
+      "townKana": "タマノイ",
+      "prefecture": "山形県",
+      "city": "西村山郡朝日町",
+      "town": "玉ノ井",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

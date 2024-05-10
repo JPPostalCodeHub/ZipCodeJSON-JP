@@ -1,17 +1,21 @@
 {
-  "jisCode": "33209",
-  "oldZipCode": "71601",
-  "zipCode": "7160121",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "タカハシシ",
-  "townKana": "ナリワチョウナリワ",
-  "prefecture": "岡山県",
-  "city": "高梁市",
-  "town": "成羽町成羽",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33209",
+      "oldZipCode": "71601",
+      "zipCode": "7160121",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "タカハシシ",
+      "townKana": "ナリワチョウナリワ",
+      "prefecture": "岡山県",
+      "city": "高梁市",
+      "town": "成羽町成羽",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

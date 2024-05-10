@@ -1,17 +1,21 @@
 {
-  "jisCode": "26105",
-  "oldZipCode": "605  ",
-  "zipCode": "6050034",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシヒガシヤマク",
-  "townKana": "ナカノチョウ",
-  "prefecture": "京都府",
-  "city": "京都市東山区",
-  "town": "中之町（三条通神宮道東入２丁目、三条通白川橋東入４丁目、三条通白川橋東４丁目）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26105",
+      "oldZipCode": "605  ",
+      "zipCode": "6050034",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシヒガシヤマク",
+      "townKana": "ナカノチョウ",
+      "prefecture": "京都府",
+      "city": "京都市東山区",
+      "town": "中之町（三条通神宮道東入２丁目、三条通白川橋東入４丁目、三条通白川橋東４丁目）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

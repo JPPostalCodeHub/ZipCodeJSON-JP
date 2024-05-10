@@ -1,17 +1,21 @@
 {
-  "jisCode": "05207",
-  "oldZipCode": "01901",
-  "zipCode": "0190113",
-  "prefectureKana": "アキタケン",
-  "cityKana": "ユザワシ",
-  "townKana": "インナイギンザンマチ",
-  "prefecture": "秋田県",
-  "city": "湯沢市",
-  "town": "院内銀山町",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05207",
+      "oldZipCode": "01901",
+      "zipCode": "0190113",
+      "prefectureKana": "アキタケン",
+      "cityKana": "ユザワシ",
+      "townKana": "インナイギンザンマチ",
+      "prefecture": "秋田県",
+      "city": "湯沢市",
+      "town": "院内銀山町",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

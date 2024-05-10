@@ -1,17 +1,21 @@
 {
-  "jisCode": "07446",
-  "oldZipCode": "96801",
-  "zipCode": "9680102",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "オオヌマグンショウワムラ",
-  "townKana": "ノジリ",
-  "prefecture": "福島県",
-  "city": "大沼郡昭和村",
-  "town": "野尻",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07446",
+      "oldZipCode": "96801",
+      "zipCode": "9680102",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "オオヌマグンショウワムラ",
+      "townKana": "ノジリ",
+      "prefecture": "福島県",
+      "city": "大沼郡昭和村",
+      "town": "野尻",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

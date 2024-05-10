@@ -1,17 +1,21 @@
 {
-  "jisCode": "26104",
-  "oldZipCode": "604  ",
-  "zipCode": "6048095",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシナカギョウク",
-  "townKana": "ダイモンジチョウ",
-  "prefecture": "京都府",
-  "city": "京都市中京区",
-  "town": "大文字町（御幸町通御池下る、御幸町通姉小路上る、御池通御幸町西入、御池通御幸町東入、姉小路通御幸町西入、姉小路通御幸町東入）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26104",
+      "oldZipCode": "604  ",
+      "zipCode": "6048095",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシナカギョウク",
+      "townKana": "ダイモンジチョウ",
+      "prefecture": "京都府",
+      "city": "京都市中京区",
+      "town": "大文字町（御幸町通御池下る、御幸町通姉小路上る、御池通御幸町西入、御池通御幸町東入、姉小路通御幸町西入、姉小路通御幸町東入）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

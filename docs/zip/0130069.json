@@ -1,17 +1,21 @@
 {
-  "jisCode": "05203",
-  "oldZipCode": "013  ",
-  "zipCode": "0130069",
-  "prefectureKana": "アキタケン",
-  "cityKana": "ヨコテシ",
-  "townKana": "サンマイバシ",
-  "prefecture": "秋田県",
-  "city": "横手市",
-  "town": "三枚橋",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05203",
+      "oldZipCode": "013  ",
+      "zipCode": "0130069",
+      "prefectureKana": "アキタケン",
+      "cityKana": "ヨコテシ",
+      "townKana": "サンマイバシ",
+      "prefecture": "秋田県",
+      "city": "横手市",
+      "town": "三枚橋",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "30424",
-  "oldZipCode": "64945",
-  "zipCode": "6494561",
-  "prefectureKana": "ワカヤマケン",
-  "cityKana": "ヒガシムログンコザガワチョウ",
-  "townKana": "ニシカワ",
-  "prefecture": "和歌山県",
-  "city": "東牟婁郡古座川町",
-  "town": "西川",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "30424",
+      "oldZipCode": "64945",
+      "zipCode": "6494561",
+      "prefectureKana": "ワカヤマケン",
+      "cityKana": "ヒガシムログンコザガワチョウ",
+      "townKana": "ニシカワ",
+      "prefecture": "和歌山県",
+      "city": "東牟婁郡古座川町",
+      "town": "西川",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

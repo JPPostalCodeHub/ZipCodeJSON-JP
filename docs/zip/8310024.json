@@ -1,17 +1,21 @@
 {
-  "jisCode": "40212",
-  "oldZipCode": "831  ",
-  "zipCode": "8310024",
-  "prefectureKana": "フクオカケン",
-  "cityKana": "オオカワシ",
-  "townKana": "オニコガ",
-  "prefecture": "福岡県",
-  "city": "大川市",
-  "town": "鬼古賀",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "40212",
+      "oldZipCode": "831  ",
+      "zipCode": "8310024",
+      "prefectureKana": "フクオカケン",
+      "cityKana": "オオカワシ",
+      "townKana": "オニコガ",
+      "prefecture": "福岡県",
+      "city": "大川市",
+      "town": "鬼古賀",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

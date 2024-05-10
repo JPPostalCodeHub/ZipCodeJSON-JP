@@ -1,17 +1,21 @@
 {
-  "jisCode": "18210",
-  "oldZipCode": "91002",
-  "zipCode": "9100275",
-  "prefectureKana": "フクイケン",
-  "cityKana": "サカイシ",
-  "townKana": "マルオカチョウウダ",
-  "prefecture": "福井県",
-  "city": "坂井市",
-  "town": "丸岡町宇田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18210",
+      "oldZipCode": "91002",
+      "zipCode": "9100275",
+      "prefectureKana": "フクイケン",
+      "cityKana": "サカイシ",
+      "townKana": "マルオカチョウウダ",
+      "prefecture": "福井県",
+      "city": "坂井市",
+      "town": "丸岡町宇田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

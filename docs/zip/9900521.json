@@ -1,17 +1,21 @@
 {
-  "jisCode": "06206",
-  "oldZipCode": "99005",
-  "zipCode": "9900521",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "サガエシ",
-  "townKana": "ヤサワ",
-  "prefecture": "山形県",
-  "city": "寒河江市",
-  "town": "谷沢",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06206",
+      "oldZipCode": "99005",
+      "zipCode": "9900521",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "サガエシ",
+      "townKana": "ヤサワ",
+      "prefecture": "山形県",
+      "city": "寒河江市",
+      "town": "谷沢",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

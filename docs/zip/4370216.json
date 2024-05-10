@@ -1,17 +1,21 @@
 {
-  "jisCode": "22461",
-  "oldZipCode": "43702",
-  "zipCode": "4370216",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "シュウチグンモリマチ",
-  "townKana": "アメノミヤ",
-  "prefecture": "静岡県",
-  "city": "周智郡森町",
-  "town": "天宮",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22461",
+      "oldZipCode": "43702",
+      "zipCode": "4370216",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "シュウチグンモリマチ",
+      "townKana": "アメノミヤ",
+      "prefecture": "静岡県",
+      "city": "周智郡森町",
+      "town": "天宮",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

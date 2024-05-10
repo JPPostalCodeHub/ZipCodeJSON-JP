@@ -1,17 +1,21 @@
 {
-  "jisCode": "13215",
-  "oldZipCode": "186  ",
-  "zipCode": "1860011",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "クニタチシ",
-  "townKana": "ヤホ",
-  "prefecture": "東京都",
-  "city": "国立市",
-  "town": "谷保",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13215",
+      "oldZipCode": "186  ",
+      "zipCode": "1860011",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "クニタチシ",
+      "townKana": "ヤホ",
+      "prefecture": "東京都",
+      "city": "国立市",
+      "town": "谷保",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

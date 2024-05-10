@@ -1,17 +1,21 @@
 {
-  "jisCode": "26104",
-  "oldZipCode": "604  ",
-  "zipCode": "6048006",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシナカギョウク",
-  "townKana": "シモマルヤチョウ",
-  "prefecture": "京都府",
-  "city": "京都市中京区",
-  "town": "下丸屋町（御池通河原町東入、河原町通御池下る、河原町通姉小路上る、御池通木屋町西入、木屋町通御池下る、木屋町通姉小路上る）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26104",
+      "oldZipCode": "604  ",
+      "zipCode": "6048006",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシナカギョウク",
+      "townKana": "シモマルヤチョウ",
+      "prefecture": "京都府",
+      "city": "京都市中京区",
+      "town": "下丸屋町（御池通河原町東入、河原町通御池下る、河原町通姉小路上る、御池通木屋町西入、木屋町通御池下る、木屋町通姉小路上る）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

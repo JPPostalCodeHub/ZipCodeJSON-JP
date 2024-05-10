@@ -1,17 +1,21 @@
 {
-  "jisCode": "01564",
-  "oldZipCode": "09932",
-  "zipCode": "0993234",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "アバシリグンオオゾラチョウ",
-  "townKana": "ヒガシモコトフクトミ",
-  "prefecture": "北海道",
-  "city": "網走郡大空町",
-  "town": "東藻琴福富",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01564",
+      "oldZipCode": "09932",
+      "zipCode": "0993234",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "アバシリグンオオゾラチョウ",
+      "townKana": "ヒガシモコトフクトミ",
+      "prefecture": "北海道",
+      "city": "網走郡大空町",
+      "town": "東藻琴福富",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

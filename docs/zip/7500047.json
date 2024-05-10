@@ -1,17 +1,21 @@
 {
-  "jisCode": "35201",
-  "oldZipCode": "750  ",
-  "zipCode": "7500047",
-  "prefectureKana": "ヤマグチケン",
-  "cityKana": "シモノセキシ",
-  "townKana": "ムカイヤマチョウ",
-  "prefecture": "山口県",
-  "city": "下関市",
-  "town": "向山町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "35201",
+      "oldZipCode": "750  ",
+      "zipCode": "7500047",
+      "prefectureKana": "ヤマグチケン",
+      "cityKana": "シモノセキシ",
+      "townKana": "ムカイヤマチョウ",
+      "prefecture": "山口県",
+      "city": "下関市",
+      "town": "向山町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "38506",
-  "oldZipCode": "79843",
-  "zipCode": "7984343",
-  "prefectureKana": "エヒメケン",
-  "cityKana": "ミナミウワグンアイナンチョウ",
-  "townKana": "カキウチ",
-  "prefecture": "愛媛県",
-  "city": "南宇和郡愛南町",
-  "town": "垣内",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "38506",
+      "oldZipCode": "79843",
+      "zipCode": "7984343",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "ミナミウワグンアイナンチョウ",
+      "townKana": "カキウチ",
+      "prefecture": "愛媛県",
+      "city": "南宇和郡愛南町",
+      "town": "垣内",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

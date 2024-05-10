@@ -1,17 +1,21 @@
 {
-  "jisCode": "01371",
-  "oldZipCode": "04304",
-  "zipCode": "0430421",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "クドウグンセタナチョウ",
-  "townKana": "タイセイクナガイソ",
-  "prefecture": "北海道",
-  "city": "久遠郡せたな町",
-  "town": "大成区長磯",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01371",
+      "oldZipCode": "04304",
+      "zipCode": "0430421",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "クドウグンセタナチョウ",
+      "townKana": "タイセイクナガイソ",
+      "prefecture": "北海道",
+      "city": "久遠郡せたな町",
+      "town": "大成区長磯",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

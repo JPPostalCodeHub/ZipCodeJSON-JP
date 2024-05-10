@@ -1,17 +1,21 @@
 {
-  "jisCode": "28222",
-  "oldZipCode": "66711",
-  "zipCode": "6671113",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "ヤブシ",
-  "townKana": "カワラバ",
-  "prefecture": "兵庫県",
-  "city": "養父市",
-  "town": "川原場",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28222",
+      "oldZipCode": "66711",
+      "zipCode": "6671113",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "ヤブシ",
+      "townKana": "カワラバ",
+      "prefecture": "兵庫県",
+      "city": "養父市",
+      "town": "川原場",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "38213",
-  "oldZipCode": "79907",
-  "zipCode": "7990721",
-  "prefectureKana": "エヒメケン",
-  "cityKana": "シコクチュウオウシ",
-  "townKana": "ドイチョウウエノ",
-  "prefecture": "愛媛県",
-  "city": "四国中央市",
-  "town": "土居町上野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "38213",
+      "oldZipCode": "79907",
+      "zipCode": "7990721",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "シコクチュウオウシ",
+      "townKana": "ドイチョウウエノ",
+      "prefecture": "愛媛県",
+      "city": "四国中央市",
+      "town": "土居町上野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

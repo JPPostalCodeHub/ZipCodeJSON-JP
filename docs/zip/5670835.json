@@ -1,17 +1,21 @@
 {
-  "jisCode": "27211",
-  "oldZipCode": "567  ",
-  "zipCode": "5670835",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "イバラキシ",
-  "townKana": "シンドウ",
-  "prefecture": "大阪府",
-  "city": "茨木市",
-  "town": "新堂",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27211",
+      "oldZipCode": "567  ",
+      "zipCode": "5670835",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "イバラキシ",
+      "townKana": "シンドウ",
+      "prefecture": "大阪府",
+      "city": "茨木市",
+      "town": "新堂",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

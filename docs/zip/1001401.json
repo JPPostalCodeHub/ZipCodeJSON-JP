@@ -1,17 +1,21 @@
 {
-  "jisCode": "13401",
-  "oldZipCode": "10014",
-  "zipCode": "1001401",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "ハチジョウジマハチジョウマチ",
-  "townKana": "オオカゴウ",
-  "prefecture": "東京都",
-  "city": "八丈島八丈町",
-  "town": "大賀郷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13401",
+      "oldZipCode": "10014",
+      "zipCode": "1001401",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "ハチジョウジマハチジョウマチ",
+      "townKana": "オオカゴウ",
+      "prefecture": "東京都",
+      "city": "八丈島八丈町",
+      "town": "大賀郷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

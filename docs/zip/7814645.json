@@ -1,17 +1,21 @@
 {
-  "jisCode": "39212",
-  "oldZipCode": "78146",
-  "zipCode": "7814645",
-  "prefectureKana": "コウチケン",
-  "cityKana": "カミシ",
-  "townKana": "モノベチョウヤマサキ（クワノカワ）",
-  "prefecture": "高知県",
-  "city": "香美市",
-  "town": "物部町山崎（桑ノ川）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "39212",
+      "oldZipCode": "78146",
+      "zipCode": "7814645",
+      "prefectureKana": "コウチケン",
+      "cityKana": "カミシ",
+      "townKana": "モノベチョウヤマサキ（クワノカワ）",
+      "prefecture": "高知県",
+      "city": "香美市",
+      "town": "物部町山崎（桑ノ川）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

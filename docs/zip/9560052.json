@@ -1,17 +1,21 @@
 {
-  "jisCode": "15105",
-  "oldZipCode": "956  ",
-  "zipCode": "9560052",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ニイガタシアキハク",
-  "townKana": "ミツヤ",
-  "prefecture": "新潟県",
-  "city": "新潟市秋葉区",
-  "town": "三津屋",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15105",
+      "oldZipCode": "956  ",
+      "zipCode": "9560052",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ニイガタシアキハク",
+      "townKana": "ミツヤ",
+      "prefecture": "新潟県",
+      "city": "新潟市秋葉区",
+      "town": "三津屋",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

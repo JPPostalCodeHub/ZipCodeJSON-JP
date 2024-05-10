@@ -1,17 +1,21 @@
 {
-  "jisCode": "21382",
-  "oldZipCode": "50302",
-  "zipCode": "5030214",
-  "prefectureKana": "ギフケン",
-  "cityKana": "アンパチグンワノウチチョウ",
-  "townKana": "ミルシンデン",
-  "prefecture": "岐阜県",
-  "city": "安八郡輪之内町",
-  "town": "海松新田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "21382",
+      "oldZipCode": "50302",
+      "zipCode": "5030214",
+      "prefectureKana": "ギフケン",
+      "cityKana": "アンパチグンワノウチチョウ",
+      "townKana": "ミルシンデン",
+      "prefecture": "岐阜県",
+      "city": "安八郡輪之内町",
+      "town": "海松新田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

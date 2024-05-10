@@ -1,17 +1,21 @@
 {
-  "jisCode": "34104",
-  "oldZipCode": "733  ",
-  "zipCode": "7330816",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "ヒロシマシニシク",
-  "townKana": "コイオオサコ",
-  "prefecture": "広島県",
-  "city": "広島市西区",
-  "town": "己斐大迫",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34104",
+      "oldZipCode": "733  ",
+      "zipCode": "7330816",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ヒロシマシニシク",
+      "townKana": "コイオオサコ",
+      "prefecture": "広島県",
+      "city": "広島市西区",
+      "town": "己斐大迫",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

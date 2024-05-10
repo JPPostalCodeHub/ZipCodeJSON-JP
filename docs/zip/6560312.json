@@ -1,17 +1,21 @@
 {
-  "jisCode": "28224",
-  "oldZipCode": "65603",
-  "zipCode": "6560312",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "ミナミアワジシ",
-  "townKana": "マツホワキダ",
-  "prefecture": "兵庫県",
-  "city": "南あわじ市",
-  "town": "松帆脇田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28224",
+      "oldZipCode": "65603",
+      "zipCode": "6560312",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "ミナミアワジシ",
+      "townKana": "マツホワキダ",
+      "prefecture": "兵庫県",
+      "city": "南あわじ市",
+      "town": "松帆脇田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

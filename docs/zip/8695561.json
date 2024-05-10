@@ -1,17 +1,21 @@
 {
-  "jisCode": "43482",
-  "oldZipCode": "86955",
-  "zipCode": "8695561",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "アシキタグンアシキタマチ",
-  "townKana": "アシキタ（キタダ、ナカワリ、ニシワリ、マツザキ）",
-  "prefecture": "熊本県",
-  "city": "葦北郡芦北町",
-  "town": "芦北（北田、中割、西割、松崎）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43482",
+      "oldZipCode": "86955",
+      "zipCode": "8695561",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "アシキタグンアシキタマチ",
+      "townKana": "アシキタ（キタダ、ナカワリ、ニシワリ、マツザキ）",
+      "prefecture": "熊本県",
+      "city": "葦北郡芦北町",
+      "town": "芦北（北田、中割、西割、松崎）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "05463",
-  "oldZipCode": "01211",
-  "zipCode": "0121116",
-  "prefectureKana": "アキタケン",
-  "cityKana": "オガチグンウゴマチ",
-  "townKana": "タコウダ",
-  "prefecture": "秋田県",
-  "city": "雄勝郡羽後町",
-  "town": "高尾田",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05463",
+      "oldZipCode": "01211",
+      "zipCode": "0121116",
+      "prefectureKana": "アキタケン",
+      "cityKana": "オガチグンウゴマチ",
+      "townKana": "タコウダ",
+      "prefecture": "秋田県",
+      "city": "雄勝郡羽後町",
+      "town": "高尾田",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

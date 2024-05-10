@@ -1,17 +1,21 @@
 {
-  "jisCode": "03211",
-  "oldZipCode": "026  ",
-  "zipCode": "0260042",
-  "prefectureKana": "イワテケン",
-  "cityKana": "カマイシシ",
-  "townKana": "ゲンタサワチョウ",
-  "prefecture": "岩手県",
-  "city": "釜石市",
-  "town": "源太沢町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "03211",
+      "oldZipCode": "026  ",
+      "zipCode": "0260042",
+      "prefectureKana": "イワテケン",
+      "cityKana": "カマイシシ",
+      "townKana": "ゲンタサワチョウ",
+      "prefecture": "岩手県",
+      "city": "釜石市",
+      "town": "源太沢町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

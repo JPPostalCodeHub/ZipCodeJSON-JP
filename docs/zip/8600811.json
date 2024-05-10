@@ -1,17 +1,21 @@
 {
-  "jisCode": "43101",
-  "oldZipCode": "860  ",
-  "zipCode": "8600811",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "クマモトシチュウオウク",
-  "townKana": "ホンジョウ",
-  "prefecture": "熊本県",
-  "city": "熊本市中央区",
-  "town": "本荘",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43101",
+      "oldZipCode": "860  ",
+      "zipCode": "8600811",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "クマモトシチュウオウク",
+      "townKana": "ホンジョウ",
+      "prefecture": "熊本県",
+      "city": "熊本市中央区",
+      "town": "本荘",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

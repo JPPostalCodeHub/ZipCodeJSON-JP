@@ -1,17 +1,21 @@
 {
-  "jisCode": "18207",
-  "oldZipCode": "91611",
-  "zipCode": "9161101",
-  "prefectureKana": "フクイケン",
-  "cityKana": "サバエシ",
-  "townKana": "ダイショウジチョウ",
-  "prefecture": "福井県",
-  "city": "鯖江市",
-  "town": "大正寺町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18207",
+      "oldZipCode": "91611",
+      "zipCode": "9161101",
+      "prefectureKana": "フクイケン",
+      "cityKana": "サバエシ",
+      "townKana": "ダイショウジチョウ",
+      "prefecture": "福井県",
+      "city": "鯖江市",
+      "town": "大正寺町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

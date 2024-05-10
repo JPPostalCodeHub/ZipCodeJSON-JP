@@ -1,17 +1,21 @@
 {
-  "jisCode": "38201",
-  "oldZipCode": "791  ",
-  "zipCode": "7918063",
-  "prefectureKana": "エヒメケン",
-  "cityKana": "マツヤマシ",
-  "townKana": "カンダマチ",
-  "prefecture": "愛媛県",
-  "city": "松山市",
-  "town": "神田町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "38201",
+      "oldZipCode": "791  ",
+      "zipCode": "7918063",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "マツヤマシ",
+      "townKana": "カンダマチ",
+      "prefecture": "愛媛県",
+      "city": "松山市",
+      "town": "神田町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

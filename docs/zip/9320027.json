@@ -1,17 +1,21 @@
 {
-  "jisCode": "16209",
-  "oldZipCode": "932  ",
-  "zipCode": "9320027",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "オヤベシ",
-  "townKana": "ホウラクジ",
-  "prefecture": "富山県",
-  "city": "小矢部市",
-  "town": "法楽寺",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16209",
+      "oldZipCode": "932  ",
+      "zipCode": "9320027",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "オヤベシ",
+      "townKana": "ホウラクジ",
+      "prefecture": "富山県",
+      "city": "小矢部市",
+      "town": "法楽寺",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

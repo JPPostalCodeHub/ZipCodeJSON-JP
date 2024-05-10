@@ -1,17 +1,21 @@
 {
-  "jisCode": "45206",
-  "oldZipCode": "883  ",
-  "zipCode": "8830044",
-  "prefectureKana": "ミヤザキケン",
-  "cityKana": "ヒュウガシ",
-  "townKana": "ウエマチ",
-  "prefecture": "宮崎県",
-  "city": "日向市",
-  "town": "上町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "45206",
+      "oldZipCode": "883  ",
+      "zipCode": "8830044",
+      "prefectureKana": "ミヤザキケン",
+      "cityKana": "ヒュウガシ",
+      "townKana": "ウエマチ",
+      "prefecture": "宮崎県",
+      "city": "日向市",
+      "town": "上町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

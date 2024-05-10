@@ -1,17 +1,21 @@
 {
-  "jisCode": "18208",
-  "oldZipCode": "91041",
-  "zipCode": "9104104",
-  "prefectureKana": "フクイケン",
-  "cityKana": "アワラシ",
-  "townKana": "オンセン",
-  "prefecture": "福井県",
-  "city": "あわら市",
-  "town": "温泉",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18208",
+      "oldZipCode": "91041",
+      "zipCode": "9104104",
+      "prefectureKana": "フクイケン",
+      "cityKana": "アワラシ",
+      "townKana": "オンセン",
+      "prefecture": "福井県",
+      "city": "あわら市",
+      "town": "温泉",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

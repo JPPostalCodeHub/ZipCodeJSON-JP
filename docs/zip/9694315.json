@@ -1,17 +1,21 @@
 {
-  "jisCode": "07208",
-  "oldZipCode": "96943",
-  "zipCode": "9694315",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "キタカタシ",
-  "townKana": "タカサトマチナツイ",
-  "prefecture": "福島県",
-  "city": "喜多方市",
-  "town": "高郷町夏井",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07208",
+      "oldZipCode": "96943",
+      "zipCode": "9694315",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "キタカタシ",
+      "townKana": "タカサトマチナツイ",
+      "prefecture": "福島県",
+      "city": "喜多方市",
+      "town": "高郷町夏井",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

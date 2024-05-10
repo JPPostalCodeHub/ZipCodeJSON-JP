@@ -1,17 +1,21 @@
 {
-  "jisCode": "26106",
-  "oldZipCode": "600  ",
-  "zipCode": "6008036",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシシモギョウク",
-  "townKana": "チャマヤチョウ（タカツジドオリゴコウマチヒガシイル、タカツジドオリテラマチニシイル）",
-  "prefecture": "京都府",
-  "city": "京都市下京区",
-  "town": "茶磨屋町（高辻通御幸町東入、高辻通寺町西入）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26106",
+      "oldZipCode": "600  ",
+      "zipCode": "6008036",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシシモギョウク",
+      "townKana": "チャマヤチョウ（タカツジドオリゴコウマチヒガシイル、タカツジドオリテラマチニシイル）",
+      "prefecture": "京都府",
+      "city": "京都市下京区",
+      "town": "茶磨屋町（高辻通御幸町東入、高辻通寺町西入）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

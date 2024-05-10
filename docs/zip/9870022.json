@@ -1,17 +1,21 @@
 {
-  "jisCode": "04505",
-  "oldZipCode": "987  ",
-  "zipCode": "9870022",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "トオダグンミサトマチ",
-  "townKana": "オギゾネ",
-  "prefecture": "宮城県",
-  "city": "遠田郡美里町",
-  "town": "荻埣",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04505",
+      "oldZipCode": "987  ",
+      "zipCode": "9870022",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "トオダグンミサトマチ",
+      "townKana": "オギゾネ",
+      "prefecture": "宮城県",
+      "city": "遠田郡美里町",
+      "town": "荻埣",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

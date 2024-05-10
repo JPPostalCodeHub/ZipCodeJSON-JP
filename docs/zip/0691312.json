@@ -1,17 +1,21 @@
 {
-  "jisCode": "01428",
-  "oldZipCode": "06913",
-  "zipCode": "0691312",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ユウバリグンナガヌマチョウ",
-  "townKana": "１２ク",
-  "prefecture": "北海道",
-  "city": "夕張郡長沼町",
-  "town": "１２区",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01428",
+      "oldZipCode": "06913",
+      "zipCode": "0691312",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ユウバリグンナガヌマチョウ",
+      "townKana": "１２ク",
+      "prefecture": "北海道",
+      "city": "夕張郡長沼町",
+      "town": "１２区",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

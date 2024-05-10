@@ -1,17 +1,21 @@
 {
-  "jisCode": "26109",
-  "oldZipCode": "60113",
-  "zipCode": "6011302",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシフシミク",
-  "townKana": "ダイゴウチガイド",
-  "prefecture": "京都府",
-  "city": "京都市伏見区",
-  "town": "醍醐内ケ井戸",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26109",
+      "oldZipCode": "60113",
+      "zipCode": "6011302",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシフシミク",
+      "townKana": "ダイゴウチガイド",
+      "prefecture": "京都府",
+      "city": "京都市伏見区",
+      "town": "醍醐内ケ井戸",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

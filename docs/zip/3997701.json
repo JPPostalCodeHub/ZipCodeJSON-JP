@@ -1,17 +1,21 @@
 {
-  "jisCode": "20446",
-  "oldZipCode": "39977",
-  "zipCode": "3997701",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "ヒガシチクマグンオミムラ",
-  "townKana": "オ",
-  "prefecture": "長野県",
-  "city": "東筑摩郡麻績村",
-  "town": "麻",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20446",
+      "oldZipCode": "39977",
+      "zipCode": "3997701",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "ヒガシチクマグンオミムラ",
+      "townKana": "オ",
+      "prefecture": "長野県",
+      "city": "東筑摩郡麻績村",
+      "town": "麻",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

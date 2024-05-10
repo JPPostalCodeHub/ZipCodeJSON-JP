@@ -1,17 +1,38 @@
 {
-  "jisCode": "18209",
-  "oldZipCode": "91502",
-  "zipCode": "9150223",
-  "prefectureKana": "フクイケン",
-  "cityKana": "エチゼンシ",
-  "townKana": "チョウゴチョウ",
-  "prefecture": "福井県",
-  "city": "越前市",
-  "town": "長五町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18209",
+      "oldZipCode": "91502",
+      "zipCode": "9150223",
+      "prefectureKana": "フクイケン",
+      "cityKana": "エチゼンシ",
+      "townKana": "シマチョウ",
+      "prefecture": "福井県",
+      "city": "越前市",
+      "town": "島町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "18209",
+      "oldZipCode": "91502",
+      "zipCode": "9150223",
+      "prefectureKana": "フクイケン",
+      "cityKana": "エチゼンシ",
+      "townKana": "チョウゴチョウ",
+      "prefecture": "福井県",
+      "city": "越前市",
+      "town": "長五町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

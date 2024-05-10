@@ -1,17 +1,21 @@
 {
-  "jisCode": "12342",
-  "oldZipCode": "28902",
-  "zipCode": "2890225",
-  "prefectureKana": "チバケン",
-  "cityKana": "カトリグンコウザキマチ",
-  "townKana": "ジュウサンマド",
-  "prefecture": "千葉県",
-  "city": "香取郡神崎町",
-  "town": "十三間戸",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12342",
+      "oldZipCode": "28902",
+      "zipCode": "2890225",
+      "prefectureKana": "チバケン",
+      "cityKana": "カトリグンコウザキマチ",
+      "townKana": "ジュウサンマド",
+      "prefecture": "千葉県",
+      "city": "香取郡神崎町",
+      "town": "十三間戸",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

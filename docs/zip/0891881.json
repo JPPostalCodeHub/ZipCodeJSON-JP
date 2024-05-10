@@ -1,17 +1,21 @@
 {
-  "jisCode": "01641",
-  "oldZipCode": "08918",
-  "zipCode": "0891881",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ヒロオグンタイキチョウ",
-  "townKana": "セイカ",
-  "prefecture": "北海道",
-  "city": "広尾郡大樹町",
-  "town": "生花",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01641",
+      "oldZipCode": "08918",
+      "zipCode": "0891881",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ヒロオグンタイキチョウ",
+      "townKana": "セイカ",
+      "prefecture": "北海道",
+      "city": "広尾郡大樹町",
+      "town": "生花",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

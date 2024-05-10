@@ -1,17 +1,21 @@
 {
-  "jisCode": "01484",
-  "oldZipCode": "07841",
-  "zipCode": "0784140",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "トママエグンハボロチョウ",
-  "townKana": "シオミ",
-  "prefecture": "北海道",
-  "city": "苫前郡羽幌町",
-  "town": "汐見",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01484",
+      "oldZipCode": "07841",
+      "zipCode": "0784140",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "トママエグンハボロチョウ",
+      "townKana": "シオミ",
+      "prefecture": "北海道",
+      "city": "苫前郡羽幌町",
+      "town": "汐見",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

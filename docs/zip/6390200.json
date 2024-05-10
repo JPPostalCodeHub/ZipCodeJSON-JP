@@ -1,17 +1,38 @@
 {
-  "jisCode": "29424",
-  "oldZipCode": "63902",
-  "zipCode": "6390200",
-  "prefectureKana": "ナラケン",
-  "cityKana": "キタカツラギグンカンマキチョウ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "奈良県",
-  "city": "北葛城郡上牧町",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "29210",
+      "oldZipCode": "63902",
+      "zipCode": "6390200",
+      "prefectureKana": "ナラケン",
+      "cityKana": "カシバシ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "奈良県",
+      "city": "香芝市",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "29424",
+      "oldZipCode": "63902",
+      "zipCode": "6390200",
+      "prefectureKana": "ナラケン",
+      "cityKana": "キタカツラギグンカンマキチョウ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "奈良県",
+      "city": "北葛城郡上牧町",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

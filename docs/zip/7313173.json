@@ -1,17 +1,21 @@
 {
-  "jisCode": "34105",
-  "oldZipCode": "73131",
-  "zipCode": "7313173",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "ヒロシマシアサミナミク",
-  "townKana": "オオヅカヒガシマチ",
-  "prefecture": "広島県",
-  "city": "広島市安佐南区",
-  "town": "大塚東町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34105",
+      "oldZipCode": "73131",
+      "zipCode": "7313173",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ヒロシマシアサミナミク",
+      "townKana": "オオヅカヒガシマチ",
+      "prefecture": "広島県",
+      "city": "広島市安佐南区",
+      "town": "大塚東町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

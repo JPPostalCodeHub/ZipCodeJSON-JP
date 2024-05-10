@@ -1,17 +1,21 @@
 {
-  "jisCode": "47213",
-  "oldZipCode": "90422",
-  "zipCode": "9042212",
-  "prefectureKana": "オキナワケン",
-  "cityKana": "ウルマシ",
-  "townKana": "アカノ",
-  "prefecture": "沖縄県",
-  "city": "うるま市",
-  "town": "赤野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "47213",
+      "oldZipCode": "90422",
+      "zipCode": "9042212",
+      "prefectureKana": "オキナワケン",
+      "cityKana": "ウルマシ",
+      "townKana": "アカノ",
+      "prefecture": "沖縄県",
+      "city": "うるま市",
+      "town": "赤野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

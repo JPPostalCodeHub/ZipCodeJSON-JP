@@ -1,17 +1,21 @@
 {
-  "jisCode": "04323",
-  "oldZipCode": "98917",
-  "zipCode": "9891757",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "シバタグンシバタマチ",
-  "townKana": "ツキノキヒガシ",
-  "prefecture": "宮城県",
-  "city": "柴田郡柴田町",
-  "town": "槻木東",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04323",
+      "oldZipCode": "98917",
+      "zipCode": "9891757",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "シバタグンシバタマチ",
+      "townKana": "ツキノキヒガシ",
+      "prefecture": "宮城県",
+      "city": "柴田郡柴田町",
+      "town": "槻木東",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

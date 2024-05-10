@@ -1,17 +1,21 @@
 {
-  "jisCode": "09202",
-  "oldZipCode": "32603",
-  "zipCode": "3260332",
-  "prefectureKana": "トチギケン",
-  "cityKana": "アシカガシ",
-  "townKana": "フクトミシンチョウ",
-  "prefecture": "栃木県",
-  "city": "足利市",
-  "town": "福富新町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "09202",
+      "oldZipCode": "32603",
+      "zipCode": "3260332",
+      "prefectureKana": "トチギケン",
+      "cityKana": "アシカガシ",
+      "townKana": "フクトミシンチョウ",
+      "prefecture": "栃木県",
+      "city": "足利市",
+      "town": "福富新町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

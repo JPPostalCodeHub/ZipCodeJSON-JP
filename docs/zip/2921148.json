@@ -1,17 +1,21 @@
 {
-  "jisCode": "12225",
-  "oldZipCode": "29211",
-  "zipCode": "2921148",
-  "prefectureKana": "チバケン",
-  "cityKana": "キミツシ",
-  "townKana": "ギョウマ",
-  "prefecture": "千葉県",
-  "city": "君津市",
-  "town": "行馬",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12225",
+      "oldZipCode": "29211",
+      "zipCode": "2921148",
+      "prefectureKana": "チバケン",
+      "cityKana": "キミツシ",
+      "townKana": "ギョウマ",
+      "prefecture": "千葉県",
+      "city": "君津市",
+      "town": "行馬",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

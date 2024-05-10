@@ -1,17 +1,21 @@
 {
-  "jisCode": "01402",
-  "oldZipCode": "045  ",
-  "zipCode": "0450013",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "イワナイグンイワナイチョウ",
-  "townKana": "タカダイ",
-  "prefecture": "北海道",
-  "city": "岩内郡岩内町",
-  "town": "高台",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01402",
+      "oldZipCode": "045  ",
+      "zipCode": "0450013",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "イワナイグンイワナイチョウ",
+      "townKana": "タカダイ",
+      "prefecture": "北海道",
+      "city": "岩内郡岩内町",
+      "town": "高台",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "28205",
-  "oldZipCode": "65613",
-  "zipCode": "6561325",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "スモトシ",
-  "townKana": "ゴシキチョウアイハラミナミダニ",
-  "prefecture": "兵庫県",
-  "city": "洲本市",
-  "town": "五色町鮎原南谷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28205",
+      "oldZipCode": "65613",
+      "zipCode": "6561325",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "スモトシ",
+      "townKana": "ゴシキチョウアイハラミナミダニ",
+      "prefecture": "兵庫県",
+      "city": "洲本市",
+      "town": "五色町鮎原南谷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

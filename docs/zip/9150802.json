@@ -1,17 +1,38 @@
 {
-  "jisCode": "18209",
-  "oldZipCode": "915  ",
-  "zipCode": "9150802",
-  "prefectureKana": "フクイケン",
-  "cityKana": "エチゼンシ",
-  "townKana": "キタゴホンマチ",
-  "prefecture": "福井県",
-  "city": "越前市",
-  "town": "北府本町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18209",
+      "oldZipCode": "915  ",
+      "zipCode": "9150802",
+      "prefectureKana": "フクイケン",
+      "cityKana": "エチゼンシ",
+      "townKana": "キタゴ",
+      "prefecture": "福井県",
+      "city": "越前市",
+      "town": "北府",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "18209",
+      "oldZipCode": "915  ",
+      "zipCode": "9150802",
+      "prefectureKana": "フクイケン",
+      "cityKana": "エチゼンシ",
+      "townKana": "キタゴホンマチ",
+      "prefecture": "福井県",
+      "city": "越前市",
+      "town": "北府本町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

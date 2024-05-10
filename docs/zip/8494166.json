@@ -1,17 +1,21 @@
 {
-  "jisCode": "41401",
-  "oldZipCode": "84941",
-  "zipCode": "8494166",
-  "prefectureKana": "サガケン",
-  "cityKana": "ニシマツウラグンアリタチョウ",
-  "townKana": "キタノカワチ",
-  "prefecture": "佐賀県",
-  "city": "西松浦郡有田町",
-  "town": "北ノ川内",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "41401",
+      "oldZipCode": "84941",
+      "zipCode": "8494166",
+      "prefectureKana": "サガケン",
+      "cityKana": "ニシマツウラグンアリタチョウ",
+      "townKana": "キタノカワチ",
+      "prefecture": "佐賀県",
+      "city": "西松浦郡有田町",
+      "town": "北ノ川内",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

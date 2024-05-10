@@ -1,17 +1,21 @@
 {
-  "jisCode": "20214",
-  "oldZipCode": "391  ",
-  "zipCode": "3910004",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "チノシ",
-  "townKana": "ジョウヤマ",
-  "prefecture": "長野県",
-  "city": "茅野市",
-  "town": "城山",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20214",
+      "oldZipCode": "391  ",
+      "zipCode": "3910004",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "チノシ",
+      "townKana": "ジョウヤマ",
+      "prefecture": "長野県",
+      "city": "茅野市",
+      "town": "城山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

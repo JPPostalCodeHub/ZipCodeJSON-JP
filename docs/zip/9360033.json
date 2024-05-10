@@ -1,17 +1,21 @@
 {
-  "jisCode": "16206",
-  "oldZipCode": "936  ",
-  "zipCode": "9360033",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "ナメリカワシ",
-  "townKana": "アヅマチョウ",
-  "prefecture": "富山県",
-  "city": "滑川市",
-  "town": "吾妻町",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16206",
+      "oldZipCode": "936  ",
+      "zipCode": "9360033",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "ナメリカワシ",
+      "townKana": "アヅマチョウ",
+      "prefecture": "富山県",
+      "city": "滑川市",
+      "town": "吾妻町",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "11201",
-  "oldZipCode": "350  ",
-  "zipCode": "3500018",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "カワゴエシ",
-  "townKana": "フジキチョウ",
-  "prefecture": "埼玉県",
-  "city": "川越市",
-  "town": "藤木町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11201",
+      "oldZipCode": "350  ",
+      "zipCode": "3500018",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "カワゴエシ",
+      "townKana": "フジキチョウ",
+      "prefecture": "埼玉県",
+      "city": "川越市",
+      "town": "藤木町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

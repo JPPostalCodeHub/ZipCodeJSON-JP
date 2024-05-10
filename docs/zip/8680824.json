@@ -1,17 +1,21 @@
 {
-  "jisCode": "43203",
-  "oldZipCode": "86808",
-  "zipCode": "8680824",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "ヒトヨシシ",
-  "townKana": "アカイケミズナシマチ",
-  "prefecture": "熊本県",
-  "city": "人吉市",
-  "town": "赤池水無町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43203",
+      "oldZipCode": "86808",
+      "zipCode": "8680824",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "ヒトヨシシ",
+      "townKana": "アカイケミズナシマチ",
+      "prefecture": "熊本県",
+      "city": "人吉市",
+      "town": "赤池水無町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

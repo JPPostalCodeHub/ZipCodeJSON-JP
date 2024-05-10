@@ -1,17 +1,21 @@
 {
-  "jisCode": "04101",
-  "oldZipCode": "98934",
-  "zipCode": "9893432",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "センダイシアオバク",
-  "townKana": "クマガネ",
-  "prefecture": "宮城県",
-  "city": "仙台市青葉区",
-  "town": "熊ケ根",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04101",
+      "oldZipCode": "98934",
+      "zipCode": "9893432",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "センダイシアオバク",
+      "townKana": "クマガネ",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "town": "熊ケ根",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

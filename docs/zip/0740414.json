@@ -1,17 +1,21 @@
 {
-  "jisCode": "01472",
-  "oldZipCode": "07404",
-  "zipCode": "0740414",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ウリュウグンホロカナイチョウ",
-  "townKana": "セイゲツ",
-  "prefecture": "北海道",
-  "city": "雨竜郡幌加内町",
-  "town": "清月",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01472",
+      "oldZipCode": "07404",
+      "zipCode": "0740414",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ウリュウグンホロカナイチョウ",
+      "townKana": "セイゲツ",
+      "prefecture": "北海道",
+      "city": "雨竜郡幌加内町",
+      "town": "清月",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "20486",
-  "oldZipCode": "39994",
-  "zipCode": "3999421",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "キタアヅミグンオタリムラ",
-  "townKana": "ナカオタリ",
-  "prefecture": "長野県",
-  "city": "北安曇郡小谷村",
-  "town": "中小谷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20486",
+      "oldZipCode": "39994",
+      "zipCode": "3999421",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "キタアヅミグンオタリムラ",
+      "townKana": "ナカオタリ",
+      "prefecture": "長野県",
+      "city": "北安曇郡小谷村",
+      "town": "中小谷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

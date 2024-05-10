@@ -1,17 +1,21 @@
 {
-  "jisCode": "09205",
-  "oldZipCode": "322  ",
-  "zipCode": "3220078",
-  "prefectureKana": "トチギケン",
-  "cityKana": "カヌマシ",
-  "townKana": "ササハラダ",
-  "prefecture": "栃木県",
-  "city": "鹿沼市",
-  "town": "笹原田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "09205",
+      "oldZipCode": "322  ",
+      "zipCode": "3220078",
+      "prefectureKana": "トチギケン",
+      "cityKana": "カヌマシ",
+      "townKana": "ササハラダ",
+      "prefecture": "栃木県",
+      "city": "鹿沼市",
+      "town": "笹原田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

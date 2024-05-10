@@ -1,17 +1,21 @@
 {
-  "jisCode": "38213",
-  "oldZipCode": "79904",
-  "zipCode": "7990434",
-  "prefectureKana": "エヒメケン",
-  "cityKana": "シコクチュウオウシ",
-  "townKana": "トヨオカチョウイラノ",
-  "prefecture": "愛媛県",
-  "city": "四国中央市",
-  "town": "豊岡町五良野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "38213",
+      "oldZipCode": "79904",
+      "zipCode": "7990434",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "シコクチュウオウシ",
+      "townKana": "トヨオカチョウイラノ",
+      "prefecture": "愛媛県",
+      "city": "四国中央市",
+      "town": "豊岡町五良野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

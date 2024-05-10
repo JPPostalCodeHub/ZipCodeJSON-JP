@@ -1,17 +1,21 @@
 {
-  "jisCode": "30401",
-  "oldZipCode": "64603",
-  "zipCode": "6460312",
-  "prefectureKana": "ワカヤマケン",
-  "cityKana": "ニシムログンシラハマチョウ",
-  "townKana": "オオ",
-  "prefecture": "和歌山県",
-  "city": "西牟婁郡白浜町",
-  "town": "大",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "30401",
+      "oldZipCode": "64603",
+      "zipCode": "6460312",
+      "prefectureKana": "ワカヤマケン",
+      "cityKana": "ニシムログンシラハマチョウ",
+      "townKana": "オオ",
+      "prefecture": "和歌山県",
+      "city": "西牟婁郡白浜町",
+      "town": "大",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

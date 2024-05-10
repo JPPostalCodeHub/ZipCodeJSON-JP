@@ -1,17 +1,21 @@
 {
-  "jisCode": "29452",
-  "oldZipCode": "63935",
-  "zipCode": "6393500",
-  "prefectureKana": "ナラケン",
-  "cityKana": "ヨシノグンカワカミムラ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "奈良県",
-  "city": "吉野郡川上村",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "29452",
+      "oldZipCode": "63935",
+      "zipCode": "6393500",
+      "prefectureKana": "ナラケン",
+      "cityKana": "ヨシノグンカワカミムラ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "奈良県",
+      "city": "吉野郡川上村",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

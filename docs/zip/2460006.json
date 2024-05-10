@@ -1,17 +1,21 @@
 {
-  "jisCode": "14114",
-  "oldZipCode": "246  ",
-  "zipCode": "2460006",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "ヨコハマシセヤク",
-  "townKana": "カミセヤチョウ",
-  "prefecture": "神奈川県",
-  "city": "横浜市瀬谷区",
-  "town": "上瀬谷町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14114",
+      "oldZipCode": "246  ",
+      "zipCode": "2460006",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "ヨコハマシセヤク",
+      "townKana": "カミセヤチョウ",
+      "prefecture": "神奈川県",
+      "city": "横浜市瀬谷区",
+      "town": "上瀬谷町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

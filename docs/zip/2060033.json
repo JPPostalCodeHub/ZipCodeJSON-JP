@@ -1,17 +1,21 @@
 {
-  "jisCode": "13224",
-  "oldZipCode": "206  ",
-  "zipCode": "2060033",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "タマシ",
-  "townKana": "オチアイ",
-  "prefecture": "東京都",
-  "city": "多摩市",
-  "town": "落合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13224",
+      "oldZipCode": "206  ",
+      "zipCode": "2060033",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "タマシ",
+      "townKana": "オチアイ",
+      "prefecture": "東京都",
+      "city": "多摩市",
+      "town": "落合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

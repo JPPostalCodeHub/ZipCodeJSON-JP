@@ -1,17 +1,21 @@
 {
-  "jisCode": "21210",
-  "oldZipCode": "50982",
-  "zipCode": "5098231",
-  "prefectureKana": "ギフケン",
-  "cityKana": "エナシ",
-  "townKana": "ナカノホウチョウ",
-  "prefecture": "岐阜県",
-  "city": "恵那市",
-  "town": "中野方町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "21210",
+      "oldZipCode": "50982",
+      "zipCode": "5098231",
+      "prefectureKana": "ギフケン",
+      "cityKana": "エナシ",
+      "townKana": "ナカノホウチョウ",
+      "prefecture": "岐阜県",
+      "city": "恵那市",
+      "town": "中野方町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

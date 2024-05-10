@@ -1,17 +1,21 @@
 {
-  "jisCode": "20206",
-  "oldZipCode": "392  ",
-  "zipCode": "3920005",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "スワシ",
-  "townKana": "オカムラ",
-  "prefecture": "長野県",
-  "city": "諏訪市",
-  "town": "岡村",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20206",
+      "oldZipCode": "392  ",
+      "zipCode": "3920005",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "スワシ",
+      "townKana": "オカムラ",
+      "prefecture": "長野県",
+      "city": "諏訪市",
+      "town": "岡村",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

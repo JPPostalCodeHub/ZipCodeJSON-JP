@@ -1,17 +1,21 @@
 {
-  "jisCode": "22138",
-  "oldZipCode": "430  ",
-  "zipCode": "4307704",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "ハママツシチュウオウク",
-  "townKana": "イタヤマチハママツアクトタワー（４カイ）",
-  "prefecture": "静岡県",
-  "city": "浜松市中央区",
-  "town": "板屋町浜松アクトタワー（４階）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22138",
+      "oldZipCode": "430  ",
+      "zipCode": "4307704",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "ハママツシチュウオウク",
+      "townKana": "イタヤマチハママツアクトタワー（４カイ）",
+      "prefecture": "静岡県",
+      "city": "浜松市中央区",
+      "town": "板屋町浜松アクトタワー（４階）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

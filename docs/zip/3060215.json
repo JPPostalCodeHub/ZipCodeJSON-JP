@@ -1,17 +1,21 @@
 {
-  "jisCode": "08204",
-  "oldZipCode": "30602",
-  "zipCode": "3060215",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "コガシ",
-  "townKana": "ミズウミ",
-  "prefecture": "茨城県",
-  "city": "古河市",
-  "town": "水海",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08204",
+      "oldZipCode": "30602",
+      "zipCode": "3060215",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "コガシ",
+      "townKana": "ミズウミ",
+      "prefecture": "茨城県",
+      "city": "古河市",
+      "town": "水海",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

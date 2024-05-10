@@ -1,17 +1,21 @@
 {
-  "jisCode": "01204",
-  "oldZipCode": "078  ",
-  "zipCode": "0788201",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "アサヒカワシ",
-  "townKana": "ヒガシアサヒカワチョウヒガシサクラオカ（３０−４９９バンチ）",
-  "prefecture": "北海道",
-  "city": "旭川市",
-  "town": "東旭川町東桜岡（３０〜４９９番地）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01204",
+      "oldZipCode": "078  ",
+      "zipCode": "0788201",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "アサヒカワシ",
+      "townKana": "ヒガシアサヒカワチョウヒガシサクラオカ（３０−４９９バンチ）",
+      "prefecture": "北海道",
+      "city": "旭川市",
+      "town": "東旭川町東桜岡（３０〜４９９番地）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

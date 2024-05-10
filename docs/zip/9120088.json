@@ -1,17 +1,38 @@
 {
-  "jisCode": "18205",
-  "oldZipCode": "912  ",
-  "zipCode": "9120088",
-  "prefectureKana": "フクイケン",
-  "cityKana": "オオノシ",
-  "townKana": "ミズオトシチョウ",
-  "prefecture": "福井県",
-  "city": "大野市",
-  "town": "水落町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18205",
+      "oldZipCode": "912  ",
+      "zipCode": "9120088",
+      "prefectureKana": "フクイケン",
+      "cityKana": "オオノシ",
+      "townKana": "ミズオトシ",
+      "prefecture": "福井県",
+      "city": "大野市",
+      "town": "水落",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "18205",
+      "oldZipCode": "912  ",
+      "zipCode": "9120088",
+      "prefectureKana": "フクイケン",
+      "cityKana": "オオノシ",
+      "townKana": "ミズオトシチョウ",
+      "prefecture": "福井県",
+      "city": "大野市",
+      "town": "水落町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

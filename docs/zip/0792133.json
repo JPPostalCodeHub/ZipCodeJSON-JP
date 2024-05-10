@@ -1,17 +1,21 @@
 {
-  "jisCode": "01229",
-  "oldZipCode": "07602",
-  "zipCode": "0792133",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "フラノシ",
-  "townKana": "ヒガシヤマ（１７１０バンチ）",
-  "prefecture": "北海道",
-  "city": "富良野市",
-  "town": "東山（１７１０番地）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01229",
+      "oldZipCode": "07602",
+      "zipCode": "0792133",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "フラノシ",
+      "townKana": "ヒガシヤマ（１７１０バンチ）",
+      "prefecture": "北海道",
+      "city": "富良野市",
+      "town": "東山（１７１０番地）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

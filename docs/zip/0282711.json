@@ -1,17 +1,21 @@
 {
-  "jisCode": "03201",
-  "oldZipCode": "02827",
-  "zipCode": "0282711",
-  "prefectureKana": "イワテケン",
-  "cityKana": "モリオカシ",
-  "townKana": "ヤブカワ",
-  "prefecture": "岩手県",
-  "city": "盛岡市",
-  "town": "薮川",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "03201",
+      "oldZipCode": "02827",
+      "zipCode": "0282711",
+      "prefectureKana": "イワテケン",
+      "cityKana": "モリオカシ",
+      "townKana": "ヤブカワ",
+      "prefecture": "岩手県",
+      "city": "盛岡市",
+      "town": "薮川",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

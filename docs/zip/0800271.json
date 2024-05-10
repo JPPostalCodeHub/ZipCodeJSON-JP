@@ -1,17 +1,38 @@
 {
-  "jisCode": "01631",
-  "oldZipCode": "08002",
-  "zipCode": "0800271",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "カトウグンオトフケチョウ",
-  "townKana": "オサルシカンセン",
-  "prefecture": "北海道",
-  "city": "河東郡音更町",
-  "town": "長流枝幹線",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01631",
+      "oldZipCode": "08002",
+      "zipCode": "0800271",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "カトウグンオトフケチョウ",
+      "townKana": "オサルシ",
+      "prefecture": "北海道",
+      "city": "河東郡音更町",
+      "town": "長流枝",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "01631",
+      "oldZipCode": "08002",
+      "zipCode": "0800271",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "カトウグンオトフケチョウ",
+      "townKana": "オサルシカンセン",
+      "prefecture": "北海道",
+      "city": "河東郡音更町",
+      "town": "長流枝幹線",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

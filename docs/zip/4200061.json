@@ -1,17 +1,21 @@
 {
-  "jisCode": "22101",
-  "oldZipCode": "420  ",
-  "zipCode": "4200061",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "シズオカシアオイク",
-  "townKana": "シントミチョウ",
-  "prefecture": "静岡県",
-  "city": "静岡市葵区",
-  "town": "新富町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22101",
+      "oldZipCode": "420  ",
+      "zipCode": "4200061",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "シズオカシアオイク",
+      "townKana": "シントミチョウ",
+      "prefecture": "静岡県",
+      "city": "静岡市葵区",
+      "town": "新富町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "27210",
-  "oldZipCode": "573  ",
-  "zipCode": "5731156",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "ヒラカタシ",
-  "townKana": "カタホコヒガシマチ",
-  "prefecture": "大阪府",
-  "city": "枚方市",
-  "town": "片鉾東町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27210",
+      "oldZipCode": "573  ",
+      "zipCode": "5731156",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "ヒラカタシ",
+      "townKana": "カタホコヒガシマチ",
+      "prefecture": "大阪府",
+      "city": "枚方市",
+      "town": "片鉾東町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

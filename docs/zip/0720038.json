@@ -1,17 +1,21 @@
 {
-  "jisCode": "01215",
-  "oldZipCode": "072  ",
-  "zipCode": "0720038",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ビバイシ",
-  "townKana": "ヌマノウチチョウニシ",
-  "prefecture": "北海道",
-  "city": "美唄市",
-  "town": "沼の内町西",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01215",
+      "oldZipCode": "072  ",
+      "zipCode": "0720038",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ビバイシ",
+      "townKana": "ヌマノウチチョウニシ",
+      "prefecture": "北海道",
+      "city": "美唄市",
+      "town": "沼の内町西",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "27143",
-  "oldZipCode": "588  ",
-  "zipCode": "5998115",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "サカイシヒガシク",
-  "townKana": "セキチャヤ",
-  "prefecture": "大阪府",
-  "city": "堺市東区",
-  "town": "関茶屋",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27143",
+      "oldZipCode": "588  ",
+      "zipCode": "5998115",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "サカイシヒガシク",
+      "townKana": "セキチャヤ",
+      "prefecture": "大阪府",
+      "city": "堺市東区",
+      "town": "関茶屋",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

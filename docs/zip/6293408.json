@@ -1,17 +1,21 @@
 {
-  "jisCode": "26212",
-  "oldZipCode": "62934",
-  "zipCode": "6293408",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウタンゴシ",
-  "townKana": "クミハマチョウシンマチ",
-  "prefecture": "京都府",
-  "city": "京丹後市",
-  "town": "久美浜町新町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26212",
+      "oldZipCode": "62934",
+      "zipCode": "6293408",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウタンゴシ",
+      "townKana": "クミハマチョウシンマチ",
+      "prefecture": "京都府",
+      "city": "京丹後市",
+      "town": "久美浜町新町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

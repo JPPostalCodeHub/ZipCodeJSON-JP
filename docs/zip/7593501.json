@@ -1,17 +1,21 @@
 {
-  "jisCode": "35502",
-  "oldZipCode": "75935",
-  "zipCode": "7593501",
-  "prefectureKana": "ヤマグチケン",
-  "cityKana": "アブグンアブチョウ",
-  "townKana": "ウタ",
-  "prefecture": "山口県",
-  "city": "阿武郡阿武町",
-  "town": "宇田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "35502",
+      "oldZipCode": "75935",
+      "zipCode": "7593501",
+      "prefectureKana": "ヤマグチケン",
+      "cityKana": "アブグンアブチョウ",
+      "townKana": "ウタ",
+      "prefecture": "山口県",
+      "city": "阿武郡阿武町",
+      "town": "宇田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

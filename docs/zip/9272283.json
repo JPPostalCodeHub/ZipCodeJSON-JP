@@ -1,17 +1,21 @@
 {
-  "jisCode": "17204",
-  "oldZipCode": "92722",
-  "zipCode": "9272283",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "ワジマシ",
-  "townKana": "モンゼンマチナカヤチ",
-  "prefecture": "石川県",
-  "city": "輪島市",
-  "town": "門前町中谷内",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17204",
+      "oldZipCode": "92722",
+      "zipCode": "9272283",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "ワジマシ",
+      "townKana": "モンゼンマチナカヤチ",
+      "prefecture": "石川県",
+      "city": "輪島市",
+      "town": "門前町中谷内",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

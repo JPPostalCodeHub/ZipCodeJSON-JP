@@ -1,17 +1,21 @@
 {
-  "jisCode": "12237",
-  "oldZipCode": "28915",
-  "zipCode": "2891533",
-  "prefectureKana": "チバケン",
-  "cityKana": "サンムシ",
-  "townKana": "マツオマチヒロネ",
-  "prefecture": "千葉県",
-  "city": "山武市",
-  "town": "松尾町広根",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12237",
+      "oldZipCode": "28915",
+      "zipCode": "2891533",
+      "prefectureKana": "チバケン",
+      "cityKana": "サンムシ",
+      "townKana": "マツオマチヒロネ",
+      "prefecture": "千葉県",
+      "city": "山武市",
+      "town": "松尾町広根",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

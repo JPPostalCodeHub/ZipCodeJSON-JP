@@ -1,17 +1,21 @@
 {
-  "jisCode": "02207",
-  "oldZipCode": "03301",
-  "zipCode": "0330141",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "ミサワシ",
-  "townKana": "ミナトマチ",
-  "prefecture": "青森県",
-  "city": "三沢市",
-  "town": "港町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02207",
+      "oldZipCode": "03301",
+      "zipCode": "0330141",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "ミサワシ",
+      "townKana": "ミナトマチ",
+      "prefecture": "青森県",
+      "city": "三沢市",
+      "town": "港町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

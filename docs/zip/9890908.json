@@ -1,17 +1,21 @@
 {
-  "jisCode": "04324",
-  "oldZipCode": "98909",
-  "zipCode": "9890908",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "シバタグンカワサキマチ",
-  "townKana": "アオネオンセン",
-  "prefecture": "宮城県",
-  "city": "柴田郡川崎町",
-  "town": "青根温泉",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04324",
+      "oldZipCode": "98909",
+      "zipCode": "9890908",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "シバタグンカワサキマチ",
+      "townKana": "アオネオンセン",
+      "prefecture": "宮城県",
+      "city": "柴田郡川崎町",
+      "town": "青根温泉",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

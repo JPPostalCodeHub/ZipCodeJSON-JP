@@ -1,17 +1,21 @@
 {
-  "jisCode": "32204",
-  "oldZipCode": "698  ",
-  "zipCode": "6980025",
-  "prefectureKana": "シマネケン",
-  "cityKana": "マスダシ",
-  "townKana": "アケボノニシマチ",
-  "prefecture": "島根県",
-  "city": "益田市",
-  "town": "あけぼの西町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "32204",
+      "oldZipCode": "698  ",
+      "zipCode": "6980025",
+      "prefectureKana": "シマネケン",
+      "cityKana": "マスダシ",
+      "townKana": "アケボノニシマチ",
+      "prefecture": "島根県",
+      "city": "益田市",
+      "town": "あけぼの西町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

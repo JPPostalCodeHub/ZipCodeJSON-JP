@@ -1,17 +1,21 @@
 {
-  "jisCode": "01646",
-  "oldZipCode": "08936",
-  "zipCode": "0893664",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ナカガワグンホンベツチョウ",
-  "townKana": "センビリモトマチ",
-  "prefecture": "北海道",
-  "city": "中川郡本別町",
-  "town": "仙美里元町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01646",
+      "oldZipCode": "08936",
+      "zipCode": "0893664",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ナカガワグンホンベツチョウ",
+      "townKana": "センビリモトマチ",
+      "prefecture": "北海道",
+      "city": "中川郡本別町",
+      "town": "仙美里元町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

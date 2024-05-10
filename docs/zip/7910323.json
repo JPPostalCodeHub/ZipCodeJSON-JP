@@ -1,17 +1,21 @@
 {
-  "jisCode": "38215",
-  "oldZipCode": "79103",
-  "zipCode": "7910323",
-  "prefectureKana": "エヒメケン",
-  "cityKana": "トウオンシ",
-  "townKana": "ミョウガ",
-  "prefecture": "愛媛県",
-  "city": "東温市",
-  "town": "明河",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "38215",
+      "oldZipCode": "79103",
+      "zipCode": "7910323",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "トウオンシ",
+      "townKana": "ミョウガ",
+      "prefecture": "愛媛県",
+      "city": "東温市",
+      "town": "明河",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

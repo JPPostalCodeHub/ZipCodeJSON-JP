@@ -1,17 +1,21 @@
 {
-  "jisCode": "06211",
-  "oldZipCode": "99937",
-  "zipCode": "9993761",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "ヒガシネシ",
-  "townKana": "ジンマチ",
-  "prefecture": "山形県",
-  "city": "東根市",
-  "town": "神町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06211",
+      "oldZipCode": "99937",
+      "zipCode": "9993761",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "ヒガシネシ",
+      "townKana": "ジンマチ",
+      "prefecture": "山形県",
+      "city": "東根市",
+      "town": "神町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

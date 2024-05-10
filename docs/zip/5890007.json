@@ -1,17 +1,21 @@
 {
-  "jisCode": "27231",
-  "oldZipCode": "589  ",
-  "zipCode": "5890007",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "オオサカサヤマシ",
-  "townKana": "イケジリナカ",
-  "prefecture": "大阪府",
-  "city": "大阪狭山市",
-  "town": "池尻中",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27231",
+      "oldZipCode": "589  ",
+      "zipCode": "5890007",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "オオサカサヤマシ",
+      "townKana": "イケジリナカ",
+      "prefecture": "大阪府",
+      "city": "大阪狭山市",
+      "town": "池尻中",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

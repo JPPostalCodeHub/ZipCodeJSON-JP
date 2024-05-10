@@ -1,17 +1,21 @@
 {
-  "jisCode": "23501",
-  "oldZipCode": "44401",
-  "zipCode": "4440127",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ヌカタグンコウタチョウ",
-  "townKana": "スミ",
-  "prefecture": "愛知県",
-  "city": "額田郡幸田町",
-  "town": "須美",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23501",
+      "oldZipCode": "44401",
+      "zipCode": "4440127",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ヌカタグンコウタチョウ",
+      "townKana": "スミ",
+      "prefecture": "愛知県",
+      "city": "額田郡幸田町",
+      "town": "須美",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

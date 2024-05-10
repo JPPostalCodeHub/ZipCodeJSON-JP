@@ -1,17 +1,21 @@
 {
-  "jisCode": "29363",
-  "oldZipCode": "63603",
-  "zipCode": "6360301",
-  "prefectureKana": "ナラケン",
-  "cityKana": "シキグンタワラモトチョウ",
-  "townKana": "クロダ",
-  "prefecture": "奈良県",
-  "city": "磯城郡田原本町",
-  "town": "黒田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "29363",
+      "oldZipCode": "63603",
+      "zipCode": "6360301",
+      "prefectureKana": "ナラケン",
+      "cityKana": "シキグンタワラモトチョウ",
+      "townKana": "クロダ",
+      "prefecture": "奈良県",
+      "city": "磯城郡田原本町",
+      "town": "黒田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "20202",
-  "oldZipCode": "399  ",
-  "zipCode": "3990006",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "マツモトシ",
-  "townKana": "ノミゾニシ",
-  "prefecture": "長野県",
-  "city": "松本市",
-  "town": "野溝西",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20202",
+      "oldZipCode": "399  ",
+      "zipCode": "3990006",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "マツモトシ",
+      "townKana": "ノミゾニシ",
+      "prefecture": "長野県",
+      "city": "松本市",
+      "town": "野溝西",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

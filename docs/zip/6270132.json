@@ -1,17 +1,21 @@
 {
-  "jisCode": "26212",
-  "oldZipCode": "62701",
-  "zipCode": "6270132",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウタンゴシ",
-  "townKana": "ヤサカチョウキバシ",
-  "prefecture": "京都府",
-  "city": "京丹後市",
-  "town": "弥栄町木橋",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26212",
+      "oldZipCode": "62701",
+      "zipCode": "6270132",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウタンゴシ",
+      "townKana": "ヤサカチョウキバシ",
+      "prefecture": "京都府",
+      "city": "京丹後市",
+      "town": "弥栄町木橋",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

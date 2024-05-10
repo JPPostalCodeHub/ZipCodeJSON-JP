@@ -1,17 +1,21 @@
 {
-  "jisCode": "13104",
-  "oldZipCode": "16310",
-  "zipCode": "1631051",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "シンジュクク",
-  "townKana": "ニシシンジュクシンジュクパークタワー（５１カイ）",
-  "prefecture": "東京都",
-  "city": "新宿区",
-  "town": "西新宿新宿パークタワー（５１階）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13104",
+      "oldZipCode": "16310",
+      "zipCode": "1631051",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "シンジュクク",
+      "townKana": "ニシシンジュクシンジュクパークタワー（５１カイ）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "town": "西新宿新宿パークタワー（５１階）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

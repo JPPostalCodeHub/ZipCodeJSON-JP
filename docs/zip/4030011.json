@@ -1,17 +1,21 @@
 {
-  "jisCode": "19202",
-  "oldZipCode": "403  ",
-  "zipCode": "4030011",
-  "prefectureKana": "ヤマナシケン",
-  "cityKana": "フジヨシダシ",
-  "townKana": "アラクラ",
-  "prefecture": "山梨県",
-  "city": "富士吉田市",
-  "town": "新倉",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "19202",
+      "oldZipCode": "403  ",
+      "zipCode": "4030011",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "フジヨシダシ",
+      "townKana": "アラクラ",
+      "prefecture": "山梨県",
+      "city": "富士吉田市",
+      "town": "新倉",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

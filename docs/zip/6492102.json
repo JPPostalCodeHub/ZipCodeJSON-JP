@@ -1,17 +1,21 @@
 {
-  "jisCode": "30404",
-  "oldZipCode": "64921",
-  "zipCode": "6492102",
-  "prefectureKana": "ワカヤマケン",
-  "cityKana": "ニシムログンカミトンダチョウ",
-  "townKana": "イワダ",
-  "prefecture": "和歌山県",
-  "city": "西牟婁郡上富田町",
-  "town": "岩田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "30404",
+      "oldZipCode": "64921",
+      "zipCode": "6492102",
+      "prefectureKana": "ワカヤマケン",
+      "cityKana": "ニシムログンカミトンダチョウ",
+      "townKana": "イワダ",
+      "prefecture": "和歌山県",
+      "city": "西牟婁郡上富田町",
+      "town": "岩田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "47359",
-  "oldZipCode": "90507",
-  "zipCode": "9050701",
-  "prefectureKana": "オキナワケン",
-  "cityKana": "シマジリグンイヘヤソン",
-  "townKana": "ダナ",
-  "prefecture": "沖縄県",
-  "city": "島尻郡伊平屋村",
-  "town": "田名",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "47359",
+      "oldZipCode": "90507",
+      "zipCode": "9050701",
+      "prefectureKana": "オキナワケン",
+      "cityKana": "シマジリグンイヘヤソン",
+      "townKana": "ダナ",
+      "prefecture": "沖縄県",
+      "city": "島尻郡伊平屋村",
+      "town": "田名",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

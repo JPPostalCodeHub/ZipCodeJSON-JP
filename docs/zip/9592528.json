@@ -1,17 +1,21 @@
 {
-  "jisCode": "15206",
-  "oldZipCode": "95925",
-  "zipCode": "9592528",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "シバタシ",
-  "townKana": "ヒガシミヤウチ",
-  "prefecture": "新潟県",
-  "city": "新発田市",
-  "town": "東宮内",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15206",
+      "oldZipCode": "95925",
+      "zipCode": "9592528",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "シバタシ",
+      "townKana": "ヒガシミヤウチ",
+      "prefecture": "新潟県",
+      "city": "新発田市",
+      "town": "東宮内",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

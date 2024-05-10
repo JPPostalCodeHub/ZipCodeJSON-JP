@@ -1,17 +1,21 @@
 {
-  "jisCode": "03503",
-  "oldZipCode": "02882",
-  "zipCode": "0288202",
-  "prefectureKana": "イワテケン",
-  "cityKana": "クノヘグンノダムラ",
-  "townKana": "タマガワ",
-  "prefecture": "岩手県",
-  "city": "九戸郡野田村",
-  "town": "玉川",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "03503",
+      "oldZipCode": "02882",
+      "zipCode": "0288202",
+      "prefectureKana": "イワテケン",
+      "cityKana": "クノヘグンノダムラ",
+      "townKana": "タマガワ",
+      "prefecture": "岩手県",
+      "city": "九戸郡野田村",
+      "town": "玉川",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

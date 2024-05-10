@@ -1,17 +1,38 @@
 {
-  "jisCode": "03214",
-  "oldZipCode": "02876",
-  "zipCode": "0287621",
-  "prefectureKana": "イワテケン",
-  "cityKana": "ハチマンタイシ",
-  "townKana": "サクヒラ",
-  "prefecture": "岩手県",
-  "city": "八幡平市",
-  "town": "作平",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "03214",
+      "oldZipCode": "02876",
+      "zipCode": "0287621",
+      "prefectureKana": "イワテケン",
+      "cityKana": "ハチマンタイシ",
+      "townKana": "アニカワ",
+      "prefecture": "岩手県",
+      "city": "八幡平市",
+      "town": "兄川",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "03214",
+      "oldZipCode": "02876",
+      "zipCode": "0287621",
+      "prefectureKana": "イワテケン",
+      "cityKana": "ハチマンタイシ",
+      "townKana": "サクヒラ",
+      "prefecture": "岩手県",
+      "city": "八幡平市",
+      "town": "作平",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

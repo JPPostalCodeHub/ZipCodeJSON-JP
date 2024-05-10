@@ -1,17 +1,21 @@
 {
-  "jisCode": "28209",
-  "oldZipCode": "66963",
-  "zipCode": "6696353",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "トヨオカシ",
-  "townKana": "タケノチョウクワノモト",
-  "prefecture": "兵庫県",
-  "city": "豊岡市",
-  "town": "竹野町桑野本",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28209",
+      "oldZipCode": "66963",
+      "zipCode": "6696353",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "トヨオカシ",
+      "townKana": "タケノチョウクワノモト",
+      "prefecture": "兵庫県",
+      "city": "豊岡市",
+      "town": "竹野町桑野本",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

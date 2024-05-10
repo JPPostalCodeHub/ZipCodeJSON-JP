@@ -1,17 +1,21 @@
 {
-  "jisCode": "44205",
-  "oldZipCode": "876  ",
-  "zipCode": "8760811",
-  "prefectureKana": "オオイタケン",
-  "cityKana": "サイキシ",
-  "townKana": "ツルヤマチ",
-  "prefecture": "大分県",
-  "city": "佐伯市",
-  "town": "鶴谷町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "44205",
+      "oldZipCode": "876  ",
+      "zipCode": "8760811",
+      "prefectureKana": "オオイタケン",
+      "cityKana": "サイキシ",
+      "townKana": "ツルヤマチ",
+      "prefecture": "大分県",
+      "city": "佐伯市",
+      "town": "鶴谷町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

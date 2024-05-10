@@ -1,17 +1,21 @@
 {
-  "jisCode": "42213",
-  "oldZipCode": "85404",
-  "zipCode": "8540403",
-  "prefectureKana": "ナガサキケン",
-  "cityKana": "ウンゼンシ",
-  "townKana": "チヂワチョウヘイ",
-  "prefecture": "長崎県",
-  "city": "雲仙市",
-  "town": "千々石町丙",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "42213",
+      "oldZipCode": "85404",
+      "zipCode": "8540403",
+      "prefectureKana": "ナガサキケン",
+      "cityKana": "ウンゼンシ",
+      "townKana": "チヂワチョウヘイ",
+      "prefecture": "長崎県",
+      "city": "雲仙市",
+      "town": "千々石町丙",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

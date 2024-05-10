@@ -1,17 +1,21 @@
 {
-  "jisCode": "23501",
-  "oldZipCode": "44401",
-  "zipCode": "4440113",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ヌカタグンコウタチョウ",
-  "townKana": "ヒシイケ",
-  "prefecture": "愛知県",
-  "city": "額田郡幸田町",
-  "town": "菱池",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23501",
+      "oldZipCode": "44401",
+      "zipCode": "4440113",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ヌカタグンコウタチョウ",
+      "townKana": "ヒシイケ",
+      "prefecture": "愛知県",
+      "city": "額田郡幸田町",
+      "town": "菱池",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

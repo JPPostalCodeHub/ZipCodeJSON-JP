@@ -1,17 +1,38 @@
 {
-  "jisCode": "34106",
-  "oldZipCode": "73917",
-  "zipCode": "7391732",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "ヒロシマシアサキタク",
-  "townKana": "オチアイミナミマチ",
-  "prefecture": "広島県",
-  "city": "広島市安佐北区",
-  "town": "落合南町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34106",
+      "oldZipCode": "73917",
+      "zipCode": "7391732",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ヒロシマシアサキタク",
+      "townKana": "オチアイミナミ",
+      "prefecture": "広島県",
+      "city": "広島市安佐北区",
+      "town": "落合南",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "34106",
+      "oldZipCode": "73917",
+      "zipCode": "7391732",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ヒロシマシアサキタク",
+      "townKana": "オチアイミナミマチ",
+      "prefecture": "広島県",
+      "city": "広島市安佐北区",
+      "town": "落合南町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

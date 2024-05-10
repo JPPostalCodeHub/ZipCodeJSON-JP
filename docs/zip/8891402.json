@@ -1,17 +1,21 @@
 {
-  "jisCode": "45402",
-  "oldZipCode": "88914",
-  "zipCode": "8891402",
-  "prefectureKana": "ミヤザキケン",
-  "cityKana": "コユグンシントミチョウ",
-  "townKana": "ミナシロ",
-  "prefecture": "宮崎県",
-  "city": "児湯郡新富町",
-  "town": "三納代",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "45402",
+      "oldZipCode": "88914",
+      "zipCode": "8891402",
+      "prefectureKana": "ミヤザキケン",
+      "cityKana": "コユグンシントミチョウ",
+      "townKana": "ミナシロ",
+      "prefecture": "宮崎県",
+      "city": "児湯郡新富町",
+      "town": "三納代",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

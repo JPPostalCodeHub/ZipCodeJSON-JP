@@ -1,17 +1,21 @@
 {
-  "jisCode": "47207",
-  "oldZipCode": "90704",
-  "zipCode": "9070452",
-  "prefectureKana": "オキナワケン",
-  "cityKana": "イシガキシ",
-  "townKana": "サキエダ",
-  "prefecture": "沖縄県",
-  "city": "石垣市",
-  "town": "崎枝",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "47207",
+      "oldZipCode": "90704",
+      "zipCode": "9070452",
+      "prefectureKana": "オキナワケン",
+      "cityKana": "イシガキシ",
+      "townKana": "サキエダ",
+      "prefecture": "沖縄県",
+      "city": "石垣市",
+      "town": "崎枝",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

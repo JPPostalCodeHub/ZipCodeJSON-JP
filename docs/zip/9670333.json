@@ -1,17 +1,21 @@
 {
-  "jisCode": "07368",
-  "oldZipCode": "96703",
-  "zipCode": "9670333",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "ミナミアイヅグンミナミアイヅマチ",
-  "townKana": "ユノハナ",
-  "prefecture": "福島県",
-  "city": "南会津郡南会津町",
-  "town": "湯ノ花",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07368",
+      "oldZipCode": "96703",
+      "zipCode": "9670333",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "ミナミアイヅグンミナミアイヅマチ",
+      "townKana": "ユノハナ",
+      "prefecture": "福島県",
+      "city": "南会津郡南会津町",
+      "town": "湯ノ花",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

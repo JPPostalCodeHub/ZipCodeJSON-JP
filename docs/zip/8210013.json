@@ -1,17 +1,21 @@
 {
-  "jisCode": "40227",
-  "oldZipCode": "821  ",
-  "zipCode": "8210013",
-  "prefectureKana": "フクオカケン",
-  "cityKana": "カマシ",
-  "townKana": "クマガハタ",
-  "prefecture": "福岡県",
-  "city": "嘉麻市",
-  "town": "熊ケ畑",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "40227",
+      "oldZipCode": "821  ",
+      "zipCode": "8210013",
+      "prefectureKana": "フクオカケン",
+      "cityKana": "カマシ",
+      "townKana": "クマガハタ",
+      "prefecture": "福岡県",
+      "city": "嘉麻市",
+      "town": "熊ケ畑",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

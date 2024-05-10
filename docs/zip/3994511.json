@@ -1,17 +1,21 @@
 {
-  "jisCode": "20385",
-  "oldZipCode": "39945",
-  "zipCode": "3994511",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "カミイナグンミナミミノワムラ",
-  "townKana": "ミナミミノワムライチエン",
-  "prefecture": "長野県",
-  "city": "上伊那郡南箕輪村",
-  "town": "南箕輪村一円",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20385",
+      "oldZipCode": "39945",
+      "zipCode": "3994511",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "カミイナグンミナミミノワムラ",
+      "townKana": "ミナミミノワムライチエン",
+      "prefecture": "長野県",
+      "city": "上伊那郡南箕輪村",
+      "town": "南箕輪村一円",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

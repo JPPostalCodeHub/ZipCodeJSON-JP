@@ -1,17 +1,21 @@
 {
-  "jisCode": "13107",
-  "oldZipCode": "130  ",
-  "zipCode": "1300013",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "スミダク",
-  "townKana": "キンシ",
-  "prefecture": "東京都",
-  "city": "墨田区",
-  "town": "錦糸",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13107",
+      "oldZipCode": "130  ",
+      "zipCode": "1300013",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "スミダク",
+      "townKana": "キンシ",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "town": "錦糸",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

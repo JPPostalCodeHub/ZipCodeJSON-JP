@@ -1,17 +1,21 @@
 {
-  "jisCode": "01564",
-  "oldZipCode": "09923",
-  "zipCode": "0992312",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "アバシリグンオオゾラチョウ",
-  "townKana": "メマンベツヒガシ２ジョウ",
-  "prefecture": "北海道",
-  "city": "網走郡大空町",
-  "town": "女満別東二条",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01564",
+      "oldZipCode": "09923",
+      "zipCode": "0992312",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "アバシリグンオオゾラチョウ",
+      "townKana": "メマンベツヒガシ２ジョウ",
+      "prefecture": "北海道",
+      "city": "網走郡大空町",
+      "town": "女満別東二条",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

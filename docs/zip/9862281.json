@@ -1,17 +1,21 @@
 {
-  "jisCode": "04581",
-  "oldZipCode": "98622",
-  "zipCode": "9862281",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "オシカグンオナガワチョウ",
-  "townKana": "イシハマ",
-  "prefecture": "宮城県",
-  "city": "牡鹿郡女川町",
-  "town": "石浜",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04581",
+      "oldZipCode": "98622",
+      "zipCode": "9862281",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "オシカグンオナガワチョウ",
+      "townKana": "イシハマ",
+      "prefecture": "宮城県",
+      "city": "牡鹿郡女川町",
+      "town": "石浜",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

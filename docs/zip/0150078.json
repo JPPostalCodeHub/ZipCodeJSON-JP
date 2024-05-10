@@ -1,17 +1,21 @@
 {
-  "jisCode": "05210",
-  "oldZipCode": "015  ",
-  "zipCode": "0150078",
-  "prefectureKana": "アキタケン",
-  "cityKana": "ユリホンジョウシ",
-  "townKana": "ヤチマチ",
-  "prefecture": "秋田県",
-  "city": "由利本荘市",
-  "town": "谷地町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05210",
+      "oldZipCode": "015  ",
+      "zipCode": "0150078",
+      "prefectureKana": "アキタケン",
+      "cityKana": "ユリホンジョウシ",
+      "townKana": "ヤチマチ",
+      "prefecture": "秋田県",
+      "city": "由利本荘市",
+      "town": "谷地町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

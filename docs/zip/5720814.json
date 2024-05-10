@@ -1,17 +1,21 @@
 {
-  "jisCode": "27215",
-  "oldZipCode": "572  ",
-  "zipCode": "5720814",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "ネヤガワシ",
-  "townKana": "ホリミゾ",
-  "prefecture": "大阪府",
-  "city": "寝屋川市",
-  "town": "堀溝",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27215",
+      "oldZipCode": "572  ",
+      "zipCode": "5720814",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "ネヤガワシ",
+      "townKana": "ホリミゾ",
+      "prefecture": "大阪府",
+      "city": "寝屋川市",
+      "town": "堀溝",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

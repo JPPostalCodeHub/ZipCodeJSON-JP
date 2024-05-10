@@ -1,17 +1,21 @@
 {
-  "jisCode": "35215",
-  "oldZipCode": "746  ",
-  "zipCode": "7460041",
-  "prefectureKana": "ヤマグチケン",
-  "cityKana": "シュウナンシ",
-  "townKana": "シャチチョウ",
-  "prefecture": "山口県",
-  "city": "周南市",
-  "town": "社地町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "35215",
+      "oldZipCode": "746  ",
+      "zipCode": "7460041",
+      "prefectureKana": "ヤマグチケン",
+      "cityKana": "シュウナンシ",
+      "townKana": "シャチチョウ",
+      "prefecture": "山口県",
+      "city": "周南市",
+      "town": "社地町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

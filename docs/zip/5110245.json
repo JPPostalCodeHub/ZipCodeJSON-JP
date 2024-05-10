@@ -1,17 +1,21 @@
 {
-  "jisCode": "24324",
-  "oldZipCode": "51102",
-  "zipCode": "5110245",
-  "prefectureKana": "ミエケン",
-  "cityKana": "イナベグントウインチョウ",
-  "townKana": "ハチマンシンデン",
-  "prefecture": "三重県",
-  "city": "員弁郡東員町",
-  "town": "八幡新田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "24324",
+      "oldZipCode": "51102",
+      "zipCode": "5110245",
+      "prefectureKana": "ミエケン",
+      "cityKana": "イナベグントウインチョウ",
+      "townKana": "ハチマンシンデン",
+      "prefecture": "三重県",
+      "city": "員弁郡東員町",
+      "town": "八幡新田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

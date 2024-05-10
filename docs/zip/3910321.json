@@ -1,17 +1,38 @@
 {
-  "jisCode": "20324",
-  "oldZipCode": "39103",
-  "zipCode": "3910321",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "キタサクグンタテシナマチ",
-  "townKana": "イケノタイラ",
-  "prefecture": "長野県",
-  "city": "北佐久郡立科町",
-  "town": "池の平",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20324",
+      "oldZipCode": "39103",
+      "zipCode": "3910321",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "キタサクグンタテシナマチ",
+      "townKana": "アシダハツカノ（１５１９−１６３５）",
+      "prefecture": "長野県",
+      "city": "北佐久郡立科町",
+      "town": "芦田八ケ野（１５１９〜１６３５）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "20324",
+      "oldZipCode": "39103",
+      "zipCode": "3910321",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "キタサクグンタテシナマチ",
+      "townKana": "イケノタイラ",
+      "prefecture": "長野県",
+      "city": "北佐久郡立科町",
+      "town": "池の平",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

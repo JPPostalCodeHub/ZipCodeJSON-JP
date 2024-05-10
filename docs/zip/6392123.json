@@ -1,17 +1,38 @@
 {
-  "jisCode": "29211",
-  "oldZipCode": "63921",
-  "zipCode": "6392123",
-  "prefectureKana": "ナラケン",
-  "cityKana": "カツラギシ",
-  "townKana": "ミナミシンマチ",
-  "prefecture": "奈良県",
-  "city": "葛城市",
-  "town": "南新町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "29211",
+      "oldZipCode": "63921",
+      "zipCode": "6392123",
+      "prefectureKana": "ナラケン",
+      "cityKana": "カツラギシ",
+      "townKana": "オシミ",
+      "prefecture": "奈良県",
+      "city": "葛城市",
+      "town": "忍海",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "29211",
+      "oldZipCode": "63921",
+      "zipCode": "6392123",
+      "prefectureKana": "ナラケン",
+      "cityKana": "カツラギシ",
+      "townKana": "ミナミシンマチ",
+      "prefecture": "奈良県",
+      "city": "葛城市",
+      "town": "南新町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

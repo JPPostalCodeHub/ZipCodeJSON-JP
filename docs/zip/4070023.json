@@ -1,17 +1,21 @@
 {
-  "jisCode": "19207",
-  "oldZipCode": "407  ",
-  "zipCode": "4070023",
-  "prefectureKana": "ヤマナシケン",
-  "cityKana": "ニラサキシ",
-  "townKana": "チュウオウチョウ",
-  "prefecture": "山梨県",
-  "city": "韮崎市",
-  "town": "中央町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "19207",
+      "oldZipCode": "407  ",
+      "zipCode": "4070023",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "ニラサキシ",
+      "townKana": "チュウオウチョウ",
+      "prefecture": "山梨県",
+      "city": "韮崎市",
+      "town": "中央町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

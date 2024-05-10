@@ -1,17 +1,21 @@
 {
-  "jisCode": "23113",
-  "oldZipCode": "463  ",
-  "zipCode": "4630004",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ナゴヤシモリヤマク",
-  "townKana": "キッコ",
-  "prefecture": "愛知県",
-  "city": "名古屋市守山区",
-  "town": "吉根",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23113",
+      "oldZipCode": "463  ",
+      "zipCode": "4630004",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ナゴヤシモリヤマク",
+      "townKana": "キッコ",
+      "prefecture": "愛知県",
+      "city": "名古屋市守山区",
+      "town": "吉根",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

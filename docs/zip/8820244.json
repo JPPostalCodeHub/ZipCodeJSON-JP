@@ -1,17 +1,21 @@
 {
-  "jisCode": "45203",
-  "oldZipCode": "88201",
-  "zipCode": "8820244",
-  "prefectureKana": "ミヤザキケン",
-  "cityKana": "ノベオカシ",
-  "townKana": "キタカタマチハヤナカ",
-  "prefecture": "宮崎県",
-  "city": "延岡市",
-  "town": "北方町早中",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "45203",
+      "oldZipCode": "88201",
+      "zipCode": "8820244",
+      "prefectureKana": "ミヤザキケン",
+      "cityKana": "ノベオカシ",
+      "townKana": "キタカタマチハヤナカ",
+      "prefecture": "宮崎県",
+      "city": "延岡市",
+      "town": "北方町早中",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

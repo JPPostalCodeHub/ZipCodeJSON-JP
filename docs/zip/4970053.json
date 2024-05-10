@@ -1,17 +1,21 @@
 {
-  "jisCode": "23425",
-  "oldZipCode": "497  ",
-  "zipCode": "4970053",
-  "prefectureKana": "アイチケン",
-  "cityKana": "アマグンカニエチョウ",
-  "townKana": "ヘイアン",
-  "prefecture": "愛知県",
-  "city": "海部郡蟹江町",
-  "town": "平安",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23425",
+      "oldZipCode": "497  ",
+      "zipCode": "4970053",
+      "prefectureKana": "アイチケン",
+      "cityKana": "アマグンカニエチョウ",
+      "townKana": "ヘイアン",
+      "prefecture": "愛知県",
+      "city": "海部郡蟹江町",
+      "town": "平安",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

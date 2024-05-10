@@ -1,17 +1,21 @@
 {
-  "jisCode": "27230",
-  "oldZipCode": "576  ",
-  "zipCode": "5760021",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "カタノシ",
-  "townKana": "ミョウケンザカ",
-  "prefecture": "大阪府",
-  "city": "交野市",
-  "town": "妙見坂",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27230",
+      "oldZipCode": "576  ",
+      "zipCode": "5760021",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "カタノシ",
+      "townKana": "ミョウケンザカ",
+      "prefecture": "大阪府",
+      "city": "交野市",
+      "town": "妙見坂",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

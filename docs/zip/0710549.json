@@ -1,17 +1,21 @@
 {
-  "jisCode": "01460",
-  "oldZipCode": "07105",
-  "zipCode": "0710549",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ソラチグンカミフラノチョウ",
-  "townKana": "キタマチ",
-  "prefecture": "北海道",
-  "city": "空知郡上富良野町",
-  "town": "北町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01460",
+      "oldZipCode": "07105",
+      "zipCode": "0710549",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ソラチグンカミフラノチョウ",
+      "townKana": "キタマチ",
+      "prefecture": "北海道",
+      "city": "空知郡上富良野町",
+      "town": "北町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

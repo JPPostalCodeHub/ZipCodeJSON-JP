@@ -1,17 +1,21 @@
 {
-  "jisCode": "28501",
-  "oldZipCode": "67953",
-  "zipCode": "6795342",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "サヨウグンサヨウチョウ",
-  "townKana": "ムネユキ",
-  "prefecture": "兵庫県",
-  "city": "佐用郡佐用町",
-  "town": "宗行",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28501",
+      "oldZipCode": "67953",
+      "zipCode": "6795342",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "サヨウグンサヨウチョウ",
+      "townKana": "ムネユキ",
+      "prefecture": "兵庫県",
+      "city": "佐用郡佐用町",
+      "town": "宗行",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

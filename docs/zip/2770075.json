@@ -1,17 +1,21 @@
 {
-  "jisCode": "12217",
-  "oldZipCode": "277  ",
-  "zipCode": "2770075",
-  "prefectureKana": "チバケン",
-  "cityKana": "カシワシ",
-  "townKana": "ミナミカシワチュウオウ",
-  "prefecture": "千葉県",
-  "city": "柏市",
-  "town": "南柏中央",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12217",
+      "oldZipCode": "277  ",
+      "zipCode": "2770075",
+      "prefectureKana": "チバケン",
+      "cityKana": "カシワシ",
+      "townKana": "ミナミカシワチュウオウ",
+      "prefecture": "千葉県",
+      "city": "柏市",
+      "town": "南柏中央",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

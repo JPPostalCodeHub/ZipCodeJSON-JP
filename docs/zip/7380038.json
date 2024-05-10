@@ -1,17 +1,21 @@
 {
-  "jisCode": "34213",
-  "oldZipCode": "738  ",
-  "zipCode": "7380038",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "ハツカイチシ",
-  "townKana": "シキガオカカミ",
-  "prefecture": "広島県",
-  "city": "廿日市市",
-  "town": "四季が丘上",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34213",
+      "oldZipCode": "738  ",
+      "zipCode": "7380038",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ハツカイチシ",
+      "townKana": "シキガオカカミ",
+      "prefecture": "広島県",
+      "city": "廿日市市",
+      "town": "四季が丘上",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

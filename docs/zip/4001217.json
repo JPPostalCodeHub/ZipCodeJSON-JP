@@ -1,17 +1,21 @@
 {
-  "jisCode": "19201",
-  "oldZipCode": "40012",
-  "zipCode": "4001217",
-  "prefectureKana": "ヤマナシケン",
-  "cityKana": "コウフシ",
-  "townKana": "イカリチョウ",
-  "prefecture": "山梨県",
-  "city": "甲府市",
-  "town": "猪狩町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "19201",
+      "oldZipCode": "40012",
+      "zipCode": "4001217",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "コウフシ",
+      "townKana": "イカリチョウ",
+      "prefecture": "山梨県",
+      "city": "甲府市",
+      "town": "猪狩町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

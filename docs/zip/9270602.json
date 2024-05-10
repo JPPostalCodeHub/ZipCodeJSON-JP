@@ -1,17 +1,38 @@
 {
-  "jisCode": "17463",
-  "oldZipCode": "92706",
-  "zipCode": "9270602",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "ホウスグンノトチョウ",
-  "townKana": "ミョウジョウ",
-  "prefecture": "石川県",
-  "city": "鳳珠郡能登町",
-  "town": "明生",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17463",
+      "oldZipCode": "92706",
+      "zipCode": "9270602",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "ホウスグンノトチョウ",
+      "townKana": "マツナミ",
+      "prefecture": "石川県",
+      "city": "鳳珠郡能登町",
+      "town": "松波",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "17463",
+      "oldZipCode": "92706",
+      "zipCode": "9270602",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "ホウスグンノトチョウ",
+      "townKana": "ミョウジョウ",
+      "prefecture": "石川県",
+      "city": "鳳珠郡能登町",
+      "town": "明生",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

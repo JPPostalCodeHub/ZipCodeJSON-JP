@@ -1,17 +1,21 @@
 {
-  "jisCode": "42211",
-  "oldZipCode": "85324",
-  "zipCode": "8532482",
-  "prefectureKana": "ナガサキケン",
-  "cityKana": "ゴトウシ",
-  "townKana": "モトガマチョウ",
-  "prefecture": "長崎県",
-  "city": "五島市",
-  "town": "本窯町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "42211",
+      "oldZipCode": "85324",
+      "zipCode": "8532482",
+      "prefectureKana": "ナガサキケン",
+      "cityKana": "ゴトウシ",
+      "townKana": "モトガマチョウ",
+      "prefecture": "長崎県",
+      "city": "五島市",
+      "town": "本窯町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "27381",
-  "oldZipCode": "583  ",
-  "zipCode": "5830994",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "ミナミカワチグンタイシチョウ",
-  "townKana": "ハムロ",
-  "prefecture": "大阪府",
-  "city": "南河内郡太子町",
-  "town": "葉室",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27381",
+      "oldZipCode": "583  ",
+      "zipCode": "5830994",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "ミナミカワチグンタイシチョウ",
+      "townKana": "ハムロ",
+      "prefecture": "大阪府",
+      "city": "南河内郡太子町",
+      "town": "葉室",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

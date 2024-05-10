@@ -1,17 +1,21 @@
 {
-  "jisCode": "12202",
-  "oldZipCode": "288  ",
-  "zipCode": "2880068",
-  "prefectureKana": "チバケン",
-  "cityKana": "チョウシシ",
-  "townKana": "ウチバマチョウ",
-  "prefecture": "千葉県",
-  "city": "銚子市",
-  "town": "内浜町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12202",
+      "oldZipCode": "288  ",
+      "zipCode": "2880068",
+      "prefectureKana": "チバケン",
+      "cityKana": "チョウシシ",
+      "townKana": "ウチバマチョウ",
+      "prefecture": "千葉県",
+      "city": "銚子市",
+      "town": "内浜町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "16206",
-  "oldZipCode": "936  ",
-  "zipCode": "9360834",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "ナメリカワシ",
-  "townKana": "トウフクジビラキ",
-  "prefecture": "富山県",
-  "city": "滑川市",
-  "town": "東福寺開",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16206",
+      "oldZipCode": "936  ",
+      "zipCode": "9360834",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "ナメリカワシ",
+      "townKana": "トウフクジビラキ",
+      "prefecture": "富山県",
+      "city": "滑川市",
+      "town": "東福寺開",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

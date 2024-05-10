@@ -1,17 +1,21 @@
 {
-  "jisCode": "13112",
-  "oldZipCode": "154  ",
-  "zipCode": "1540022",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "セタガヤク",
-  "townKana": "ウメガオカ",
-  "prefecture": "東京都",
-  "city": "世田谷区",
-  "town": "梅丘",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13112",
+      "oldZipCode": "154  ",
+      "zipCode": "1540022",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "セタガヤク",
+      "townKana": "ウメガオカ",
+      "prefecture": "東京都",
+      "city": "世田谷区",
+      "town": "梅丘",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

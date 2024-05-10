@@ -1,17 +1,21 @@
 {
-  "jisCode": "01208",
-  "oldZipCode": "091  ",
-  "zipCode": "0910016",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "キタミシ",
-  "townKana": "ルベシベチョウマルヤマ",
-  "prefecture": "北海道",
-  "city": "北見市",
-  "town": "留辺蘂町丸山",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01208",
+      "oldZipCode": "091  ",
+      "zipCode": "0910016",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "キタミシ",
+      "townKana": "ルベシベチョウマルヤマ",
+      "prefecture": "北海道",
+      "city": "北見市",
+      "town": "留辺蘂町丸山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "15107",
-  "oldZipCode": "95021",
-  "zipCode": "9502071",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ニイガタシニシク",
-  "townKana": "ニシアリアケチョウ",
-  "prefecture": "新潟県",
-  "city": "新潟市西区",
-  "town": "西有明町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15107",
+      "oldZipCode": "95021",
+      "zipCode": "9502071",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ニイガタシニシク",
+      "townKana": "ニシアリアケチョウ",
+      "prefecture": "新潟県",
+      "city": "新潟市西区",
+      "town": "西有明町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

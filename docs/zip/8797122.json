@@ -1,17 +1,21 @@
 {
-  "jisCode": "44212",
-  "oldZipCode": "87971",
-  "zipCode": "8797122",
-  "prefectureKana": "オオイタケン",
-  "cityKana": "ブンゴオオノシ",
-  "townKana": "ミエマチワシダニ",
-  "prefecture": "大分県",
-  "city": "豊後大野市",
-  "town": "三重町鷲谷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "44212",
+      "oldZipCode": "87971",
+      "zipCode": "8797122",
+      "prefectureKana": "オオイタケン",
+      "cityKana": "ブンゴオオノシ",
+      "townKana": "ミエマチワシダニ",
+      "prefecture": "大分県",
+      "city": "豊後大野市",
+      "town": "三重町鷲谷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "18210",
-  "oldZipCode": "91904",
-  "zipCode": "9190447",
-  "prefectureKana": "フクイケン",
-  "cityKana": "サカイシ",
-  "townKana": "ハルエチョウナカスジオオテ",
-  "prefecture": "福井県",
-  "city": "坂井市",
-  "town": "春江町中筋大手",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18210",
+      "oldZipCode": "91904",
+      "zipCode": "9190447",
+      "prefectureKana": "フクイケン",
+      "cityKana": "サカイシ",
+      "townKana": "ハルエチョウナカスジオオテ",
+      "prefecture": "福井県",
+      "city": "坂井市",
+      "town": "春江町中筋大手",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

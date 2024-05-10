@@ -1,17 +1,38 @@
 {
-  "jisCode": "43103",
-  "oldZipCode": "860  ",
-  "zipCode": "8600046",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "クマモトシニシク",
-  "townKana": "ヨコテ",
-  "prefecture": "熊本県",
-  "city": "熊本市西区",
-  "town": "横手",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43101",
+      "oldZipCode": "860  ",
+      "zipCode": "8600046",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "クマモトシチュウオウク",
+      "townKana": "ヨコテ",
+      "prefecture": "熊本県",
+      "city": "熊本市中央区",
+      "town": "横手",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "43103",
+      "oldZipCode": "860  ",
+      "zipCode": "8600046",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "クマモトシニシク",
+      "townKana": "ヨコテ",
+      "prefecture": "熊本県",
+      "city": "熊本市西区",
+      "town": "横手",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

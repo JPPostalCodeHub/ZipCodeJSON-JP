@@ -1,17 +1,21 @@
 {
-  "jisCode": "35210",
-  "oldZipCode": "743  ",
-  "zipCode": "7430065",
-  "prefectureKana": "ヤマグチケン",
-  "cityKana": "ヒカリシ",
-  "townKana": "カミシマタ",
-  "prefecture": "山口県",
-  "city": "光市",
-  "town": "上島田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "35210",
+      "oldZipCode": "743  ",
+      "zipCode": "7430065",
+      "prefectureKana": "ヤマグチケン",
+      "cityKana": "ヒカリシ",
+      "townKana": "カミシマタ",
+      "prefecture": "山口県",
+      "city": "光市",
+      "town": "上島田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

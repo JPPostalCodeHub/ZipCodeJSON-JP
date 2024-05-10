@@ -1,17 +1,21 @@
 {
-  "jisCode": "08310",
-  "oldZipCode": "31144",
-  "zipCode": "3114405",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "ヒガシイバラキグンシロサトマチ",
-  "townKana": "カミアカサワ",
-  "prefecture": "茨城県",
-  "city": "東茨城郡城里町",
-  "town": "上赤沢",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08310",
+      "oldZipCode": "31144",
+      "zipCode": "3114405",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "ヒガシイバラキグンシロサトマチ",
+      "townKana": "カミアカサワ",
+      "prefecture": "茨城県",
+      "city": "東茨城郡城里町",
+      "town": "上赤沢",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

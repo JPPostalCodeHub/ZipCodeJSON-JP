@@ -1,17 +1,21 @@
 {
-  "jisCode": "11224",
-  "oldZipCode": "335  ",
-  "zipCode": "3350034",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "トダシ",
-  "townKana": "ササメ",
-  "prefecture": "埼玉県",
-  "city": "戸田市",
-  "town": "笹目",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11224",
+      "oldZipCode": "335  ",
+      "zipCode": "3350034",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "トダシ",
+      "townKana": "ササメ",
+      "prefecture": "埼玉県",
+      "city": "戸田市",
+      "town": "笹目",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

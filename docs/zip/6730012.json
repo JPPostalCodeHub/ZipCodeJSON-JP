@@ -1,17 +1,38 @@
 {
-  "jisCode": "28203",
-  "oldZipCode": "673  ",
-  "zipCode": "6730012",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "アカシシ",
-  "townKana": "ワサカ",
-  "prefecture": "兵庫県",
-  "city": "明石市",
-  "town": "和坂",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28203",
+      "oldZipCode": "673  ",
+      "zipCode": "6730012",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "アカシシ",
+      "townKana": "カニガサカ",
+      "prefecture": "兵庫県",
+      "city": "明石市",
+      "town": "和坂",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "28203",
+      "oldZipCode": "673  ",
+      "zipCode": "6730012",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "アカシシ",
+      "townKana": "ワサカ",
+      "prefecture": "兵庫県",
+      "city": "明石市",
+      "town": "和坂",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "07402",
-  "oldZipCode": "96604",
-  "zipCode": "9660402",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "ヤマグンキタシオバラムラ",
-  "townKana": "オオシオ",
-  "prefecture": "福島県",
-  "city": "耶麻郡北塩原村",
-  "town": "大塩",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07402",
+      "oldZipCode": "96604",
+      "zipCode": "9660402",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "ヤマグンキタシオバラムラ",
+      "townKana": "オオシオ",
+      "prefecture": "福島県",
+      "city": "耶麻郡北塩原村",
+      "town": "大塩",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

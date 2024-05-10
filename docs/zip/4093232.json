@@ -1,17 +1,21 @@
 {
-  "jisCode": "19346",
-  "oldZipCode": "40932",
-  "zipCode": "4093232",
-  "prefectureKana": "ヤマナシケン",
-  "cityKana": "ニシヤツシログンイチカワミサトチョウ",
-  "townKana": "テラドコ",
-  "prefecture": "山梨県",
-  "city": "西八代郡市川三郷町",
-  "town": "寺所",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "19346",
+      "oldZipCode": "40932",
+      "zipCode": "4093232",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "ニシヤツシログンイチカワミサトチョウ",
+      "townKana": "テラドコ",
+      "prefecture": "山梨県",
+      "city": "西八代郡市川三郷町",
+      "town": "寺所",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

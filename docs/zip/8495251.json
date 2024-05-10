@@ -1,17 +1,21 @@
 {
-  "jisCode": "41205",
-  "oldZipCode": "84952",
-  "zipCode": "8495251",
-  "prefectureKana": "サガケン",
-  "cityKana": "イマリシ",
-  "townKana": "オオカワチョウオオカワノ",
-  "prefecture": "佐賀県",
-  "city": "伊万里市",
-  "town": "大川町大川野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "41205",
+      "oldZipCode": "84952",
+      "zipCode": "8495251",
+      "prefectureKana": "サガケン",
+      "cityKana": "イマリシ",
+      "townKana": "オオカワチョウオオカワノ",
+      "prefecture": "佐賀県",
+      "city": "伊万里市",
+      "town": "大川町大川野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

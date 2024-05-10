@@ -1,17 +1,21 @@
 {
-  "jisCode": "34108",
-  "oldZipCode": "73151",
-  "zipCode": "7315141",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "ヒロシマシサエキク",
-  "townKana": "センドウ",
-  "prefecture": "広島県",
-  "city": "広島市佐伯区",
-  "town": "千同",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34108",
+      "oldZipCode": "73151",
+      "zipCode": "7315141",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ヒロシマシサエキク",
+      "townKana": "センドウ",
+      "prefecture": "広島県",
+      "city": "広島市佐伯区",
+      "town": "千同",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "23103",
-  "oldZipCode": "462  ",
-  "zipCode": "4620866",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ナゴヤシキタク",
-  "townKana": "ルリコウチョウ",
-  "prefecture": "愛知県",
-  "city": "名古屋市北区",
-  "town": "瑠璃光町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23103",
+      "oldZipCode": "462  ",
+      "zipCode": "4620866",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ナゴヤシキタク",
+      "townKana": "ルリコウチョウ",
+      "prefecture": "愛知県",
+      "city": "名古屋市北区",
+      "town": "瑠璃光町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

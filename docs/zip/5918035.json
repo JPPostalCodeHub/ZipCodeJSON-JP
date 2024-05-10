@@ -1,17 +1,21 @@
 {
-  "jisCode": "27146",
-  "oldZipCode": "591  ",
-  "zipCode": "5918035",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "サカイシキタク",
-  "townKana": "ヒガシウエノシバチョウ（２チョウ）",
-  "prefecture": "大阪府",
-  "city": "堺市北区",
-  "town": "東上野芝町（２丁）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27146",
+      "oldZipCode": "591  ",
+      "zipCode": "5918035",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "サカイシキタク",
+      "townKana": "ヒガシウエノシバチョウ（２チョウ）",
+      "prefecture": "大阪府",
+      "city": "堺市北区",
+      "town": "東上野芝町（２丁）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

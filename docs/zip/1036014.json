@@ -1,17 +1,21 @@
 {
-  "jisCode": "13102",
-  "oldZipCode": "103  ",
-  "zipCode": "1036014",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "チュウオウク",
-  "townKana": "ニホンバシトウキョウニホンバシタワー（１４カイ）",
-  "prefecture": "東京都",
-  "city": "中央区",
-  "town": "日本橋東京日本橋タワー（１４階）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13102",
+      "oldZipCode": "103  ",
+      "zipCode": "1036014",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "チュウオウク",
+      "townKana": "ニホンバシトウキョウニホンバシタワー（１４カイ）",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "town": "日本橋東京日本橋タワー（１４階）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

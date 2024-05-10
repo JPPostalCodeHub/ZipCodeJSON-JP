@@ -1,17 +1,21 @@
 {
-  "jisCode": "23447",
-  "oldZipCode": "47023",
-  "zipCode": "4702544",
-  "prefectureKana": "アイチケン",
-  "cityKana": "チタグンタケトヨチョウ",
-  "townKana": "サトナカ",
-  "prefecture": "愛知県",
-  "city": "知多郡武豊町",
-  "town": "里中",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23447",
+      "oldZipCode": "47023",
+      "zipCode": "4702544",
+      "prefectureKana": "アイチケン",
+      "cityKana": "チタグンタケトヨチョウ",
+      "townKana": "サトナカ",
+      "prefecture": "愛知県",
+      "city": "知多郡武豊町",
+      "town": "里中",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

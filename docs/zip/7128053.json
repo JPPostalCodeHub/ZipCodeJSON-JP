@@ -1,17 +1,38 @@
 {
-  "jisCode": "33202",
-  "oldZipCode": "712  ",
-  "zipCode": "7128053",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "クラシキシ",
-  "townKana": "ヨビマツチョウ",
-  "prefecture": "岡山県",
-  "city": "倉敷市",
-  "town": "呼松町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33202",
+      "oldZipCode": "712  ",
+      "zipCode": "7128053",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "クラシキシ",
+      "townKana": "ヨビマツ",
+      "prefecture": "岡山県",
+      "city": "倉敷市",
+      "town": "呼松",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "33202",
+      "oldZipCode": "712  ",
+      "zipCode": "7128053",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "クラシキシ",
+      "townKana": "ヨビマツチョウ",
+      "prefecture": "岡山県",
+      "city": "倉敷市",
+      "town": "呼松町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

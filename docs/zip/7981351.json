@@ -1,17 +1,21 @@
 {
-  "jisCode": "38488",
-  "oldZipCode": "79813",
-  "zipCode": "7981351",
-  "prefectureKana": "エヒメケン",
-  "cityKana": "キタウワグンキホクチョウ",
-  "townKana": "ナラ（ソノタ）",
-  "prefecture": "愛媛県",
-  "city": "北宇和郡鬼北町",
-  "town": "奈良（その他）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "38488",
+      "oldZipCode": "79813",
+      "zipCode": "7981351",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "キタウワグンキホクチョウ",
+      "townKana": "ナラ（ソノタ）",
+      "prefecture": "愛媛県",
+      "city": "北宇和郡鬼北町",
+      "town": "奈良（その他）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

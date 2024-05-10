@@ -1,17 +1,21 @@
 {
-  "jisCode": "01343",
-  "oldZipCode": "04114",
-  "zipCode": "0411402",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "カヤベグンシカベチョウ",
-  "townKana": "シカベ",
-  "prefecture": "北海道",
-  "city": "茅部郡鹿部町",
-  "town": "鹿部",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01343",
+      "oldZipCode": "04114",
+      "zipCode": "0411402",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "カヤベグンシカベチョウ",
+      "townKana": "シカベ",
+      "prefecture": "北海道",
+      "city": "茅部郡鹿部町",
+      "town": "鹿部",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

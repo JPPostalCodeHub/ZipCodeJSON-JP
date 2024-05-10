@@ -1,17 +1,21 @@
 {
-  "jisCode": "01639",
-  "oldZipCode": "08915",
-  "zipCode": "0891511",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "カサイグンサラベツムラ",
-  "townKana": "カシワマチ",
-  "prefecture": "北海道",
-  "city": "河西郡更別村",
-  "town": "柏町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01639",
+      "oldZipCode": "08915",
+      "zipCode": "0891511",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "カサイグンサラベツムラ",
+      "townKana": "カシワマチ",
+      "prefecture": "北海道",
+      "city": "河西郡更別村",
+      "town": "柏町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

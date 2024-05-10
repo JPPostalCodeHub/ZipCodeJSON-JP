@@ -1,17 +1,21 @@
 {
-  "jisCode": "12208",
-  "oldZipCode": "278  ",
-  "zipCode": "2780033",
-  "prefectureKana": "チバケン",
-  "cityKana": "ノダシ",
-  "townKana": "カミハナワ",
-  "prefecture": "千葉県",
-  "city": "野田市",
-  "town": "上花輪",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12208",
+      "oldZipCode": "278  ",
+      "zipCode": "2780033",
+      "prefectureKana": "チバケン",
+      "cityKana": "ノダシ",
+      "townKana": "カミハナワ",
+      "prefecture": "千葉県",
+      "city": "野田市",
+      "town": "上花輪",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

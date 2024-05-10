@@ -1,17 +1,21 @@
 {
-  "jisCode": "01394",
-  "oldZipCode": "04813",
-  "zipCode": "0481324",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "イソヤグンランコシチョウ",
-  "townKana": "トヨクニ",
-  "prefecture": "北海道",
-  "city": "磯谷郡蘭越町",
-  "town": "豊国",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01394",
+      "oldZipCode": "04813",
+      "zipCode": "0481324",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "イソヤグンランコシチョウ",
+      "townKana": "トヨクニ",
+      "prefecture": "北海道",
+      "city": "磯谷郡蘭越町",
+      "town": "豊国",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

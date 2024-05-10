@@ -1,17 +1,21 @@
 {
-  "jisCode": "10211",
-  "oldZipCode": "38901",
-  "zipCode": "3890121",
-  "prefectureKana": "グンマケン",
-  "cityKana": "アンナカシ",
-  "townKana": "マツイダマチトウゲ",
-  "prefecture": "群馬県",
-  "city": "安中市",
-  "town": "松井田町峠",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "10211",
+      "oldZipCode": "38901",
+      "zipCode": "3890121",
+      "prefectureKana": "グンマケン",
+      "cityKana": "アンナカシ",
+      "townKana": "マツイダマチトウゲ",
+      "prefecture": "群馬県",
+      "city": "安中市",
+      "town": "松井田町峠",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

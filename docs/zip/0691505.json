@@ -1,17 +1,38 @@
 {
-  "jisCode": "01429",
-  "oldZipCode": "06915",
-  "zipCode": "0691505",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ユウバリグンクリヤマチョウ",
-  "townKana": "ホンサワ",
-  "prefecture": "北海道",
-  "city": "夕張郡栗山町",
-  "town": "本沢",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01429",
+      "oldZipCode": "06915",
+      "zipCode": "0691505",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ユウバリグンクリヤマチョウ",
+      "townKana": "サクラヤマ（ソノタ）",
+      "prefecture": "北海道",
+      "city": "夕張郡栗山町",
+      "town": "桜山（その他）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "01429",
+      "oldZipCode": "06915",
+      "zipCode": "0691505",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ユウバリグンクリヤマチョウ",
+      "townKana": "ホンサワ",
+      "prefecture": "北海道",
+      "city": "夕張郡栗山町",
+      "town": "本沢",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

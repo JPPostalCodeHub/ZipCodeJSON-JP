@@ -1,17 +1,21 @@
 {
-  "jisCode": "04341",
-  "oldZipCode": "98123",
-  "zipCode": "9812303",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "イググンマルモリマチ",
-  "townKana": "コウヤ",
-  "prefecture": "宮城県",
-  "city": "伊具郡丸森町",
-  "town": "耕野",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04341",
+      "oldZipCode": "98123",
+      "zipCode": "9812303",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "イググンマルモリマチ",
+      "townKana": "コウヤ",
+      "prefecture": "宮城県",
+      "city": "伊具郡丸森町",
+      "town": "耕野",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

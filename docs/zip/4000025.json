@@ -1,17 +1,21 @@
 {
-  "jisCode": "19201",
-  "oldZipCode": "400  ",
-  "zipCode": "4000025",
-  "prefectureKana": "ヤマナシケン",
-  "cityKana": "コウフシ",
-  "townKana": "アサヒ",
-  "prefecture": "山梨県",
-  "city": "甲府市",
-  "town": "朝日",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "19201",
+      "oldZipCode": "400  ",
+      "zipCode": "4000025",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "コウフシ",
+      "townKana": "アサヒ",
+      "prefecture": "山梨県",
+      "city": "甲府市",
+      "town": "朝日",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

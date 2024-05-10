@@ -1,17 +1,21 @@
 {
-  "jisCode": "12234",
-  "oldZipCode": "29925",
-  "zipCode": "2992526",
-  "prefectureKana": "チバケン",
-  "cityKana": "ミナミボウソウシ",
-  "townKana": "クツミ",
-  "prefecture": "千葉県",
-  "city": "南房総市",
-  "town": "沓見",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12234",
+      "oldZipCode": "29925",
+      "zipCode": "2992526",
+      "prefectureKana": "チバケン",
+      "cityKana": "ミナミボウソウシ",
+      "townKana": "クツミ",
+      "prefecture": "千葉県",
+      "city": "南房総市",
+      "town": "沓見",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

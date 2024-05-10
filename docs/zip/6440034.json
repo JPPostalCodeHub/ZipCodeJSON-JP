@@ -1,17 +1,21 @@
 {
-  "jisCode": "30205",
-  "oldZipCode": "644  ",
-  "zipCode": "6440034",
-  "prefectureKana": "ワカヤマケン",
-  "cityKana": "ゴボウシ",
-  "townKana": "ミョウジンガワ",
-  "prefecture": "和歌山県",
-  "city": "御坊市",
-  "town": "明神川",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "30205",
+      "oldZipCode": "644  ",
+      "zipCode": "6440034",
+      "prefectureKana": "ワカヤマケン",
+      "cityKana": "ゴボウシ",
+      "townKana": "ミョウジンガワ",
+      "prefecture": "和歌山県",
+      "city": "御坊市",
+      "town": "明神川",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

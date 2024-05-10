@@ -1,17 +1,21 @@
 {
-  "jisCode": "01210",
-  "oldZipCode": "068  ",
-  "zipCode": "0680824",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "イワミザワシ",
-  "townKana": "ヒノデキタ",
-  "prefecture": "北海道",
-  "city": "岩見沢市",
-  "town": "日の出北",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01210",
+      "oldZipCode": "068  ",
+      "zipCode": "0680824",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "イワミザワシ",
+      "townKana": "ヒノデキタ",
+      "prefecture": "北海道",
+      "city": "岩見沢市",
+      "town": "日の出北",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

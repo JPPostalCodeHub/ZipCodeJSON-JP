@@ -1,17 +1,21 @@
 {
-  "jisCode": "09213",
-  "oldZipCode": "325  ",
-  "zipCode": "3250027",
-  "prefectureKana": "トチギケン",
-  "cityKana": "ナスシオバラシ",
-  "townKana": "キョウコンシャ",
-  "prefecture": "栃木県",
-  "city": "那須塩原市",
-  "town": "共墾社",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "09213",
+      "oldZipCode": "325  ",
+      "zipCode": "3250027",
+      "prefectureKana": "トチギケン",
+      "cityKana": "ナスシオバラシ",
+      "townKana": "キョウコンシャ",
+      "prefecture": "栃木県",
+      "city": "那須塩原市",
+      "town": "共墾社",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

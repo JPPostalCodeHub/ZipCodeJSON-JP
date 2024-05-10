@@ -1,17 +1,21 @@
 {
-  "jisCode": "28226",
-  "oldZipCode": "65616",
-  "zipCode": "6561603",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "アワジシ",
-  "townKana": "イクタオオツボ",
-  "prefecture": "兵庫県",
-  "city": "淡路市",
-  "town": "生田大坪",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28226",
+      "oldZipCode": "65616",
+      "zipCode": "6561603",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "アワジシ",
+      "townKana": "イクタオオツボ",
+      "prefecture": "兵庫県",
+      "city": "淡路市",
+      "town": "生田大坪",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

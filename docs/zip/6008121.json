@@ -1,17 +1,21 @@
 {
-  "jisCode": "26106",
-  "oldZipCode": "600  ",
-  "zipCode": "6008121",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシシモギョウク",
-  "townKana": "キクヤチョウ",
-  "prefecture": "京都府",
-  "city": "京都市下京区",
-  "town": "菊屋町（上ノ口通加茂川筋西入、上ノ口通加茂川筋西入上る、加茂川筋上ノ口下る、上ノ口通二ノ宮西入、二ノ宮通上ノ口下る）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26106",
+      "oldZipCode": "600  ",
+      "zipCode": "6008121",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシシモギョウク",
+      "townKana": "キクヤチョウ",
+      "prefecture": "京都府",
+      "city": "京都市下京区",
+      "town": "菊屋町（上ノ口通加茂川筋西入、上ノ口通加茂川筋西入上る、加茂川筋上ノ口下る、上ノ口通二ノ宮西入、二ノ宮通上ノ口下る）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

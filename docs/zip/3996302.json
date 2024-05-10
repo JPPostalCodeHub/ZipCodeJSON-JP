@@ -1,17 +1,21 @@
 {
-  "jisCode": "20215",
-  "oldZipCode": "39963",
-  "zipCode": "3996302",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "シオジリシ",
-  "townKana": "キソヒラサワ",
-  "prefecture": "長野県",
-  "city": "塩尻市",
-  "town": "木曽平沢",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20215",
+      "oldZipCode": "39963",
+      "zipCode": "3996302",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "シオジリシ",
+      "townKana": "キソヒラサワ",
+      "prefecture": "長野県",
+      "city": "塩尻市",
+      "town": "木曽平沢",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

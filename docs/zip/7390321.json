@@ -1,17 +1,21 @@
 {
-  "jisCode": "34107",
-  "oldZipCode": "73903",
-  "zipCode": "7390321",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "ヒロシマシアキク",
-  "townKana": "ナカノ",
-  "prefecture": "広島県",
-  "city": "広島市安芸区",
-  "town": "中野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34107",
+      "oldZipCode": "73903",
+      "zipCode": "7390321",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ヒロシマシアキク",
+      "townKana": "ナカノ",
+      "prefecture": "広島県",
+      "city": "広島市安芸区",
+      "town": "中野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

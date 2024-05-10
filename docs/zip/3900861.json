@@ -1,17 +1,21 @@
 {
-  "jisCode": "20202",
-  "oldZipCode": "390  ",
-  "zipCode": "3900861",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "マツモトシ",
-  "townKana": "アリガサキ",
-  "prefecture": "長野県",
-  "city": "松本市",
-  "town": "蟻ケ崎",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20202",
+      "oldZipCode": "390  ",
+      "zipCode": "3900861",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "マツモトシ",
+      "townKana": "アリガサキ",
+      "prefecture": "長野県",
+      "city": "松本市",
+      "town": "蟻ケ崎",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

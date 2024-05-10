@@ -1,17 +1,21 @@
 {
-  "jisCode": "29426",
-  "oldZipCode": "635  ",
-  "zipCode": "6350831",
-  "prefectureKana": "ナラケン",
-  "cityKana": "キタカツラギグンコウリョウチョウ",
-  "townKana": "ウマミキタ",
-  "prefecture": "奈良県",
-  "city": "北葛城郡広陵町",
-  "town": "馬見北",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "29426",
+      "oldZipCode": "635  ",
+      "zipCode": "6350831",
+      "prefectureKana": "ナラケン",
+      "cityKana": "キタカツラギグンコウリョウチョウ",
+      "townKana": "ウマミキタ",
+      "prefecture": "奈良県",
+      "city": "北葛城郡広陵町",
+      "town": "馬見北",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

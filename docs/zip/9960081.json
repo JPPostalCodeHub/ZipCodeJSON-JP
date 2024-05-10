@@ -1,17 +1,21 @@
 {
-  "jisCode": "06205",
-  "oldZipCode": "996  ",
-  "zipCode": "9960081",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "シンジョウシ",
-  "townKana": "ナカミチマチ",
-  "prefecture": "山形県",
-  "city": "新庄市",
-  "town": "中道町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06205",
+      "oldZipCode": "996  ",
+      "zipCode": "9960081",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "シンジョウシ",
+      "townKana": "ナカミチマチ",
+      "prefecture": "山形県",
+      "city": "新庄市",
+      "town": "中道町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

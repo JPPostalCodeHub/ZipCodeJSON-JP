@@ -1,17 +1,21 @@
 {
-  "jisCode": "07547",
-  "oldZipCode": "97915",
-  "zipCode": "9791505",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "フタバグンナミエマチ",
-  "townKana": "カリヤド",
-  "prefecture": "福島県",
-  "city": "双葉郡浪江町",
-  "town": "苅宿",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07547",
+      "oldZipCode": "97915",
+      "zipCode": "9791505",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "フタバグンナミエマチ",
+      "townKana": "カリヤド",
+      "prefecture": "福島県",
+      "city": "双葉郡浪江町",
+      "town": "苅宿",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

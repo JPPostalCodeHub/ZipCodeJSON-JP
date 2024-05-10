@@ -1,17 +1,21 @@
 {
-  "jisCode": "26102",
-  "oldZipCode": "602  ",
-  "zipCode": "6028058",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシカミギョウク",
-  "townKana": "ニチョウメ",
-  "prefecture": "京都府",
-  "city": "京都市上京区",
-  "town": "二町目（上長者町通東堀川東入、東堀川通上長者町下る、東堀川通下長者町上る、東堀川通上長者町上る）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26102",
+      "oldZipCode": "602  ",
+      "zipCode": "6028058",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシカミギョウク",
+      "townKana": "ニチョウメ",
+      "prefecture": "京都府",
+      "city": "京都市上京区",
+      "town": "二町目（上長者町通東堀川東入、東堀川通上長者町下る、東堀川通下長者町上る、東堀川通上長者町上る）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "28217",
-  "oldZipCode": "666  ",
-  "zipCode": "6660011",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "カワニシシ",
-  "townKana": "デザイケチョウ",
-  "prefecture": "兵庫県",
-  "city": "川西市",
-  "town": "出在家町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28217",
+      "oldZipCode": "666  ",
+      "zipCode": "6660011",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "カワニシシ",
+      "townKana": "デザイケチョウ",
+      "prefecture": "兵庫県",
+      "city": "川西市",
+      "town": "出在家町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

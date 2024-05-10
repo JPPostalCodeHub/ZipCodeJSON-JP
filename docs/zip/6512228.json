@@ -1,17 +1,21 @@
 {
-  "jisCode": "28111",
-  "oldZipCode": "65122",
-  "zipCode": "6512228",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "コウベシニシク",
-  "townKana": "ミツガオカ",
-  "prefecture": "兵庫県",
-  "city": "神戸市西区",
-  "town": "見津が丘",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28111",
+      "oldZipCode": "65122",
+      "zipCode": "6512228",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "コウベシニシク",
+      "townKana": "ミツガオカ",
+      "prefecture": "兵庫県",
+      "city": "神戸市西区",
+      "town": "見津が丘",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

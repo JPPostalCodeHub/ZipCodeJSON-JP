@@ -1,17 +1,21 @@
 {
-  "jisCode": "10203",
-  "oldZipCode": "376  ",
-  "zipCode": "3760011",
-  "prefectureKana": "グンマケン",
-  "cityKana": "キリュウシ",
-  "townKana": "アイオイチョウ",
-  "prefecture": "群馬県",
-  "city": "桐生市",
-  "town": "相生町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "10203",
+      "oldZipCode": "376  ",
+      "zipCode": "3760011",
+      "prefectureKana": "グンマケン",
+      "cityKana": "キリュウシ",
+      "townKana": "アイオイチョウ",
+      "prefecture": "群馬県",
+      "city": "桐生市",
+      "town": "相生町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

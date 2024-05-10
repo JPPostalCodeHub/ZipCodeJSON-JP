@@ -1,17 +1,21 @@
 {
-  "jisCode": "29206",
-  "oldZipCode": "633  ",
-  "zipCode": "6330032",
-  "prefectureKana": "ナラケン",
-  "cityKana": "サクライシ",
-  "townKana": "トウノミネ",
-  "prefecture": "奈良県",
-  "city": "桜井市",
-  "town": "多武峰",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "29206",
+      "oldZipCode": "633  ",
+      "zipCode": "6330032",
+      "prefectureKana": "ナラケン",
+      "cityKana": "サクライシ",
+      "townKana": "トウノミネ",
+      "prefecture": "奈良県",
+      "city": "桜井市",
+      "town": "多武峰",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

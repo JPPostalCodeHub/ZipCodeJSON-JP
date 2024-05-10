@@ -1,17 +1,21 @@
 {
-  "jisCode": "01101",
-  "oldZipCode": "064  ",
-  "zipCode": "0640808",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "サッポロシチュウオウク",
-  "townKana": "ミナミ８ジョウニシ",
-  "prefecture": "北海道",
-  "city": "札幌市中央区",
-  "town": "南八条西",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01101",
+      "oldZipCode": "064  ",
+      "zipCode": "0640808",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "サッポロシチュウオウク",
+      "townKana": "ミナミ８ジョウニシ",
+      "prefecture": "北海道",
+      "city": "札幌市中央区",
+      "town": "南八条西",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

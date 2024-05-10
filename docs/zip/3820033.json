@@ -1,17 +1,21 @@
 {
-  "jisCode": "20207",
-  "oldZipCode": "382  ",
-  "zipCode": "3820033",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "スザカシ",
-  "townKana": "カメクラチョウ",
-  "prefecture": "長野県",
-  "city": "須坂市",
-  "town": "亀倉町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20207",
+      "oldZipCode": "382  ",
+      "zipCode": "3820033",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "スザカシ",
+      "townKana": "カメクラチョウ",
+      "prefecture": "長野県",
+      "city": "須坂市",
+      "town": "亀倉町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

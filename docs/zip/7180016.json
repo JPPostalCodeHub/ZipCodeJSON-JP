@@ -1,17 +1,21 @@
 {
-  "jisCode": "33210",
-  "oldZipCode": "718  ",
-  "zipCode": "7180016",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "ニイミシ",
-  "townKana": "カナヤ",
-  "prefecture": "岡山県",
-  "city": "新見市",
-  "town": "金谷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33210",
+      "oldZipCode": "718  ",
+      "zipCode": "7180016",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "ニイミシ",
+      "townKana": "カナヤ",
+      "prefecture": "岡山県",
+      "city": "新見市",
+      "town": "金谷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

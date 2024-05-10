@@ -1,17 +1,21 @@
 {
-  "jisCode": "26111",
-  "oldZipCode": "61011",
-  "zipCode": "6101102",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシニシキョウク",
-  "townKana": "ゴリョウオオエヤマチョウ",
-  "prefecture": "京都府",
-  "city": "京都市西京区",
-  "town": "御陵大枝山町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26111",
+      "oldZipCode": "61011",
+      "zipCode": "6101102",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシニシキョウク",
+      "townKana": "ゴリョウオオエヤマチョウ",
+      "prefecture": "京都府",
+      "city": "京都市西京区",
+      "town": "御陵大枝山町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

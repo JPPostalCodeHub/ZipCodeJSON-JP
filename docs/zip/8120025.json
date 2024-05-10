@@ -1,17 +1,21 @@
 {
-  "jisCode": "40132",
-  "oldZipCode": "812  ",
-  "zipCode": "8120025",
-  "prefectureKana": "フクオカケン",
-  "cityKana": "フクオカシハカタク",
-  "townKana": "テンヤマチ",
-  "prefecture": "福岡県",
-  "city": "福岡市博多区",
-  "town": "店屋町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "40132",
+      "oldZipCode": "812  ",
+      "zipCode": "8120025",
+      "prefectureKana": "フクオカケン",
+      "cityKana": "フクオカシハカタク",
+      "townKana": "テンヤマチ",
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "town": "店屋町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

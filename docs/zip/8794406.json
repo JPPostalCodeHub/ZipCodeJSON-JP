@@ -1,17 +1,21 @@
 {
-  "jisCode": "44462",
-  "oldZipCode": "87944",
-  "zipCode": "8794406",
-  "prefectureKana": "オオイタケン",
-  "cityKana": "クスグンクスマチ",
-  "townKana": "ヒジウ",
-  "prefecture": "大分県",
-  "city": "玖珠郡玖珠町",
-  "town": "日出生",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "44462",
+      "oldZipCode": "87944",
+      "zipCode": "8794406",
+      "prefectureKana": "オオイタケン",
+      "cityKana": "クスグンクスマチ",
+      "townKana": "ヒジウ",
+      "prefecture": "大分県",
+      "city": "玖珠郡玖珠町",
+      "town": "日出生",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

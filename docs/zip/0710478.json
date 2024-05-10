@@ -1,17 +1,21 @@
 {
-  "jisCode": "01459",
-  "oldZipCode": "07104",
-  "zipCode": "0710478",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "カミカワグンビエイチョウ",
-  "townKana": "ルベシベ",
-  "prefecture": "北海道",
-  "city": "上川郡美瑛町",
-  "town": "瑠辺蘂",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01459",
+      "oldZipCode": "07104",
+      "zipCode": "0710478",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "カミカワグンビエイチョウ",
+      "townKana": "ルベシベ",
+      "prefecture": "北海道",
+      "city": "上川郡美瑛町",
+      "town": "瑠辺蘂",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

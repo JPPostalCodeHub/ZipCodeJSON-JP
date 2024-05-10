@@ -1,17 +1,21 @@
 {
-  "jisCode": "18481",
-  "oldZipCode": "91922",
-  "zipCode": "9192206",
-  "prefectureKana": "フクイケン",
-  "cityKana": "オオイグンタカハマチョウ",
-  "townKana": "カミクラモチ",
-  "prefecture": "福井県",
-  "city": "大飯郡高浜町",
-  "town": "上車持",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18481",
+      "oldZipCode": "91922",
+      "zipCode": "9192206",
+      "prefectureKana": "フクイケン",
+      "cityKana": "オオイグンタカハマチョウ",
+      "townKana": "カミクラモチ",
+      "prefecture": "福井県",
+      "city": "大飯郡高浜町",
+      "town": "上車持",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

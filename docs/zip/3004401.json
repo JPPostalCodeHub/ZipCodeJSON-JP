@@ -1,17 +1,21 @@
 {
-  "jisCode": "08231",
-  "oldZipCode": "30044",
-  "zipCode": "3004401",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "サクラガワシ",
-  "townKana": "マカベチョウカミコバタ",
-  "prefecture": "茨城県",
-  "city": "桜川市",
-  "town": "真壁町上小幡",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08231",
+      "oldZipCode": "30044",
+      "zipCode": "3004401",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "サクラガワシ",
+      "townKana": "マカベチョウカミコバタ",
+      "prefecture": "茨城県",
+      "city": "桜川市",
+      "town": "真壁町上小幡",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

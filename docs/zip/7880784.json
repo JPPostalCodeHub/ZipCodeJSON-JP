@@ -1,17 +1,21 @@
 {
-  "jisCode": "39208",
-  "oldZipCode": "78707",
-  "zipCode": "7880784",
-  "prefectureKana": "コウチケン",
-  "cityKana": "スクモシ",
-  "townKana": "ヤマナチョウヤマダ",
-  "prefecture": "高知県",
-  "city": "宿毛市",
-  "town": "山奈町山田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "39208",
+      "oldZipCode": "78707",
+      "zipCode": "7880784",
+      "prefectureKana": "コウチケン",
+      "cityKana": "スクモシ",
+      "townKana": "ヤマナチョウヤマダ",
+      "prefecture": "高知県",
+      "city": "宿毛市",
+      "town": "山奈町山田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

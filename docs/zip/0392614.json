@@ -1,17 +1,21 @@
 {
-  "jisCode": "02408",
-  "oldZipCode": "03926",
-  "zipCode": "0392614",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "カミキタグントウホクマチ",
-  "townKana": "キリサザカミチノシモ",
-  "prefecture": "青森県",
-  "city": "上北郡東北町",
-  "town": "切左坂道ノ下",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02408",
+      "oldZipCode": "03926",
+      "zipCode": "0392614",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "カミキタグントウホクマチ",
+      "townKana": "キリサザカミチノシモ",
+      "prefecture": "青森県",
+      "city": "上北郡東北町",
+      "town": "切左坂道ノ下",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

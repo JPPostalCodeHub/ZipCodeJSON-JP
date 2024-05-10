@@ -1,17 +1,21 @@
 {
-  "jisCode": "04362",
-  "oldZipCode": "98922",
-  "zipCode": "9892207",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "ワタリグンヤマモトチョウ",
-  "townKana": "ハデニワ",
-  "prefecture": "宮城県",
-  "city": "亘理郡山元町",
-  "town": "八手庭",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04362",
+      "oldZipCode": "98922",
+      "zipCode": "9892207",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "ワタリグンヤマモトチョウ",
+      "townKana": "ハデニワ",
+      "prefecture": "宮城県",
+      "city": "亘理郡山元町",
+      "town": "八手庭",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

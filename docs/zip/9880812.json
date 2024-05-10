@@ -1,17 +1,38 @@
 {
-  "jisCode": "04205",
-  "oldZipCode": "988  ",
-  "zipCode": "9880812",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "ケセンヌマシ",
-  "townKana": "オオトウゲヤマ",
-  "prefecture": "宮城県",
-  "city": "気仙沼市",
-  "town": "大峠山",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04205",
+      "oldZipCode": "988  ",
+      "zipCode": "9880812",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "ケセンヌマシ",
+      "townKana": "オオイワイヤマ",
+      "prefecture": "宮城県",
+      "city": "気仙沼市",
+      "town": "大岩井山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "04205",
+      "oldZipCode": "988  ",
+      "zipCode": "9880812",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "ケセンヌマシ",
+      "townKana": "オオトウゲヤマ",
+      "prefecture": "宮城県",
+      "city": "気仙沼市",
+      "town": "大峠山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

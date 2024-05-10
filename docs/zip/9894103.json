@@ -1,17 +1,21 @@
 {
-  "jisCode": "04215",
-  "oldZipCode": "98941",
-  "zipCode": "9894103",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "オオサキシ",
-  "townKana": "カシマダイヒラワタ",
-  "prefecture": "宮城県",
-  "city": "大崎市",
-  "town": "鹿島台平渡",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04215",
+      "oldZipCode": "98941",
+      "zipCode": "9894103",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "オオサキシ",
+      "townKana": "カシマダイヒラワタ",
+      "prefecture": "宮城県",
+      "city": "大崎市",
+      "town": "鹿島台平渡",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

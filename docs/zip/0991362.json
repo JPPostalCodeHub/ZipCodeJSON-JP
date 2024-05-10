@@ -1,17 +1,21 @@
 {
-  "jisCode": "01550",
-  "oldZipCode": "09913",
-  "zipCode": "0991362",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "トコログンオケトチョウ",
-  "townKana": "オカチ",
-  "prefecture": "北海道",
-  "city": "常呂郡置戸町",
-  "town": "雄勝",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01550",
+      "oldZipCode": "09913",
+      "zipCode": "0991362",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "トコログンオケトチョウ",
+      "townKana": "オカチ",
+      "prefecture": "北海道",
+      "city": "常呂郡置戸町",
+      "town": "雄勝",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

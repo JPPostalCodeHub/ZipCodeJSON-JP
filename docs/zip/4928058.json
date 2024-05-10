@@ -1,17 +1,21 @@
 {
-  "jisCode": "23220",
-  "oldZipCode": "492  ",
-  "zipCode": "4928058",
-  "prefectureKana": "アイチケン",
-  "cityKana": "イナザワシ",
-  "townKana": "オリヅウシアライチョウ",
-  "prefecture": "愛知県",
-  "city": "稲沢市",
-  "town": "下津牛洗町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23220",
+      "oldZipCode": "492  ",
+      "zipCode": "4928058",
+      "prefectureKana": "アイチケン",
+      "cityKana": "イナザワシ",
+      "townKana": "オリヅウシアライチョウ",
+      "prefecture": "愛知県",
+      "city": "稲沢市",
+      "town": "下津牛洗町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

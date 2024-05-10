@@ -1,17 +1,21 @@
 {
-  "jisCode": "23114",
-  "oldZipCode": "458  ",
-  "zipCode": "4580842",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ナゴヤシミドリク",
-  "townKana": "ナルミチョウ（ウエノヤマ）",
-  "prefecture": "愛知県",
-  "city": "名古屋市緑区",
-  "town": "鳴海町（上ノ山）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23114",
+      "oldZipCode": "458  ",
+      "zipCode": "4580842",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ナゴヤシミドリク",
+      "townKana": "ナルミチョウ（ウエノヤマ）",
+      "prefecture": "愛知県",
+      "city": "名古屋市緑区",
+      "town": "鳴海町（上ノ山）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

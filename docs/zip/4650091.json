@@ -1,17 +1,21 @@
 {
-  "jisCode": "23115",
-  "oldZipCode": "465  ",
-  "zipCode": "4650091",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ナゴヤシメイトウク",
-  "townKana": "ヨモギダイ",
-  "prefecture": "愛知県",
-  "city": "名古屋市名東区",
-  "town": "よもぎ台",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23115",
+      "oldZipCode": "465  ",
+      "zipCode": "4650091",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ナゴヤシメイトウク",
+      "townKana": "ヨモギダイ",
+      "prefecture": "愛知県",
+      "city": "名古屋市名東区",
+      "town": "よもぎ台",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

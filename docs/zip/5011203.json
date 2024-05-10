@@ -1,17 +1,38 @@
 {
-  "jisCode": "21218",
-  "oldZipCode": "50112",
-  "zipCode": "5011203",
-  "prefectureKana": "ギフケン",
-  "cityKana": "モトスシ",
-  "townKana": "モンジュ",
-  "prefecture": "岐阜県",
-  "city": "本巣市",
-  "town": "文殊",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "21218",
+      "oldZipCode": "50112",
+      "zipCode": "5011203",
+      "prefectureKana": "ギフケン",
+      "cityKana": "モトスシ",
+      "townKana": "ホウジュハイツ",
+      "prefecture": "岐阜県",
+      "city": "本巣市",
+      "town": "宝珠ハイツ",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "21218",
+      "oldZipCode": "50112",
+      "zipCode": "5011203",
+      "prefectureKana": "ギフケン",
+      "cityKana": "モトスシ",
+      "townKana": "モンジュ",
+      "prefecture": "岐阜県",
+      "city": "本巣市",
+      "town": "文殊",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

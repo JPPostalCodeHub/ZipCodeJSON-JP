@@ -1,17 +1,38 @@
 {
-  "jisCode": "16323",
-  "oldZipCode": "93002",
-  "zipCode": "9300200",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "ナカニイカワグンタテヤママチ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "富山県",
-  "city": "中新川郡立山町",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16321",
+      "oldZipCode": "93002",
+      "zipCode": "9300200",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "ナカニイカワグンフナハシムラ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "富山県",
+      "city": "中新川郡舟橋村",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "16323",
+      "oldZipCode": "93002",
+      "zipCode": "9300200",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "ナカニイカワグンタテヤママチ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "富山県",
+      "city": "中新川郡立山町",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

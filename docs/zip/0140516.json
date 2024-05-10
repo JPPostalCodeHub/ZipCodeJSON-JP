@@ -1,17 +1,21 @@
 {
-  "jisCode": "05215",
-  "oldZipCode": "01405",
-  "zipCode": "0140516",
-  "prefectureKana": "アキタケン",
-  "cityKana": "センボクシ",
-  "townKana": "ニシキチョウコヤマダ",
-  "prefecture": "秋田県",
-  "city": "仙北市",
-  "town": "西木町小山田",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05215",
+      "oldZipCode": "01405",
+      "zipCode": "0140516",
+      "prefectureKana": "アキタケン",
+      "cityKana": "センボクシ",
+      "townKana": "ニシキチョウコヤマダ",
+      "prefecture": "秋田県",
+      "city": "仙北市",
+      "town": "西木町小山田",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

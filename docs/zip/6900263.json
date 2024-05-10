@@ -1,17 +1,21 @@
 {
-  "jisCode": "32201",
-  "oldZipCode": "69002",
-  "zipCode": "6900263",
-  "prefectureKana": "シマネケン",
-  "cityKana": "マツエシ",
-  "townKana": "オオガキチョウ",
-  "prefecture": "島根県",
-  "city": "松江市",
-  "town": "大垣町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "32201",
+      "oldZipCode": "69002",
+      "zipCode": "6900263",
+      "prefectureKana": "シマネケン",
+      "cityKana": "マツエシ",
+      "townKana": "オオガキチョウ",
+      "prefecture": "島根県",
+      "city": "松江市",
+      "town": "大垣町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

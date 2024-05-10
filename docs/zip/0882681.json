@@ -1,17 +1,21 @@
 {
-  "jisCode": "01692",
-  "oldZipCode": "08826",
-  "zipCode": "0882681",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "シベツグンナカシベツチョウ",
-  "townKana": "トウホロ",
-  "prefecture": "北海道",
-  "city": "標津郡中標津町",
-  "town": "当幌",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01692",
+      "oldZipCode": "08826",
+      "zipCode": "0882681",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "シベツグンナカシベツチョウ",
+      "townKana": "トウホロ",
+      "prefecture": "北海道",
+      "city": "標津郡中標津町",
+      "town": "当幌",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

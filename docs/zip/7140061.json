@@ -1,17 +1,21 @@
 {
-  "jisCode": "33205",
-  "oldZipCode": "714  ",
-  "zipCode": "7140061",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "カサオカシ",
-  "townKana": "オオゲ",
-  "prefecture": "岡山県",
-  "city": "笠岡市",
-  "town": "大げ",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33205",
+      "oldZipCode": "714  ",
+      "zipCode": "7140061",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "カサオカシ",
+      "townKana": "オオゲ",
+      "prefecture": "岡山県",
+      "city": "笠岡市",
+      "town": "大げ",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

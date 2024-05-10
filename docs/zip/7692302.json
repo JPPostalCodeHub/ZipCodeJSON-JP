@@ -1,17 +1,21 @@
 {
-  "jisCode": "37206",
-  "oldZipCode": "76923",
-  "zipCode": "7692302",
-  "prefectureKana": "カガワケン",
-  "cityKana": "サヌキシ",
-  "townKana": "ナガオニシ",
-  "prefecture": "香川県",
-  "city": "さぬき市",
-  "town": "長尾西",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "37206",
+      "oldZipCode": "76923",
+      "zipCode": "7692302",
+      "prefectureKana": "カガワケン",
+      "cityKana": "サヌキシ",
+      "townKana": "ナガオニシ",
+      "prefecture": "香川県",
+      "city": "さぬき市",
+      "town": "長尾西",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

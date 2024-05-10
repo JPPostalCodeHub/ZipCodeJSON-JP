@@ -1,17 +1,21 @@
 {
-  "jisCode": "14364",
-  "oldZipCode": "25801",
-  "zipCode": "2580112",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "アシガラカミグンヤマキタマチ",
-  "townKana": "キシ",
-  "prefecture": "神奈川県",
-  "city": "足柄上郡山北町",
-  "town": "岸",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14364",
+      "oldZipCode": "25801",
+      "zipCode": "2580112",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "アシガラカミグンヤマキタマチ",
+      "townKana": "キシ",
+      "prefecture": "神奈川県",
+      "city": "足柄上郡山北町",
+      "town": "岸",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

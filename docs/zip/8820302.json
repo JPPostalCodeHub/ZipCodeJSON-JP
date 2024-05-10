@@ -1,17 +1,21 @@
 {
-  "jisCode": "45442",
-  "oldZipCode": "88203",
-  "zipCode": "8820302",
-  "prefectureKana": "ミヤザキケン",
-  "cityKana": "ニシウスキグンヒノカゲチョウ",
-  "townKana": "イワイカワ（サカイノ）",
-  "prefecture": "宮崎県",
-  "city": "西臼杵郡日之影町",
-  "town": "岩井川（境野）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "45442",
+      "oldZipCode": "88203",
+      "zipCode": "8820302",
+      "prefectureKana": "ミヤザキケン",
+      "cityKana": "ニシウスキグンヒノカゲチョウ",
+      "townKana": "イワイカワ（サカイノ）",
+      "prefecture": "宮崎県",
+      "city": "西臼杵郡日之影町",
+      "town": "岩井川（境野）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

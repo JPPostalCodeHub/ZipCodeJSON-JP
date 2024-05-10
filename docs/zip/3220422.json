@@ -1,17 +1,21 @@
 {
-  "jisCode": "09205",
-  "oldZipCode": "32204",
-  "zipCode": "3220422",
-  "prefectureKana": "トチギケン",
-  "cityKana": "カヌマシ",
-  "townKana": "ナカカスオ",
-  "prefecture": "栃木県",
-  "city": "鹿沼市",
-  "town": "中粕尾",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "09205",
+      "oldZipCode": "32204",
+      "zipCode": "3220422",
+      "prefectureKana": "トチギケン",
+      "cityKana": "カヌマシ",
+      "townKana": "ナカカスオ",
+      "prefecture": "栃木県",
+      "city": "鹿沼市",
+      "town": "中粕尾",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

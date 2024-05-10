@@ -1,17 +1,21 @@
 {
-  "jisCode": "13112",
-  "oldZipCode": "154  ",
-  "zipCode": "1540000",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "セタガヤク",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "東京都",
-  "city": "世田谷区",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13112",
+      "oldZipCode": "154  ",
+      "zipCode": "1540000",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "セタガヤク",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "東京都",
+      "city": "世田谷区",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

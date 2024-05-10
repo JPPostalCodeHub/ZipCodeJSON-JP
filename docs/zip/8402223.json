@@ -1,17 +1,21 @@
 {
-  "jisCode": "41201",
-  "oldZipCode": "84022",
-  "zipCode": "8402223",
-  "prefectureKana": "サガケン",
-  "cityKana": "サガシ",
-  "townKana": "ヒガシヨカチョウイサガイ",
-  "prefecture": "佐賀県",
-  "city": "佐賀市",
-  "town": "東与賀町飯盛",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "41201",
+      "oldZipCode": "84022",
+      "zipCode": "8402223",
+      "prefectureKana": "サガケン",
+      "cityKana": "サガシ",
+      "townKana": "ヒガシヨカチョウイサガイ",
+      "prefecture": "佐賀県",
+      "city": "佐賀市",
+      "town": "東与賀町飯盛",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

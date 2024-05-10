@@ -1,17 +1,21 @@
 {
-  "jisCode": "20361",
-  "oldZipCode": "393  ",
-  "zipCode": "3930085",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "スワグンシモスワマチ",
-  "townKana": "ヒガシタカノマチ",
-  "prefecture": "長野県",
-  "city": "諏訪郡下諏訪町",
-  "town": "東鷹野町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20361",
+      "oldZipCode": "393  ",
+      "zipCode": "3930085",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "スワグンシモスワマチ",
+      "townKana": "ヒガシタカノマチ",
+      "prefecture": "長野県",
+      "city": "諏訪郡下諏訪町",
+      "town": "東鷹野町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

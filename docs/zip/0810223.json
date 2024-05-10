@@ -1,17 +1,21 @@
 {
-  "jisCode": "01634",
-  "oldZipCode": "08102",
-  "zipCode": "0810223",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "カトウグンシカオイチョウ",
-  "townKana": "ミナミマチ",
-  "prefecture": "北海道",
-  "city": "河東郡鹿追町",
-  "town": "南町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01634",
+      "oldZipCode": "08102",
+      "zipCode": "0810223",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "カトウグンシカオイチョウ",
+      "townKana": "ミナミマチ",
+      "prefecture": "北海道",
+      "city": "河東郡鹿追町",
+      "town": "南町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

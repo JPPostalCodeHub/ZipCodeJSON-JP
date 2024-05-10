@@ -1,17 +1,21 @@
 {
-  "jisCode": "38205",
-  "oldZipCode": "792  ",
-  "zipCode": "7920024",
-  "prefectureKana": "エヒメケン",
-  "cityKana": "ニイハマシ",
-  "townKana": "ミヤニシチョウ",
-  "prefecture": "愛媛県",
-  "city": "新居浜市",
-  "town": "宮西町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "38205",
+      "oldZipCode": "792  ",
+      "zipCode": "7920024",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "ニイハマシ",
+      "townKana": "ミヤニシチョウ",
+      "prefecture": "愛媛県",
+      "city": "新居浜市",
+      "town": "宮西町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

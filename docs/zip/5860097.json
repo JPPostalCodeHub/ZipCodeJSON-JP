@@ -1,17 +1,21 @@
 {
-  "jisCode": "27216",
-  "oldZipCode": "586  ",
-  "zipCode": "5860097",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "カワチナガノシ",
-  "townKana": "キリガオカ",
-  "prefecture": "大阪府",
-  "city": "河内長野市",
-  "town": "桐ケ丘",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27216",
+      "oldZipCode": "586  ",
+      "zipCode": "5860097",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "カワチナガノシ",
+      "townKana": "キリガオカ",
+      "prefecture": "大阪府",
+      "city": "河内長野市",
+      "town": "桐ケ丘",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

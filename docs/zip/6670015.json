@@ -1,17 +1,21 @@
 {
-  "jisCode": "28222",
-  "oldZipCode": "667  ",
-  "zipCode": "6670015",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "ヤブシ",
-  "townKana": "ヨウカチョウオオエ",
-  "prefecture": "兵庫県",
-  "city": "養父市",
-  "town": "八鹿町大江",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28222",
+      "oldZipCode": "667  ",
+      "zipCode": "6670015",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "ヤブシ",
+      "townKana": "ヨウカチョウオオエ",
+      "prefecture": "兵庫県",
+      "city": "養父市",
+      "town": "八鹿町大江",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "22214",
-  "oldZipCode": "42111",
-  "zipCode": "4211132",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "フジエダシ",
-  "townKana": "オカベチョウミワ",
-  "prefecture": "静岡県",
-  "city": "藤枝市",
-  "town": "岡部町三輪",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22214",
+      "oldZipCode": "42111",
+      "zipCode": "4211132",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "フジエダシ",
+      "townKana": "オカベチョウミワ",
+      "prefecture": "静岡県",
+      "city": "藤枝市",
+      "town": "岡部町三輪",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

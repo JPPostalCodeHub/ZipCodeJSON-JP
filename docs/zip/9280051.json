@@ -1,17 +1,21 @@
 {
-  "jisCode": "17204",
-  "oldZipCode": "928  ",
-  "zipCode": "9280051",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "ワジマシ",
-  "townKana": "オイケマチ",
-  "prefecture": "石川県",
-  "city": "輪島市",
-  "town": "小池町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17204",
+      "oldZipCode": "928  ",
+      "zipCode": "9280051",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "ワジマシ",
+      "townKana": "オイケマチ",
+      "prefecture": "石川県",
+      "city": "輪島市",
+      "town": "小池町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

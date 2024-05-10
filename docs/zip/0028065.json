@@ -1,17 +1,21 @@
 {
-  "jisCode": "01102",
-  "oldZipCode": "002  ",
-  "zipCode": "0028065",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "サッポロシキタク",
-  "townKana": "タクホク５ジョウ",
-  "prefecture": "北海道",
-  "city": "札幌市北区",
-  "town": "拓北五条",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01102",
+      "oldZipCode": "002  ",
+      "zipCode": "0028065",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "サッポロシキタク",
+      "townKana": "タクホク５ジョウ",
+      "prefecture": "北海道",
+      "city": "札幌市北区",
+      "town": "拓北五条",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "01457",
-  "oldZipCode": "07817",
-  "zipCode": "0781721",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "カミカワグンカミカワチョウ",
-  "townKana": "キクスイ",
-  "prefecture": "北海道",
-  "city": "上川郡上川町",
-  "town": "菊水",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01457",
+      "oldZipCode": "07817",
+      "zipCode": "0781721",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "カミカワグンカミカワチョウ",
+      "townKana": "キクスイ",
+      "prefecture": "北海道",
+      "city": "上川郡上川町",
+      "town": "菊水",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

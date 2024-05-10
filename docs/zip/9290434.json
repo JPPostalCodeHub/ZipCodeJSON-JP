@@ -1,17 +1,38 @@
 {
-  "jisCode": "17361",
-  "oldZipCode": "92904",
-  "zipCode": "9290434",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "カホクグンツバタマチ",
-  "townKana": "フナオ",
-  "prefecture": "石川県",
-  "city": "河北郡津幡町",
-  "town": "舟尾",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17361",
+      "oldZipCode": "92904",
+      "zipCode": "9290434",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "カホクグンツバタマチ",
+      "townKana": "ジョウトク",
+      "prefecture": "石川県",
+      "city": "河北郡津幡町",
+      "town": "常徳",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "17361",
+      "oldZipCode": "92904",
+      "zipCode": "9290434",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "カホクグンツバタマチ",
+      "townKana": "フナオ",
+      "prefecture": "石川県",
+      "city": "河北郡津幡町",
+      "town": "舟尾",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "26209",
-  "oldZipCode": "617  ",
-  "zipCode": "6170837",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "ナガオカキョウシ",
-  "townKana": "クガイ",
-  "prefecture": "京都府",
-  "city": "長岡京市",
-  "town": "久貝",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26209",
+      "oldZipCode": "617  ",
+      "zipCode": "6170837",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "ナガオカキョウシ",
+      "townKana": "クガイ",
+      "prefecture": "京都府",
+      "city": "長岡京市",
+      "town": "久貝",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

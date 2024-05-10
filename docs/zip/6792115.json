@@ -1,17 +1,21 @@
 {
-  "jisCode": "28201",
-  "oldZipCode": "67921",
-  "zipCode": "6792115",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "ヒメジシ",
-  "townKana": "ヤマダチョウニシヤマダ",
-  "prefecture": "兵庫県",
-  "city": "姫路市",
-  "town": "山田町西山田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28201",
+      "oldZipCode": "67921",
+      "zipCode": "6792115",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "ヒメジシ",
+      "townKana": "ヤマダチョウニシヤマダ",
+      "prefecture": "兵庫県",
+      "city": "姫路市",
+      "town": "山田町西山田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

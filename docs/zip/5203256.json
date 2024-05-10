@@ -1,17 +1,21 @@
 {
-  "jisCode": "25211",
-  "oldZipCode": "52032",
-  "zipCode": "5203256",
-  "prefectureKana": "シガケン",
-  "cityKana": "コナンシ",
-  "townKana": "ヒエアオイ",
-  "prefecture": "滋賀県",
-  "city": "湖南市",
-  "town": "日枝あおい",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "25211",
+      "oldZipCode": "52032",
+      "zipCode": "5203256",
+      "prefectureKana": "シガケン",
+      "cityKana": "コナンシ",
+      "townKana": "ヒエアオイ",
+      "prefecture": "滋賀県",
+      "city": "湖南市",
+      "town": "日枝あおい",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

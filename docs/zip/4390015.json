@@ -1,17 +1,21 @@
 {
-  "jisCode": "22224",
-  "oldZipCode": "439  ",
-  "zipCode": "4390015",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "キクガワシ",
-  "townKana": "マキノハラ",
-  "prefecture": "静岡県",
-  "city": "菊川市",
-  "town": "牧之原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22224",
+      "oldZipCode": "439  ",
+      "zipCode": "4390015",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "キクガワシ",
+      "townKana": "マキノハラ",
+      "prefecture": "静岡県",
+      "city": "菊川市",
+      "town": "牧之原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "07303",
-  "oldZipCode": "96917",
-  "zipCode": "9691786",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "ダテグンクニミマチ",
-  "townKana": "シンイズミダ",
-  "prefecture": "福島県",
-  "city": "伊達郡国見町",
-  "town": "新泉田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07303",
+      "oldZipCode": "96917",
+      "zipCode": "9691786",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "ダテグンクニミマチ",
+      "townKana": "シンイズミダ",
+      "prefecture": "福島県",
+      "city": "伊達郡国見町",
+      "town": "新泉田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

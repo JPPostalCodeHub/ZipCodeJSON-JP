@@ -1,17 +1,21 @@
 {
-  "jisCode": "30428",
-  "oldZipCode": "64936",
-  "zipCode": "6493631",
-  "prefectureKana": "ワカヤマケン",
-  "cityKana": "ヒガシムログンクシモトチョウ",
-  "townKana": "カシノ",
-  "prefecture": "和歌山県",
-  "city": "東牟婁郡串本町",
-  "town": "樫野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "30428",
+      "oldZipCode": "64936",
+      "zipCode": "6493631",
+      "prefectureKana": "ワカヤマケン",
+      "cityKana": "ヒガシムログンクシモトチョウ",
+      "townKana": "カシノ",
+      "prefecture": "和歌山県",
+      "city": "東牟婁郡串本町",
+      "town": "樫野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

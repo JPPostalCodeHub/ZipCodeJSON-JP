@@ -1,17 +1,21 @@
 {
-  "jisCode": "14102",
-  "oldZipCode": "221  ",
-  "zipCode": "2210053",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "ヨコハマシカナガワク",
-  "townKana": "ハシモトチョウ",
-  "prefecture": "神奈川県",
-  "city": "横浜市神奈川区",
-  "town": "橋本町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14102",
+      "oldZipCode": "221  ",
+      "zipCode": "2210053",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "ヨコハマシカナガワク",
+      "townKana": "ハシモトチョウ",
+      "prefecture": "神奈川県",
+      "city": "横浜市神奈川区",
+      "town": "橋本町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "11246",
-  "oldZipCode": "34902",
-  "zipCode": "3490212",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "シラオカシ",
-  "townKana": "シンシラオカ",
-  "prefecture": "埼玉県",
-  "city": "白岡市",
-  "town": "新白岡",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11246",
+      "oldZipCode": "34902",
+      "zipCode": "3490212",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "シラオカシ",
+      "townKana": "シンシラオカ",
+      "prefecture": "埼玉県",
+      "city": "白岡市",
+      "town": "新白岡",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

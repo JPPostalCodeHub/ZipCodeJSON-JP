@@ -1,17 +1,21 @@
 {
-  "jisCode": "13121",
-  "oldZipCode": "120  ",
-  "zipCode": "1200032",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "アダチク",
-  "townKana": "センジュヤナギチョウ",
-  "prefecture": "東京都",
-  "city": "足立区",
-  "town": "千住柳町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13121",
+      "oldZipCode": "120  ",
+      "zipCode": "1200032",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "アダチク",
+      "townKana": "センジュヤナギチョウ",
+      "prefecture": "東京都",
+      "city": "足立区",
+      "town": "千住柳町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

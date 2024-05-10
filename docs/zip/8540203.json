@@ -1,17 +1,21 @@
 {
-  "jisCode": "42204",
-  "oldZipCode": "85402",
-  "zipCode": "8540203",
-  "prefectureKana": "ナガサキケン",
-  "cityKana": "イサハヤシ",
-  "townKana": "モリヤマチョウホンムラ",
-  "prefecture": "長崎県",
-  "city": "諫早市",
-  "town": "森山町本村",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "42204",
+      "oldZipCode": "85402",
+      "zipCode": "8540203",
+      "prefectureKana": "ナガサキケン",
+      "cityKana": "イサハヤシ",
+      "townKana": "モリヤマチョウホンムラ",
+      "prefecture": "長崎県",
+      "city": "諫早市",
+      "town": "森山町本村",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

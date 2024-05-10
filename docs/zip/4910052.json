@@ -1,17 +1,21 @@
 {
-  "jisCode": "23203",
-  "oldZipCode": "491  ",
-  "zipCode": "4910052",
-  "prefectureKana": "アイチケン",
-  "cityKana": "イチノミヤシ",
-  "townKana": "イマイセチョウシンカンベ",
-  "prefecture": "愛知県",
-  "city": "一宮市",
-  "town": "今伊勢町新神戸",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23203",
+      "oldZipCode": "491  ",
+      "zipCode": "4910052",
+      "prefectureKana": "アイチケン",
+      "cityKana": "イチノミヤシ",
+      "townKana": "イマイセチョウシンカンベ",
+      "prefecture": "愛知県",
+      "city": "一宮市",
+      "town": "今伊勢町新神戸",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

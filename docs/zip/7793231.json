@@ -1,17 +1,21 @@
 {
-  "jisCode": "36341",
-  "oldZipCode": "77932",
-  "zipCode": "7793231",
-  "prefectureKana": "トクシマケン",
-  "cityKana": "ミョウザイグンイシイチョウ",
-  "townKana": "イシイ（シゲマツ）",
-  "prefecture": "徳島県",
-  "city": "名西郡石井町",
-  "town": "石井（重松）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "36341",
+      "oldZipCode": "77932",
+      "zipCode": "7793231",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "ミョウザイグンイシイチョウ",
+      "townKana": "イシイ（シゲマツ）",
+      "prefecture": "徳島県",
+      "city": "名西郡石井町",
+      "town": "石井（重松）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

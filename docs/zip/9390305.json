@@ -1,17 +1,21 @@
 {
-  "jisCode": "16211",
-  "oldZipCode": "93903",
-  "zipCode": "9390305",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "イミズシ",
-  "townKana": "ワシヅカ",
-  "prefecture": "富山県",
-  "city": "射水市",
-  "town": "鷲塚",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16211",
+      "oldZipCode": "93903",
+      "zipCode": "9390305",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "イミズシ",
+      "townKana": "ワシヅカ",
+      "prefecture": "富山県",
+      "city": "射水市",
+      "town": "鷲塚",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

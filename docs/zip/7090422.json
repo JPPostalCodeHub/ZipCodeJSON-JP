@@ -1,17 +1,21 @@
 {
-  "jisCode": "33346",
-  "oldZipCode": "70904",
-  "zipCode": "7090422",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "ワケグンワケチョウ",
-  "townKana": "シャクソ",
-  "prefecture": "岡山県",
-  "city": "和気郡和気町",
-  "town": "尺所",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33346",
+      "oldZipCode": "70904",
+      "zipCode": "7090422",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "ワケグンワケチョウ",
+      "townKana": "シャクソ",
+      "prefecture": "岡山県",
+      "city": "和気郡和気町",
+      "town": "尺所",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "22344",
-  "oldZipCode": "41013",
-  "zipCode": "4101321",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "スントウグンオヤマチョウ",
-  "townKana": "アダノ",
-  "prefecture": "静岡県",
-  "city": "駿東郡小山町",
-  "town": "阿多野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22344",
+      "oldZipCode": "41013",
+      "zipCode": "4101321",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "スントウグンオヤマチョウ",
+      "townKana": "アダノ",
+      "prefecture": "静岡県",
+      "city": "駿東郡小山町",
+      "town": "阿多野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

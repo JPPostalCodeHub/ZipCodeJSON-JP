@@ -1,17 +1,21 @@
 {
-  "jisCode": "02201",
-  "oldZipCode": "038  ",
-  "zipCode": "0380015",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "アオモリシ",
-  "townKana": "センガリ",
-  "prefecture": "青森県",
-  "city": "青森市",
-  "town": "千刈",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02201",
+      "oldZipCode": "038  ",
+      "zipCode": "0380015",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "アオモリシ",
+      "townKana": "センガリ",
+      "prefecture": "青森県",
+      "city": "青森市",
+      "town": "千刈",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

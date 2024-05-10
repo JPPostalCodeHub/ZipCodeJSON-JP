@@ -1,17 +1,38 @@
 {
-  "jisCode": "18205",
-  "oldZipCode": "912  ",
-  "zipCode": "9120046",
-  "prefectureKana": "フクイケン",
-  "cityKana": "オオノシ",
-  "townKana": "シンメイチョウ",
-  "prefecture": "福井県",
-  "city": "大野市",
-  "town": "神明町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18205",
+      "oldZipCode": "912  ",
+      "zipCode": "9120046",
+      "prefectureKana": "フクイケン",
+      "cityKana": "オオノシ",
+      "townKana": "シンメイ",
+      "prefecture": "福井県",
+      "city": "大野市",
+      "town": "神明",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "18205",
+      "oldZipCode": "912  ",
+      "zipCode": "9120046",
+      "prefectureKana": "フクイケン",
+      "cityKana": "オオノシ",
+      "townKana": "シンメイチョウ",
+      "prefecture": "福井県",
+      "city": "大野市",
+      "town": "神明町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

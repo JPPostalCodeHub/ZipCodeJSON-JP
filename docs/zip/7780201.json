@@ -1,17 +1,38 @@
 {
-  "jisCode": "36208",
-  "oldZipCode": "77802",
-  "zipCode": "7780201",
-  "prefectureKana": "トクシマケン",
-  "cityKana": "ミヨシシ",
-  "townKana": "ヒガシイヤミノコシ",
-  "prefecture": "徳島県",
-  "city": "三好市",
-  "town": "東祖谷見ノ越",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "36208",
+      "oldZipCode": "77802",
+      "zipCode": "7780201",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "ミヨシシ",
+      "townKana": "ヒガシイヤスゲオイ",
+      "prefecture": "徳島県",
+      "city": "三好市",
+      "town": "東祖谷菅生",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "36208",
+      "oldZipCode": "77802",
+      "zipCode": "7780201",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "ミヨシシ",
+      "townKana": "ヒガシイヤミノコシ",
+      "prefecture": "徳島県",
+      "city": "三好市",
+      "town": "東祖谷見ノ越",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

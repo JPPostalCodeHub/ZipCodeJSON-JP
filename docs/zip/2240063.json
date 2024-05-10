@@ -1,17 +1,21 @@
 {
-  "jisCode": "14118",
-  "oldZipCode": "224  ",
-  "zipCode": "2240063",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "ヨコハマシツヅキク",
-  "townKana": "ナガサカ",
-  "prefecture": "神奈川県",
-  "city": "横浜市都筑区",
-  "town": "長坂",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14118",
+      "oldZipCode": "224  ",
+      "zipCode": "2240063",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "ヨコハマシツヅキク",
+      "townKana": "ナガサカ",
+      "prefecture": "神奈川県",
+      "city": "横浜市都筑区",
+      "town": "長坂",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,38 @@
 {
-  "jisCode": "01428",
-  "oldZipCode": "06913",
-  "zipCode": "0691334",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ユウバリグンナガヌマチョウ",
-  "townKana": "ニシキマチミナミ",
-  "prefecture": "北海道",
-  "city": "夕張郡長沼町",
-  "town": "錦町南",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01428",
+      "oldZipCode": "06913",
+      "zipCode": "0691334",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ユウバリグンナガヌマチョウ",
+      "townKana": "ニシキマチキタ",
+      "prefecture": "北海道",
+      "city": "夕張郡長沼町",
+      "town": "錦町北",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "01428",
+      "oldZipCode": "06913",
+      "zipCode": "0691334",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ユウバリグンナガヌマチョウ",
+      "townKana": "ニシキマチミナミ",
+      "prefecture": "北海道",
+      "city": "夕張郡長沼町",
+      "town": "錦町南",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

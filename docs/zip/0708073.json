@@ -1,17 +1,21 @@
 {
-  "jisCode": "01204",
-  "oldZipCode": "070  ",
-  "zipCode": "0708073",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "アサヒカワシ",
-  "townKana": "ダイバ３ジョウ",
-  "prefecture": "北海道",
-  "city": "旭川市",
-  "town": "台場３条",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01204",
+      "oldZipCode": "070  ",
+      "zipCode": "0708073",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "アサヒカワシ",
+      "townKana": "ダイバ３ジョウ",
+      "prefecture": "北海道",
+      "city": "旭川市",
+      "town": "台場３条",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

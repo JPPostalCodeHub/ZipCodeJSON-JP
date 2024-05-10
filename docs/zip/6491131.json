@@ -1,17 +1,21 @@
 {
-  "jisCode": "30383",
-  "oldZipCode": "64911",
-  "zipCode": "6491131",
-  "prefectureKana": "ワカヤマケン",
-  "cityKana": "ヒダカグンユラチョウ",
-  "townKana": "コビキ",
-  "prefecture": "和歌山県",
-  "city": "日高郡由良町",
-  "town": "小引",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "30383",
+      "oldZipCode": "64911",
+      "zipCode": "6491131",
+      "prefectureKana": "ワカヤマケン",
+      "cityKana": "ヒダカグンユラチョウ",
+      "townKana": "コビキ",
+      "prefecture": "和歌山県",
+      "city": "日高郡由良町",
+      "town": "小引",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

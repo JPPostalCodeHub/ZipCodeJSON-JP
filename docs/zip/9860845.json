@@ -1,17 +1,21 @@
 {
-  "jisCode": "04202",
-  "oldZipCode": "986  ",
-  "zipCode": "9860845",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "イシノマキシ",
-  "townKana": "ナカジマチョウ",
-  "prefecture": "宮城県",
-  "city": "石巻市",
-  "town": "中島町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04202",
+      "oldZipCode": "986  ",
+      "zipCode": "9860845",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "イシノマキシ",
+      "townKana": "ナカジマチョウ",
+      "prefecture": "宮城県",
+      "city": "石巻市",
+      "town": "中島町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

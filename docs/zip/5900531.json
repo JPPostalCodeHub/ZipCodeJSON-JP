@@ -1,17 +1,21 @@
 {
-  "jisCode": "27228",
-  "oldZipCode": "59005",
-  "zipCode": "5900531",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "センナンシ",
-  "townKana": "オカダ",
-  "prefecture": "大阪府",
-  "city": "泉南市",
-  "town": "岡田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27228",
+      "oldZipCode": "59005",
+      "zipCode": "5900531",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "センナンシ",
+      "townKana": "オカダ",
+      "prefecture": "大阪府",
+      "city": "泉南市",
+      "town": "岡田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "43447",
-  "oldZipCode": "86137",
-  "zipCode": "8613783",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "カミマシキグンヤマトチョウ",
-  "townKana": "ナリギミ",
-  "prefecture": "熊本県",
-  "city": "上益城郡山都町",
-  "town": "成君",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43447",
+      "oldZipCode": "86137",
+      "zipCode": "8613783",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "カミマシキグンヤマトチョウ",
+      "townKana": "ナリギミ",
+      "prefecture": "熊本県",
+      "city": "上益城郡山都町",
+      "town": "成君",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

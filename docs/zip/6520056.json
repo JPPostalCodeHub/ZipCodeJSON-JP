@@ -1,17 +1,21 @@
 {
-  "jisCode": "28105",
-  "oldZipCode": "652  ",
-  "zipCode": "6520056",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "コウベシヒョウゴク",
-  "townKana": "タキヤマチョウ",
-  "prefecture": "兵庫県",
-  "city": "神戸市兵庫区",
-  "town": "滝山町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28105",
+      "oldZipCode": "652  ",
+      "zipCode": "6520056",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "コウベシヒョウゴク",
+      "townKana": "タキヤマチョウ",
+      "prefecture": "兵庫県",
+      "city": "神戸市兵庫区",
+      "town": "滝山町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

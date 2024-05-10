@@ -1,17 +1,21 @@
 {
-  "jisCode": "08201",
-  "oldZipCode": "31903",
-  "zipCode": "3190314",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "ミトシ",
-  "townKana": "アカオセキチョウ",
-  "prefecture": "茨城県",
-  "city": "水戸市",
-  "town": "赤尾関町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08201",
+      "oldZipCode": "31903",
+      "zipCode": "3190314",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "ミトシ",
+      "townKana": "アカオセキチョウ",
+      "prefecture": "茨城県",
+      "city": "水戸市",
+      "town": "赤尾関町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

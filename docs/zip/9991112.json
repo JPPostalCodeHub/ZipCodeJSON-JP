@@ -1,17 +1,21 @@
 {
-  "jisCode": "06403",
-  "oldZipCode": "99911",
-  "zipCode": "9991112",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "ニシオキタマグンイイデマチ",
-  "townKana": "タカミネ",
-  "prefecture": "山形県",
-  "city": "西置賜郡飯豊町",
-  "town": "高峰",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06403",
+      "oldZipCode": "99911",
+      "zipCode": "9991112",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "ニシオキタマグンイイデマチ",
+      "townKana": "タカミネ",
+      "prefecture": "山形県",
+      "city": "西置賜郡飯豊町",
+      "town": "高峰",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

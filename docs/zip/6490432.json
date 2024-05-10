@@ -1,17 +1,21 @@
 {
-  "jisCode": "30204",
-  "oldZipCode": "64904",
-  "zipCode": "6490432",
-  "prefectureKana": "ワカヤマケン",
-  "cityKana": "アリダシ",
-  "townKana": "ミヤハラチョウヒガシ",
-  "prefecture": "和歌山県",
-  "city": "有田市",
-  "town": "宮原町東",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "30204",
+      "oldZipCode": "64904",
+      "zipCode": "6490432",
+      "prefectureKana": "ワカヤマケン",
+      "cityKana": "アリダシ",
+      "townKana": "ミヤハラチョウヒガシ",
+      "prefecture": "和歌山県",
+      "city": "有田市",
+      "town": "宮原町東",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

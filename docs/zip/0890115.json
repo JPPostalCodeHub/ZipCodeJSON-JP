@@ -1,17 +1,21 @@
 {
-  "jisCode": "01636",
-  "oldZipCode": "08901",
-  "zipCode": "0890115",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "カミカワグンシミズチョウ",
-  "townKana": "ミナミ７ジョウ",
-  "prefecture": "北海道",
-  "city": "上川郡清水町",
-  "town": "南七条",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01636",
+      "oldZipCode": "08901",
+      "zipCode": "0890115",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "カミカワグンシミズチョウ",
+      "townKana": "ミナミ７ジョウ",
+      "prefecture": "北海道",
+      "city": "上川郡清水町",
+      "town": "南七条",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "29206",
-  "oldZipCode": "633  ",
-  "zipCode": "6330003",
-  "prefectureKana": "ナラケン",
-  "cityKana": "サクライシ",
-  "townKana": "アサクラダイヒガシ",
-  "prefecture": "奈良県",
-  "city": "桜井市",
-  "town": "朝倉台東",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "29206",
+      "oldZipCode": "633  ",
+      "zipCode": "6330003",
+      "prefectureKana": "ナラケン",
+      "cityKana": "サクライシ",
+      "townKana": "アサクラダイヒガシ",
+      "prefecture": "奈良県",
+      "city": "桜井市",
+      "town": "朝倉台東",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

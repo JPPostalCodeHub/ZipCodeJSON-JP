@@ -1,17 +1,21 @@
 {
-  "jisCode": "26102",
-  "oldZipCode": "602  ",
-  "zipCode": "6028362",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシカミギョウク",
-  "townKana": "ナカノチョウ",
-  "prefecture": "京都府",
-  "city": "京都市上京区",
-  "town": "仲之町（御前通上の下立売上る、御前通上の下立売上る東入、御前通上の下立売上る２丁目、御前通下立売上る、御前通下立売上る２丁目、御前通下立売上る２丁目西入、御前通下立売上る東入、下ノ森通下立売上る、下ノ森通下立売上る西入、上の下立売通御前西入上る）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26102",
+      "oldZipCode": "602  ",
+      "zipCode": "6028362",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシカミギョウク",
+      "townKana": "ナカノチョウ",
+      "prefecture": "京都府",
+      "city": "京都市上京区",
+      "town": "仲之町（御前通上の下立売上る、御前通上の下立売上る東入、御前通上の下立売上る２丁目、御前通下立売上る、御前通下立売上る２丁目、御前通下立売上る２丁目西入、御前通下立売上る東入、下ノ森通下立売上る、下ノ森通下立売上る西入、上の下立売通御前西入上る）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

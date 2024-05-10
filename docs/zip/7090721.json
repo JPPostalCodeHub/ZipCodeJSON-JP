@@ -1,17 +1,21 @@
 {
-  "jisCode": "33213",
-  "oldZipCode": "70907",
-  "zipCode": "7090721",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "アカイワシ",
-  "townKana": "サクラガオカヒガシ",
-  "prefecture": "岡山県",
-  "city": "赤磐市",
-  "town": "桜が丘東",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33213",
+      "oldZipCode": "70907",
+      "zipCode": "7090721",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "アカイワシ",
+      "townKana": "サクラガオカヒガシ",
+      "prefecture": "岡山県",
+      "city": "赤磐市",
+      "town": "桜が丘東",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

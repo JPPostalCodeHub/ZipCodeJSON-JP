@@ -1,17 +1,21 @@
 {
-  "jisCode": "12206",
-  "oldZipCode": "29202",
-  "zipCode": "2920203",
-  "prefectureKana": "チバケン",
-  "cityKana": "キサラヅシ",
-  "townKana": "ヤマモトナナマガリ",
-  "prefecture": "千葉県",
-  "city": "木更津市",
-  "town": "山本七曲",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12206",
+      "oldZipCode": "29202",
+      "zipCode": "2920203",
+      "prefectureKana": "チバケン",
+      "cityKana": "キサラヅシ",
+      "townKana": "ヤマモトナナマガリ",
+      "prefecture": "千葉県",
+      "city": "木更津市",
+      "town": "山本七曲",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

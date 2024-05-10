@@ -1,17 +1,21 @@
 {
-  "jisCode": "01642",
-  "oldZipCode": "08927",
-  "zipCode": "0892776",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ヒロオグンヒロオチョウ",
-  "townKana": "ビタタヌンケ",
-  "prefecture": "北海道",
-  "city": "広尾郡広尾町",
-  "town": "ビタタヌンケ",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01642",
+      "oldZipCode": "08927",
+      "zipCode": "0892776",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ヒロオグンヒロオチョウ",
+      "townKana": "ビタタヌンケ",
+      "prefecture": "北海道",
+      "city": "広尾郡広尾町",
+      "town": "ビタタヌンケ",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

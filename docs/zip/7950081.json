@@ -1,17 +1,38 @@
 {
-  "jisCode": "38207",
-  "oldZipCode": "795  ",
-  "zipCode": "7950081",
-  "prefectureKana": "エヒメケン",
-  "cityKana": "オオズシ",
-  "townKana": "スゲタチョウスゲタヘイ",
-  "prefecture": "愛媛県",
-  "city": "大洲市",
-  "town": "菅田町菅田丙",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "38207",
+      "oldZipCode": "795  ",
+      "zipCode": "7950081",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "オオズシ",
+      "townKana": "スゲタチョウスゲタコウ",
+      "prefecture": "愛媛県",
+      "city": "大洲市",
+      "town": "菅田町菅田甲",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "38207",
+      "oldZipCode": "795  ",
+      "zipCode": "7950081",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "オオズシ",
+      "townKana": "スゲタチョウスゲタヘイ",
+      "prefecture": "愛媛県",
+      "city": "大洲市",
+      "town": "菅田町菅田丙",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,38 @@
 {
-  "jisCode": "15108",
-  "oldZipCode": "95904",
-  "zipCode": "9590401",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ニイガタシニシカンク",
-  "townKana": "ヨヘエノシンデン",
-  "prefecture": "新潟県",
-  "city": "新潟市西蒲区",
-  "town": "與兵衛野新田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15107",
+      "oldZipCode": "95904",
+      "zipCode": "9590401",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ニイガタシニシク",
+      "townKana": "ヨヘエノシンデン",
+      "prefecture": "新潟県",
+      "city": "新潟市西区",
+      "town": "與兵衛野新田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "15108",
+      "oldZipCode": "95904",
+      "zipCode": "9590401",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ニイガタシニシカンク",
+      "townKana": "ヨヘエノシンデン",
+      "prefecture": "新潟県",
+      "city": "新潟市西蒲区",
+      "town": "與兵衛野新田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

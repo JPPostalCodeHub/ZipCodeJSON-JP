@@ -1,17 +1,21 @@
 {
-  "jisCode": "01578",
-  "oldZipCode": "05909",
-  "zipCode": "0590905",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "シラオイグンシラオイチョウ",
-  "townKana": "オオマチ",
-  "prefecture": "北海道",
-  "city": "白老郡白老町",
-  "town": "大町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01578",
+      "oldZipCode": "05909",
+      "zipCode": "0590905",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "シラオイグンシラオイチョウ",
+      "townKana": "オオマチ",
+      "prefecture": "北海道",
+      "city": "白老郡白老町",
+      "town": "大町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

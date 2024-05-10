@@ -1,17 +1,21 @@
 {
-  "jisCode": "46523",
-  "oldZipCode": "89431",
-  "zipCode": "8943106",
-  "prefectureKana": "カゴシマケン",
-  "cityKana": "オオシマグンヤマトソン",
-  "townKana": "オオダナ",
-  "prefecture": "鹿児島県",
-  "city": "大島郡大和村",
-  "town": "大棚",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "46523",
+      "oldZipCode": "89431",
+      "zipCode": "8943106",
+      "prefectureKana": "カゴシマケン",
+      "cityKana": "オオシマグンヤマトソン",
+      "townKana": "オオダナ",
+      "prefecture": "鹿児島県",
+      "city": "大島郡大和村",
+      "town": "大棚",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

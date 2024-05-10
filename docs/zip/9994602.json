@@ -1,17 +1,21 @@
 {
-  "jisCode": "06363",
-  "oldZipCode": "99946",
-  "zipCode": "9994602",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "モガミグンフナガタマチ",
-  "townKana": "チョウジャハラ",
-  "prefecture": "山形県",
-  "city": "最上郡舟形町",
-  "town": "長者原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06363",
+      "oldZipCode": "99946",
+      "zipCode": "9994602",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "モガミグンフナガタマチ",
+      "townKana": "チョウジャハラ",
+      "prefecture": "山形県",
+      "city": "最上郡舟形町",
+      "town": "長者原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

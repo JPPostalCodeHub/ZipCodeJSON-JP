@@ -1,17 +1,21 @@
 {
-  "jisCode": "01555",
-  "oldZipCode": "09901",
-  "zipCode": "0990124",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "モンベツグンエンガルチョウ",
-  "townKana": "ヒガシシラタキ",
-  "prefecture": "北海道",
-  "city": "紋別郡遠軽町",
-  "town": "東白滝",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01555",
+      "oldZipCode": "09901",
+      "zipCode": "0990124",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "モンベツグンエンガルチョウ",
+      "townKana": "ヒガシシラタキ",
+      "prefecture": "北海道",
+      "city": "紋別郡遠軽町",
+      "town": "東白滝",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

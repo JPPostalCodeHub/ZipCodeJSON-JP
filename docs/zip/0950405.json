@@ -1,17 +1,21 @@
 {
-  "jisCode": "01220",
-  "oldZipCode": "09504",
-  "zipCode": "0950405",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "シベツシ",
-  "townKana": "アサヒチョウサンエイ",
-  "prefecture": "北海道",
-  "city": "士別市",
-  "town": "朝日町三栄",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01220",
+      "oldZipCode": "09504",
+      "zipCode": "0950405",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "シベツシ",
+      "townKana": "アサヒチョウサンエイ",
+      "prefecture": "北海道",
+      "city": "士別市",
+      "town": "朝日町三栄",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

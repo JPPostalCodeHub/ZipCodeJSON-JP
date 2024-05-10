@@ -1,17 +1,21 @@
 {
-  "jisCode": "10429",
-  "oldZipCode": "37033",
-  "zipCode": "3703321",
-  "prefectureKana": "グンマケン",
-  "cityKana": "アガツマグンヒガシアガツママチ",
-  "townKana": "イズミサワ（エボシ（ハルナコハン）、エボシコクユウリン７７リンハン）",
-  "prefecture": "群馬県",
-  "city": "吾妻郡東吾妻町",
-  "town": "泉沢（烏帽子「榛名湖畔」、烏帽子国有林７７林班）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "10429",
+      "oldZipCode": "37033",
+      "zipCode": "3703321",
+      "prefectureKana": "グンマケン",
+      "cityKana": "アガツマグンヒガシアガツママチ",
+      "townKana": "イズミサワ（エボシ（ハルナコハン）、エボシコクユウリン７７リンハン）",
+      "prefecture": "群馬県",
+      "city": "吾妻郡東吾妻町",
+      "town": "泉沢（烏帽子「榛名湖畔」、烏帽子国有林７７林班）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

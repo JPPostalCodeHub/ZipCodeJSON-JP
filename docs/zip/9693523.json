@@ -1,17 +1,38 @@
 {
-  "jisCode": "07208",
-  "oldZipCode": "96935",
-  "zipCode": "9693523",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "キタカタシ",
-  "townKana": "シオカワマチソリチョウ",
-  "prefecture": "福島県",
-  "city": "喜多方市",
-  "town": "塩川町反町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07208",
+      "oldZipCode": "96935",
+      "zipCode": "9693523",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "キタカタシ",
+      "townKana": "シオカワマチイシバシ",
+      "prefecture": "福島県",
+      "city": "喜多方市",
+      "town": "塩川町石橋",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "07208",
+      "oldZipCode": "96935",
+      "zipCode": "9693523",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "キタカタシ",
+      "townKana": "シオカワマチソリチョウ",
+      "prefecture": "福島県",
+      "city": "喜多方市",
+      "town": "塩川町反町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

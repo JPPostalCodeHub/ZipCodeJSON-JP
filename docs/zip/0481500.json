@@ -1,17 +1,21 @@
 {
-  "jisCode": "01395",
-  "oldZipCode": "04815",
-  "zipCode": "0481500",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "アブタグンニセコチョウ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "北海道",
-  "city": "虻田郡ニセコ町",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01395",
+      "oldZipCode": "04815",
+      "zipCode": "0481500",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "アブタグンニセコチョウ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "北海道",
+      "city": "虻田郡ニセコ町",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "43443",
-  "oldZipCode": "86122",
-  "zipCode": "8612212",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "カミマシキグンマシキマチ",
-  "townKana": "ヒラタ",
-  "prefecture": "熊本県",
-  "city": "上益城郡益城町",
-  "town": "平田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43443",
+      "oldZipCode": "86122",
+      "zipCode": "8612212",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "カミマシキグンマシキマチ",
+      "townKana": "ヒラタ",
+      "prefecture": "熊本県",
+      "city": "上益城郡益城町",
+      "town": "平田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "07405",
-  "oldZipCode": "96944",
-  "zipCode": "9694403",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "ヤマグンニシアイヅマチ",
-  "townKana": "タバネマツ",
-  "prefecture": "福島県",
-  "city": "耶麻郡西会津町",
-  "town": "束松",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07405",
+      "oldZipCode": "96944",
+      "zipCode": "9694403",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "ヤマグンニシアイヅマチ",
+      "townKana": "タバネマツ",
+      "prefecture": "福島県",
+      "city": "耶麻郡西会津町",
+      "town": "束松",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

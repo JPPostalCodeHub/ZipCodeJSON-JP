@@ -1,17 +1,21 @@
 {
-  "jisCode": "26106",
-  "oldZipCode": "600  ",
-  "zipCode": "6008399",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシシモギョウク",
-  "townKana": "マルヤチョウ",
-  "prefecture": "京都府",
-  "city": "京都市下京区",
-  "town": "丸屋町（北小路通西中筋東入、西中筋通北小路上る、西中筋通正面下る、北小路通堀川東入、堀川通北小路上る、堀川通正面下る）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26106",
+      "oldZipCode": "600  ",
+      "zipCode": "6008399",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシシモギョウク",
+      "townKana": "マルヤチョウ",
+      "prefecture": "京都府",
+      "city": "京都市下京区",
+      "town": "丸屋町（北小路通西中筋東入、西中筋通北小路上る、西中筋通正面下る、北小路通堀川東入、堀川通北小路上る、堀川通正面下る）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

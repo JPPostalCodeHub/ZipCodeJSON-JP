@@ -1,17 +1,21 @@
 {
-  "jisCode": "47381",
-  "oldZipCode": "90711",
-  "zipCode": "9071101",
-  "prefectureKana": "オキナワケン",
-  "cityKana": "ヤエヤマグンタケトミチョウ",
-  "townKana": "タケトミ",
-  "prefecture": "沖縄県",
-  "city": "八重山郡竹富町",
-  "town": "竹富",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "47381",
+      "oldZipCode": "90711",
+      "zipCode": "9071101",
+      "prefectureKana": "オキナワケン",
+      "cityKana": "ヤエヤマグンタケトミチョウ",
+      "townKana": "タケトミ",
+      "prefecture": "沖縄県",
+      "city": "八重山郡竹富町",
+      "town": "竹富",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

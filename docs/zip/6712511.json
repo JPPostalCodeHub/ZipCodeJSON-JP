@@ -1,17 +1,21 @@
 {
-  "jisCode": "28227",
-  "oldZipCode": "67125",
-  "zipCode": "6712511",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "シソウシ",
-  "townKana": "ヤマサキチョウセイノ",
-  "prefecture": "兵庫県",
-  "city": "宍粟市",
-  "town": "山崎町清野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28227",
+      "oldZipCode": "67125",
+      "zipCode": "6712511",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "シソウシ",
+      "townKana": "ヤマサキチョウセイノ",
+      "prefecture": "兵庫県",
+      "city": "宍粟市",
+      "town": "山崎町清野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

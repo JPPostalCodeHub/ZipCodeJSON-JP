@@ -1,17 +1,21 @@
 {
-  "jisCode": "45205",
-  "oldZipCode": "886  ",
-  "zipCode": "8860006",
-  "prefectureKana": "ミヤザキケン",
-  "cityKana": "コバヤシシ",
-  "townKana": "キタニシカタ",
-  "prefecture": "宮崎県",
-  "city": "小林市",
-  "town": "北西方",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "45205",
+      "oldZipCode": "886  ",
+      "zipCode": "8860006",
+      "prefectureKana": "ミヤザキケン",
+      "cityKana": "コバヤシシ",
+      "townKana": "キタニシカタ",
+      "prefecture": "宮崎県",
+      "city": "小林市",
+      "town": "北西方",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

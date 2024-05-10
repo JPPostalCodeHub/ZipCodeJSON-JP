@@ -1,17 +1,21 @@
 {
-  "jisCode": "23114",
-  "oldZipCode": "458  ",
-  "zipCode": "4580808",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ナゴヤシミドリク",
-  "townKana": "ヒガシカミノクラ",
-  "prefecture": "愛知県",
-  "city": "名古屋市緑区",
-  "town": "東神の倉",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23114",
+      "oldZipCode": "458  ",
+      "zipCode": "4580808",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ナゴヤシミドリク",
+      "townKana": "ヒガシカミノクラ",
+      "prefecture": "愛知県",
+      "city": "名古屋市緑区",
+      "town": "東神の倉",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

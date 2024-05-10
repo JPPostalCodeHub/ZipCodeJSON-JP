@@ -1,17 +1,21 @@
 {
-  "jisCode": "08220",
-  "oldZipCode": "30026",
-  "zipCode": "3002646",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "ツクバシ",
-  "townKana": "ミドリガハラ",
-  "prefecture": "茨城県",
-  "city": "つくば市",
-  "town": "緑ケ原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08220",
+      "oldZipCode": "30026",
+      "zipCode": "3002646",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "ツクバシ",
+      "townKana": "ミドリガハラ",
+      "prefecture": "茨城県",
+      "city": "つくば市",
+      "town": "緑ケ原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "20203",
-  "oldZipCode": "386  ",
-  "zipCode": "3860000",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "ウエダシ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "長野県",
-  "city": "上田市",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20203",
+      "oldZipCode": "386  ",
+      "zipCode": "3860000",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "ウエダシ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "長野県",
+      "city": "上田市",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

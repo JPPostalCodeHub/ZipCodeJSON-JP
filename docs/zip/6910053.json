@@ -1,17 +1,21 @@
 {
-  "jisCode": "32203",
-  "oldZipCode": "691  ",
-  "zipCode": "6910053",
-  "prefectureKana": "シマネケン",
-  "cityKana": "イズモシ",
-  "townKana": "ミツチョウ",
-  "prefecture": "島根県",
-  "city": "出雲市",
-  "town": "三津町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "32203",
+      "oldZipCode": "691  ",
+      "zipCode": "6910053",
+      "prefectureKana": "シマネケン",
+      "cityKana": "イズモシ",
+      "townKana": "ミツチョウ",
+      "prefecture": "島根県",
+      "city": "出雲市",
+      "town": "三津町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

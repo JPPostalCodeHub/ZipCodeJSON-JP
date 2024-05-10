@@ -1,17 +1,21 @@
 {
-  "jisCode": "01209",
-  "oldZipCode": "06806",
-  "zipCode": "0680665",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ユウバリシ",
-  "townKana": "カシマタカラチョウ",
-  "prefecture": "北海道",
-  "city": "夕張市",
-  "town": "鹿島宝町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01209",
+      "oldZipCode": "06806",
+      "zipCode": "0680665",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ユウバリシ",
+      "townKana": "カシマタカラチョウ",
+      "prefecture": "北海道",
+      "city": "夕張市",
+      "town": "鹿島宝町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

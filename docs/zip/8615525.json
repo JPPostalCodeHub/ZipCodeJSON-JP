@@ -1,17 +1,21 @@
 {
-  "jisCode": "43105",
-  "oldZipCode": "86155",
-  "zipCode": "8615525",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "クマモトシキタク",
-  "townKana": "トクオウ",
-  "prefecture": "熊本県",
-  "city": "熊本市北区",
-  "town": "徳王",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43105",
+      "oldZipCode": "86155",
+      "zipCode": "8615525",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "クマモトシキタク",
+      "townKana": "トクオウ",
+      "prefecture": "熊本県",
+      "city": "熊本市北区",
+      "town": "徳王",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

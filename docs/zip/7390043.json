@@ -1,17 +1,21 @@
 {
-  "jisCode": "34212",
-  "oldZipCode": "739  ",
-  "zipCode": "7390043",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "ヒガシヒロシマシ",
-  "townKana": "サイジョウニシホンマチ",
-  "prefecture": "広島県",
-  "city": "東広島市",
-  "town": "西条西本町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34212",
+      "oldZipCode": "739  ",
+      "zipCode": "7390043",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ヒガシヒロシマシ",
+      "townKana": "サイジョウニシホンマチ",
+      "prefecture": "広島県",
+      "city": "東広島市",
+      "town": "西条西本町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

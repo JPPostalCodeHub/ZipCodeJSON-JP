@@ -1,17 +1,21 @@
 {
-  "jisCode": "42203",
-  "oldZipCode": "855  ",
-  "zipCode": "8550018",
-  "prefectureKana": "ナガサキケン",
-  "cityKana": "シマバラシ",
-  "townKana": "ニシマチ",
-  "prefecture": "長崎県",
-  "city": "島原市",
-  "town": "西町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "42203",
+      "oldZipCode": "855  ",
+      "zipCode": "8550018",
+      "prefectureKana": "ナガサキケン",
+      "cityKana": "シマバラシ",
+      "townKana": "ニシマチ",
+      "prefecture": "長崎県",
+      "city": "島原市",
+      "town": "西町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

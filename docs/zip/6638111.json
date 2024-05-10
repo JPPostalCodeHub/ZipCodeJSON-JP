@@ -1,17 +1,21 @@
 {
-  "jisCode": "28204",
-  "oldZipCode": "663  ",
-  "zipCode": "6638111",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "ニシノミヤシ",
-  "townKana": "フタミチョウ",
-  "prefecture": "兵庫県",
-  "city": "西宮市",
-  "town": "二見町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28204",
+      "oldZipCode": "663  ",
+      "zipCode": "6638111",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "ニシノミヤシ",
+      "townKana": "フタミチョウ",
+      "prefecture": "兵庫県",
+      "city": "西宮市",
+      "town": "二見町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

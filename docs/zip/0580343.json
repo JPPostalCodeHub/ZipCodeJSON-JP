@@ -1,17 +1,21 @@
 {
-  "jisCode": "01609",
-  "oldZipCode": "05803",
-  "zipCode": "0580343",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ホロイズミグンエリモチョウ",
-  "townKana": "トウヨウ（アブラコマ、ミナミトウヨウ、１３２−１５６、１５８−３５４、３６６、３６７バンチ）",
-  "prefecture": "北海道",
-  "city": "幌泉郡えりも町",
-  "town": "東洋（油駒、南東洋、１３２〜１５６、１５８〜３５４、３６６、３６７番地）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01609",
+      "oldZipCode": "05803",
+      "zipCode": "0580343",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ホロイズミグンエリモチョウ",
+      "townKana": "トウヨウ（アブラコマ、ミナミトウヨウ、１３２−１５６、１５８−３５４、３６６、３６７バンチ）",
+      "prefecture": "北海道",
+      "city": "幌泉郡えりも町",
+      "town": "東洋（油駒、南東洋、１３２〜１５６、１５８〜３５４、３６６、３６７番地）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

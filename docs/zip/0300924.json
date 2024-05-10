@@ -1,17 +1,21 @@
 {
-  "jisCode": "02201",
-  "oldZipCode": "030  ",
-  "zipCode": "0300924",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "アオモリシ",
-  "townKana": "タキサワ（シモカワラ１９０−１）",
-  "prefecture": "青森県",
-  "city": "青森市",
-  "town": "滝沢（下川原１９０−１）",
-  "multipleZipCodes": "1",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02201",
+      "oldZipCode": "030  ",
+      "zipCode": "0300924",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "アオモリシ",
+      "townKana": "タキサワ（シモカワラ１９０−１）",
+      "prefecture": "青森県",
+      "city": "青森市",
+      "town": "滝沢（下川原１９０−１）",
+      "multipleZipCodes": "1",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

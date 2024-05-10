@@ -1,17 +1,21 @@
 {
-  "jisCode": "22139",
-  "oldZipCode": "434  ",
-  "zipCode": "4340023",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "ハママツシハマナク",
-  "townKana": "タカソノ",
-  "prefecture": "静岡県",
-  "city": "浜松市浜名区",
-  "town": "高薗",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22139",
+      "oldZipCode": "434  ",
+      "zipCode": "4340023",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "ハママツシハマナク",
+      "townKana": "タカソノ",
+      "prefecture": "静岡県",
+      "city": "浜松市浜名区",
+      "town": "高薗",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

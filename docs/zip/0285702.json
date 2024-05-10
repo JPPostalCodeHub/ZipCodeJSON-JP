@@ -1,17 +1,21 @@
 {
-  "jisCode": "03213",
-  "oldZipCode": "02857",
-  "zipCode": "0285702",
-  "prefectureKana": "イワテケン",
-  "cityKana": "ニノヘシ",
-  "townKana": "シモトマイ（ソトセリサワ、ツキオリ、ツチバシ）",
-  "prefecture": "岩手県",
-  "city": "二戸市",
-  "town": "下斗米（外芹沢、月折、土橋）",
-  "multipleZipCodes": "1",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "03213",
+      "oldZipCode": "02857",
+      "zipCode": "0285702",
+      "prefectureKana": "イワテケン",
+      "cityKana": "ニノヘシ",
+      "townKana": "シモトマイ（ソトセリサワ、ツキオリ、ツチバシ）",
+      "prefecture": "岩手県",
+      "city": "二戸市",
+      "town": "下斗米（外芹沢、月折、土橋）",
+      "multipleZipCodes": "1",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "34207",
-  "oldZipCode": "720  ",
-  "zipCode": "7200838",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "フクヤマシ",
-  "townKana": "セトチョウサボク",
-  "prefecture": "広島県",
-  "city": "福山市",
-  "town": "瀬戸町山北",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34207",
+      "oldZipCode": "720  ",
+      "zipCode": "7200838",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "フクヤマシ",
+      "townKana": "セトチョウサボク",
+      "prefecture": "広島県",
+      "city": "福山市",
+      "town": "瀬戸町山北",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

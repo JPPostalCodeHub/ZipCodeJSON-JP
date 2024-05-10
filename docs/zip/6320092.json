@@ -1,17 +1,21 @@
 {
-  "jisCode": "29204",
-  "oldZipCode": "632  ",
-  "zipCode": "6320092",
-  "prefectureKana": "ナラケン",
-  "cityKana": "テンリシ",
-  "townKana": "コダナカチョウ",
-  "prefecture": "奈良県",
-  "city": "天理市",
-  "town": "小田中町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "29204",
+      "oldZipCode": "632  ",
+      "zipCode": "6320092",
+      "prefectureKana": "ナラケン",
+      "cityKana": "テンリシ",
+      "townKana": "コダナカチョウ",
+      "prefecture": "奈良県",
+      "city": "天理市",
+      "town": "小田中町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "42204",
-  "oldZipCode": "85411",
-  "zipCode": "8541113",
-  "prefectureKana": "ナガサキケン",
-  "cityKana": "イサハヤシ",
-  "townKana": "イイモリチョウシモガマ",
-  "prefecture": "長崎県",
-  "city": "諫早市",
-  "town": "飯盛町下釜",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "42204",
+      "oldZipCode": "85411",
+      "zipCode": "8541113",
+      "prefectureKana": "ナガサキケン",
+      "cityKana": "イサハヤシ",
+      "townKana": "イイモリチョウシモガマ",
+      "prefecture": "長崎県",
+      "city": "諫早市",
+      "town": "飯盛町下釜",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

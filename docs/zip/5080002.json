@@ -1,17 +1,38 @@
 {
-  "jisCode": "21206",
-  "oldZipCode": "508  ",
-  "zipCode": "5080002",
-  "prefectureKana": "ギフケン",
-  "cityKana": "ナカツガワシ",
-  "townKana": "アギカオレ",
-  "prefecture": "岐阜県",
-  "city": "中津川市",
-  "town": "阿木川上",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "21206",
+      "oldZipCode": "508  ",
+      "zipCode": "5080002",
+      "prefectureKana": "ギフケン",
+      "cityKana": "ナカツガワシ",
+      "townKana": "アギ（７６３７−７９８５）",
+      "prefecture": "岐阜県",
+      "city": "中津川市",
+      "town": "阿木（７６３７〜７９８５）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "21206",
+      "oldZipCode": "508  ",
+      "zipCode": "5080002",
+      "prefectureKana": "ギフケン",
+      "cityKana": "ナカツガワシ",
+      "townKana": "アギカオレ",
+      "prefecture": "岐阜県",
+      "city": "中津川市",
+      "town": "阿木川上",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

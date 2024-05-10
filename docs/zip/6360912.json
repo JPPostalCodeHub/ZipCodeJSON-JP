@@ -1,17 +1,21 @@
 {
-  "jisCode": "29342",
-  "oldZipCode": "636  ",
-  "zipCode": "6360912",
-  "prefectureKana": "ナラケン",
-  "cityKana": "イコマグンヘグリチョウ",
-  "townKana": "タツタガワ",
-  "prefecture": "奈良県",
-  "city": "生駒郡平群町",
-  "town": "竜田川",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "29342",
+      "oldZipCode": "636  ",
+      "zipCode": "6360912",
+      "prefectureKana": "ナラケン",
+      "cityKana": "イコマグンヘグリチョウ",
+      "townKana": "タツタガワ",
+      "prefecture": "奈良県",
+      "city": "生駒郡平群町",
+      "town": "竜田川",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

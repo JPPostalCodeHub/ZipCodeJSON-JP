@@ -1,17 +1,21 @@
 {
-  "jisCode": "07201",
-  "oldZipCode": "960  ",
-  "zipCode": "9608251",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "フクシマシ",
-  "townKana": "キタサワマタ",
-  "prefecture": "福島県",
-  "city": "福島市",
-  "town": "北沢又",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07201",
+      "oldZipCode": "960  ",
+      "zipCode": "9608251",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "フクシマシ",
+      "townKana": "キタサワマタ",
+      "prefecture": "福島県",
+      "city": "福島市",
+      "town": "北沢又",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

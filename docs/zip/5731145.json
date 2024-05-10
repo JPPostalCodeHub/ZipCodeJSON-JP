@@ -1,17 +1,21 @@
 {
-  "jisCode": "27210",
-  "oldZipCode": "573  ",
-  "zipCode": "5731145",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "ヒラカタシ",
-  "townKana": "コガネノ",
-  "prefecture": "大阪府",
-  "city": "枚方市",
-  "town": "黄金野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27210",
+      "oldZipCode": "573  ",
+      "zipCode": "5731145",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "ヒラカタシ",
+      "townKana": "コガネノ",
+      "prefecture": "大阪府",
+      "city": "枚方市",
+      "town": "黄金野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

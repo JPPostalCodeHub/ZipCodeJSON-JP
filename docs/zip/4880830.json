@@ -1,17 +1,21 @@
 {
-  "jisCode": "23226",
-  "oldZipCode": "488  ",
-  "zipCode": "4880830",
-  "prefectureKana": "アイチケン",
-  "cityKana": "オワリアサヒシ",
-  "townKana": "ヒガシインバチョウ",
-  "prefecture": "愛知県",
-  "city": "尾張旭市",
-  "town": "東印場町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23226",
+      "oldZipCode": "488  ",
+      "zipCode": "4880830",
+      "prefectureKana": "アイチケン",
+      "cityKana": "オワリアサヒシ",
+      "townKana": "ヒガシインバチョウ",
+      "prefecture": "愛知県",
+      "city": "尾張旭市",
+      "town": "東印場町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

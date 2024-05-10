@@ -1,17 +1,21 @@
 {
-  "jisCode": "16321",
-  "oldZipCode": "93002",
-  "zipCode": "9300288",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "ナカニイカワグンフナハシムラ",
-  "townKana": "クニシゲ",
-  "prefecture": "富山県",
-  "city": "中新川郡舟橋村",
-  "town": "国重",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16321",
+      "oldZipCode": "93002",
+      "zipCode": "9300288",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "ナカニイカワグンフナハシムラ",
+      "townKana": "クニシゲ",
+      "prefecture": "富山県",
+      "city": "中新川郡舟橋村",
+      "town": "国重",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

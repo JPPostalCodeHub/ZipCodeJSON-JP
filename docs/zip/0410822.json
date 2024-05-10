@@ -1,17 +1,21 @@
 {
-  "jisCode": "01202",
-  "oldZipCode": "041  ",
-  "zipCode": "0410822",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ハコダテシ",
-  "townKana": "カメダミナトチョウ",
-  "prefecture": "北海道",
-  "city": "函館市",
-  "town": "亀田港町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01202",
+      "oldZipCode": "041  ",
+      "zipCode": "0410822",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ハコダテシ",
+      "townKana": "カメダミナトチョウ",
+      "prefecture": "北海道",
+      "city": "函館市",
+      "town": "亀田港町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

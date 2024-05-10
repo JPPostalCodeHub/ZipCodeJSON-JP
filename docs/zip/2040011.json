@@ -1,17 +1,21 @@
 {
-  "jisCode": "13221",
-  "oldZipCode": "204  ",
-  "zipCode": "2040011",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "キヨセシ",
-  "townKana": "シモキヨト",
-  "prefecture": "東京都",
-  "city": "清瀬市",
-  "town": "下清戸",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13221",
+      "oldZipCode": "204  ",
+      "zipCode": "2040011",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "キヨセシ",
+      "townKana": "シモキヨト",
+      "prefecture": "東京都",
+      "city": "清瀬市",
+      "town": "下清戸",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

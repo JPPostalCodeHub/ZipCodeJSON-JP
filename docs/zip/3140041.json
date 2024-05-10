@@ -1,17 +1,21 @@
 {
-  "jisCode": "08222",
-  "oldZipCode": "314  ",
-  "zipCode": "3140041",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "カシマシ",
-  "townKana": "ヌマオ",
-  "prefecture": "茨城県",
-  "city": "鹿嶋市",
-  "town": "沼尾",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08222",
+      "oldZipCode": "314  ",
+      "zipCode": "3140041",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "カシマシ",
+      "townKana": "ヌマオ",
+      "prefecture": "茨城県",
+      "city": "鹿嶋市",
+      "town": "沼尾",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

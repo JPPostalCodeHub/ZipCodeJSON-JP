@@ -1,17 +1,21 @@
 {
-  "jisCode": "44204",
-  "oldZipCode": "87703",
-  "zipCode": "8770312",
-  "prefectureKana": "オオイタケン",
-  "cityKana": "ヒタシ",
-  "townKana": "カミツエマチカミノダ",
-  "prefecture": "大分県",
-  "city": "日田市",
-  "town": "上津江町上野田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "44204",
+      "oldZipCode": "87703",
+      "zipCode": "8770312",
+      "prefectureKana": "オオイタケン",
+      "cityKana": "ヒタシ",
+      "townKana": "カミツエマチカミノダ",
+      "prefecture": "大分県",
+      "city": "日田市",
+      "town": "上津江町上野田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

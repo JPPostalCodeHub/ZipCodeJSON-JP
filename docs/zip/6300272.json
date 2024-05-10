@@ -1,17 +1,21 @@
 {
-  "jisCode": "27227",
-  "oldZipCode": "63002",
-  "zipCode": "6300272",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "ヒガシオオサカシ",
-  "townKana": "ヤマテチョウ（２０１７、２０１８、２０２７、２０２８バンチ）",
-  "prefecture": "大阪府",
-  "city": "東大阪市",
-  "town": "山手町（２０１７、２０１８、２０２７、２０２８番地）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27227",
+      "oldZipCode": "63002",
+      "zipCode": "6300272",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "ヒガシオオサカシ",
+      "townKana": "ヤマテチョウ（２０１７、２０１８、２０２７、２０２８バンチ）",
+      "prefecture": "大阪府",
+      "city": "東大阪市",
+      "town": "山手町（２０１７、２０１８、２０２７、２０２８番地）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

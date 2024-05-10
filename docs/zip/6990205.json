@@ -1,17 +1,21 @@
 {
-  "jisCode": "32201",
-  "oldZipCode": "69902",
-  "zipCode": "6990205",
-  "prefectureKana": "シマネケン",
-  "cityKana": "マツエシ",
-  "townKana": "タマユチョウオオダニ",
-  "prefecture": "島根県",
-  "city": "松江市",
-  "town": "玉湯町大谷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "32201",
+      "oldZipCode": "69902",
+      "zipCode": "6990205",
+      "prefectureKana": "シマネケン",
+      "cityKana": "マツエシ",
+      "townKana": "タマユチョウオオダニ",
+      "prefecture": "島根県",
+      "city": "松江市",
+      "town": "玉湯町大谷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

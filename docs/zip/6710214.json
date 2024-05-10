@@ -1,17 +1,21 @@
 {
-  "jisCode": "28201",
-  "oldZipCode": "67102",
-  "zipCode": "6710214",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "ヒメジシ",
-  "townKana": "シキトウチョウカラハタシン",
-  "prefecture": "兵庫県",
-  "city": "姫路市",
-  "town": "飾東町唐端新",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28201",
+      "oldZipCode": "67102",
+      "zipCode": "6710214",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "ヒメジシ",
+      "townKana": "シキトウチョウカラハタシン",
+      "prefecture": "兵庫県",
+      "city": "姫路市",
+      "town": "飾東町唐端新",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

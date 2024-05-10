@@ -1,17 +1,21 @@
 {
-  "jisCode": "27227",
-  "oldZipCode": "577  ",
-  "zipCode": "5770044",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "ヒガシオオサカシ",
-  "townKana": "ニシヅツミガクエンチョウ",
-  "prefecture": "大阪府",
-  "city": "東大阪市",
-  "town": "西堤学園町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27227",
+      "oldZipCode": "577  ",
+      "zipCode": "5770044",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "ヒガシオオサカシ",
+      "townKana": "ニシヅツミガクエンチョウ",
+      "prefecture": "大阪府",
+      "city": "東大阪市",
+      "town": "西堤学園町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "05346",
-  "oldZipCode": "01832",
-  "zipCode": "0183202",
-  "prefectureKana": "アキタケン",
-  "cityKana": "ヤマモトグンフジサトマチ",
-  "townKana": "ダイラ",
-  "prefecture": "秋田県",
-  "city": "山本郡藤里町",
-  "town": "太良",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05346",
+      "oldZipCode": "01832",
+      "zipCode": "0183202",
+      "prefectureKana": "アキタケン",
+      "cityKana": "ヤマモトグンフジサトマチ",
+      "townKana": "ダイラ",
+      "prefecture": "秋田県",
+      "city": "山本郡藤里町",
+      "town": "太良",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

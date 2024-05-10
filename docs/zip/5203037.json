@@ -1,17 +1,21 @@
 {
-  "jisCode": "25208",
-  "oldZipCode": "52030",
-  "zipCode": "5203037",
-  "prefectureKana": "シガケン",
-  "cityKana": "リットウシ",
-  "townKana": "キタナカコウジ",
-  "prefecture": "滋賀県",
-  "city": "栗東市",
-  "town": "北中小路",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "25208",
+      "oldZipCode": "52030",
+      "zipCode": "5203037",
+      "prefectureKana": "シガケン",
+      "cityKana": "リットウシ",
+      "townKana": "キタナカコウジ",
+      "prefecture": "滋賀県",
+      "city": "栗東市",
+      "town": "北中小路",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

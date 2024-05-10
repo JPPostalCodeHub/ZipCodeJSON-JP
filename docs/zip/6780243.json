@@ -1,17 +1,21 @@
 {
-  "jisCode": "28212",
-  "oldZipCode": "67802",
-  "zipCode": "6780243",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "アコウシ",
-  "townKana": "ワカクサチョウ",
-  "prefecture": "兵庫県",
-  "city": "赤穂市",
-  "town": "若草町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28212",
+      "oldZipCode": "67802",
+      "zipCode": "6780243",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "アコウシ",
+      "townKana": "ワカクサチョウ",
+      "prefecture": "兵庫県",
+      "city": "赤穂市",
+      "town": "若草町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "28219",
-  "oldZipCode": "66913",
-  "zipCode": "6691352",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "サンダシ",
-  "townKana": "スマダ",
-  "prefecture": "兵庫県",
-  "city": "三田市",
-  "town": "須磨田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28219",
+      "oldZipCode": "66913",
+      "zipCode": "6691352",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "サンダシ",
+      "townKana": "スマダ",
+      "prefecture": "兵庫県",
+      "city": "三田市",
+      "town": "須磨田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

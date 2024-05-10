@@ -1,17 +1,21 @@
 {
-  "jisCode": "15385",
-  "oldZipCode": "95944",
-  "zipCode": "9594408",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ヒガシカンバラグンアガマチ",
-  "townKana": "アカイワ",
-  "prefecture": "新潟県",
-  "city": "東蒲原郡阿賀町",
-  "town": "赤岩",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15385",
+      "oldZipCode": "95944",
+      "zipCode": "9594408",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ヒガシカンバラグンアガマチ",
+      "townKana": "アカイワ",
+      "prefecture": "新潟県",
+      "city": "東蒲原郡阿賀町",
+      "town": "赤岩",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

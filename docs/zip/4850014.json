@@ -1,17 +1,21 @@
 {
-  "jisCode": "23219",
-  "oldZipCode": "485  ",
-  "zipCode": "4850014",
-  "prefectureKana": "アイチケン",
-  "cityKana": "コマキシ",
-  "townKana": "ヤスダチョウ",
-  "prefecture": "愛知県",
-  "city": "小牧市",
-  "town": "安田町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23219",
+      "oldZipCode": "485  ",
+      "zipCode": "4850014",
+      "prefectureKana": "アイチケン",
+      "cityKana": "コマキシ",
+      "townKana": "ヤスダチョウ",
+      "prefecture": "愛知県",
+      "city": "小牧市",
+      "town": "安田町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

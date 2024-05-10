@@ -1,17 +1,21 @@
 {
-  "jisCode": "21213",
-  "oldZipCode": "50901",
-  "zipCode": "5090122",
-  "prefectureKana": "ギフケン",
-  "cityKana": "カカミガハラシ",
-  "townKana": "シンウヌマダイ",
-  "prefecture": "岐阜県",
-  "city": "各務原市",
-  "town": "新鵜沼台",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "21213",
+      "oldZipCode": "50901",
+      "zipCode": "5090122",
+      "prefectureKana": "ギフケン",
+      "cityKana": "カカミガハラシ",
+      "townKana": "シンウヌマダイ",
+      "prefecture": "岐阜県",
+      "city": "各務原市",
+      "town": "新鵜沼台",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

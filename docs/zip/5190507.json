@@ -1,17 +1,21 @@
 {
-  "jisCode": "24203",
-  "oldZipCode": "51905",
-  "zipCode": "5190507",
-  "prefectureKana": "ミエケン",
-  "cityKana": "イセシ",
-  "townKana": "オバタチョウシムラ",
-  "prefecture": "三重県",
-  "city": "伊勢市",
-  "town": "小俣町新村",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "24203",
+      "oldZipCode": "51905",
+      "zipCode": "5190507",
+      "prefectureKana": "ミエケン",
+      "cityKana": "イセシ",
+      "townKana": "オバタチョウシムラ",
+      "prefecture": "三重県",
+      "city": "伊勢市",
+      "town": "小俣町新村",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

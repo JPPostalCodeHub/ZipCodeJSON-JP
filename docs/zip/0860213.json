@@ -1,17 +1,21 @@
 {
-  "jisCode": "01691",
-  "oldZipCode": "08602",
-  "zipCode": "0860213",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ノツケグンベツカイチョウ",
-  "townKana": "オクユキ",
-  "prefecture": "北海道",
-  "city": "野付郡別海町",
-  "town": "奥行",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01691",
+      "oldZipCode": "08602",
+      "zipCode": "0860213",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ノツケグンベツカイチョウ",
+      "townKana": "オクユキ",
+      "prefecture": "北海道",
+      "city": "野付郡別海町",
+      "town": "奥行",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

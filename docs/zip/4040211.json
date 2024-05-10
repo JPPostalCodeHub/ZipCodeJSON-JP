@@ -1,17 +1,21 @@
 {
-  "jisCode": "19213",
-  "oldZipCode": "40402",
-  "zipCode": "4040211",
-  "prefectureKana": "ヤマナシケン",
-  "cityKana": "コウシュウシ",
-  "townKana": "エンザンオヤシキ（ナメザワ）",
-  "prefecture": "山梨県",
-  "city": "甲州市",
-  "town": "塩山小屋敷（滑沢）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "19213",
+      "oldZipCode": "40402",
+      "zipCode": "4040211",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "コウシュウシ",
+      "townKana": "エンザンオヤシキ（ナメザワ）",
+      "prefecture": "山梨県",
+      "city": "甲州市",
+      "town": "塩山小屋敷（滑沢）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

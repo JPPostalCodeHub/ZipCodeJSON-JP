@@ -1,17 +1,21 @@
 {
-  "jisCode": "11211",
-  "oldZipCode": "36702",
-  "zipCode": "3670218",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "ホンジョウシ",
-  "townKana": "コダマチョウコダマミナミ",
-  "prefecture": "埼玉県",
-  "city": "本庄市",
-  "town": "児玉町児玉南",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11211",
+      "oldZipCode": "36702",
+      "zipCode": "3670218",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "ホンジョウシ",
+      "townKana": "コダマチョウコダマミナミ",
+      "prefecture": "埼玉県",
+      "city": "本庄市",
+      "town": "児玉町児玉南",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

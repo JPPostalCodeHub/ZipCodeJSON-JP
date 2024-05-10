@@ -1,17 +1,21 @@
 {
-  "jisCode": "39203",
-  "oldZipCode": "784  ",
-  "zipCode": "7840024",
-  "prefectureKana": "コウチケン",
-  "cityKana": "アキシ",
-  "townKana": "チトセチョウ",
-  "prefecture": "高知県",
-  "city": "安芸市",
-  "town": "千歳町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "39203",
+      "oldZipCode": "784  ",
+      "zipCode": "7840024",
+      "prefectureKana": "コウチケン",
+      "cityKana": "アキシ",
+      "townKana": "チトセチョウ",
+      "prefecture": "高知県",
+      "city": "安芸市",
+      "town": "千歳町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

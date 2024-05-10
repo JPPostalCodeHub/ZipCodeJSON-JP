@@ -1,17 +1,21 @@
 {
-  "jisCode": "11342",
-  "oldZipCode": "35502",
-  "zipCode": "3550227",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "ヒキグンランザンマチ",
-  "townKana": "センジュドウ",
-  "prefecture": "埼玉県",
-  "city": "比企郡嵐山町",
-  "town": "千手堂",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11342",
+      "oldZipCode": "35502",
+      "zipCode": "3550227",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "ヒキグンランザンマチ",
+      "townKana": "センジュドウ",
+      "prefecture": "埼玉県",
+      "city": "比企郡嵐山町",
+      "town": "千手堂",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

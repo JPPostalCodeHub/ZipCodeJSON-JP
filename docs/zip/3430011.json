@@ -1,17 +1,21 @@
 {
-  "jisCode": "11222",
-  "oldZipCode": "343  ",
-  "zipCode": "3430011",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "コシガヤシ",
-  "townKana": "マシバヤシ",
-  "prefecture": "埼玉県",
-  "city": "越谷市",
-  "town": "増林",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11222",
+      "oldZipCode": "343  ",
+      "zipCode": "3430011",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "コシガヤシ",
+      "townKana": "マシバヤシ",
+      "prefecture": "埼玉県",
+      "city": "越谷市",
+      "town": "増林",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

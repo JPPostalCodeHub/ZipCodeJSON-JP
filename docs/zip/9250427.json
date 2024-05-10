@@ -1,17 +1,21 @@
 {
-  "jisCode": "17384",
-  "oldZipCode": "92504",
-  "zipCode": "9250427",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "ハクイグンシカマチ",
-  "townKana": "ソワ",
-  "prefecture": "石川県",
-  "city": "羽咋郡志賀町",
-  "town": "楚和",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17384",
+      "oldZipCode": "92504",
+      "zipCode": "9250427",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "ハクイグンシカマチ",
+      "townKana": "ソワ",
+      "prefecture": "石川県",
+      "city": "羽咋郡志賀町",
+      "town": "楚和",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

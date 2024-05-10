@@ -1,17 +1,21 @@
 {
-  "jisCode": "02307",
-  "oldZipCode": "03017",
-  "zipCode": "0301718",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "ヒガシツガルグンソトガハママチ",
-  "townKana": "ミンマヤナシノキマ",
-  "prefecture": "青森県",
-  "city": "東津軽郡外ヶ浜町",
-  "town": "三厩梨ノ木間",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02307",
+      "oldZipCode": "03017",
+      "zipCode": "0301718",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "ヒガシツガルグンソトガハママチ",
+      "townKana": "ミンマヤナシノキマ",
+      "prefecture": "青森県",
+      "city": "東津軽郡外ヶ浜町",
+      "town": "三厩梨ノ木間",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "06202",
-  "oldZipCode": "992  ",
-  "zipCode": "9920047",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "ヨネザワシ",
-  "townKana": "トクマチ",
-  "prefecture": "山形県",
-  "city": "米沢市",
-  "town": "徳町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06202",
+      "oldZipCode": "992  ",
+      "zipCode": "9920047",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "ヨネザワシ",
+      "townKana": "トクマチ",
+      "prefecture": "山形県",
+      "city": "米沢市",
+      "town": "徳町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

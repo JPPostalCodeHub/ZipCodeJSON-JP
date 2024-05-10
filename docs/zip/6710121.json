@@ -1,17 +1,21 @@
 {
-  "jisCode": "28216",
-  "oldZipCode": "67101",
-  "zipCode": "6710121",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "タカサゴシ",
-  "townKana": "キタハマチョウウシタニ",
-  "prefecture": "兵庫県",
-  "city": "高砂市",
-  "town": "北浜町牛谷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28216",
+      "oldZipCode": "67101",
+      "zipCode": "6710121",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "タカサゴシ",
+      "townKana": "キタハマチョウウシタニ",
+      "prefecture": "兵庫県",
+      "city": "高砂市",
+      "town": "北浜町牛谷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

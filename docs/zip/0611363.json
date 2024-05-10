@@ -1,17 +1,38 @@
 {
-  "jisCode": "01231",
-  "oldZipCode": "06113",
-  "zipCode": "0611363",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "エニワシ",
-  "townKana": "シママツザワ",
-  "prefecture": "北海道",
-  "city": "恵庭市",
-  "town": "島松沢",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01231",
+      "oldZipCode": "06113",
+      "zipCode": "0611363",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "エニワシ",
+      "townKana": "サクラモリ",
+      "prefecture": "北海道",
+      "city": "恵庭市",
+      "town": "桜森",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "01231",
+      "oldZipCode": "06113",
+      "zipCode": "0611363",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "エニワシ",
+      "townKana": "シママツザワ",
+      "prefecture": "北海道",
+      "city": "恵庭市",
+      "town": "島松沢",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "02387",
-  "oldZipCode": "03017",
-  "zipCode": "0301701",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "キタツガルグンナカドマリマチ",
-  "townKana": "コドマリホロナイ",
-  "prefecture": "青森県",
-  "city": "北津軽郡中泊町",
-  "town": "小泊袰内",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02387",
+      "oldZipCode": "03017",
+      "zipCode": "0301701",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "キタツガルグンナカドマリマチ",
+      "townKana": "コドマリホロナイ",
+      "prefecture": "青森県",
+      "city": "北津軽郡中泊町",
+      "town": "小泊袰内",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

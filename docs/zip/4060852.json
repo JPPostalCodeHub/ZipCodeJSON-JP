@@ -1,17 +1,21 @@
 {
-  "jisCode": "19211",
-  "oldZipCode": "406  ",
-  "zipCode": "4060852",
-  "prefectureKana": "ヤマナシケン",
-  "cityKana": "フエフキシ",
-  "townKana": "サカイガワチョウオオグロサカ",
-  "prefecture": "山梨県",
-  "city": "笛吹市",
-  "town": "境川町大黒坂",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "19211",
+      "oldZipCode": "406  ",
+      "zipCode": "4060852",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "フエフキシ",
+      "townKana": "サカイガワチョウオオグロサカ",
+      "prefecture": "山梨県",
+      "city": "笛吹市",
+      "town": "境川町大黒坂",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

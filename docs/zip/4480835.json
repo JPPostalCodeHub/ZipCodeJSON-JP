@@ -1,17 +1,21 @@
 {
-  "jisCode": "23210",
-  "oldZipCode": "448  ",
-  "zipCode": "4480835",
-  "prefectureKana": "アイチケン",
-  "cityKana": "カリヤシ",
-  "townKana": "ミナトマチ",
-  "prefecture": "愛知県",
-  "city": "刈谷市",
-  "town": "港町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23210",
+      "oldZipCode": "448  ",
+      "zipCode": "4480835",
+      "prefectureKana": "アイチケン",
+      "cityKana": "カリヤシ",
+      "townKana": "ミナトマチ",
+      "prefecture": "愛知県",
+      "city": "刈谷市",
+      "town": "港町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

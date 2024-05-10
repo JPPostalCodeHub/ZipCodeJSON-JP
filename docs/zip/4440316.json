@@ -1,17 +1,21 @@
 {
-  "jisCode": "23213",
-  "oldZipCode": "44403",
-  "zipCode": "4440316",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ニシオシ",
-  "townKana": "ハツカチョウ",
-  "prefecture": "愛知県",
-  "city": "西尾市",
-  "town": "羽塚町",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23213",
+      "oldZipCode": "44403",
+      "zipCode": "4440316",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ニシオシ",
+      "townKana": "ハツカチョウ",
+      "prefecture": "愛知県",
+      "city": "西尾市",
+      "town": "羽塚町",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

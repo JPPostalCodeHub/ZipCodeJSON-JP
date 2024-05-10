@@ -1,17 +1,21 @@
 {
-  "jisCode": "27202",
-  "oldZipCode": "596  ",
-  "zipCode": "5960826",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "キシワダシ",
-  "townKana": "ザクザイチョウ",
-  "prefecture": "大阪府",
-  "city": "岸和田市",
-  "town": "作才町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27202",
+      "oldZipCode": "596  ",
+      "zipCode": "5960826",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "キシワダシ",
+      "townKana": "ザクザイチョウ",
+      "prefecture": "大阪府",
+      "city": "岸和田市",
+      "town": "作才町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

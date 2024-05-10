@@ -1,17 +1,21 @@
 {
-  "jisCode": "01303",
-  "oldZipCode": "06137",
-  "zipCode": "0613774",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "イシカリグントウベツチョウ",
-  "townKana": "カワシモ（７８２−１３、５３６３−７−８、５３８２−３、５４０５−４、５４０７−５、５４４５−５４４６−４バンチ）",
-  "prefecture": "北海道",
-  "city": "石狩郡当別町",
-  "town": "川下（７８２−１３、５３６３−７〜８、５３８２−３、５４０５−４、５４０７−５、５４４５〜５４４６−４番地）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01303",
+      "oldZipCode": "06137",
+      "zipCode": "0613774",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "イシカリグントウベツチョウ",
+      "townKana": "カワシモ（７８２−１３、５３６３−７−８、５３８２−３、５４０５−４、５４０７−５、５４４５−５４４６−４バンチ）",
+      "prefecture": "北海道",
+      "city": "石狩郡当別町",
+      "town": "川下（７８２−１３、５３６３−７〜８、５３８２−３、５４０５−４、５４０７−５、５４４５〜５４４６−４番地）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

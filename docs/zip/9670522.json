@@ -1,17 +1,21 @@
 {
-  "jisCode": "07364",
-  "oldZipCode": "96705",
-  "zipCode": "9670522",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "ミナミアイヅグンヒノエマタムラ",
-  "townKana": "カミノハラ",
-  "prefecture": "福島県",
-  "city": "南会津郡檜枝岐村",
-  "town": "上ノ原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07364",
+      "oldZipCode": "96705",
+      "zipCode": "9670522",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "ミナミアイヅグンヒノエマタムラ",
+      "townKana": "カミノハラ",
+      "prefecture": "福島県",
+      "city": "南会津郡檜枝岐村",
+      "town": "上ノ原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

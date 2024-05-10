@@ -1,17 +1,38 @@
 {
-  "jisCode": "23235",
-  "oldZipCode": "49014",
-  "zipCode": "4901421",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ヤトミシ",
-  "townKana": "カミオシハギチョウ",
-  "prefecture": "愛知県",
-  "city": "弥富市",
-  "town": "上押萩町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23235",
+      "oldZipCode": "49014",
+      "zipCode": "4901421",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ヤトミシ",
+      "townKana": "カミオシハギ",
+      "prefecture": "愛知県",
+      "city": "弥富市",
+      "town": "上押萩",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "23235",
+      "oldZipCode": "49014",
+      "zipCode": "4901421",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ヤトミシ",
+      "townKana": "カミオシハギチョウ",
+      "prefecture": "愛知県",
+      "city": "弥富市",
+      "town": "上押萩町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "02202",
-  "oldZipCode": "036  ",
-  "zipCode": "0368374",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "ヒロサキシ",
-  "townKana": "ツチドウ",
-  "prefecture": "青森県",
-  "city": "弘前市",
-  "town": "土堂",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02202",
+      "oldZipCode": "036  ",
+      "zipCode": "0368374",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "ヒロサキシ",
+      "townKana": "ツチドウ",
+      "prefecture": "青森県",
+      "city": "弘前市",
+      "town": "土堂",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "15108",
-  "oldZipCode": "95904",
-  "zipCode": "9590421",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ニイガタシニシカンク",
-  "townKana": "スズキ",
-  "prefecture": "新潟県",
-  "city": "新潟市西蒲区",
-  "town": "鱸",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15108",
+      "oldZipCode": "95904",
+      "zipCode": "9590421",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ニイガタシニシカンク",
+      "townKana": "スズキ",
+      "prefecture": "新潟県",
+      "city": "新潟市西蒲区",
+      "town": "鱸",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

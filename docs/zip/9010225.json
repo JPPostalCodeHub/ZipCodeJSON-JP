@@ -1,17 +1,21 @@
 {
-  "jisCode": "47212",
-  "oldZipCode": "90102",
-  "zipCode": "9010225",
-  "prefectureKana": "オキナワケン",
-  "cityKana": "トミグスクシ",
-  "townKana": "トヨサキ",
-  "prefecture": "沖縄県",
-  "city": "豊見城市",
-  "town": "豊崎",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "47212",
+      "oldZipCode": "90102",
+      "zipCode": "9010225",
+      "prefectureKana": "オキナワケン",
+      "cityKana": "トミグスクシ",
+      "townKana": "トヨサキ",
+      "prefecture": "沖縄県",
+      "city": "豊見城市",
+      "town": "豊崎",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

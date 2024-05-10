@@ -1,17 +1,21 @@
 {
-  "jisCode": "11224",
-  "oldZipCode": "335  ",
-  "zipCode": "3350024",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "トダシ",
-  "townKana": "トダコウエン",
-  "prefecture": "埼玉県",
-  "city": "戸田市",
-  "town": "戸田公園",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11224",
+      "oldZipCode": "335  ",
+      "zipCode": "3350024",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "トダシ",
+      "townKana": "トダコウエン",
+      "prefecture": "埼玉県",
+      "city": "戸田市",
+      "town": "戸田公園",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

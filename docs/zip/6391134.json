@@ -1,17 +1,38 @@
 {
-  "jisCode": "29203",
-  "oldZipCode": "63911",
-  "zipCode": "6391134",
-  "prefectureKana": "ナラケン",
-  "cityKana": "ヤマトコオリヤマシ",
-  "townKana": "ヤナギマチ",
-  "prefecture": "奈良県",
-  "city": "大和郡山市",
-  "town": "柳町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "29203",
+      "oldZipCode": "63911",
+      "zipCode": "6391134",
+      "prefectureKana": "ナラケン",
+      "cityKana": "ヤマトコオリヤマシ",
+      "townKana": "ヤナギ",
+      "prefecture": "奈良県",
+      "city": "大和郡山市",
+      "town": "柳",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "29203",
+      "oldZipCode": "63911",
+      "zipCode": "6391134",
+      "prefectureKana": "ナラケン",
+      "cityKana": "ヤマトコオリヤマシ",
+      "townKana": "ヤナギマチ",
+      "prefecture": "奈良県",
+      "city": "大和郡山市",
+      "town": "柳町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

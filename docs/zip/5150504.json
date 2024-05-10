@@ -1,17 +1,21 @@
 {
-  "jisCode": "24203",
-  "oldZipCode": "51505",
-  "zipCode": "5150504",
-  "prefectureKana": "ミエケン",
-  "cityKana": "イセシ",
-  "townKana": "イソチョウ",
-  "prefecture": "三重県",
-  "city": "伊勢市",
-  "town": "磯町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "24203",
+      "oldZipCode": "51505",
+      "zipCode": "5150504",
+      "prefectureKana": "ミエケン",
+      "cityKana": "イセシ",
+      "townKana": "イソチョウ",
+      "prefecture": "三重県",
+      "city": "伊勢市",
+      "town": "磯町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

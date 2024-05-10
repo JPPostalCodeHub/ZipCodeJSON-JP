@@ -1,17 +1,21 @@
 {
-  "jisCode": "41327",
-  "oldZipCode": "84201",
-  "zipCode": "8420102",
-  "prefectureKana": "サガケン",
-  "cityKana": "カンザキグンヨシノガリチョウ",
-  "townKana": "イシナリ",
-  "prefecture": "佐賀県",
-  "city": "神埼郡吉野ヶ里町",
-  "town": "石動",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "41327",
+      "oldZipCode": "84201",
+      "zipCode": "8420102",
+      "prefectureKana": "サガケン",
+      "cityKana": "カンザキグンヨシノガリチョウ",
+      "townKana": "イシナリ",
+      "prefecture": "佐賀県",
+      "city": "神埼郡吉野ヶ里町",
+      "town": "石動",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

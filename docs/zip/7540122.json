@@ -1,17 +1,21 @@
 {
-  "jisCode": "35213",
-  "oldZipCode": "75401",
-  "zipCode": "7540122",
-  "prefectureKana": "ヤマグチケン",
-  "cityKana": "ミネシ",
-  "townKana": "ミトウチョウマナ",
-  "prefecture": "山口県",
-  "city": "美祢市",
-  "town": "美東町真名",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "35213",
+      "oldZipCode": "75401",
+      "zipCode": "7540122",
+      "prefectureKana": "ヤマグチケン",
+      "cityKana": "ミネシ",
+      "townKana": "ミトウチョウマナ",
+      "prefecture": "山口県",
+      "city": "美祢市",
+      "town": "美東町真名",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

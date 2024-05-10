@@ -1,17 +1,21 @@
 {
-  "jisCode": "30201",
-  "oldZipCode": "641  ",
-  "zipCode": "6410007",
-  "prefectureKana": "ワカヤマケン",
-  "cityKana": "ワカヤマシ",
-  "townKana": "コザイカ",
-  "prefecture": "和歌山県",
-  "city": "和歌山市",
-  "town": "小雑賀",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "30201",
+      "oldZipCode": "641  ",
+      "zipCode": "6410007",
+      "prefectureKana": "ワカヤマケン",
+      "cityKana": "ワカヤマシ",
+      "townKana": "コザイカ",
+      "prefecture": "和歌山県",
+      "city": "和歌山市",
+      "town": "小雑賀",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

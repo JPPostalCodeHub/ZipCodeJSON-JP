@@ -1,17 +1,21 @@
 {
-  "jisCode": "12409",
-  "oldZipCode": "28916",
-  "zipCode": "2891613",
-  "prefectureKana": "チバケン",
-  "cityKana": "サンブグンシバヤママチ",
-  "townKana": "シモフキイレ",
-  "prefecture": "千葉県",
-  "city": "山武郡芝山町",
-  "town": "下吹入",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12409",
+      "oldZipCode": "28916",
+      "zipCode": "2891613",
+      "prefectureKana": "チバケン",
+      "cityKana": "サンブグンシバヤママチ",
+      "townKana": "シモフキイレ",
+      "prefecture": "千葉県",
+      "city": "山武郡芝山町",
+      "town": "下吹入",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

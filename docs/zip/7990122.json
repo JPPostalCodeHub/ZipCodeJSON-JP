@@ -1,17 +1,21 @@
 {
-  "jisCode": "38213",
-  "oldZipCode": "79901",
-  "zipCode": "7990122",
-  "prefectureKana": "エヒメケン",
-  "cityKana": "シコクチュウオウシ",
-  "townKana": "カナダチョウハンダ",
-  "prefecture": "愛媛県",
-  "city": "四国中央市",
-  "town": "金田町半田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "38213",
+      "oldZipCode": "79901",
+      "zipCode": "7990122",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "シコクチュウオウシ",
+      "townKana": "カナダチョウハンダ",
+      "prefecture": "愛媛県",
+      "city": "四国中央市",
+      "town": "金田町半田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

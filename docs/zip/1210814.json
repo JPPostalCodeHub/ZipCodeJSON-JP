@@ -1,17 +1,21 @@
 {
-  "jisCode": "13121",
-  "oldZipCode": "121  ",
-  "zipCode": "1210814",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "アダチク",
-  "townKana": "ロクガツ",
-  "prefecture": "東京都",
-  "city": "足立区",
-  "town": "六月",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13121",
+      "oldZipCode": "121  ",
+      "zipCode": "1210814",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "アダチク",
+      "townKana": "ロクガツ",
+      "prefecture": "東京都",
+      "city": "足立区",
+      "town": "六月",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

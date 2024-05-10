@@ -1,17 +1,21 @@
 {
-  "jisCode": "28585",
-  "oldZipCode": "66715",
-  "zipCode": "6671514",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "ミカタグンカミチョウ",
-  "townKana": "オジロクカンバ",
-  "prefecture": "兵庫県",
-  "city": "美方郡香美町",
-  "town": "小代区神場",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28585",
+      "oldZipCode": "66715",
+      "zipCode": "6671514",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "ミカタグンカミチョウ",
+      "townKana": "オジロクカンバ",
+      "prefecture": "兵庫県",
+      "city": "美方郡香美町",
+      "town": "小代区神場",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

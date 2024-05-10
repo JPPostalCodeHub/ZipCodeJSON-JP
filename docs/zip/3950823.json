@@ -1,17 +1,21 @@
 {
-  "jisCode": "20205",
-  "oldZipCode": "395  ",
-  "zipCode": "3950823",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "イイダシ",
-  "townKana": "マツオミョウ",
-  "prefecture": "長野県",
-  "city": "飯田市",
-  "town": "松尾明",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20205",
+      "oldZipCode": "395  ",
+      "zipCode": "3950823",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "イイダシ",
+      "townKana": "マツオミョウ",
+      "prefecture": "長野県",
+      "city": "飯田市",
+      "town": "松尾明",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

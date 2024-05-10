@@ -1,17 +1,21 @@
 {
-  "jisCode": "13105",
-  "oldZipCode": "112  ",
-  "zipCode": "1120004",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "ブンキョウク",
-  "townKana": "コウラク",
-  "prefecture": "東京都",
-  "city": "文京区",
-  "town": "後楽",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13105",
+      "oldZipCode": "112  ",
+      "zipCode": "1120004",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "ブンキョウク",
+      "townKana": "コウラク",
+      "prefecture": "東京都",
+      "city": "文京区",
+      "town": "後楽",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

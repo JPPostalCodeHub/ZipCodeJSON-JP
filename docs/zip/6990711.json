@@ -1,17 +1,21 @@
 {
-  "jisCode": "32203",
-  "oldZipCode": "69907",
-  "zipCode": "6990711",
-  "prefectureKana": "シマネケン",
-  "cityKana": "イズモシ",
-  "townKana": "タイシャチョウキヅキミナミ",
-  "prefecture": "島根県",
-  "city": "出雲市",
-  "town": "大社町杵築南",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "32203",
+      "oldZipCode": "69907",
+      "zipCode": "6990711",
+      "prefectureKana": "シマネケン",
+      "cityKana": "イズモシ",
+      "townKana": "タイシャチョウキヅキミナミ",
+      "prefecture": "島根県",
+      "city": "出雲市",
+      "town": "大社町杵築南",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "05202",
-  "oldZipCode": "016  ",
-  "zipCode": "0160845",
-  "prefectureKana": "アキタケン",
-  "cityKana": "ノシロシ",
-  "townKana": "トオリマチ",
-  "prefecture": "秋田県",
-  "city": "能代市",
-  "town": "通町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05202",
+      "oldZipCode": "016  ",
+      "zipCode": "0160845",
+      "prefectureKana": "アキタケン",
+      "cityKana": "ノシロシ",
+      "townKana": "トオリマチ",
+      "prefecture": "秋田県",
+      "city": "能代市",
+      "town": "通町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

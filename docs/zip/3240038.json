@@ -1,17 +1,21 @@
 {
-  "jisCode": "09210",
-  "oldZipCode": "324  ",
-  "zipCode": "3240038",
-  "prefectureKana": "トチギケン",
-  "cityKana": "オオタワラシ",
-  "townKana": "ノザキ",
-  "prefecture": "栃木県",
-  "city": "大田原市",
-  "town": "野崎",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "09210",
+      "oldZipCode": "324  ",
+      "zipCode": "3240038",
+      "prefectureKana": "トチギケン",
+      "cityKana": "オオタワラシ",
+      "townKana": "ノザキ",
+      "prefecture": "栃木県",
+      "city": "大田原市",
+      "town": "野崎",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "13202",
-  "oldZipCode": "190  ",
-  "zipCode": "1900031",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "タチカワシ",
-  "townKana": "スナガワチョウ",
-  "prefecture": "東京都",
-  "city": "立川市",
-  "town": "砂川町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13202",
+      "oldZipCode": "190  ",
+      "zipCode": "1900031",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "タチカワシ",
+      "townKana": "スナガワチョウ",
+      "prefecture": "東京都",
+      "city": "立川市",
+      "town": "砂川町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

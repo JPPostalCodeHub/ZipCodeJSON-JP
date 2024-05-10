@@ -1,17 +1,21 @@
 {
-  "jisCode": "12215",
-  "oldZipCode": "28925",
-  "zipCode": "2892514",
-  "prefectureKana": "チバケン",
-  "cityKana": "アサヒシ",
-  "townKana": "シイナウチ",
-  "prefecture": "千葉県",
-  "city": "旭市",
-  "town": "椎名内",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12215",
+      "oldZipCode": "28925",
+      "zipCode": "2892514",
+      "prefectureKana": "チバケン",
+      "cityKana": "アサヒシ",
+      "townKana": "シイナウチ",
+      "prefecture": "千葉県",
+      "city": "旭市",
+      "town": "椎名内",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "17203",
-  "oldZipCode": "923  ",
-  "zipCode": "9230958",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "コマツシ",
-  "townKana": "シミズマチ",
-  "prefecture": "石川県",
-  "city": "小松市",
-  "town": "清水町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17203",
+      "oldZipCode": "923  ",
+      "zipCode": "9230958",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "コマツシ",
+      "townKana": "シミズマチ",
+      "prefecture": "石川県",
+      "city": "小松市",
+      "town": "清水町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

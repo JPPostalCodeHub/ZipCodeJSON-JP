@@ -1,17 +1,21 @@
 {
-  "jisCode": "26106",
-  "oldZipCode": "600  ",
-  "zipCode": "6008498",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシシモギョウク",
-  "townKana": "カシワヤチョウ",
-  "prefecture": "京都府",
-  "city": "京都市下京区",
-  "town": "柏屋町（四条通油小路西入、四条通醒ケ井西入、四条通醒ケ井東入、四条通東堀川東入、四条通堀川東入）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26106",
+      "oldZipCode": "600  ",
+      "zipCode": "6008498",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシシモギョウク",
+      "townKana": "カシワヤチョウ",
+      "prefecture": "京都府",
+      "city": "京都市下京区",
+      "town": "柏屋町（四条通油小路西入、四条通醒ケ井西入、四条通醒ケ井東入、四条通東堀川東入、四条通堀川東入）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

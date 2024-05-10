@@ -1,17 +1,21 @@
 {
-  "jisCode": "22208",
-  "oldZipCode": "414  ",
-  "zipCode": "4140035",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "イトウシ",
-  "townKana": "ミナミチョウ",
-  "prefecture": "静岡県",
-  "city": "伊東市",
-  "town": "南町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22208",
+      "oldZipCode": "414  ",
+      "zipCode": "4140035",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "イトウシ",
+      "townKana": "ミナミチョウ",
+      "prefecture": "静岡県",
+      "city": "伊東市",
+      "town": "南町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

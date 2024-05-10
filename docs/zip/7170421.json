@@ -1,17 +1,21 @@
 {
-  "jisCode": "33214",
-  "oldZipCode": "71704",
-  "zipCode": "7170421",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "マニワシ",
-  "townKana": "アワダニ",
-  "prefecture": "岡山県",
-  "city": "真庭市",
-  "town": "粟谷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33214",
+      "oldZipCode": "71704",
+      "zipCode": "7170421",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "マニワシ",
+      "townKana": "アワダニ",
+      "prefecture": "岡山県",
+      "city": "真庭市",
+      "town": "粟谷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

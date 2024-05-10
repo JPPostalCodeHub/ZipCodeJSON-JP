@@ -1,17 +1,38 @@
 {
-  "jisCode": "01218",
-  "oldZipCode": "07912",
-  "zipCode": "0791261",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "アカビラシ",
-  "townKana": "モジリチュウオウチョウキタ",
-  "prefecture": "北海道",
-  "city": "赤平市",
-  "town": "茂尻中央町北",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01218",
+      "oldZipCode": "07912",
+      "zipCode": "0791261",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "アカビラシ",
+      "townKana": "モジリチュウオウチョウミナミ",
+      "prefecture": "北海道",
+      "city": "赤平市",
+      "town": "茂尻中央町南",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "01218",
+      "oldZipCode": "07912",
+      "zipCode": "0791261",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "アカビラシ",
+      "townKana": "モジリチュウオウチョウキタ",
+      "prefecture": "北海道",
+      "city": "赤平市",
+      "town": "茂尻中央町北",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

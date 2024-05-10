@@ -1,17 +1,21 @@
 {
-  "jisCode": "17206",
-  "oldZipCode": "92205",
-  "zipCode": "9220551",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "カガシ",
-  "townKana": "ミサキマチ",
-  "prefecture": "石川県",
-  "city": "加賀市",
-  "town": "美岬町",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17206",
+      "oldZipCode": "92205",
+      "zipCode": "9220551",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "カガシ",
+      "townKana": "ミサキマチ",
+      "prefecture": "石川県",
+      "city": "加賀市",
+      "town": "美岬町",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

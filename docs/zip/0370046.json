@@ -1,17 +1,21 @@
 {
-  "jisCode": "02205",
-  "oldZipCode": "037  ",
-  "zipCode": "0370046",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "ゴショガワラシ",
-  "townKana": "サカエマチ",
-  "prefecture": "青森県",
-  "city": "五所川原市",
-  "town": "栄町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02205",
+      "oldZipCode": "037  ",
+      "zipCode": "0370046",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "ゴショガワラシ",
+      "townKana": "サカエマチ",
+      "prefecture": "青森県",
+      "city": "五所川原市",
+      "town": "栄町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

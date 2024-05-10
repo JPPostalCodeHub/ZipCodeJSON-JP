@@ -1,17 +1,21 @@
 {
-  "jisCode": "44210",
-  "oldZipCode": "87913",
-  "zipCode": "8791315",
-  "prefectureKana": "オオイタケン",
-  "cityKana": "キツキシ",
-  "townKana": "ヤマガマチヤマウラ",
-  "prefecture": "大分県",
-  "city": "杵築市",
-  "town": "山香町山浦",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "44210",
+      "oldZipCode": "87913",
+      "zipCode": "8791315",
+      "prefectureKana": "オオイタケン",
+      "cityKana": "キツキシ",
+      "townKana": "ヤマガマチヤマウラ",
+      "prefecture": "大分県",
+      "city": "杵築市",
+      "town": "山香町山浦",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

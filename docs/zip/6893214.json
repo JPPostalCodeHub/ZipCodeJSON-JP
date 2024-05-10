@@ -1,17 +1,21 @@
 {
-  "jisCode": "31386",
-  "oldZipCode": "68932",
-  "zipCode": "6893214",
-  "prefectureKana": "トットリケン",
-  "cityKana": "サイハクグンダイセンチョウ",
-  "townKana": "カモ",
-  "prefecture": "鳥取県",
-  "city": "西伯郡大山町",
-  "town": "加茂",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "31386",
+      "oldZipCode": "68932",
+      "zipCode": "6893214",
+      "prefectureKana": "トットリケン",
+      "cityKana": "サイハクグンダイセンチョウ",
+      "townKana": "カモ",
+      "prefecture": "鳥取県",
+      "city": "西伯郡大山町",
+      "town": "加茂",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

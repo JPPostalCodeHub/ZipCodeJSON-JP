@@ -1,17 +1,21 @@
 {
-  "jisCode": "02424",
-  "oldZipCode": "03942",
-  "zipCode": "0394224",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "シモキタグンヒガシドオリムラ",
-  "townKana": "シラヌカ",
-  "prefecture": "青森県",
-  "city": "下北郡東通村",
-  "town": "白糠",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02424",
+      "oldZipCode": "03942",
+      "zipCode": "0394224",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "シモキタグンヒガシドオリムラ",
+      "townKana": "シラヌカ",
+      "prefecture": "青森県",
+      "city": "下北郡東通村",
+      "town": "白糠",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

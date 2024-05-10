@@ -1,17 +1,21 @@
 {
-  "jisCode": "34369",
-  "oldZipCode": "73122",
-  "zipCode": "7312202",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "ヤマガタグンキタヒロシマチョウ",
-  "townKana": "ミゾグチ",
-  "prefecture": "広島県",
-  "city": "山県郡北広島町",
-  "town": "溝口",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34369",
+      "oldZipCode": "73122",
+      "zipCode": "7312202",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ヤマガタグンキタヒロシマチョウ",
+      "townKana": "ミゾグチ",
+      "prefecture": "広島県",
+      "city": "山県郡北広島町",
+      "town": "溝口",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

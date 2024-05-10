@@ -1,17 +1,21 @@
 {
-  "jisCode": "34208",
-  "oldZipCode": "72934",
-  "zipCode": "7293403",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "フチュウシ",
-  "townKana": "ジョウゲチョウシナミ",
-  "prefecture": "広島県",
-  "city": "府中市",
-  "town": "上下町階見",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34208",
+      "oldZipCode": "72934",
+      "zipCode": "7293403",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "フチュウシ",
+      "townKana": "ジョウゲチョウシナミ",
+      "prefecture": "広島県",
+      "city": "府中市",
+      "town": "上下町階見",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "31325",
-  "oldZipCode": "68007",
-  "zipCode": "6800728",
-  "prefectureKana": "トットリケン",
-  "cityKana": "ヤズグンワカサチョウ",
-  "townKana": "ツクヨネ",
-  "prefecture": "鳥取県",
-  "city": "八頭郡若桜町",
-  "town": "つく米",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "31325",
+      "oldZipCode": "68007",
+      "zipCode": "6800728",
+      "prefectureKana": "トットリケン",
+      "cityKana": "ヤズグンワカサチョウ",
+      "townKana": "ツクヨネ",
+      "prefecture": "鳥取県",
+      "city": "八頭郡若桜町",
+      "town": "つく米",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

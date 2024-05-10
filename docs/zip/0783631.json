@@ -1,17 +1,21 @@
 {
-  "jisCode": "01483",
-  "oldZipCode": "07836",
-  "zipCode": "0783631",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "トママエグントママエチョウ",
-  "townKana": "カガワ（３３８−８４９バンチ）",
-  "prefecture": "北海道",
-  "city": "苫前郡苫前町",
-  "town": "香川（３３８〜８４９番地）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01483",
+      "oldZipCode": "07836",
+      "zipCode": "0783631",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "トママエグントママエチョウ",
+      "townKana": "カガワ（３３８−８４９バンチ）",
+      "prefecture": "北海道",
+      "city": "苫前郡苫前町",
+      "town": "香川（３３８〜８４９番地）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

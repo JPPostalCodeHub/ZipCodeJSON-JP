@@ -1,17 +1,21 @@
 {
-  "jisCode": "24204",
-  "oldZipCode": "51511",
-  "zipCode": "5151102",
-  "prefectureKana": "ミエケン",
-  "cityKana": "マツサカシ",
-  "townKana": "ヤヅチョウ",
-  "prefecture": "三重県",
-  "city": "松阪市",
-  "town": "矢津町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "24204",
+      "oldZipCode": "51511",
+      "zipCode": "5151102",
+      "prefectureKana": "ミエケン",
+      "cityKana": "マツサカシ",
+      "townKana": "ヤヅチョウ",
+      "prefecture": "三重県",
+      "city": "松阪市",
+      "town": "矢津町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

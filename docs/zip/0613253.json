@@ -1,17 +1,21 @@
 {
-  "jisCode": "01235",
-  "oldZipCode": "06132",
-  "zipCode": "0613253",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "イシカリシ",
-  "townKana": "タルカワ３ジョウ",
-  "prefecture": "北海道",
-  "city": "石狩市",
-  "town": "樽川三条",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01235",
+      "oldZipCode": "06132",
+      "zipCode": "0613253",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "イシカリシ",
+      "townKana": "タルカワ３ジョウ",
+      "prefecture": "北海道",
+      "city": "石狩市",
+      "town": "樽川三条",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

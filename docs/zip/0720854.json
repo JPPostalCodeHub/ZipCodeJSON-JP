@@ -1,17 +1,21 @@
 {
-  "jisCode": "01215",
-  "oldZipCode": "072  ",
-  "zipCode": "0720854",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ビバイシ",
-  "townKana": "ガロチョウ４ジョウ",
-  "prefecture": "北海道",
-  "city": "美唄市",
-  "town": "我路町四条",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01215",
+      "oldZipCode": "072  ",
+      "zipCode": "0720854",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ビバイシ",
+      "townKana": "ガロチョウ４ジョウ",
+      "prefecture": "北海道",
+      "city": "美唄市",
+      "town": "我路町四条",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

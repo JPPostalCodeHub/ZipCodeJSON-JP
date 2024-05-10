@@ -1,17 +1,21 @@
 {
-  "jisCode": "06202",
-  "oldZipCode": "99201",
-  "zipCode": "9920115",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "ヨネザワシ",
-  "townKana": "アズサガワ",
-  "prefecture": "山形県",
-  "city": "米沢市",
-  "town": "梓川",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06202",
+      "oldZipCode": "99201",
+      "zipCode": "9920115",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "ヨネザワシ",
+      "townKana": "アズサガワ",
+      "prefecture": "山形県",
+      "city": "米沢市",
+      "town": "梓川",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

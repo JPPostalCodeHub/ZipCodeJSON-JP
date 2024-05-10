@@ -1,17 +1,21 @@
 {
-  "jisCode": "14151",
-  "oldZipCode": "22911",
-  "zipCode": "2520134",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "サガミハラシミドリク",
-  "townKana": "シモクザワ",
-  "prefecture": "神奈川県",
-  "city": "相模原市緑区",
-  "town": "下九沢",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14151",
+      "oldZipCode": "22911",
+      "zipCode": "2520134",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "サガミハラシミドリク",
+      "townKana": "シモクザワ",
+      "prefecture": "神奈川県",
+      "city": "相模原市緑区",
+      "town": "下九沢",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

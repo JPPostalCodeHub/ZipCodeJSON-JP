@@ -1,17 +1,21 @@
 {
-  "jisCode": "34205",
-  "oldZipCode": "72215",
-  "zipCode": "7221563",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "オノミチシ",
-  "townKana": "ミツギチョウウエノ",
-  "prefecture": "広島県",
-  "city": "尾道市",
-  "town": "御調町植野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34205",
+      "oldZipCode": "72215",
+      "zipCode": "7221563",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "オノミチシ",
+      "townKana": "ミツギチョウウエノ",
+      "prefecture": "広島県",
+      "city": "尾道市",
+      "town": "御調町植野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

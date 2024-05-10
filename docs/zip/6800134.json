@@ -1,17 +1,21 @@
 {
-  "jisCode": "31201",
-  "oldZipCode": "68001",
-  "zipCode": "6800134",
-  "prefectureKana": "トットリケン",
-  "cityKana": "トットリシ",
-  "townKana": "コクフチョウスンズ",
-  "prefecture": "鳥取県",
-  "city": "鳥取市",
-  "town": "国府町清水",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "31201",
+      "oldZipCode": "68001",
+      "zipCode": "6800134",
+      "prefectureKana": "トットリケン",
+      "cityKana": "トットリシ",
+      "townKana": "コクフチョウスンズ",
+      "prefecture": "鳥取県",
+      "city": "鳥取市",
+      "town": "国府町清水",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

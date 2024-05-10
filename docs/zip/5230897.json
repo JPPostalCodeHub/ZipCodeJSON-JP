@@ -1,17 +1,21 @@
 {
-  "jisCode": "25204",
-  "oldZipCode": "523  ",
-  "zipCode": "5230897",
-  "prefectureKana": "シガケン",
-  "cityKana": "オウミハチマンシ",
-  "townKana": "タカカイチョウヒガシ",
-  "prefecture": "滋賀県",
-  "city": "近江八幡市",
-  "town": "鷹飼町東",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "25204",
+      "oldZipCode": "523  ",
+      "zipCode": "5230897",
+      "prefectureKana": "シガケン",
+      "cityKana": "オウミハチマンシ",
+      "townKana": "タカカイチョウヒガシ",
+      "prefecture": "滋賀県",
+      "city": "近江八幡市",
+      "town": "鷹飼町東",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

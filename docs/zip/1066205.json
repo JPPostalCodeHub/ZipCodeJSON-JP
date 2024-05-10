@@ -1,17 +1,21 @@
 {
-  "jisCode": "13103",
-  "oldZipCode": "106  ",
-  "zipCode": "1066205",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "ミナトク",
-  "townKana": "ロッポンギスミトモフドウサンロッポンギグランドタワー（５カイ）",
-  "prefecture": "東京都",
-  "city": "港区",
-  "town": "六本木住友不動産六本木グランドタワー（５階）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13103",
+      "oldZipCode": "106  ",
+      "zipCode": "1066205",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "ミナトク",
+      "townKana": "ロッポンギスミトモフドウサンロッポンギグランドタワー（５カイ）",
+      "prefecture": "東京都",
+      "city": "港区",
+      "town": "六本木住友不動産六本木グランドタワー（５階）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

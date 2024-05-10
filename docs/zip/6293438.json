@@ -1,17 +1,38 @@
 {
-  "jisCode": "26212",
-  "oldZipCode": "62934",
-  "zipCode": "6293438",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウタンゴシ",
-  "townKana": "クミハマチョウナガラ",
-  "prefecture": "京都府",
-  "city": "京丹後市",
-  "town": "久美浜町長柄",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26212",
+      "oldZipCode": "62934",
+      "zipCode": "6293438",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウタンゴシ",
+      "townKana": "クミハマチョウウラケ",
+      "prefecture": "京都府",
+      "city": "京丹後市",
+      "town": "久美浜町浦明",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "26212",
+      "oldZipCode": "62934",
+      "zipCode": "6293438",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウタンゴシ",
+      "townKana": "クミハマチョウナガラ",
+      "prefecture": "京都府",
+      "city": "京丹後市",
+      "town": "久美浜町長柄",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

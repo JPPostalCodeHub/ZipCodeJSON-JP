@@ -1,17 +1,21 @@
 {
-  "jisCode": "44211",
-  "oldZipCode": "87204",
-  "zipCode": "8720451",
-  "prefectureKana": "オオイタケン",
-  "cityKana": "ウサシ",
-  "townKana": "インナイマチシモアマリ",
-  "prefecture": "大分県",
-  "city": "宇佐市",
-  "town": "院内町下余",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "44211",
+      "oldZipCode": "87204",
+      "zipCode": "8720451",
+      "prefectureKana": "オオイタケン",
+      "cityKana": "ウサシ",
+      "townKana": "インナイマチシモアマリ",
+      "prefecture": "大分県",
+      "city": "宇佐市",
+      "town": "院内町下余",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

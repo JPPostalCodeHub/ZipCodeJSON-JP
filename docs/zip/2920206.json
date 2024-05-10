@@ -1,17 +1,21 @@
 {
-  "jisCode": "12206",
-  "oldZipCode": "29202",
-  "zipCode": "2920206",
-  "prefectureKana": "チバケン",
-  "cityKana": "キサラヅシ",
-  "townKana": "サノ",
-  "prefecture": "千葉県",
-  "city": "木更津市",
-  "town": "佐野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12206",
+      "oldZipCode": "29202",
+      "zipCode": "2920206",
+      "prefectureKana": "チバケン",
+      "cityKana": "キサラヅシ",
+      "townKana": "サノ",
+      "prefecture": "千葉県",
+      "city": "木更津市",
+      "town": "佐野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

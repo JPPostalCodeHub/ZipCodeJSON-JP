@@ -1,17 +1,21 @@
 {
-  "jisCode": "27227",
-  "oldZipCode": "579  ",
-  "zipCode": "5798065",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "ヒガシオオサカシ",
-  "townKana": "シンイケシマチョウ",
-  "prefecture": "大阪府",
-  "city": "東大阪市",
-  "town": "新池島町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27227",
+      "oldZipCode": "579  ",
+      "zipCode": "5798065",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "ヒガシオオサカシ",
+      "townKana": "シンイケシマチョウ",
+      "prefecture": "大阪府",
+      "city": "東大阪市",
+      "town": "新池島町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

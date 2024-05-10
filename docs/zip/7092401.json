@@ -1,17 +1,21 @@
 {
-  "jisCode": "33681",
-  "oldZipCode": "70924",
-  "zipCode": "7092401",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "カガグンキビチュウオウチョウ",
-  "townKana": "カンセ",
-  "prefecture": "岡山県",
-  "city": "加賀郡吉備中央町",
-  "town": "神瀬",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33681",
+      "oldZipCode": "70924",
+      "zipCode": "7092401",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "カガグンキビチュウオウチョウ",
+      "townKana": "カンセ",
+      "prefecture": "岡山県",
+      "city": "加賀郡吉備中央町",
+      "town": "神瀬",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

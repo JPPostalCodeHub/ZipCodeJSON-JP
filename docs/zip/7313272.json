@@ -1,17 +1,21 @@
 {
-  "jisCode": "34105",
-  "oldZipCode": "73132",
-  "zipCode": "7313272",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "ヒロシマシアサミナミク",
-  "townKana": "ヌマタチョウヨシヤマ",
-  "prefecture": "広島県",
-  "city": "広島市安佐南区",
-  "town": "沼田町吉山",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34105",
+      "oldZipCode": "73132",
+      "zipCode": "7313272",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ヒロシマシアサミナミク",
+      "townKana": "ヌマタチョウヨシヤマ",
+      "prefecture": "広島県",
+      "city": "広島市安佐南区",
+      "town": "沼田町吉山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

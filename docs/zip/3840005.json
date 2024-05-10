@@ -1,17 +1,21 @@
 {
-  "jisCode": "20208",
-  "oldZipCode": "384  ",
-  "zipCode": "3840005",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "コモロシ",
-  "townKana": "ミユキチョウ",
-  "prefecture": "長野県",
-  "city": "小諸市",
-  "town": "御幸町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20208",
+      "oldZipCode": "384  ",
+      "zipCode": "3840005",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "コモロシ",
+      "townKana": "ミユキチョウ",
+      "prefecture": "長野県",
+      "city": "小諸市",
+      "town": "御幸町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

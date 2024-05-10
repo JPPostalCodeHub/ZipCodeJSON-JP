@@ -1,17 +1,21 @@
 {
-  "jisCode": "27218",
-  "oldZipCode": "574  ",
-  "zipCode": "5740071",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "ダイトウシ",
-  "townKana": "フコノキタ",
-  "prefecture": "大阪府",
-  "city": "大東市",
-  "town": "深野北",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27218",
+      "oldZipCode": "574  ",
+      "zipCode": "5740071",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "ダイトウシ",
+      "townKana": "フコノキタ",
+      "prefecture": "大阪府",
+      "city": "大東市",
+      "town": "深野北",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

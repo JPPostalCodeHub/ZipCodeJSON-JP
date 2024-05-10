@@ -1,17 +1,21 @@
 {
-  "jisCode": "08211",
-  "oldZipCode": "303  ",
-  "zipCode": "3030046",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "ジョウソウシ",
-  "townKana": "ウチモリヤマチキヌノサト",
-  "prefecture": "茨城県",
-  "city": "常総市",
-  "town": "内守谷町きぬの里",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08211",
+      "oldZipCode": "303  ",
+      "zipCode": "3030046",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "ジョウソウシ",
+      "townKana": "ウチモリヤマチキヌノサト",
+      "prefecture": "茨城県",
+      "city": "常総市",
+      "town": "内守谷町きぬの里",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

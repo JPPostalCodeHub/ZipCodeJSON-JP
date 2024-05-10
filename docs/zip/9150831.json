@@ -1,17 +1,21 @@
 {
-  "jisCode": "18209",
-  "oldZipCode": "915  ",
-  "zipCode": "9150831",
-  "prefectureKana": "フクイケン",
-  "cityKana": "エチゼンシ",
-  "townKana": "ヒノミ",
-  "prefecture": "福井県",
-  "city": "越前市",
-  "town": "日野美",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18209",
+      "oldZipCode": "915  ",
+      "zipCode": "9150831",
+      "prefectureKana": "フクイケン",
+      "cityKana": "エチゼンシ",
+      "townKana": "ヒノミ",
+      "prefecture": "福井県",
+      "city": "越前市",
+      "town": "日野美",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

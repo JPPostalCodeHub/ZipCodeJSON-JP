@@ -1,17 +1,21 @@
 {
-  "jisCode": "45405",
-  "oldZipCode": "88913",
-  "zipCode": "8891300",
-  "prefectureKana": "ミヤザキケン",
-  "cityKana": "コユグンカワミナミチョウ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "宮崎県",
-  "city": "児湯郡川南町",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "45405",
+      "oldZipCode": "88913",
+      "zipCode": "8891300",
+      "prefectureKana": "ミヤザキケン",
+      "cityKana": "コユグンカワミナミチョウ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "宮崎県",
+      "city": "児湯郡川南町",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

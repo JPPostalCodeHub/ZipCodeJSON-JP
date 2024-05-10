@@ -1,17 +1,38 @@
 {
-  "jisCode": "17201",
-  "oldZipCode": "92003",
-  "zipCode": "9200374",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "カナザワシ",
-  "townKana": "カミヤスハラミナミ",
-  "prefecture": "石川県",
-  "city": "金沢市",
-  "town": "上安原南",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17201",
+      "oldZipCode": "92003",
+      "zipCode": "9200374",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "カナザワシ",
+      "townKana": "カミヤスハラマチ",
+      "prefecture": "石川県",
+      "city": "金沢市",
+      "town": "上安原町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "17201",
+      "oldZipCode": "92003",
+      "zipCode": "9200374",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "カナザワシ",
+      "townKana": "カミヤスハラミナミ",
+      "prefecture": "石川県",
+      "city": "金沢市",
+      "town": "上安原南",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

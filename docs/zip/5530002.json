@@ -1,17 +1,21 @@
 {
-  "jisCode": "27103",
-  "oldZipCode": "553  ",
-  "zipCode": "5530002",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "オオサカシフクシマク",
-  "townKana": "サギス",
-  "prefecture": "大阪府",
-  "city": "大阪市福島区",
-  "town": "鷺洲",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27103",
+      "oldZipCode": "553  ",
+      "zipCode": "5530002",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "オオサカシフクシマク",
+      "townKana": "サギス",
+      "prefecture": "大阪府",
+      "city": "大阪市福島区",
+      "town": "鷺洲",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

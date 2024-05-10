@@ -1,17 +1,21 @@
 {
-  "jisCode": "04206",
-  "oldZipCode": "98902",
-  "zipCode": "9890275",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "シロイシシ",
-  "townKana": "モトマチ",
-  "prefecture": "宮城県",
-  "city": "白石市",
-  "town": "本町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04206",
+      "oldZipCode": "98902",
+      "zipCode": "9890275",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "シロイシシ",
+      "townKana": "モトマチ",
+      "prefecture": "宮城県",
+      "city": "白石市",
+      "town": "本町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "09210",
-  "oldZipCode": "32402",
-  "zipCode": "3240232",
-  "prefectureKana": "トチギケン",
-  "cityKana": "オオタワラシ",
-  "townKana": "ヤシオ",
-  "prefecture": "栃木県",
-  "city": "大田原市",
-  "town": "八塩",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "09210",
+      "oldZipCode": "32402",
+      "zipCode": "3240232",
+      "prefectureKana": "トチギケン",
+      "cityKana": "オオタワラシ",
+      "townKana": "ヤシオ",
+      "prefecture": "栃木県",
+      "city": "大田原市",
+      "town": "八塩",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

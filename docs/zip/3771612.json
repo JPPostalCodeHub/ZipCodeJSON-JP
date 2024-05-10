@@ -1,17 +1,21 @@
 {
-  "jisCode": "10425",
-  "oldZipCode": "37716",
-  "zipCode": "3771612",
-  "prefectureKana": "グンマケン",
-  "cityKana": "アガツマグンツマゴイムラ",
-  "townKana": "オオマエ（ソノタ）",
-  "prefecture": "群馬県",
-  "city": "吾妻郡嬬恋村",
-  "town": "大前（その他）",
-  "multipleZipCodes": "1",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "10425",
+      "oldZipCode": "37716",
+      "zipCode": "3771612",
+      "prefectureKana": "グンマケン",
+      "cityKana": "アガツマグンツマゴイムラ",
+      "townKana": "オオマエ（ソノタ）",
+      "prefecture": "群馬県",
+      "city": "吾妻郡嬬恋村",
+      "town": "大前（その他）",
+      "multipleZipCodes": "1",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

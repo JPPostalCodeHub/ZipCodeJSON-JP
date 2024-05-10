@@ -1,17 +1,21 @@
 {
-  "jisCode": "01470",
-  "oldZipCode": "09825",
-  "zipCode": "0982502",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ナカガワグンオトイネップムラ",
-  "townKana": "サツクル",
-  "prefecture": "北海道",
-  "city": "中川郡音威子府村",
-  "town": "咲来",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01470",
+      "oldZipCode": "09825",
+      "zipCode": "0982502",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ナカガワグンオトイネップムラ",
+      "townKana": "サツクル",
+      "prefecture": "北海道",
+      "city": "中川郡音威子府村",
+      "town": "咲来",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

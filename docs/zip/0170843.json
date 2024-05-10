@@ -1,17 +1,21 @@
 {
-  "jisCode": "05204",
-  "oldZipCode": "017  ",
-  "zipCode": "0170843",
-  "prefectureKana": "アキタケン",
-  "cityKana": "オオダテシ",
-  "townKana": "ナカマチ",
-  "prefecture": "秋田県",
-  "city": "大館市",
-  "town": "中町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05204",
+      "oldZipCode": "017  ",
+      "zipCode": "0170843",
+      "prefectureKana": "アキタケン",
+      "cityKana": "オオダテシ",
+      "townKana": "ナカマチ",
+      "prefecture": "秋田県",
+      "city": "大館市",
+      "town": "中町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

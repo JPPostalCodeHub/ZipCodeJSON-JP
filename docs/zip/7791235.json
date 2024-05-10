@@ -1,17 +1,21 @@
 {
-  "jisCode": "36204",
-  "oldZipCode": "77912",
-  "zipCode": "7791235",
-  "prefectureKana": "トクシマケン",
-  "cityKana": "アナンシ",
-  "townKana": "ナカガワチョウカリヤ",
-  "prefecture": "徳島県",
-  "city": "阿南市",
-  "town": "那賀川町苅屋",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "36204",
+      "oldZipCode": "77912",
+      "zipCode": "7791235",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "アナンシ",
+      "townKana": "ナカガワチョウカリヤ",
+      "prefecture": "徳島県",
+      "city": "阿南市",
+      "town": "那賀川町苅屋",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

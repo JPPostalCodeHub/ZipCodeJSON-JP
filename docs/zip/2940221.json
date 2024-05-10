@@ -1,17 +1,21 @@
 {
-  "jisCode": "12205",
-  "oldZipCode": "29402",
-  "zipCode": "2940221",
-  "prefectureKana": "チバケン",
-  "cityKana": "タテヤマシ",
-  "townKana": "メヌマ",
-  "prefecture": "千葉県",
-  "city": "館山市",
-  "town": "布沼",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12205",
+      "oldZipCode": "29402",
+      "zipCode": "2940221",
+      "prefectureKana": "チバケン",
+      "cityKana": "タテヤマシ",
+      "townKana": "メヌマ",
+      "prefecture": "千葉県",
+      "city": "館山市",
+      "town": "布沼",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

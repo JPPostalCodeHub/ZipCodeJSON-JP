@@ -1,17 +1,21 @@
 {
-  "jisCode": "28365",
-  "oldZipCode": "67912",
-  "zipCode": "6791205",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "タカグンタカチョウ",
-  "townKana": "カミクイサリガミ",
-  "prefecture": "兵庫県",
-  "city": "多可郡多可町",
-  "town": "加美区岩座神",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28365",
+      "oldZipCode": "67912",
+      "zipCode": "6791205",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "タカグンタカチョウ",
+      "townKana": "カミクイサリガミ",
+      "prefecture": "兵庫県",
+      "city": "多可郡多可町",
+      "town": "加美区岩座神",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

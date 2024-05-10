@@ -1,17 +1,38 @@
 {
-  "jisCode": "07521",
-  "oldZipCode": "96377",
-  "zipCode": "9637749",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "タムラグンミハルマチ",
-  "townKana": "オオクボ",
-  "prefecture": "福島県",
-  "city": "田村郡三春町",
-  "town": "大久保",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07521",
+      "oldZipCode": "96377",
+      "zipCode": "9637749",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "タムラグンミハルマチ",
+      "townKana": "イッポンマツ",
+      "prefecture": "福島県",
+      "city": "田村郡三春町",
+      "town": "一本松",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "07521",
+      "oldZipCode": "96377",
+      "zipCode": "9637749",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "タムラグンミハルマチ",
+      "townKana": "オオクボ",
+      "prefecture": "福島県",
+      "city": "田村郡三春町",
+      "town": "大久保",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

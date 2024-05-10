@@ -1,17 +1,21 @@
 {
-  "jisCode": "01208",
-  "oldZipCode": "090  ",
-  "zipCode": "0900044",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "キタミシ",
-  "townKana": "キタ４ジョウニシ",
-  "prefecture": "北海道",
-  "city": "北見市",
-  "town": "北四条西",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01208",
+      "oldZipCode": "090  ",
+      "zipCode": "0900044",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "キタミシ",
+      "townKana": "キタ４ジョウニシ",
+      "prefecture": "北海道",
+      "city": "北見市",
+      "town": "北四条西",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

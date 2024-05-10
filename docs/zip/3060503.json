@@ -1,17 +1,21 @@
 {
-  "jisCode": "08228",
-  "oldZipCode": "30605",
-  "zipCode": "3060503",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "バンドウシ",
-  "townKana": "オイゴシンデン",
-  "prefecture": "茨城県",
-  "city": "坂東市",
-  "town": "生子新田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08228",
+      "oldZipCode": "30605",
+      "zipCode": "3060503",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "バンドウシ",
+      "townKana": "オイゴシンデン",
+      "prefecture": "茨城県",
+      "city": "坂東市",
+      "town": "生子新田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "42212",
-  "oldZipCode": "85134",
-  "zipCode": "8513423",
-  "prefectureKana": "ナガサキケン",
-  "cityKana": "サイカイシ",
-  "townKana": "セイヒチョウヤキハラゴウ",
-  "prefecture": "長崎県",
-  "city": "西海市",
-  "town": "西彼町八木原郷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "42212",
+      "oldZipCode": "85134",
+      "zipCode": "8513423",
+      "prefectureKana": "ナガサキケン",
+      "cityKana": "サイカイシ",
+      "townKana": "セイヒチョウヤキハラゴウ",
+      "prefecture": "長崎県",
+      "city": "西海市",
+      "town": "西彼町八木原郷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "10449",
-  "oldZipCode": "37917",
-  "zipCode": "3791725",
-  "prefectureKana": "グンマケン",
-  "cityKana": "トネグンミナカミマチ",
-  "townKana": "ツナゴ",
-  "prefecture": "群馬県",
-  "city": "利根郡みなかみ町",
-  "town": "綱子",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "10449",
+      "oldZipCode": "37917",
+      "zipCode": "3791725",
+      "prefectureKana": "グンマケン",
+      "cityKana": "トネグンミナカミマチ",
+      "townKana": "ツナゴ",
+      "prefecture": "群馬県",
+      "city": "利根郡みなかみ町",
+      "town": "綱子",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

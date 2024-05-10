@@ -1,17 +1,21 @@
 {
-  "jisCode": "25203",
-  "oldZipCode": "52902",
-  "zipCode": "5290205",
-  "prefectureKana": "シガケン",
-  "cityKana": "ナガハマシ",
-  "townKana": "タカツキチョウカラカワ",
-  "prefecture": "滋賀県",
-  "city": "長浜市",
-  "town": "高月町唐川",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "25203",
+      "oldZipCode": "52902",
+      "zipCode": "5290205",
+      "prefectureKana": "シガケン",
+      "cityKana": "ナガハマシ",
+      "townKana": "タカツキチョウカラカワ",
+      "prefecture": "滋賀県",
+      "city": "長浜市",
+      "town": "高月町唐川",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

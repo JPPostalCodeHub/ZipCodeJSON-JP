@@ -1,17 +1,21 @@
 {
-  "jisCode": "07541",
-  "oldZipCode": "97904",
-  "zipCode": "9790401",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "フタバグンヒロノマチ",
-  "townKana": "カミキタバ",
-  "prefecture": "福島県",
-  "city": "双葉郡広野町",
-  "town": "上北迫",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07541",
+      "oldZipCode": "97904",
+      "zipCode": "9790401",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "フタバグンヒロノマチ",
+      "townKana": "カミキタバ",
+      "prefecture": "福島県",
+      "city": "双葉郡広野町",
+      "town": "上北迫",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

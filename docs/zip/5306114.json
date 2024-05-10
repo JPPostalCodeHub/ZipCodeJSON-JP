@@ -1,17 +1,21 @@
 {
-  "jisCode": "27127",
-  "oldZipCode": "530  ",
-  "zipCode": "5306114",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "オオサカシキタク",
-  "townKana": "ナカノシマナカノシマダイビル（１４カイ）",
-  "prefecture": "大阪府",
-  "city": "大阪市北区",
-  "town": "中之島中之島ダイビル（１４階）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27127",
+      "oldZipCode": "530  ",
+      "zipCode": "5306114",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "オオサカシキタク",
+      "townKana": "ナカノシマナカノシマダイビル（１４カイ）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "town": "中之島中之島ダイビル（１４階）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "01407",
-  "oldZipCode": "04824",
-  "zipCode": "0482404",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ヨイチグンニキチョウ",
-  "townKana": "トノカワ",
-  "prefecture": "北海道",
-  "city": "余市郡仁木町",
-  "town": "砥の川",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01407",
+      "oldZipCode": "04824",
+      "zipCode": "0482404",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ヨイチグンニキチョウ",
+      "townKana": "トノカワ",
+      "prefecture": "北海道",
+      "city": "余市郡仁木町",
+      "town": "砥の川",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

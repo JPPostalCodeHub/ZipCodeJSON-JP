@@ -1,17 +1,21 @@
 {
-  "jisCode": "17463",
-  "oldZipCode": "92705",
-  "zipCode": "9270565",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "ホウスグンノトチョウ",
-  "townKana": "ハネ",
-  "prefecture": "石川県",
-  "city": "鳳珠郡能登町",
-  "town": "羽根",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17463",
+      "oldZipCode": "92705",
+      "zipCode": "9270565",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "ホウスグンノトチョウ",
+      "townKana": "ハネ",
+      "prefecture": "石川県",
+      "city": "鳳珠郡能登町",
+      "town": "羽根",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

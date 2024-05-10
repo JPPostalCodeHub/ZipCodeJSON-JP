@@ -1,17 +1,21 @@
 {
-  "jisCode": "34207",
-  "oldZipCode": "720  ",
-  "zipCode": "7200065",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "フクヤマシ",
-  "townKana": "ヒガシサクラマチ",
-  "prefecture": "広島県",
-  "city": "福山市",
-  "town": "東桜町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34207",
+      "oldZipCode": "720  ",
+      "zipCode": "7200065",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "フクヤマシ",
+      "townKana": "ヒガシサクラマチ",
+      "prefecture": "広島県",
+      "city": "福山市",
+      "town": "東桜町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

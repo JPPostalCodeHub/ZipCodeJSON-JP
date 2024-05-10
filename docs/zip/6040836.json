@@ -1,17 +1,21 @@
 {
-  "jisCode": "26104",
-  "oldZipCode": "604  ",
-  "zipCode": "6040836",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシナカギョウク",
-  "townKana": "フナヤチョウ",
-  "prefecture": "京都府",
-  "city": "京都市中京区",
-  "town": "船屋町（東洞院通押小路下る、東洞院通御池上る、押小路通東洞院西入、押小路通東洞院東入）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26104",
+      "oldZipCode": "604  ",
+      "zipCode": "6040836",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシナカギョウク",
+      "townKana": "フナヤチョウ",
+      "prefecture": "京都府",
+      "city": "京都市中京区",
+      "town": "船屋町（東洞院通押小路下る、東洞院通御池上る、押小路通東洞院西入、押小路通東洞院東入）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

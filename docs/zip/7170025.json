@@ -1,17 +1,21 @@
 {
-  "jisCode": "33214",
-  "oldZipCode": "717  ",
-  "zipCode": "7170025",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "マニワシ",
-  "townKana": "ウシロダニウネ",
-  "prefecture": "岡山県",
-  "city": "真庭市",
-  "town": "後谷畝",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33214",
+      "oldZipCode": "717  ",
+      "zipCode": "7170025",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "マニワシ",
+      "townKana": "ウシロダニウネ",
+      "prefecture": "岡山県",
+      "city": "真庭市",
+      "town": "後谷畝",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "43501",
-  "oldZipCode": "86803",
-  "zipCode": "8680300",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "クマグンニシキマチ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "熊本県",
-  "city": "球磨郡錦町",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43501",
+      "oldZipCode": "86803",
+      "zipCode": "8680300",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "クマグンニシキマチ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "熊本県",
+      "city": "球磨郡錦町",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

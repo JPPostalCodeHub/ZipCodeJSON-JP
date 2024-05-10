@@ -1,17 +1,21 @@
 {
-  "jisCode": "02343",
-  "oldZipCode": "03614",
-  "zipCode": "0361400",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "ナカツガルグンニシメヤムラ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "青森県",
-  "city": "中津軽郡西目屋村",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02343",
+      "oldZipCode": "03614",
+      "zipCode": "0361400",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "ナカツガルグンニシメヤムラ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "青森県",
+      "city": "中津軽郡西目屋村",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

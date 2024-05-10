@@ -1,17 +1,21 @@
 {
-  "jisCode": "42202",
-  "oldZipCode": "85711",
-  "zipCode": "8571164",
-  "prefectureKana": "ナガサキケン",
-  "cityKana": "サセボシ",
-  "townKana": "シラタケチョウ",
-  "prefecture": "長崎県",
-  "city": "佐世保市",
-  "town": "白岳町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "42202",
+      "oldZipCode": "85711",
+      "zipCode": "8571164",
+      "prefectureKana": "ナガサキケン",
+      "cityKana": "サセボシ",
+      "townKana": "シラタケチョウ",
+      "prefecture": "長崎県",
+      "city": "佐世保市",
+      "town": "白岳町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

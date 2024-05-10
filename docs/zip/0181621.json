@@ -1,17 +1,21 @@
 {
-  "jisCode": "05363",
-  "oldZipCode": "01816",
-  "zipCode": "0181621",
-  "prefectureKana": "アキタケン",
-  "cityKana": "ミナミアキタグンハチロウガタマチ",
-  "townKana": "イエノウシロ",
-  "prefecture": "秋田県",
-  "city": "南秋田郡八郎潟町",
-  "town": "家の後",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05363",
+      "oldZipCode": "01816",
+      "zipCode": "0181621",
+      "prefectureKana": "アキタケン",
+      "cityKana": "ミナミアキタグンハチロウガタマチ",
+      "townKana": "イエノウシロ",
+      "prefecture": "秋田県",
+      "city": "南秋田郡八郎潟町",
+      "town": "家の後",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

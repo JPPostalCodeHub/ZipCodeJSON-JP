@@ -1,17 +1,21 @@
 {
-  "jisCode": "19364",
-  "oldZipCode": "40927",
-  "zipCode": "4092713",
-  "prefectureKana": "ヤマナシケン",
-  "cityKana": "ミナミコマグンハヤカワチョウ",
-  "townKana": "ホ",
-  "prefecture": "山梨県",
-  "city": "南巨摩郡早川町",
-  "town": "保",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "19364",
+      "oldZipCode": "40927",
+      "zipCode": "4092713",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "ミナミコマグンハヤカワチョウ",
+      "townKana": "ホ",
+      "prefecture": "山梨県",
+      "city": "南巨摩郡早川町",
+      "town": "保",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

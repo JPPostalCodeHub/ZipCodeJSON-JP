@@ -1,17 +1,21 @@
 {
-  "jisCode": "20383",
-  "oldZipCode": "39946",
-  "zipCode": "3994604",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "カミイナグンミノワマチ",
-  "townKana": "フクヨ",
-  "prefecture": "長野県",
-  "city": "上伊那郡箕輪町",
-  "town": "福与",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20383",
+      "oldZipCode": "39946",
+      "zipCode": "3994604",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "カミイナグンミノワマチ",
+      "townKana": "フクヨ",
+      "prefecture": "長野県",
+      "city": "上伊那郡箕輪町",
+      "town": "福与",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

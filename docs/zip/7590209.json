@@ -1,17 +1,21 @@
 {
-  "jisCode": "35202",
-  "oldZipCode": "75902",
-  "zipCode": "7590209",
-  "prefectureKana": "ヤマグチケン",
-  "cityKana": "ウベシ",
-  "townKana": "コウナンキタ",
-  "prefecture": "山口県",
-  "city": "宇部市",
-  "town": "厚南北",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "35202",
+      "oldZipCode": "75902",
+      "zipCode": "7590209",
+      "prefectureKana": "ヤマグチケン",
+      "cityKana": "ウベシ",
+      "townKana": "コウナンキタ",
+      "prefecture": "山口県",
+      "city": "宇部市",
+      "town": "厚南北",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

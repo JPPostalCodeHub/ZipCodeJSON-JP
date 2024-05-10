@@ -1,17 +1,21 @@
 {
-  "jisCode": "11219",
-  "oldZipCode": "362  ",
-  "zipCode": "3620007",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "アゲオシ",
-  "townKana": "クボ",
-  "prefecture": "埼玉県",
-  "city": "上尾市",
-  "town": "久保",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11219",
+      "oldZipCode": "362  ",
+      "zipCode": "3620007",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "アゲオシ",
+      "townKana": "クボ",
+      "prefecture": "埼玉県",
+      "city": "上尾市",
+      "town": "久保",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

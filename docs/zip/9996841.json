@@ -1,17 +1,21 @@
 {
-  "jisCode": "06204",
-  "oldZipCode": "99968",
-  "zipCode": "9996841",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "サカタシ",
-  "townKana": "ミョウガサワ",
-  "prefecture": "山形県",
-  "city": "酒田市",
-  "town": "茗ケ沢",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06204",
+      "oldZipCode": "99968",
+      "zipCode": "9996841",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "サカタシ",
+      "townKana": "ミョウガサワ",
+      "prefecture": "山形県",
+      "city": "酒田市",
+      "town": "茗ケ沢",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "45201",
-  "oldZipCode": "88021",
-  "zipCode": "8802116",
-  "prefectureKana": "ミヤザキケン",
-  "cityKana": "ミヤザキシ",
-  "townKana": "ホソエ（ソノタ）",
-  "prefecture": "宮崎県",
-  "city": "宮崎市",
-  "town": "細江（その他）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "45201",
+      "oldZipCode": "88021",
+      "zipCode": "8802116",
+      "prefectureKana": "ミヤザキケン",
+      "cityKana": "ミヤザキシ",
+      "townKana": "ホソエ（ソノタ）",
+      "prefecture": "宮崎県",
+      "city": "宮崎市",
+      "town": "細江（その他）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "05201",
-  "oldZipCode": "010  ",
-  "zipCode": "0100911",
-  "prefectureKana": "アキタケン",
-  "cityKana": "アキタシ",
-  "townKana": "ホドノスワチョウ",
-  "prefecture": "秋田県",
-  "city": "秋田市",
-  "town": "保戸野すわ町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05201",
+      "oldZipCode": "010  ",
+      "zipCode": "0100911",
+      "prefectureKana": "アキタケン",
+      "cityKana": "アキタシ",
+      "townKana": "ホドノスワチョウ",
+      "prefecture": "秋田県",
+      "city": "秋田市",
+      "town": "保戸野すわ町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

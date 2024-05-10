@@ -1,17 +1,21 @@
 {
-  "jisCode": "13102",
-  "oldZipCode": "104  ",
-  "zipCode": "1040041",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "チュウオウク",
-  "townKana": "シントミ",
-  "prefecture": "東京都",
-  "city": "中央区",
-  "town": "新富",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13102",
+      "oldZipCode": "104  ",
+      "zipCode": "1040041",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "チュウオウク",
+      "townKana": "シントミ",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "town": "新富",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

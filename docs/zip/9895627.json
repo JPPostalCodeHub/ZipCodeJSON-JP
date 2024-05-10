@@ -1,17 +1,21 @@
 {
-  "jisCode": "04213",
-  "oldZipCode": "98956",
-  "zipCode": "9895627",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "クリハラシ",
-  "townKana": "シワヒメキタホリグチ",
-  "prefecture": "宮城県",
-  "city": "栗原市",
-  "town": "志波姫北堀口",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04213",
+      "oldZipCode": "98956",
+      "zipCode": "9895627",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "クリハラシ",
+      "townKana": "シワヒメキタホリグチ",
+      "prefecture": "宮城県",
+      "city": "栗原市",
+      "town": "志波姫北堀口",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

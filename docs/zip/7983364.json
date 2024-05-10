@@ -1,17 +1,21 @@
 {
-  "jisCode": "38203",
-  "oldZipCode": "79833",
-  "zipCode": "7983364",
-  "prefectureKana": "エヒメケン",
-  "cityKana": "ウワジマシ",
-  "townKana": "ツシマチョウキタナダテイ（オオヒサゲ、コヒサゲ）",
-  "prefecture": "愛媛県",
-  "city": "宇和島市",
-  "town": "津島町北灘丁（大日提、小日提）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "38203",
+      "oldZipCode": "79833",
+      "zipCode": "7983364",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "ウワジマシ",
+      "townKana": "ツシマチョウキタナダテイ（オオヒサゲ、コヒサゲ）",
+      "prefecture": "愛媛県",
+      "city": "宇和島市",
+      "town": "津島町北灘丁（大日提、小日提）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

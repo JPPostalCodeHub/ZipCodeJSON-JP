@@ -1,17 +1,21 @@
 {
-  "jisCode": "01662",
-  "oldZipCode": "08811",
-  "zipCode": "0881148",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "アッケシグンアッケシチョウ",
-  "townKana": "オオタ８ノトオリ",
-  "prefecture": "北海道",
-  "city": "厚岸郡厚岸町",
-  "town": "太田８の通り",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01662",
+      "oldZipCode": "08811",
+      "zipCode": "0881148",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "アッケシグンアッケシチョウ",
+      "townKana": "オオタ８ノトオリ",
+      "prefecture": "北海道",
+      "city": "厚岸郡厚岸町",
+      "town": "太田８の通り",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

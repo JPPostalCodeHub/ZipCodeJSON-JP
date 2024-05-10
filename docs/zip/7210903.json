@@ -1,17 +1,21 @@
 {
-  "jisCode": "34207",
-  "oldZipCode": "721  ",
-  "zipCode": "7210903",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "フクヤマシ",
-  "townKana": "ツボウチョウ",
-  "prefecture": "広島県",
-  "city": "福山市",
-  "town": "坪生町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34207",
+      "oldZipCode": "721  ",
+      "zipCode": "7210903",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "フクヤマシ",
+      "townKana": "ツボウチョウ",
+      "prefecture": "広島県",
+      "city": "福山市",
+      "town": "坪生町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

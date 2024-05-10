@@ -1,17 +1,21 @@
 {
-  "jisCode": "40226",
-  "oldZipCode": "823  ",
-  "zipCode": "8230012",
-  "prefectureKana": "フクオカケン",
-  "cityKana": "ミヤワカシ",
-  "townKana": "ナガイヅル",
-  "prefecture": "福岡県",
-  "city": "宮若市",
-  "town": "長井鶴",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "40226",
+      "oldZipCode": "823  ",
+      "zipCode": "8230012",
+      "prefectureKana": "フクオカケン",
+      "cityKana": "ミヤワカシ",
+      "townKana": "ナガイヅル",
+      "prefecture": "福岡県",
+      "city": "宮若市",
+      "town": "長井鶴",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

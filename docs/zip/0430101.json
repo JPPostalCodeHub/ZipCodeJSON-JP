@@ -1,17 +1,21 @@
 {
-  "jisCode": "01364",
-  "oldZipCode": "04301",
-  "zipCode": "0430101",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ニシグンオトベチョウ",
-  "townKana": "タキセ",
-  "prefecture": "北海道",
-  "city": "爾志郡乙部町",
-  "town": "滝瀬",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01364",
+      "oldZipCode": "04301",
+      "zipCode": "0430101",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ニシグンオトベチョウ",
+      "townKana": "タキセ",
+      "prefecture": "北海道",
+      "city": "爾志郡乙部町",
+      "town": "滝瀬",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

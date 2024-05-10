@@ -1,17 +1,21 @@
 {
-  "jisCode": "36388",
-  "oldZipCode": "77505",
-  "zipCode": "7750505",
-  "prefectureKana": "トクシマケン",
-  "cityKana": "カイフグンカイヨウチョウ",
-  "townKana": "クグツケ",
-  "prefecture": "徳島県",
-  "city": "海部郡海陽町",
-  "town": "芥附",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "36388",
+      "oldZipCode": "77505",
+      "zipCode": "7750505",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "カイフグンカイヨウチョウ",
+      "townKana": "クグツケ",
+      "prefecture": "徳島県",
+      "city": "海部郡海陽町",
+      "town": "芥附",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

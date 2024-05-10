@@ -1,17 +1,21 @@
 {
-  "jisCode": "18207",
-  "oldZipCode": "916  ",
-  "zipCode": "9160022",
-  "prefectureKana": "フクイケン",
-  "cityKana": "サバエシ",
-  "townKana": "ミズオチチョウ",
-  "prefecture": "福井県",
-  "city": "鯖江市",
-  "town": "水落町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18207",
+      "oldZipCode": "916  ",
+      "zipCode": "9160022",
+      "prefectureKana": "フクイケン",
+      "cityKana": "サバエシ",
+      "townKana": "ミズオチチョウ",
+      "prefecture": "福井県",
+      "city": "鯖江市",
+      "town": "水落町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

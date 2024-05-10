@@ -1,17 +1,21 @@
 {
-  "jisCode": "08220",
-  "oldZipCode": "305  ",
-  "zipCode": "3050011",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "ツクバシ",
-  "townKana": "カミザカイ",
-  "prefecture": "茨城県",
-  "city": "つくば市",
-  "town": "上境",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08220",
+      "oldZipCode": "305  ",
+      "zipCode": "3050011",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "ツクバシ",
+      "townKana": "カミザカイ",
+      "prefecture": "茨城県",
+      "city": "つくば市",
+      "town": "上境",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

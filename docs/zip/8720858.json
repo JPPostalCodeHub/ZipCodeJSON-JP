@@ -1,17 +1,21 @@
 {
-  "jisCode": "44211",
-  "oldZipCode": "87208",
-  "zipCode": "8720858",
-  "prefectureKana": "オオイタケン",
-  "cityKana": "ウサシ",
-  "townKana": "アジムマチミズクルマ",
-  "prefecture": "大分県",
-  "city": "宇佐市",
-  "town": "安心院町水車",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "44211",
+      "oldZipCode": "87208",
+      "zipCode": "8720858",
+      "prefectureKana": "オオイタケン",
+      "cityKana": "ウサシ",
+      "townKana": "アジムマチミズクルマ",
+      "prefecture": "大分県",
+      "city": "宇佐市",
+      "town": "安心院町水車",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

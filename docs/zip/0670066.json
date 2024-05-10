@@ -1,17 +1,21 @@
 {
-  "jisCode": "01217",
-  "oldZipCode": "067  ",
-  "zipCode": "0670066",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "エベツシ",
-  "townKana": "ユメミノミナミマチ",
-  "prefecture": "北海道",
-  "city": "江別市",
-  "town": "ゆめみ野南町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01217",
+      "oldZipCode": "067  ",
+      "zipCode": "0670066",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "エベツシ",
+      "townKana": "ユメミノミナミマチ",
+      "prefecture": "北海道",
+      "city": "江別市",
+      "town": "ゆめみ野南町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

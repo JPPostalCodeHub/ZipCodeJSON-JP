@@ -1,17 +1,21 @@
 {
-  "jisCode": "11243",
-  "oldZipCode": "342  ",
-  "zipCode": "3420036",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "ヨシカワシ",
-  "townKana": "タカドミ",
-  "prefecture": "埼玉県",
-  "city": "吉川市",
-  "town": "高富",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11243",
+      "oldZipCode": "342  ",
+      "zipCode": "3420036",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "ヨシカワシ",
+      "townKana": "タカドミ",
+      "prefecture": "埼玉県",
+      "city": "吉川市",
+      "town": "高富",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

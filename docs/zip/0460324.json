@@ -1,17 +1,21 @@
 {
-  "jisCode": "01405",
-  "oldZipCode": "04603",
-  "zipCode": "0460324",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "シャコタングンシャコタンチョウ",
-  "townKana": "ニシカワチョウ",
-  "prefecture": "北海道",
-  "city": "積丹郡積丹町",
-  "town": "西河町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01405",
+      "oldZipCode": "04603",
+      "zipCode": "0460324",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "シャコタングンシャコタンチョウ",
+      "townKana": "ニシカワチョウ",
+      "prefecture": "北海道",
+      "city": "積丹郡積丹町",
+      "town": "西河町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

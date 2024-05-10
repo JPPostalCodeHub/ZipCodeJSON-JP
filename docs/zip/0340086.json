@@ -1,17 +1,21 @@
 {
-  "jisCode": "02206",
-  "oldZipCode": "034  ",
-  "zipCode": "0340086",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "トワダシ",
-  "townKana": "ニシ１６バンチョウ",
-  "prefecture": "青森県",
-  "city": "十和田市",
-  "town": "西十六番町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02206",
+      "oldZipCode": "034  ",
+      "zipCode": "0340086",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "トワダシ",
+      "townKana": "ニシ１６バンチョウ",
+      "prefecture": "青森県",
+      "city": "十和田市",
+      "town": "西十六番町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

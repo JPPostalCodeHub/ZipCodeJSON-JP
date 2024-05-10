@@ -1,17 +1,21 @@
 {
-  "jisCode": "08442",
-  "oldZipCode": "30004",
-  "zipCode": "3000425",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "イナシキグンミホムラ",
-  "townKana": "オキツ",
-  "prefecture": "茨城県",
-  "city": "稲敷郡美浦村",
-  "town": "興津",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08442",
+      "oldZipCode": "30004",
+      "zipCode": "3000425",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "イナシキグンミホムラ",
+      "townKana": "オキツ",
+      "prefecture": "茨城県",
+      "city": "稲敷郡美浦村",
+      "town": "興津",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

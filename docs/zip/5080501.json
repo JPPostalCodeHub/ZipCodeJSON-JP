@@ -1,17 +1,21 @@
 {
-  "jisCode": "21206",
-  "oldZipCode": "39951",
-  "zipCode": "5080501",
-  "prefectureKana": "ギフケン",
-  "cityKana": "ナカツガワシ",
-  "townKana": "ヤマグチ",
-  "prefecture": "岐阜県",
-  "city": "中津川市",
-  "town": "山口",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "21206",
+      "oldZipCode": "39951",
+      "zipCode": "5080501",
+      "prefectureKana": "ギフケン",
+      "cityKana": "ナカツガワシ",
+      "townKana": "ヤマグチ",
+      "prefecture": "岐阜県",
+      "city": "中津川市",
+      "town": "山口",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "26109",
-  "oldZipCode": "612  ",
-  "zipCode": "6120062",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシフシミク",
-  "townKana": "モモヤマフクシマダユウミナミマチ",
-  "prefecture": "京都府",
-  "city": "京都市伏見区",
-  "town": "桃山福島太夫南町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26109",
+      "oldZipCode": "612  ",
+      "zipCode": "6120062",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシフシミク",
+      "townKana": "モモヤマフクシマダユウミナミマチ",
+      "prefecture": "京都府",
+      "city": "京都市伏見区",
+      "town": "桃山福島太夫南町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

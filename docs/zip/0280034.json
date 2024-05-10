@@ -1,17 +1,21 @@
 {
-  "jisCode": "03207",
-  "oldZipCode": "028  ",
-  "zipCode": "0280034",
-  "prefectureKana": "イワテケン",
-  "cityKana": "クジシ",
-  "townKana": "エダナリサワ",
-  "prefecture": "岩手県",
-  "city": "久慈市",
-  "town": "枝成沢",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "03207",
+      "oldZipCode": "028  ",
+      "zipCode": "0280034",
+      "prefectureKana": "イワテケン",
+      "cityKana": "クジシ",
+      "townKana": "エダナリサワ",
+      "prefecture": "岩手県",
+      "city": "久慈市",
+      "town": "枝成沢",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

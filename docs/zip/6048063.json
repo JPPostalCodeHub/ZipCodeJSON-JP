@@ -1,17 +1,21 @@
 {
-  "jisCode": "26104",
-  "oldZipCode": "604  ",
-  "zipCode": "6048063",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシナカギョウク",
-  "townKana": "アブラヤチョウ",
-  "prefecture": "京都府",
-  "city": "京都市中京区",
-  "town": "油屋町（蛸薬師通麸屋町西入、蛸薬師通富小路東入、蛸薬師通富小路西入、蛸薬師通柳馬場東入、富小路通蛸薬師上る、富小路通蛸薬師下る）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26104",
+      "oldZipCode": "604  ",
+      "zipCode": "6048063",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシナカギョウク",
+      "townKana": "アブラヤチョウ",
+      "prefecture": "京都府",
+      "city": "京都市中京区",
+      "town": "油屋町（蛸薬師通麸屋町西入、蛸薬師通富小路東入、蛸薬師通富小路西入、蛸薬師通柳馬場東入、富小路通蛸薬師上る、富小路通蛸薬師下る）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

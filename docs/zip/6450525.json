@@ -1,17 +1,21 @@
 {
-  "jisCode": "30206",
-  "oldZipCode": "64505",
-  "zipCode": "6450525",
-  "prefectureKana": "ワカヤマケン",
-  "cityKana": "タナベシ",
-  "townKana": "リュウジンムラリュウジン",
-  "prefecture": "和歌山県",
-  "city": "田辺市",
-  "town": "龍神村龍神",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "30206",
+      "oldZipCode": "64505",
+      "zipCode": "6450525",
+      "prefectureKana": "ワカヤマケン",
+      "cityKana": "タナベシ",
+      "townKana": "リュウジンムラリュウジン",
+      "prefecture": "和歌山県",
+      "city": "田辺市",
+      "town": "龍神村龍神",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

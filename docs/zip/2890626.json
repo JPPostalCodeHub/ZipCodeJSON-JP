@@ -1,17 +1,21 @@
 {
-  "jisCode": "12349",
-  "oldZipCode": "28906",
-  "zipCode": "2890626",
-  "prefectureKana": "チバケン",
-  "cityKana": "カトリグントウノショウマチ",
-  "townKana": "ヤエボ",
-  "prefecture": "千葉県",
-  "city": "香取郡東庄町",
-  "town": "八重穂",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12349",
+      "oldZipCode": "28906",
+      "zipCode": "2890626",
+      "prefectureKana": "チバケン",
+      "cityKana": "カトリグントウノショウマチ",
+      "townKana": "ヤエボ",
+      "prefecture": "千葉県",
+      "city": "香取郡東庄町",
+      "town": "八重穂",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

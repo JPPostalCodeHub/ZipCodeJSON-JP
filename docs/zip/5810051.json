@@ -1,17 +1,21 @@
 {
-  "jisCode": "27212",
-  "oldZipCode": "581  ",
-  "zipCode": "5810051",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "ヤオシ",
-  "townKana": "タケフチニシ",
-  "prefecture": "大阪府",
-  "city": "八尾市",
-  "town": "竹渕西",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27212",
+      "oldZipCode": "581  ",
+      "zipCode": "5810051",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "ヤオシ",
+      "townKana": "タケフチニシ",
+      "prefecture": "大阪府",
+      "city": "八尾市",
+      "town": "竹渕西",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

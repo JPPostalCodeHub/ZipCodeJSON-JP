@@ -1,17 +1,21 @@
 {
-  "jisCode": "12322",
-  "oldZipCode": "285  ",
-  "zipCode": "2850912",
-  "prefectureKana": "チバケン",
-  "cityKana": "インバグンシスイマチ",
-  "townKana": "イイズミ",
-  "prefecture": "千葉県",
-  "city": "印旛郡酒々井町",
-  "town": "飯積",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12322",
+      "oldZipCode": "285  ",
+      "zipCode": "2850912",
+      "prefectureKana": "チバケン",
+      "cityKana": "インバグンシスイマチ",
+      "townKana": "イイズミ",
+      "prefecture": "千葉県",
+      "city": "印旛郡酒々井町",
+      "town": "飯積",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

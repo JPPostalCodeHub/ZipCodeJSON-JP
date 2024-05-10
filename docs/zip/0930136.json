@@ -1,17 +1,21 @@
 {
-  "jisCode": "01211",
-  "oldZipCode": "09301",
-  "zipCode": "0930136",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "アバシリシ",
-  "townKana": "ヘイワ",
-  "prefecture": "北海道",
-  "city": "網走市",
-  "town": "平和",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01211",
+      "oldZipCode": "09301",
+      "zipCode": "0930136",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "アバシリシ",
+      "townKana": "ヘイワ",
+      "prefecture": "北海道",
+      "city": "網走市",
+      "town": "平和",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "33102",
-  "oldZipCode": "703  ",
-  "zipCode": "7038255",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "オカヤマシナカク",
-  "townKana": "ヒガシガワラ",
-  "prefecture": "岡山県",
-  "city": "岡山市中区",
-  "town": "東川原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33102",
+      "oldZipCode": "703  ",
+      "zipCode": "7038255",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "オカヤマシナカク",
+      "townKana": "ヒガシガワラ",
+      "prefecture": "岡山県",
+      "city": "岡山市中区",
+      "town": "東川原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

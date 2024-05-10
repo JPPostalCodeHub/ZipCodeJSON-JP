@@ -1,17 +1,21 @@
 {
-  "jisCode": "01472",
-  "oldZipCode": "07407",
-  "zipCode": "0740746",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ウリュウグンホロカナイチョウ",
-  "townKana": "ソエウシナイ",
-  "prefecture": "北海道",
-  "city": "雨竜郡幌加内町",
-  "town": "添牛内",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01472",
+      "oldZipCode": "07407",
+      "zipCode": "0740746",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ウリュウグンホロカナイチョウ",
+      "townKana": "ソエウシナイ",
+      "prefecture": "北海道",
+      "city": "雨竜郡幌加内町",
+      "town": "添牛内",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

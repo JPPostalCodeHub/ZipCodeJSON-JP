@@ -1,17 +1,21 @@
 {
-  "jisCode": "17407",
-  "oldZipCode": "92917",
-  "zipCode": "9291711",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "カシマグンナカノトマチ",
-  "townKana": "ヒズメ",
-  "prefecture": "石川県",
-  "city": "鹿島郡中能登町",
-  "town": "廿九日",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17407",
+      "oldZipCode": "92917",
+      "zipCode": "9291711",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "カシマグンナカノトマチ",
+      "townKana": "ヒズメ",
+      "prefecture": "石川県",
+      "city": "鹿島郡中能登町",
+      "town": "廿九日",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

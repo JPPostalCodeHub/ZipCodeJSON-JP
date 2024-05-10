@@ -1,17 +1,38 @@
 {
-  "jisCode": "24209",
-  "oldZipCode": "51936",
-  "zipCode": "5193666",
-  "prefectureKana": "ミエケン",
-  "cityKana": "オワセシ",
-  "townKana": "ナカイウラ（サカバ）",
-  "prefecture": "三重県",
-  "city": "尾鷲市",
-  "town": "中井浦（坂場）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "24209",
+      "oldZipCode": "51936",
+      "zipCode": "5193666",
+      "prefectureKana": "ミエケン",
+      "cityKana": "オワセシ",
+      "townKana": "サカバニシマチ",
+      "prefecture": "三重県",
+      "city": "尾鷲市",
+      "town": "坂場西町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "24209",
+      "oldZipCode": "51936",
+      "zipCode": "5193666",
+      "prefectureKana": "ミエケン",
+      "cityKana": "オワセシ",
+      "townKana": "ナカイウラ（サカバ）",
+      "prefecture": "三重県",
+      "city": "尾鷲市",
+      "town": "中井浦（坂場）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

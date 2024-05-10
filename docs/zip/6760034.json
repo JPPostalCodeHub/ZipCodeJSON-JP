@@ -1,17 +1,21 @@
 {
-  "jisCode": "28216",
-  "oldZipCode": "676  ",
-  "zipCode": "6760034",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "タカサゴシ",
-  "townKana": "タカサゴチョウセンドウマチ",
-  "prefecture": "兵庫県",
-  "city": "高砂市",
-  "town": "高砂町船頭町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28216",
+      "oldZipCode": "676  ",
+      "zipCode": "6760034",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "タカサゴシ",
+      "townKana": "タカサゴチョウセンドウマチ",
+      "prefecture": "兵庫県",
+      "city": "高砂市",
+      "town": "高砂町船頭町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

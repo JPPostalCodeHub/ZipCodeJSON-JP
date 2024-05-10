@@ -1,17 +1,21 @@
 {
-  "jisCode": "17201",
-  "oldZipCode": "920  ",
-  "zipCode": "9208221",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "カナザワシ",
-  "townKana": "ゴクデンマチ",
-  "prefecture": "石川県",
-  "city": "金沢市",
-  "town": "御供田町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17201",
+      "oldZipCode": "920  ",
+      "zipCode": "9208221",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "カナザワシ",
+      "townKana": "ゴクデンマチ",
+      "prefecture": "石川県",
+      "city": "金沢市",
+      "town": "御供田町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

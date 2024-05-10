@@ -1,17 +1,21 @@
 {
-  "jisCode": "46204",
-  "oldZipCode": "898  ",
-  "zipCode": "8980081",
-  "prefectureKana": "カゴシマケン",
-  "cityKana": "マクラザキシ",
-  "townKana": "トヨトメマチ",
-  "prefecture": "鹿児島県",
-  "city": "枕崎市",
-  "town": "豊留町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "46204",
+      "oldZipCode": "898  ",
+      "zipCode": "8980081",
+      "prefectureKana": "カゴシマケン",
+      "cityKana": "マクラザキシ",
+      "townKana": "トヨトメマチ",
+      "prefecture": "鹿児島県",
+      "city": "枕崎市",
+      "town": "豊留町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

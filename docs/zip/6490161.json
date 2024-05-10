@@ -1,17 +1,21 @@
 {
-  "jisCode": "30202",
-  "oldZipCode": "64901",
-  "zipCode": "6490161",
-  "prefectureKana": "ワカヤマケン",
-  "cityKana": "カイナンシ",
-  "townKana": "シモツチョウコバタ",
-  "prefecture": "和歌山県",
-  "city": "海南市",
-  "town": "下津町小畑",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "30202",
+      "oldZipCode": "64901",
+      "zipCode": "6490161",
+      "prefectureKana": "ワカヤマケン",
+      "cityKana": "カイナンシ",
+      "townKana": "シモツチョウコバタ",
+      "prefecture": "和歌山県",
+      "city": "海南市",
+      "town": "下津町小畑",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

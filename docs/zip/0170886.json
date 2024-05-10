@@ -1,17 +1,21 @@
 {
-  "jisCode": "05204",
-  "oldZipCode": "017  ",
-  "zipCode": "0170886",
-  "prefectureKana": "アキタケン",
-  "cityKana": "オオダテシ",
-  "townKana": "タテシタ",
-  "prefecture": "秋田県",
-  "city": "大館市",
-  "town": "館下",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05204",
+      "oldZipCode": "017  ",
+      "zipCode": "0170886",
+      "prefectureKana": "アキタケン",
+      "cityKana": "オオダテシ",
+      "townKana": "タテシタ",
+      "prefecture": "秋田県",
+      "city": "大館市",
+      "town": "館下",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

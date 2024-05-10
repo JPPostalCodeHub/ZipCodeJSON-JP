@@ -1,17 +1,21 @@
 {
-  "jisCode": "12208",
-  "oldZipCode": "278  ",
-  "zipCode": "2780026",
-  "prefectureKana": "チバケン",
-  "cityKana": "ノダシ",
-  "townKana": "ハナイ",
-  "prefecture": "千葉県",
-  "city": "野田市",
-  "town": "花井",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12208",
+      "oldZipCode": "278  ",
+      "zipCode": "2780026",
+      "prefectureKana": "チバケン",
+      "cityKana": "ノダシ",
+      "townKana": "ハナイ",
+      "prefecture": "千葉県",
+      "city": "野田市",
+      "town": "花井",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

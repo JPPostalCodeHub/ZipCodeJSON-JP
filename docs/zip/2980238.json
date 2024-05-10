@@ -1,17 +1,21 @@
 {
-  "jisCode": "12441",
-  "oldZipCode": "29802",
-  "zipCode": "2980238",
-  "prefectureKana": "チバケン",
-  "cityKana": "イスミグンオオタキマチ",
-  "townKana": "コウチフエグライリアイ",
-  "prefecture": "千葉県",
-  "city": "夷隅郡大多喜町",
-  "town": "小内笛倉入会",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12441",
+      "oldZipCode": "29802",
+      "zipCode": "2980238",
+      "prefectureKana": "チバケン",
+      "cityKana": "イスミグンオオタキマチ",
+      "townKana": "コウチフエグライリアイ",
+      "prefecture": "千葉県",
+      "city": "夷隅郡大多喜町",
+      "town": "小内笛倉入会",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

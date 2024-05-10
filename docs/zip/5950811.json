@@ -1,17 +1,21 @@
 {
-  "jisCode": "27341",
-  "oldZipCode": "595  ",
-  "zipCode": "5950811",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "センボクグンタダオカチョウ",
-  "townKana": "タダオカキタ",
-  "prefecture": "大阪府",
-  "city": "泉北郡忠岡町",
-  "town": "忠岡北",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27341",
+      "oldZipCode": "595  ",
+      "zipCode": "5950811",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "センボクグンタダオカチョウ",
+      "townKana": "タダオカキタ",
+      "prefecture": "大阪府",
+      "city": "泉北郡忠岡町",
+      "town": "忠岡北",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

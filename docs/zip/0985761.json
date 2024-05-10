@@ -1,17 +1,38 @@
 {
-  "jisCode": "01512",
-  "oldZipCode": "09857",
-  "zipCode": "0985761",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "エサシグンハマトンベツチョウ",
-  "townKana": "ヤマガル",
-  "prefecture": "北海道",
-  "city": "枝幸郡浜頓別町",
-  "town": "山軽",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01512",
+      "oldZipCode": "09857",
+      "zipCode": "0985761",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "エサシグンハマトンベツチョウ",
+      "townKana": "チフク",
+      "prefecture": "北海道",
+      "city": "枝幸郡浜頓別町",
+      "town": "智福",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "01512",
+      "oldZipCode": "09857",
+      "zipCode": "0985761",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "エサシグンハマトンベツチョウ",
+      "townKana": "ヤマガル",
+      "prefecture": "北海道",
+      "city": "枝幸郡浜頓別町",
+      "town": "山軽",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

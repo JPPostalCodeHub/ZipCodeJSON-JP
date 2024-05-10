@@ -1,17 +1,21 @@
 {
-  "jisCode": "28228",
-  "oldZipCode": "67314",
-  "zipCode": "6731453",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "カトウシ",
-  "townKana": "カイハラ",
-  "prefecture": "兵庫県",
-  "city": "加東市",
-  "town": "貝原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28228",
+      "oldZipCode": "67314",
+      "zipCode": "6731453",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "カトウシ",
+      "townKana": "カイハラ",
+      "prefecture": "兵庫県",
+      "city": "加東市",
+      "town": "貝原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

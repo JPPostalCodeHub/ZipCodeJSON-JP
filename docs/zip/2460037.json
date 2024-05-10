@@ -1,17 +1,21 @@
 {
-  "jisCode": "14114",
-  "oldZipCode": "246  ",
-  "zipCode": "2460037",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "ヨコハマシセヤク",
-  "townKana": "ハシド",
-  "prefecture": "神奈川県",
-  "city": "横浜市瀬谷区",
-  "town": "橋戸",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14114",
+      "oldZipCode": "246  ",
+      "zipCode": "2460037",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "ヨコハマシセヤク",
+      "townKana": "ハシド",
+      "prefecture": "神奈川県",
+      "city": "横浜市瀬谷区",
+      "town": "橋戸",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

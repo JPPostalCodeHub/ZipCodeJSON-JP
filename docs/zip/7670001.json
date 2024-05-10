@@ -1,17 +1,21 @@
 {
-  "jisCode": "37208",
-  "oldZipCode": "767  ",
-  "zipCode": "7670001",
-  "prefectureKana": "カガワケン",
-  "cityKana": "ミトヨシ",
-  "townKana": "タカセチョウカミタカセ",
-  "prefecture": "香川県",
-  "city": "三豊市",
-  "town": "高瀬町上高瀬",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "37208",
+      "oldZipCode": "767  ",
+      "zipCode": "7670001",
+      "prefectureKana": "カガワケン",
+      "cityKana": "ミトヨシ",
+      "townKana": "タカセチョウカミタカセ",
+      "prefecture": "香川県",
+      "city": "三豊市",
+      "town": "高瀬町上高瀬",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

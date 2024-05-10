@@ -1,17 +1,21 @@
 {
-  "jisCode": "41341",
-  "oldZipCode": "84102",
-  "zipCode": "8410205",
-  "prefectureKana": "サガケン",
-  "cityKana": "ミヤキグンキヤマチョウ",
-  "townKana": "ケヤキダイ",
-  "prefecture": "佐賀県",
-  "city": "三養基郡基山町",
-  "town": "けやき台",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "41341",
+      "oldZipCode": "84102",
+      "zipCode": "8410205",
+      "prefectureKana": "サガケン",
+      "cityKana": "ミヤキグンキヤマチョウ",
+      "townKana": "ケヤキダイ",
+      "prefecture": "佐賀県",
+      "city": "三養基郡基山町",
+      "town": "けやき台",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

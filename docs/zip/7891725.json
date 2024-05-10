@@ -1,17 +1,21 @@
 {
-  "jisCode": "39428",
-  "oldZipCode": "78917",
-  "zipCode": "7891725",
-  "prefectureKana": "コウチケン",
-  "cityKana": "ハタグンクロシオチョウ",
-  "townKana": "シラハマ",
-  "prefecture": "高知県",
-  "city": "幡多郡黒潮町",
-  "town": "白浜",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "39428",
+      "oldZipCode": "78917",
+      "zipCode": "7891725",
+      "prefectureKana": "コウチケン",
+      "cityKana": "ハタグンクロシオチョウ",
+      "townKana": "シラハマ",
+      "prefecture": "高知県",
+      "city": "幡多郡黒潮町",
+      "town": "白浜",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

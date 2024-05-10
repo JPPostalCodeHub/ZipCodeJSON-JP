@@ -1,17 +1,21 @@
 {
-  "jisCode": "26106",
-  "oldZipCode": "600  ",
-  "zipCode": "6008393",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシシモギョウク",
-  "townKana": "カリガネチョウ（イワガミドオリアヤノコウジサガル、イワガミドオリブツコウジアガル）",
-  "prefecture": "京都府",
-  "city": "京都市下京区",
-  "town": "雁金町（岩上通綾小路下る、岩上通仏光寺上る）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26106",
+      "oldZipCode": "600  ",
+      "zipCode": "6008393",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシシモギョウク",
+      "townKana": "カリガネチョウ（イワガミドオリアヤノコウジサガル、イワガミドオリブツコウジアガル）",
+      "prefecture": "京都府",
+      "city": "京都市下京区",
+      "town": "雁金町（岩上通綾小路下る、岩上通仏光寺上る）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

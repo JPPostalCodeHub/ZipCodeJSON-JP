@@ -1,17 +1,21 @@
 {
-  "jisCode": "08220",
-  "oldZipCode": "30033",
-  "zipCode": "3002614",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "ツクバシ",
-  "townKana": "カミサト",
-  "prefecture": "茨城県",
-  "city": "つくば市",
-  "town": "上里",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08220",
+      "oldZipCode": "30033",
+      "zipCode": "3002614",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "ツクバシ",
+      "townKana": "カミサト",
+      "prefecture": "茨城県",
+      "city": "つくば市",
+      "town": "上里",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

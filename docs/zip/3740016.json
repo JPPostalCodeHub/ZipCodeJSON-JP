@@ -1,17 +1,21 @@
 {
-  "jisCode": "10207",
-  "oldZipCode": "374  ",
-  "zipCode": "3740016",
-  "prefectureKana": "グンマケン",
-  "cityKana": "タテバヤシシ",
-  "townKana": "マツバラ",
-  "prefecture": "群馬県",
-  "city": "館林市",
-  "town": "松原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "10207",
+      "oldZipCode": "374  ",
+      "zipCode": "3740016",
+      "prefectureKana": "グンマケン",
+      "cityKana": "タテバヤシシ",
+      "townKana": "マツバラ",
+      "prefecture": "群馬県",
+      "city": "館林市",
+      "town": "松原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

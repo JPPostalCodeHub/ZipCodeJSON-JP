@@ -1,17 +1,21 @@
 {
-  "jisCode": "15222",
-  "oldZipCode": "94301",
-  "zipCode": "9430138",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ジョウエツシ",
-  "townKana": "モトチョウジャハラ",
-  "prefecture": "新潟県",
-  "city": "上越市",
-  "town": "本長者原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15222",
+      "oldZipCode": "94301",
+      "zipCode": "9430138",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ジョウエツシ",
+      "townKana": "モトチョウジャハラ",
+      "prefecture": "新潟県",
+      "city": "上越市",
+      "town": "本長者原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

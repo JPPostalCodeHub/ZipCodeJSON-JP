@@ -1,17 +1,21 @@
 {
-  "jisCode": "45429",
-  "oldZipCode": "88313",
-  "zipCode": "8831301",
-  "prefectureKana": "ミヤザキケン",
-  "cityKana": "ヒガシウスキグンモロツカソン",
-  "townKana": "エシロ",
-  "prefecture": "宮崎県",
-  "city": "東臼杵郡諸塚村",
-  "town": "家代",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "45429",
+      "oldZipCode": "88313",
+      "zipCode": "8831301",
+      "prefectureKana": "ミヤザキケン",
+      "cityKana": "ヒガシウスキグンモロツカソン",
+      "townKana": "エシロ",
+      "prefecture": "宮崎県",
+      "city": "東臼杵郡諸塚村",
+      "town": "家代",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

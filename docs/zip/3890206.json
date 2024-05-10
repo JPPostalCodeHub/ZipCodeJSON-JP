@@ -1,17 +1,21 @@
 {
-  "jisCode": "20323",
-  "oldZipCode": "38902",
-  "zipCode": "3890206",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "キタサクグンミヨタマチ",
-  "townKana": "ミヨタ",
-  "prefecture": "長野県",
-  "city": "北佐久郡御代田町",
-  "town": "御代田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20323",
+      "oldZipCode": "38902",
+      "zipCode": "3890206",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "キタサクグンミヨタマチ",
+      "townKana": "ミヨタ",
+      "prefecture": "長野県",
+      "city": "北佐久郡御代田町",
+      "town": "御代田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

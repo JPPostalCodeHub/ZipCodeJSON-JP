@@ -1,17 +1,21 @@
 {
-  "jisCode": "44203",
-  "oldZipCode": "87102",
-  "zipCode": "8710205",
-  "prefectureKana": "オオイタケン",
-  "cityKana": "ナカツシ",
-  "townKana": "ホンヤバケイマチシモヤカタ",
-  "prefecture": "大分県",
-  "city": "中津市",
-  "town": "本耶馬渓町下屋形",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "44203",
+      "oldZipCode": "87102",
+      "zipCode": "8710205",
+      "prefectureKana": "オオイタケン",
+      "cityKana": "ナカツシ",
+      "townKana": "ホンヤバケイマチシモヤカタ",
+      "prefecture": "大分県",
+      "city": "中津市",
+      "town": "本耶馬渓町下屋形",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

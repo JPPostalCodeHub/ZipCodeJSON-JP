@@ -1,17 +1,21 @@
 {
-  "jisCode": "43364",
-  "oldZipCode": "86903",
-  "zipCode": "8690311",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "タマナグンギョクトウマチ",
-  "townKana": "フタマタ",
-  "prefecture": "熊本県",
-  "city": "玉名郡玉東町",
-  "town": "二俣",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43364",
+      "oldZipCode": "86903",
+      "zipCode": "8690311",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "タマナグンギョクトウマチ",
+      "townKana": "フタマタ",
+      "prefecture": "熊本県",
+      "city": "玉名郡玉東町",
+      "town": "二俣",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "15225",
-  "oldZipCode": "94603",
-  "zipCode": "9460305",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ウオヌマシ",
-  "townKana": "オオトチヤマ",
-  "prefecture": "新潟県",
-  "city": "魚沼市",
-  "town": "大栃山",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15225",
+      "oldZipCode": "94603",
+      "zipCode": "9460305",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ウオヌマシ",
+      "townKana": "オオトチヤマ",
+      "prefecture": "新潟県",
+      "city": "魚沼市",
+      "town": "大栃山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

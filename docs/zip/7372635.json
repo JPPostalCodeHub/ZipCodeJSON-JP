@@ -1,17 +1,21 @@
 {
-  "jisCode": "34202",
-  "oldZipCode": "72926",
-  "zipCode": "7372635",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "クレシ",
-  "townKana": "カワジリチョウヤナギサコ",
-  "prefecture": "広島県",
-  "city": "呉市",
-  "town": "川尻町柳迫",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34202",
+      "oldZipCode": "72926",
+      "zipCode": "7372635",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "クレシ",
+      "townKana": "カワジリチョウヤナギサコ",
+      "prefecture": "広島県",
+      "city": "呉市",
+      "town": "川尻町柳迫",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

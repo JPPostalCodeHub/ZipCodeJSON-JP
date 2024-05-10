@@ -1,17 +1,21 @@
 {
-  "jisCode": "38202",
-  "oldZipCode": "79915",
-  "zipCode": "7991531",
-  "prefectureKana": "エヒメケン",
-  "cityKana": "イマバリシ",
-  "townKana": "カラコダイヒガシ",
-  "prefecture": "愛媛県",
-  "city": "今治市",
-  "town": "唐子台東",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "38202",
+      "oldZipCode": "79915",
+      "zipCode": "7991531",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "イマバリシ",
+      "townKana": "カラコダイヒガシ",
+      "prefecture": "愛媛県",
+      "city": "今治市",
+      "town": "唐子台東",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "14301",
-  "oldZipCode": "24001",
-  "zipCode": "2400112",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "ミウラグンハヤママチ",
-  "townKana": "ホリウチ",
-  "prefecture": "神奈川県",
-  "city": "三浦郡葉山町",
-  "town": "堀内",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14301",
+      "oldZipCode": "24001",
+      "zipCode": "2400112",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "ミウラグンハヤママチ",
+      "townKana": "ホリウチ",
+      "prefecture": "神奈川県",
+      "city": "三浦郡葉山町",
+      "town": "堀内",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

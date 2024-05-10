@@ -1,17 +1,21 @@
 {
-  "jisCode": "11209",
-  "oldZipCode": "35701",
-  "zipCode": "3570125",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "ハンノウシ",
-  "townKana": "カミアカダクミ",
-  "prefecture": "埼玉県",
-  "city": "飯能市",
-  "town": "上赤工",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11209",
+      "oldZipCode": "35701",
+      "zipCode": "3570125",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "ハンノウシ",
+      "townKana": "カミアカダクミ",
+      "prefecture": "埼玉県",
+      "city": "飯能市",
+      "town": "上赤工",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

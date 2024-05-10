@@ -1,17 +1,21 @@
 {
-  "jisCode": "12230",
-  "oldZipCode": "28911",
-  "zipCode": "2891114",
-  "prefectureKana": "チバケン",
-  "cityKana": "ヤチマタシ",
-  "townKana": "ヒガシヨシダ",
-  "prefecture": "千葉県",
-  "city": "八街市",
-  "town": "東吉田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12230",
+      "oldZipCode": "28911",
+      "zipCode": "2891114",
+      "prefectureKana": "チバケン",
+      "cityKana": "ヤチマタシ",
+      "townKana": "ヒガシヨシダ",
+      "prefecture": "千葉県",
+      "city": "八街市",
+      "town": "東吉田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

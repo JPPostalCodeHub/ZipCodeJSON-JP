@@ -1,17 +1,21 @@
 {
-  "jisCode": "04202",
-  "oldZipCode": "98613",
-  "zipCode": "9861313",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "イシノマキシ",
-  "townKana": "オガツチョウクワハマ",
-  "prefecture": "宮城県",
-  "city": "石巻市",
-  "town": "雄勝町桑浜",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04202",
+      "oldZipCode": "98613",
+      "zipCode": "9861313",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "イシノマキシ",
+      "townKana": "オガツチョウクワハマ",
+      "prefecture": "宮城県",
+      "city": "石巻市",
+      "town": "雄勝町桑浜",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

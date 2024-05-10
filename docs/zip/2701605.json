@@ -1,17 +1,21 @@
 {
-  "jisCode": "12231",
-  "oldZipCode": "27016",
-  "zipCode": "2701605",
-  "prefectureKana": "チバケン",
-  "cityKana": "インザイシ",
-  "townKana": "ヒラカ",
-  "prefecture": "千葉県",
-  "city": "印西市",
-  "town": "平賀",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12231",
+      "oldZipCode": "27016",
+      "zipCode": "2701605",
+      "prefectureKana": "チバケン",
+      "cityKana": "インザイシ",
+      "townKana": "ヒラカ",
+      "prefecture": "千葉県",
+      "city": "印西市",
+      "town": "平賀",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

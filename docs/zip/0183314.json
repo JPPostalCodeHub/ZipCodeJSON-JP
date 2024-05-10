@@ -1,17 +1,21 @@
 {
-  "jisCode": "05213",
-  "oldZipCode": "01833",
-  "zipCode": "0183314",
-  "prefectureKana": "アキタケン",
-  "cityKana": "キタアキタシ",
-  "townKana": "イセチョウ",
-  "prefecture": "秋田県",
-  "city": "北秋田市",
-  "town": "伊勢町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05213",
+      "oldZipCode": "01833",
+      "zipCode": "0183314",
+      "prefectureKana": "アキタケン",
+      "cityKana": "キタアキタシ",
+      "townKana": "イセチョウ",
+      "prefecture": "秋田県",
+      "city": "北秋田市",
+      "town": "伊勢町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

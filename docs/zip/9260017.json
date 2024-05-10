@@ -1,17 +1,21 @@
 {
-  "jisCode": "17202",
-  "oldZipCode": "926  ",
-  "zipCode": "9260017",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "ナナオシ",
-  "townKana": "マンギョウ",
-  "prefecture": "石川県",
-  "city": "七尾市",
-  "town": "万行",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17202",
+      "oldZipCode": "926  ",
+      "zipCode": "9260017",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "ナナオシ",
+      "townKana": "マンギョウ",
+      "prefecture": "石川県",
+      "city": "七尾市",
+      "town": "万行",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

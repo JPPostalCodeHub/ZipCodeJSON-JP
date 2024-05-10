@@ -1,17 +1,21 @@
 {
-  "jisCode": "04302",
-  "oldZipCode": "98905",
-  "zipCode": "9890525",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "カッタグンシチカシュクマチ",
-  "townKana": "リツホ",
-  "prefecture": "宮城県",
-  "city": "刈田郡七ヶ宿町",
-  "town": "利津保",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04302",
+      "oldZipCode": "98905",
+      "zipCode": "9890525",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "カッタグンシチカシュクマチ",
+      "townKana": "リツホ",
+      "prefecture": "宮城県",
+      "city": "刈田郡七ヶ宿町",
+      "town": "利津保",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

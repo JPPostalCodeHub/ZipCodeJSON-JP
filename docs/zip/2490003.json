@@ -1,17 +1,21 @@
 {
-  "jisCode": "14208",
-  "oldZipCode": "249  ",
-  "zipCode": "2490003",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "ズシシ",
-  "townKana": "イケゴ",
-  "prefecture": "神奈川県",
-  "city": "逗子市",
-  "town": "池子",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14208",
+      "oldZipCode": "249  ",
+      "zipCode": "2490003",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "ズシシ",
+      "townKana": "イケゴ",
+      "prefecture": "神奈川県",
+      "city": "逗子市",
+      "town": "池子",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

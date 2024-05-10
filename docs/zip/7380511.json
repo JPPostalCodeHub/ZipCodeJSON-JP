@@ -1,17 +1,21 @@
 {
-  "jisCode": "34108",
-  "oldZipCode": "73805",
-  "zipCode": "7380511",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "ヒロシマシサエキク",
-  "townKana": "ユキチョウツヅラハラ",
-  "prefecture": "広島県",
-  "city": "広島市佐伯区",
-  "town": "湯来町葛原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34108",
+      "oldZipCode": "73805",
+      "zipCode": "7380511",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ヒロシマシサエキク",
+      "townKana": "ユキチョウツヅラハラ",
+      "prefecture": "広島県",
+      "city": "広島市佐伯区",
+      "town": "湯来町葛原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

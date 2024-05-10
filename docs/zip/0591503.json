@@ -1,17 +1,21 @@
 {
-  "jisCode": "01585",
-  "oldZipCode": "05915",
-  "zipCode": "0591503",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ユウフツグンアビラチョウ",
-  "townKana": "ヒガシハヤキタ",
-  "prefecture": "北海道",
-  "city": "勇払郡安平町",
-  "town": "東早来",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01585",
+      "oldZipCode": "05915",
+      "zipCode": "0591503",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ユウフツグンアビラチョウ",
+      "townKana": "ヒガシハヤキタ",
+      "prefecture": "北海道",
+      "city": "勇払郡安平町",
+      "town": "東早来",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

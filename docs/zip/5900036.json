@@ -1,17 +1,21 @@
 {
-  "jisCode": "27141",
-  "oldZipCode": "590  ",
-  "zipCode": "5900036",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "サカイシサカイク",
-  "townKana": "ミナミマルホエン",
-  "prefecture": "大阪府",
-  "city": "堺市堺区",
-  "town": "南丸保園",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27141",
+      "oldZipCode": "590  ",
+      "zipCode": "5900036",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "サカイシサカイク",
+      "townKana": "ミナミマルホエン",
+      "prefecture": "大阪府",
+      "city": "堺市堺区",
+      "town": "南丸保園",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

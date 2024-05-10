@@ -1,17 +1,21 @@
 {
-  "jisCode": "01641",
-  "oldZipCode": "08922",
-  "zipCode": "0892262",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ヒロオグンタイキチョウ",
-  "townKana": "アイカワ",
-  "prefecture": "北海道",
-  "city": "広尾郡大樹町",
-  "town": "相川",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01641",
+      "oldZipCode": "08922",
+      "zipCode": "0892262",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ヒロオグンタイキチョウ",
+      "townKana": "アイカワ",
+      "prefecture": "北海道",
+      "city": "広尾郡大樹町",
+      "town": "相川",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "12231",
-  "oldZipCode": "27016",
-  "zipCode": "2701612",
-  "prefectureKana": "チバケン",
-  "cityKana": "インザイシ",
-  "townKana": "オオバ",
-  "prefecture": "千葉県",
-  "city": "印西市",
-  "town": "大廻",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12231",
+      "oldZipCode": "27016",
+      "zipCode": "2701612",
+      "prefectureKana": "チバケン",
+      "cityKana": "インザイシ",
+      "townKana": "オオバ",
+      "prefecture": "千葉県",
+      "city": "印西市",
+      "town": "大廻",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

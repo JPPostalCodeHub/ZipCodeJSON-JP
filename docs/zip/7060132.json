@@ -1,17 +1,21 @@
 {
-  "jisCode": "33204",
-  "oldZipCode": "70601",
-  "zipCode": "7060132",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "タマノシ",
-  "townKana": "モチヨシ",
-  "prefecture": "岡山県",
-  "city": "玉野市",
-  "town": "用吉",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33204",
+      "oldZipCode": "70601",
+      "zipCode": "7060132",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "タマノシ",
+      "townKana": "モチヨシ",
+      "prefecture": "岡山県",
+      "city": "玉野市",
+      "town": "用吉",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

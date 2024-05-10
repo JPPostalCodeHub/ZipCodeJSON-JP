@@ -1,17 +1,21 @@
 {
-  "jisCode": "23233",
-  "oldZipCode": "452  ",
-  "zipCode": "4520946",
-  "prefectureKana": "アイチケン",
-  "cityKana": "キヨスシ",
-  "townKana": "ハサマ",
-  "prefecture": "愛知県",
-  "city": "清須市",
-  "town": "廻間",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23233",
+      "oldZipCode": "452  ",
+      "zipCode": "4520946",
+      "prefectureKana": "アイチケン",
+      "cityKana": "キヨスシ",
+      "townKana": "ハサマ",
+      "prefecture": "愛知県",
+      "city": "清須市",
+      "town": "廻間",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

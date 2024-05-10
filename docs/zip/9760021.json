@@ -1,17 +1,21 @@
 {
-  "jisCode": "07209",
-  "oldZipCode": "976  ",
-  "zipCode": "9760021",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "ソウマシ",
-  "townKana": "ハラガマ",
-  "prefecture": "福島県",
-  "city": "相馬市",
-  "town": "原釜",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07209",
+      "oldZipCode": "976  ",
+      "zipCode": "9760021",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "ソウマシ",
+      "townKana": "ハラガマ",
+      "prefecture": "福島県",
+      "city": "相馬市",
+      "town": "原釜",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

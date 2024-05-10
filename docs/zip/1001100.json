@@ -1,17 +1,21 @@
 {
-  "jisCode": "13381",
-  "oldZipCode": "10011",
-  "zipCode": "1001100",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "ミヤケジマミヤケムラ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "東京都",
-  "city": "三宅島三宅村",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13381",
+      "oldZipCode": "10011",
+      "zipCode": "1001100",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "ミヤケジマミヤケムラ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "東京都",
+      "city": "三宅島三宅村",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

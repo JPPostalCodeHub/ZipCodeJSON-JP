@@ -1,17 +1,21 @@
 {
-  "jisCode": "08564",
-  "oldZipCode": "30016",
-  "zipCode": "3001621",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "キタソウマグントネマチ",
-  "townKana": "フクノキ",
-  "prefecture": "茨城県",
-  "city": "北相馬郡利根町",
-  "town": "福木",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08564",
+      "oldZipCode": "30016",
+      "zipCode": "3001621",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "キタソウマグントネマチ",
+      "townKana": "フクノキ",
+      "prefecture": "茨城県",
+      "city": "北相馬郡利根町",
+      "town": "福木",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

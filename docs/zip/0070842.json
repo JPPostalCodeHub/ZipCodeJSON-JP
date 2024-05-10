@@ -1,17 +1,21 @@
 {
-  "jisCode": "01103",
-  "oldZipCode": "007  ",
-  "zipCode": "0070842",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "サッポロシヒガシク",
-  "townKana": "キタ４２ジョウヒガシ",
-  "prefecture": "北海道",
-  "city": "札幌市東区",
-  "town": "北四十二条東",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01103",
+      "oldZipCode": "007  ",
+      "zipCode": "0070842",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "サッポロシヒガシク",
+      "townKana": "キタ４２ジョウヒガシ",
+      "prefecture": "北海道",
+      "city": "札幌市東区",
+      "town": "北四十二条東",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

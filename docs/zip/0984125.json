@@ -1,17 +1,21 @@
 {
-  "jisCode": "01516",
-  "oldZipCode": "09841",
-  "zipCode": "0984125",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "テシオグントヨトミチョウ",
-  "townKana": "ヒガシ５ジョウ",
-  "prefecture": "北海道",
-  "city": "天塩郡豊富町",
-  "town": "東五条",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01516",
+      "oldZipCode": "09841",
+      "zipCode": "0984125",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "テシオグントヨトミチョウ",
+      "townKana": "ヒガシ５ジョウ",
+      "prefecture": "北海道",
+      "city": "天塩郡豊富町",
+      "town": "東五条",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "03207",
-  "oldZipCode": "028  ",
-  "zipCode": "0280063",
-  "prefectureKana": "イワテケン",
-  "cityKana": "クジシ",
-  "townKana": "アラマチ",
-  "prefecture": "岩手県",
-  "city": "久慈市",
-  "town": "荒町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "03207",
+      "oldZipCode": "028  ",
+      "zipCode": "0280063",
+      "prefectureKana": "イワテケン",
+      "cityKana": "クジシ",
+      "townKana": "アラマチ",
+      "prefecture": "岩手県",
+      "city": "久慈市",
+      "town": "荒町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

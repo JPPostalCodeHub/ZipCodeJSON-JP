@@ -1,17 +1,21 @@
 {
-  "jisCode": "01214",
-  "oldZipCode": "09867",
-  "zipCode": "0986758",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ワッカナイシ",
-  "townKana": "ソウヤミサキ",
-  "prefecture": "北海道",
-  "city": "稚内市",
-  "town": "宗谷岬",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01214",
+      "oldZipCode": "09867",
+      "zipCode": "0986758",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ワッカナイシ",
+      "townKana": "ソウヤミサキ",
+      "prefecture": "北海道",
+      "city": "稚内市",
+      "town": "宗谷岬",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

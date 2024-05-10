@@ -1,17 +1,21 @@
 {
-  "jisCode": "36321",
-  "oldZipCode": "77141",
-  "zipCode": "7714100",
-  "prefectureKana": "トクシマケン",
-  "cityKana": "ミョウドウグンサナゴウチソン",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "徳島県",
-  "city": "名東郡佐那河内村",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "36321",
+      "oldZipCode": "77141",
+      "zipCode": "7714100",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "ミョウドウグンサナゴウチソン",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "徳島県",
+      "city": "名東郡佐那河内村",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

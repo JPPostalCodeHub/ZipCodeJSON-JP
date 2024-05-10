@@ -1,17 +1,21 @@
 {
-  "jisCode": "34207",
-  "oldZipCode": "72005",
-  "zipCode": "7200543",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "フクヤマシ",
-  "townKana": "フジエチョウ",
-  "prefecture": "広島県",
-  "city": "福山市",
-  "town": "藤江町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34207",
+      "oldZipCode": "72005",
+      "zipCode": "7200543",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "フクヤマシ",
+      "townKana": "フジエチョウ",
+      "prefecture": "広島県",
+      "city": "福山市",
+      "town": "藤江町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

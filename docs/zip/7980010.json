@@ -1,17 +1,38 @@
 {
-  "jisCode": "38203",
-  "oldZipCode": "798  ",
-  "zipCode": "7980010",
-  "prefectureKana": "エヒメケン",
-  "cityKana": "ウワジマシ",
-  "townKana": "フジエ",
-  "prefecture": "愛媛県",
-  "city": "宇和島市",
-  "town": "藤江",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "38203",
+      "oldZipCode": "798  ",
+      "zipCode": "7980010",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "ウワジマシ",
+      "townKana": "キタシンマチ",
+      "prefecture": "愛媛県",
+      "city": "宇和島市",
+      "town": "北新町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "38203",
+      "oldZipCode": "798  ",
+      "zipCode": "7980010",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "ウワジマシ",
+      "townKana": "フジエ",
+      "prefecture": "愛媛県",
+      "city": "宇和島市",
+      "town": "藤江",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

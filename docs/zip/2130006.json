@@ -1,17 +1,21 @@
 {
-  "jisCode": "14134",
-  "oldZipCode": "213  ",
-  "zipCode": "2130006",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "カワサキシタカツク",
-  "townKana": "シモノゲ",
-  "prefecture": "神奈川県",
-  "city": "川崎市高津区",
-  "town": "下野毛",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14134",
+      "oldZipCode": "213  ",
+      "zipCode": "2130006",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "カワサキシタカツク",
+      "townKana": "シモノゲ",
+      "prefecture": "神奈川県",
+      "city": "川崎市高津区",
+      "town": "下野毛",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

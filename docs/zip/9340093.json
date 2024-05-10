@@ -1,17 +1,38 @@
 {
-  "jisCode": "16202",
-  "oldZipCode": "934  ",
-  "zipCode": "9340093",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "タカオカシ",
-  "townKana": "ホウジョウヅ",
-  "prefecture": "富山県",
-  "city": "高岡市",
-  "town": "放生津",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16202",
+      "oldZipCode": "934  ",
+      "zipCode": "9340093",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "タカオカシ",
+      "townKana": "ヒメノ",
+      "prefecture": "富山県",
+      "city": "高岡市",
+      "town": "姫野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "16202",
+      "oldZipCode": "934  ",
+      "zipCode": "9340093",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "タカオカシ",
+      "townKana": "ホウジョウヅ",
+      "prefecture": "富山県",
+      "city": "高岡市",
+      "town": "放生津",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

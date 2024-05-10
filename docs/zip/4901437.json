@@ -1,17 +1,38 @@
 {
-  "jisCode": "23427",
-  "oldZipCode": "49014",
-  "zipCode": "4901437",
-  "prefectureKana": "アイチケン",
-  "cityKana": "アマグントビシマムラ",
-  "townKana": "モトキ",
-  "prefecture": "愛知県",
-  "city": "海部郡飛島村",
-  "town": "元起",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23427",
+      "oldZipCode": "49014",
+      "zipCode": "4901437",
+      "prefectureKana": "アイチケン",
+      "cityKana": "アマグントビシマムラ",
+      "townKana": "トビシマシンデン（モトキノゴウ）",
+      "prefecture": "愛知県",
+      "city": "海部郡飛島村",
+      "town": "飛島新田（元起之郷）",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "23427",
+      "oldZipCode": "49014",
+      "zipCode": "4901437",
+      "prefectureKana": "アイチケン",
+      "cityKana": "アマグントビシマムラ",
+      "townKana": "モトキ",
+      "prefecture": "愛知県",
+      "city": "海部郡飛島村",
+      "town": "元起",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

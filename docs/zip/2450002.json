@@ -1,17 +1,21 @@
 {
-  "jisCode": "14116",
-  "oldZipCode": "245  ",
-  "zipCode": "2450002",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "ヨコハマシイズミク",
-  "townKana": "リョクエン",
-  "prefecture": "神奈川県",
-  "city": "横浜市泉区",
-  "town": "緑園",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14116",
+      "oldZipCode": "245  ",
+      "zipCode": "2450002",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "ヨコハマシイズミク",
+      "townKana": "リョクエン",
+      "prefecture": "神奈川県",
+      "city": "横浜市泉区",
+      "town": "緑園",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

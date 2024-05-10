@@ -1,17 +1,21 @@
 {
-  "jisCode": "43104",
-  "oldZipCode": "860  ",
-  "zipCode": "8600834",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "クマモトシミナミク",
-  "townKana": "エゴエ",
-  "prefecture": "熊本県",
-  "city": "熊本市南区",
-  "town": "江越",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43104",
+      "oldZipCode": "860  ",
+      "zipCode": "8600834",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "クマモトシミナミク",
+      "townKana": "エゴエ",
+      "prefecture": "熊本県",
+      "city": "熊本市南区",
+      "town": "江越",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

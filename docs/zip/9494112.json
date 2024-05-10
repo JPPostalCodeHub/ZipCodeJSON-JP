@@ -1,17 +1,21 @@
 {
-  "jisCode": "15205",
-  "oldZipCode": "94941",
-  "zipCode": "9494112",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "カシワザキシ",
-  "townKana": "ニシヤマチョウオノウチ",
-  "prefecture": "新潟県",
-  "city": "柏崎市",
-  "town": "西山町尾野内",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15205",
+      "oldZipCode": "94941",
+      "zipCode": "9494112",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "カシワザキシ",
+      "townKana": "ニシヤマチョウオノウチ",
+      "prefecture": "新潟県",
+      "city": "柏崎市",
+      "town": "西山町尾野内",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

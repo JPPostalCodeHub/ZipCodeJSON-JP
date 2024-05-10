@@ -1,17 +1,38 @@
 {
-  "jisCode": "20201",
-  "oldZipCode": "380  ",
-  "zipCode": "3800813",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "ナガノシ",
-  "townKana": "ミドリチョウ",
-  "prefecture": "長野県",
-  "city": "長野市",
-  "town": "緑町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20201",
+      "oldZipCode": "380  ",
+      "zipCode": "3800813",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "ナガノシ",
+      "townKana": "ツルガ（ミドリチョウ）",
+      "prefecture": "長野県",
+      "city": "長野市",
+      "town": "鶴賀（緑町）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "20201",
+      "oldZipCode": "380  ",
+      "zipCode": "3800813",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "ナガノシ",
+      "townKana": "ミドリチョウ",
+      "prefecture": "長野県",
+      "city": "長野市",
+      "town": "緑町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

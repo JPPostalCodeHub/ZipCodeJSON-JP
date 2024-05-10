@@ -1,17 +1,21 @@
 {
-  "jisCode": "01216",
-  "oldZipCode": "075  ",
-  "zipCode": "0750021",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "アシベツシ",
-  "townKana": "ミナミ１ジョウニシ",
-  "prefecture": "北海道",
-  "city": "芦別市",
-  "town": "南一条西",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01216",
+      "oldZipCode": "075  ",
+      "zipCode": "0750021",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "アシベツシ",
+      "townKana": "ミナミ１ジョウニシ",
+      "prefecture": "北海道",
+      "city": "芦別市",
+      "town": "南一条西",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

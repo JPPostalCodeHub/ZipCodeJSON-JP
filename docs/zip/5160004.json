@@ -1,17 +1,21 @@
 {
-  "jisCode": "24203",
-  "oldZipCode": "516  ",
-  "zipCode": "5160004",
-  "prefectureKana": "ミエケン",
-  "cityKana": "イセシ",
-  "townKana": "カミヤシロコウ",
-  "prefecture": "三重県",
-  "city": "伊勢市",
-  "town": "神社港",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "24203",
+      "oldZipCode": "516  ",
+      "zipCode": "5160004",
+      "prefectureKana": "ミエケン",
+      "cityKana": "イセシ",
+      "townKana": "カミヤシロコウ",
+      "prefecture": "三重県",
+      "city": "伊勢市",
+      "town": "神社港",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "13104",
-  "oldZipCode": "16302",
-  "zipCode": "1630210",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "シンジュクク",
-  "townKana": "ニシシンジュクシンジュクスミトモビル（１０カイ）",
-  "prefecture": "東京都",
-  "city": "新宿区",
-  "town": "西新宿新宿住友ビル（１０階）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13104",
+      "oldZipCode": "16302",
+      "zipCode": "1630210",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "シンジュクク",
+      "townKana": "ニシシンジュクシンジュクスミトモビル（１０カイ）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "town": "西新宿新宿住友ビル（１０階）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

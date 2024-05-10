@@ -1,17 +1,21 @@
 {
-  "jisCode": "23230",
-  "oldZipCode": "47001",
-  "zipCode": "4700116",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ニッシンシ",
-  "townKana": "ヒガシヤマ",
-  "prefecture": "愛知県",
-  "city": "日進市",
-  "town": "東山",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23230",
+      "oldZipCode": "47001",
+      "zipCode": "4700116",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ニッシンシ",
+      "townKana": "ヒガシヤマ",
+      "prefecture": "愛知県",
+      "city": "日進市",
+      "town": "東山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

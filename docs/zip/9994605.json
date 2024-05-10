@@ -1,17 +1,21 @@
 {
-  "jisCode": "06363",
-  "oldZipCode": "99946",
-  "zipCode": "9994605",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "モガミグンフナガタマチ",
-  "townKana": "ナガサワ",
-  "prefecture": "山形県",
-  "city": "最上郡舟形町",
-  "town": "長沢",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06363",
+      "oldZipCode": "99946",
+      "zipCode": "9994605",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "モガミグンフナガタマチ",
+      "townKana": "ナガサワ",
+      "prefecture": "山形県",
+      "city": "最上郡舟形町",
+      "town": "長沢",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

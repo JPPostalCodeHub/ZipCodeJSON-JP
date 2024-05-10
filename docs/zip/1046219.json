@@ -1,17 +1,21 @@
 {
-  "jisCode": "13102",
-  "oldZipCode": "104  ",
-  "zipCode": "1046219",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "チュウオウク",
-  "townKana": "ハルミオフィスタワーＺ（１９カイ）",
-  "prefecture": "東京都",
-  "city": "中央区",
-  "town": "晴海オフィスタワーＺ（１９階）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13102",
+      "oldZipCode": "104  ",
+      "zipCode": "1046219",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "チュウオウク",
+      "townKana": "ハルミオフィスタワーＺ（１９カイ）",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "town": "晴海オフィスタワーＺ（１９階）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

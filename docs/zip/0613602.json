@@ -1,17 +1,21 @@
 {
-  "jisCode": "01235",
-  "oldZipCode": "06136",
-  "zipCode": "0613602",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "イシカリシ",
-  "townKana": "アツタクオシコト",
-  "prefecture": "北海道",
-  "city": "石狩市",
-  "town": "厚田区押琴",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01235",
+      "oldZipCode": "06136",
+      "zipCode": "0613602",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "イシカリシ",
+      "townKana": "アツタクオシコト",
+      "prefecture": "北海道",
+      "city": "石狩市",
+      "town": "厚田区押琴",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

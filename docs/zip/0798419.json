@@ -1,17 +1,21 @@
 {
-  "jisCode": "01204",
-  "oldZipCode": "079  ",
-  "zipCode": "0798419",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "アサヒカワシ",
-  "townKana": "ナガヤマ９ジョウ",
-  "prefecture": "北海道",
-  "city": "旭川市",
-  "town": "永山９条",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01204",
+      "oldZipCode": "079  ",
+      "zipCode": "0798419",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "アサヒカワシ",
+      "townKana": "ナガヤマ９ジョウ",
+      "prefecture": "北海道",
+      "city": "旭川市",
+      "town": "永山９条",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

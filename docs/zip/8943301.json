@@ -1,17 +1,21 @@
 {
-  "jisCode": "46524",
-  "oldZipCode": "89433",
-  "zipCode": "8943301",
-  "prefectureKana": "カゴシマケン",
-  "cityKana": "オオシマグンウケンソン",
-  "townKana": "ユワン",
-  "prefecture": "鹿児島県",
-  "city": "大島郡宇検村",
-  "town": "湯湾",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "46524",
+      "oldZipCode": "89433",
+      "zipCode": "8943301",
+      "prefectureKana": "カゴシマケン",
+      "cityKana": "オオシマグンウケンソン",
+      "townKana": "ユワン",
+      "prefecture": "鹿児島県",
+      "city": "大島郡宇検村",
+      "town": "湯湾",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

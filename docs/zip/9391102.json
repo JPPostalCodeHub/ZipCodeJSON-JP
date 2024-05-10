@@ -1,17 +1,38 @@
 {
-  "jisCode": "16202",
-  "oldZipCode": "93911",
-  "zipCode": "9391102",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "タカオカシ",
-  "townKana": "トイデオオカミ",
-  "prefecture": "富山県",
-  "city": "高岡市",
-  "town": "戸出狼",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16202",
+      "oldZipCode": "93911",
+      "zipCode": "9391102",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "タカオカシ",
+      "townKana": "トイデアケボノチョウ",
+      "prefecture": "富山県",
+      "city": "高岡市",
+      "town": "戸出曙町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "16202",
+      "oldZipCode": "93911",
+      "zipCode": "9391102",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "タカオカシ",
+      "townKana": "トイデオオカミ",
+      "prefecture": "富山県",
+      "city": "高岡市",
+      "town": "戸出狼",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "13117",
-  "oldZipCode": "114  ",
-  "zipCode": "1140021",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "キタク",
-  "townKana": "キシマチ",
-  "prefecture": "東京都",
-  "city": "北区",
-  "town": "岸町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13117",
+      "oldZipCode": "114  ",
+      "zipCode": "1140021",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "キタク",
+      "townKana": "キシマチ",
+      "prefecture": "東京都",
+      "city": "北区",
+      "town": "岸町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

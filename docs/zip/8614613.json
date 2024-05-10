@@ -1,17 +1,21 @@
 {
-  "jisCode": "43444",
-  "oldZipCode": "86146",
-  "zipCode": "8614613",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "カミマシキグンコウサマチ",
-  "townKana": "ミナミサンガ",
-  "prefecture": "熊本県",
-  "city": "上益城郡甲佐町",
-  "town": "南三箇",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43444",
+      "oldZipCode": "86146",
+      "zipCode": "8614613",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "カミマシキグンコウサマチ",
+      "townKana": "ミナミサンガ",
+      "prefecture": "熊本県",
+      "city": "上益城郡甲佐町",
+      "town": "南三箇",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

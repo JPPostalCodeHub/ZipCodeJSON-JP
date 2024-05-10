@@ -1,17 +1,21 @@
 {
-  "jisCode": "45430",
-  "oldZipCode": "88304",
-  "zipCode": "8830402",
-  "prefectureKana": "ミヤザキケン",
-  "cityKana": "ヒガシウスキグンシイバソン",
-  "townKana": "オオカワウチ（１−１３０２バンチ）",
-  "prefecture": "宮崎県",
-  "city": "東臼杵郡椎葉村",
-  "town": "大河内（１〜１３０２番地）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "45430",
+      "oldZipCode": "88304",
+      "zipCode": "8830402",
+      "prefectureKana": "ミヤザキケン",
+      "cityKana": "ヒガシウスキグンシイバソン",
+      "townKana": "オオカワウチ（１−１３０２バンチ）",
+      "prefecture": "宮崎県",
+      "city": "東臼杵郡椎葉村",
+      "town": "大河内（１〜１３０２番地）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

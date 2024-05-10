@@ -1,17 +1,21 @@
 {
-  "jisCode": "44205",
-  "oldZipCode": "87612",
-  "zipCode": "8761201",
-  "prefectureKana": "オオイタケン",
-  "cityKana": "サイキシ",
-  "townKana": "ツルミフキウラ",
-  "prefecture": "大分県",
-  "city": "佐伯市",
-  "town": "鶴見吹浦",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "44205",
+      "oldZipCode": "87612",
+      "zipCode": "8761201",
+      "prefectureKana": "オオイタケン",
+      "cityKana": "サイキシ",
+      "townKana": "ツルミフキウラ",
+      "prefecture": "大分県",
+      "city": "佐伯市",
+      "town": "鶴見吹浦",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

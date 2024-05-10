@@ -1,17 +1,21 @@
 {
-  "jisCode": "11108",
-  "oldZipCode": "336  ",
-  "zipCode": "3360041",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "サイタマシミナミク",
-  "townKana": "ヒロガヤト",
-  "prefecture": "埼玉県",
-  "city": "さいたま市南区",
-  "town": "広ヶ谷戸",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11108",
+      "oldZipCode": "336  ",
+      "zipCode": "3360041",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "サイタマシミナミク",
+      "townKana": "ヒロガヤト",
+      "prefecture": "埼玉県",
+      "city": "さいたま市南区",
+      "town": "広ヶ谷戸",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

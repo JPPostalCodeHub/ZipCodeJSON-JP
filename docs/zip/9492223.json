@@ -1,17 +1,21 @@
 {
-  "jisCode": "15217",
-  "oldZipCode": "94922",
-  "zipCode": "9492223",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ミョウコウシ",
-  "townKana": "タルモト（ソノタ）",
-  "prefecture": "新潟県",
-  "city": "妙高市",
-  "town": "樽本（その他）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15217",
+      "oldZipCode": "94922",
+      "zipCode": "9492223",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ミョウコウシ",
+      "townKana": "タルモト（ソノタ）",
+      "prefecture": "新潟県",
+      "city": "妙高市",
+      "town": "樽本（その他）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

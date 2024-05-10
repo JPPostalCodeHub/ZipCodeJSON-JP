@@ -1,17 +1,21 @@
 {
-  "jisCode": "07204",
-  "oldZipCode": "970  ",
-  "zipCode": "9708045",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "イワキシ",
-  "townKana": "サトガオカ",
-  "prefecture": "福島県",
-  "city": "いわき市",
-  "town": "郷ケ丘",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07204",
+      "oldZipCode": "970  ",
+      "zipCode": "9708045",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "イワキシ",
+      "townKana": "サトガオカ",
+      "prefecture": "福島県",
+      "city": "いわき市",
+      "town": "郷ケ丘",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

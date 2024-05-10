@@ -1,17 +1,21 @@
 {
-  "jisCode": "01221",
-  "oldZipCode": "09805",
-  "zipCode": "0980513",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ナヨロシ",
-  "townKana": "フウレンチョウイケノウエ",
-  "prefecture": "北海道",
-  "city": "名寄市",
-  "town": "風連町池の上",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01221",
+      "oldZipCode": "09805",
+      "zipCode": "0980513",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ナヨロシ",
+      "townKana": "フウレンチョウイケノウエ",
+      "prefecture": "北海道",
+      "city": "名寄市",
+      "town": "風連町池の上",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

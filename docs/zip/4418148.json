@@ -1,17 +1,21 @@
 {
-  "jisCode": "23201",
-  "oldZipCode": "441  ",
-  "zipCode": "4418148",
-  "prefectureKana": "アイチケン",
-  "cityKana": "トヨハシシ",
-  "townKana": "イッシキチョウ",
-  "prefecture": "愛知県",
-  "city": "豊橋市",
-  "town": "一色町",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23201",
+      "oldZipCode": "441  ",
+      "zipCode": "4418148",
+      "prefectureKana": "アイチケン",
+      "cityKana": "トヨハシシ",
+      "townKana": "イッシキチョウ",
+      "prefecture": "愛知県",
+      "city": "豊橋市",
+      "town": "一色町",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

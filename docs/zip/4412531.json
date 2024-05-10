@@ -1,17 +1,21 @@
 {
-  "jisCode": "23561",
-  "oldZipCode": "44125",
-  "zipCode": "4412531",
-  "prefectureKana": "アイチケン",
-  "cityKana": "キタシタラグンシタラチョウ",
-  "townKana": "ニシナグラ（オキノタイラ）",
-  "prefecture": "愛知県",
-  "city": "北設楽郡設楽町",
-  "town": "西納庫（沖ノ平）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23561",
+      "oldZipCode": "44125",
+      "zipCode": "4412531",
+      "prefectureKana": "アイチケン",
+      "cityKana": "キタシタラグンシタラチョウ",
+      "townKana": "ニシナグラ（オキノタイラ）",
+      "prefecture": "愛知県",
+      "city": "北設楽郡設楽町",
+      "town": "西納庫（沖ノ平）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

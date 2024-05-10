@@ -1,17 +1,21 @@
 {
-  "jisCode": "35305",
-  "oldZipCode": "74228",
-  "zipCode": "7422803",
-  "prefectureKana": "ヤマグチケン",
-  "cityKana": "オオシマグンスオウオオシマチョウ",
-  "townKana": "ドイ",
-  "prefecture": "山口県",
-  "city": "大島郡周防大島町",
-  "town": "土居",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "35305",
+      "oldZipCode": "74228",
+      "zipCode": "7422803",
+      "prefectureKana": "ヤマグチケン",
+      "cityKana": "オオシマグンスオウオオシマチョウ",
+      "townKana": "ドイ",
+      "prefecture": "山口県",
+      "city": "大島郡周防大島町",
+      "town": "土居",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

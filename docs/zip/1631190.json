@@ -1,17 +1,21 @@
 {
-  "jisCode": "13104",
-  "oldZipCode": "16311",
-  "zipCode": "1631190",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "シンジュクク",
-  "townKana": "ニシシンジュクシンジュクスクエアタワー（チカイ・カイソウフメイ）",
-  "prefecture": "東京都",
-  "city": "新宿区",
-  "town": "西新宿新宿スクエアタワー（地階・階層不明）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13104",
+      "oldZipCode": "16311",
+      "zipCode": "1631190",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "シンジュクク",
+      "townKana": "ニシシンジュクシンジュクスクエアタワー（チカイ・カイソウフメイ）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "town": "西新宿新宿スクエアタワー（地階・階層不明）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "28229",
-  "oldZipCode": "67941",
-  "zipCode": "6794161",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "タツノシ",
-  "townKana": "タツノチョウヒヤマ",
-  "prefecture": "兵庫県",
-  "city": "たつの市",
-  "town": "龍野町日山",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28229",
+      "oldZipCode": "67941",
+      "zipCode": "6794161",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "タツノシ",
+      "townKana": "タツノチョウヒヤマ",
+      "prefecture": "兵庫県",
+      "city": "たつの市",
+      "town": "龍野町日山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,38 @@
 {
-  "jisCode": "28209",
-  "oldZipCode": "66953",
-  "zipCode": "6695358",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "トヨオカシ",
-  "townKana": "ヒダカチョウヒロイ",
-  "prefecture": "兵庫県",
-  "city": "豊岡市",
-  "town": "日高町広井",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28209",
+      "oldZipCode": "66953",
+      "zipCode": "6695358",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "トヨオカシ",
+      "townKana": "ヒダカチョウトノ",
+      "prefecture": "兵庫県",
+      "city": "豊岡市",
+      "town": "日高町殿",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "28209",
+      "oldZipCode": "66953",
+      "zipCode": "6695358",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "トヨオカシ",
+      "townKana": "ヒダカチョウヒロイ",
+      "prefecture": "兵庫県",
+      "city": "豊岡市",
+      "town": "日高町広井",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "13110",
-  "oldZipCode": "153  ",
-  "zipCode": "1530042",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "メグロク",
-  "townKana": "アオバダイ",
-  "prefecture": "東京都",
-  "city": "目黒区",
-  "town": "青葉台",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13110",
+      "oldZipCode": "153  ",
+      "zipCode": "1530042",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "メグロク",
+      "townKana": "アオバダイ",
+      "prefecture": "東京都",
+      "city": "目黒区",
+      "town": "青葉台",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "05201",
-  "oldZipCode": "01014",
-  "zipCode": "0101417",
-  "prefectureKana": "アキタケン",
-  "cityKana": "アキタシ",
-  "townKana": "ヨツゴヤ",
-  "prefecture": "秋田県",
-  "city": "秋田市",
-  "town": "四ツ小屋",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05201",
+      "oldZipCode": "01014",
+      "zipCode": "0101417",
+      "prefectureKana": "アキタケン",
+      "cityKana": "アキタシ",
+      "townKana": "ヨツゴヤ",
+      "prefecture": "秋田県",
+      "city": "秋田市",
+      "town": "四ツ小屋",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

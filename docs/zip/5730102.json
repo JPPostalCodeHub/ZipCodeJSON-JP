@@ -1,17 +1,21 @@
 {
-  "jisCode": "27210",
-  "oldZipCode": "57301",
-  "zipCode": "5730102",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "ヒラカタシ",
-  "townKana": "ナガオカグマチ",
-  "prefecture": "大阪府",
-  "city": "枚方市",
-  "town": "長尾家具町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27210",
+      "oldZipCode": "57301",
+      "zipCode": "5730102",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "ヒラカタシ",
+      "townKana": "ナガオカグマチ",
+      "prefecture": "大阪府",
+      "city": "枚方市",
+      "town": "長尾家具町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

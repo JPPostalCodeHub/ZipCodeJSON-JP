@@ -1,17 +1,21 @@
 {
-  "jisCode": "13117",
-  "oldZipCode": "115  ",
-  "zipCode": "1150044",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "キタク",
-  "townKana": "アカバネミナミ",
-  "prefecture": "東京都",
-  "city": "北区",
-  "town": "赤羽南",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13117",
+      "oldZipCode": "115  ",
+      "zipCode": "1150044",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "キタク",
+      "townKana": "アカバネミナミ",
+      "prefecture": "東京都",
+      "city": "北区",
+      "town": "赤羽南",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

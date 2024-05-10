@@ -1,17 +1,21 @@
 {
-  "jisCode": "33209",
-  "oldZipCode": "71613",
-  "zipCode": "7161311",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "タカハシシ",
-  "townKana": "コセチョウ",
-  "prefecture": "岡山県",
-  "city": "高梁市",
-  "town": "巨瀬町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33209",
+      "oldZipCode": "71613",
+      "zipCode": "7161311",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "タカハシシ",
+      "townKana": "コセチョウ",
+      "prefecture": "岡山県",
+      "city": "高梁市",
+      "town": "巨瀬町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

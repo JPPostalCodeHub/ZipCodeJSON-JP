@@ -1,17 +1,38 @@
 {
-  "jisCode": "15107",
-  "oldZipCode": "951  ",
-  "zipCode": "9518134",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ニイガタシニシク",
-  "townKana": "セキヤ",
-  "prefecture": "新潟県",
-  "city": "新潟市西区",
-  "town": "関屋",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15103",
+      "oldZipCode": "951  ",
+      "zipCode": "9518134",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ニイガタシチュウオウク",
+      "townKana": "セキヤ",
+      "prefecture": "新潟県",
+      "city": "新潟市中央区",
+      "town": "関屋",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "15107",
+      "oldZipCode": "951  ",
+      "zipCode": "9518134",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ニイガタシニシク",
+      "townKana": "セキヤ",
+      "prefecture": "新潟県",
+      "city": "新潟市西区",
+      "town": "関屋",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

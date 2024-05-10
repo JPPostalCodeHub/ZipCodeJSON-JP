@@ -1,17 +1,21 @@
 {
-  "jisCode": "09386",
-  "oldZipCode": "32912",
-  "zipCode": "3291234",
-  "prefectureKana": "トチギケン",
-  "cityKana": "シオヤグンタカネザワマチ",
-  "townKana": "ナカアクツ",
-  "prefecture": "栃木県",
-  "city": "塩谷郡高根沢町",
-  "town": "中阿久津",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "09386",
+      "oldZipCode": "32912",
+      "zipCode": "3291234",
+      "prefectureKana": "トチギケン",
+      "cityKana": "シオヤグンタカネザワマチ",
+      "townKana": "ナカアクツ",
+      "prefecture": "栃木県",
+      "city": "塩谷郡高根沢町",
+      "town": "中阿久津",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

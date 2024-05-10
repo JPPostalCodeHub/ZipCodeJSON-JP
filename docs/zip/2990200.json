@@ -1,17 +1,21 @@
 {
-  "jisCode": "12229",
-  "oldZipCode": "29902",
-  "zipCode": "2990200",
-  "prefectureKana": "チバケン",
-  "cityKana": "ソデガウラシ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "千葉県",
-  "city": "袖ケ浦市",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12229",
+      "oldZipCode": "29902",
+      "zipCode": "2990200",
+      "prefectureKana": "チバケン",
+      "cityKana": "ソデガウラシ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "千葉県",
+      "city": "袖ケ浦市",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "25206",
-  "oldZipCode": "525  ",
-  "zipCode": "5250001",
-  "prefectureKana": "シガケン",
-  "cityKana": "クサツシ",
-  "townKana": "オロシモチョウ",
-  "prefecture": "滋賀県",
-  "city": "草津市",
-  "town": "下物町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "25206",
+      "oldZipCode": "525  ",
+      "zipCode": "5250001",
+      "prefectureKana": "シガケン",
+      "cityKana": "クサツシ",
+      "townKana": "オロシモチョウ",
+      "prefecture": "滋賀県",
+      "city": "草津市",
+      "town": "下物町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

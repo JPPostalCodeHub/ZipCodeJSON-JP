@@ -1,17 +1,21 @@
 {
-  "jisCode": "11222",
-  "oldZipCode": "343  ",
-  "zipCode": "3430033",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "コシガヤシ",
-  "townKana": "オンマ",
-  "prefecture": "埼玉県",
-  "city": "越谷市",
-  "town": "恩間",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11222",
+      "oldZipCode": "343  ",
+      "zipCode": "3430033",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "コシガヤシ",
+      "townKana": "オンマ",
+      "prefecture": "埼玉県",
+      "city": "越谷市",
+      "town": "恩間",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

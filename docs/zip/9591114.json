@@ -1,17 +1,21 @@
 {
-  "jisCode": "15204",
-  "oldZipCode": "95911",
-  "zipCode": "9591114",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "サンジョウシ",
-  "townKana": "コウアンジ",
-  "prefecture": "新潟県",
-  "city": "三条市",
-  "town": "高安寺",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15204",
+      "oldZipCode": "95911",
+      "zipCode": "9591114",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "サンジョウシ",
+      "townKana": "コウアンジ",
+      "prefecture": "新潟県",
+      "city": "三条市",
+      "town": "高安寺",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "34213",
-  "oldZipCode": "738  ",
-  "zipCode": "7380221",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "ハツカイチシ",
-  "townKana": "ムシトコロヤマ",
-  "prefecture": "広島県",
-  "city": "廿日市市",
-  "town": "虫所山",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34213",
+      "oldZipCode": "738  ",
+      "zipCode": "7380221",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ハツカイチシ",
+      "townKana": "ムシトコロヤマ",
+      "prefecture": "広島県",
+      "city": "廿日市市",
+      "town": "虫所山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "46215",
-  "oldZipCode": "89613",
-  "zipCode": "8961301",
-  "prefectureKana": "カゴシマケン",
-  "cityKana": "サツマセンダイシ",
-  "townKana": "カシマチョウイムタ",
-  "prefecture": "鹿児島県",
-  "city": "薩摩川内市",
-  "town": "鹿島町藺牟田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "46215",
+      "oldZipCode": "89613",
+      "zipCode": "8961301",
+      "prefectureKana": "カゴシマケン",
+      "cityKana": "サツマセンダイシ",
+      "townKana": "カシマチョウイムタ",
+      "prefecture": "鹿児島県",
+      "city": "薩摩川内市",
+      "town": "鹿島町藺牟田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

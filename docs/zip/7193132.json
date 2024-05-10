@@ -1,17 +1,21 @@
 {
-  "jisCode": "33214",
-  "oldZipCode": "71931",
-  "zipCode": "7193132",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "マニワシ",
-  "townKana": "タハラサンジョウ",
-  "prefecture": "岡山県",
-  "city": "真庭市",
-  "town": "田原山上",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33214",
+      "oldZipCode": "71931",
+      "zipCode": "7193132",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "マニワシ",
+      "townKana": "タハラサンジョウ",
+      "prefecture": "岡山県",
+      "city": "真庭市",
+      "town": "田原山上",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,38 @@
 {
-  "jisCode": "02442",
-  "oldZipCode": "03915",
-  "zipCode": "0391538",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "サンノヘグンゴノヘマチ",
-  "townKana": "フルカイドウナガネ",
-  "prefecture": "青森県",
-  "city": "三戸郡五戸町",
-  "town": "古街道長根",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02442",
+      "oldZipCode": "03915",
+      "zipCode": "0391538",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "サンノヘグンゴノヘマチ",
+      "townKana": "ツカナシタイ",
+      "prefecture": "青森県",
+      "city": "三戸郡五戸町",
+      "town": "塚無岱",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "02442",
+      "oldZipCode": "03915",
+      "zipCode": "0391538",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "サンノヘグンゴノヘマチ",
+      "townKana": "フルカイドウナガネ",
+      "prefecture": "青森県",
+      "city": "三戸郡五戸町",
+      "town": "古街道長根",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

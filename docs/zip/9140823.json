@@ -1,17 +1,21 @@
 {
-  "jisCode": "18202",
-  "oldZipCode": "914  ",
-  "zipCode": "9140823",
-  "prefectureKana": "フクイケン",
-  "cityKana": "ツルガシ",
-  "townKana": "クツミ",
-  "prefecture": "福井県",
-  "city": "敦賀市",
-  "town": "沓見",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18202",
+      "oldZipCode": "914  ",
+      "zipCode": "9140823",
+      "prefectureKana": "フクイケン",
+      "cityKana": "ツルガシ",
+      "townKana": "クツミ",
+      "prefecture": "福井県",
+      "city": "敦賀市",
+      "town": "沓見",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

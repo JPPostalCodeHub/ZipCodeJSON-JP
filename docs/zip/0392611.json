@@ -1,17 +1,38 @@
 {
-  "jisCode": "02408",
-  "oldZipCode": "03926",
-  "zipCode": "0392611",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "カミキタグントウホクマチ",
-  "townKana": "ナカムラミチノシモ",
-  "prefecture": "青森県",
-  "city": "上北郡東北町",
-  "town": "中村道ノ下",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02408",
+      "oldZipCode": "03926",
+      "zipCode": "0392611",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "カミキタグントウホクマチ",
+      "townKana": "ナカムラミチノカミ",
+      "prefecture": "青森県",
+      "city": "上北郡東北町",
+      "town": "中村道ノ上",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "02408",
+      "oldZipCode": "03926",
+      "zipCode": "0392611",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "カミキタグントウホクマチ",
+      "townKana": "ナカムラミチノシモ",
+      "prefecture": "青森県",
+      "city": "上北郡東北町",
+      "town": "中村道ノ下",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

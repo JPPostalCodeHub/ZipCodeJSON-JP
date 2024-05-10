@@ -1,17 +1,21 @@
 {
-  "jisCode": "12208",
-  "oldZipCode": "278  ",
-  "zipCode": "2780027",
-  "prefectureKana": "チバケン",
-  "cityKana": "ノダシ",
-  "townKana": "ミズキ",
-  "prefecture": "千葉県",
-  "city": "野田市",
-  "town": "みずき",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12208",
+      "oldZipCode": "278  ",
+      "zipCode": "2780027",
+      "prefectureKana": "チバケン",
+      "cityKana": "ノダシ",
+      "townKana": "ミズキ",
+      "prefecture": "千葉県",
+      "city": "野田市",
+      "town": "みずき",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

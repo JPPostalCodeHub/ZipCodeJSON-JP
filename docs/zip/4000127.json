@@ -1,17 +1,21 @@
 {
-  "jisCode": "19210",
-  "oldZipCode": "40001",
-  "zipCode": "4000127",
-  "prefectureKana": "ヤマナシケン",
-  "cityKana": "カイシ",
-  "townKana": "テングサワ",
-  "prefecture": "山梨県",
-  "city": "甲斐市",
-  "town": "天狗沢",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "19210",
+      "oldZipCode": "40001",
+      "zipCode": "4000127",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "カイシ",
+      "townKana": "テングサワ",
+      "prefecture": "山梨県",
+      "city": "甲斐市",
+      "town": "天狗沢",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

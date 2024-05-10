@@ -1,17 +1,21 @@
 {
-  "jisCode": "01203",
-  "oldZipCode": "06132",
-  "zipCode": "0613271",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "オタルシ",
-  "townKana": "ゼニバコ（４−５チョウメ）",
-  "prefecture": "北海道",
-  "city": "小樽市",
-  "town": "銭函（４〜５丁目）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01203",
+      "oldZipCode": "06132",
+      "zipCode": "0613271",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "オタルシ",
+      "townKana": "ゼニバコ（４−５チョウメ）",
+      "prefecture": "北海道",
+      "city": "小樽市",
+      "town": "銭函（４〜５丁目）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

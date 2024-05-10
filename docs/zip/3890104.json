@@ -1,17 +1,21 @@
 {
-  "jisCode": "20321",
-  "oldZipCode": "38901",
-  "zipCode": "3890104",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "キタサクグンカルイザワマチ",
-  "townKana": "カルイザワヒガシ",
-  "prefecture": "長野県",
-  "city": "北佐久郡軽井沢町",
-  "town": "軽井沢東",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20321",
+      "oldZipCode": "38901",
+      "zipCode": "3890104",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "キタサクグンカルイザワマチ",
+      "townKana": "カルイザワヒガシ",
+      "prefecture": "長野県",
+      "city": "北佐久郡軽井沢町",
+      "town": "軽井沢東",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

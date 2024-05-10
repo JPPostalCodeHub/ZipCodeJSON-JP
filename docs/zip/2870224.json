@@ -1,17 +1,21 @@
 {
-  "jisCode": "12211",
-  "oldZipCode": "28702",
-  "zipCode": "2870224",
-  "prefectureKana": "チバケン",
-  "cityKana": "ナリタシ",
-  "townKana": "シンデン",
-  "prefecture": "千葉県",
-  "city": "成田市",
-  "town": "新田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12211",
+      "oldZipCode": "28702",
+      "zipCode": "2870224",
+      "prefectureKana": "チバケン",
+      "cityKana": "ナリタシ",
+      "townKana": "シンデン",
+      "prefecture": "千葉県",
+      "city": "成田市",
+      "town": "新田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

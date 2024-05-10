@@ -1,17 +1,21 @@
 {
-  "jisCode": "22225",
-  "oldZipCode": "41023",
-  "zipCode": "4102323",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "イズノクニシ",
-  "townKana": "オオヒト",
-  "prefecture": "静岡県",
-  "city": "伊豆の国市",
-  "town": "大仁",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22225",
+      "oldZipCode": "41023",
+      "zipCode": "4102323",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "イズノクニシ",
+      "townKana": "オオヒト",
+      "prefecture": "静岡県",
+      "city": "伊豆の国市",
+      "town": "大仁",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "07344",
-  "oldZipCode": "96205",
-  "zipCode": "9620503",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "イワセグンテンエイムラ",
-  "townKana": "シモマツモト",
-  "prefecture": "福島県",
-  "city": "岩瀬郡天栄村",
-  "town": "下松本",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07344",
+      "oldZipCode": "96205",
+      "zipCode": "9620503",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "イワセグンテンエイムラ",
+      "townKana": "シモマツモト",
+      "prefecture": "福島県",
+      "city": "岩瀬郡天栄村",
+      "town": "下松本",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

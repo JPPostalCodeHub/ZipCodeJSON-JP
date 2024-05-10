@@ -1,17 +1,21 @@
 {
-  "jisCode": "20541",
-  "oldZipCode": "38102",
-  "zipCode": "3810201",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "カミタカイグンオブセマチ",
-  "townKana": "オブセ",
-  "prefecture": "長野県",
-  "city": "上高井郡小布施町",
-  "town": "小布施",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20541",
+      "oldZipCode": "38102",
+      "zipCode": "3810201",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "カミタカイグンオブセマチ",
+      "townKana": "オブセ",
+      "prefecture": "長野県",
+      "city": "上高井郡小布施町",
+      "town": "小布施",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

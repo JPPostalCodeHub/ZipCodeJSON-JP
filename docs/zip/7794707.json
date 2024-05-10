@@ -1,17 +1,21 @@
 {
-  "jisCode": "36489",
-  "oldZipCode": "77947",
-  "zipCode": "7794707",
-  "prefectureKana": "トクシマケン",
-  "cityKana": "ミヨシグンヒガシミヨシチョウ",
-  "townKana": "ケタ（オオト）",
-  "prefecture": "徳島県",
-  "city": "三好郡東みよし町",
-  "town": "毛田（大藤）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "36489",
+      "oldZipCode": "77947",
+      "zipCode": "7794707",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "ミヨシグンヒガシミヨシチョウ",
+      "townKana": "ケタ（オオト）",
+      "prefecture": "徳島県",
+      "city": "三好郡東みよし町",
+      "town": "毛田（大藤）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

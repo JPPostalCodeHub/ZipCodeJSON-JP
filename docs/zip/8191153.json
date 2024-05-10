@@ -1,17 +1,21 @@
 {
-  "jisCode": "40230",
-  "oldZipCode": "81911",
-  "zipCode": "8191153",
-  "prefectureKana": "フクオカケン",
-  "cityKana": "イトシマシ",
-  "townKana": "ナガノ",
-  "prefecture": "福岡県",
-  "city": "糸島市",
-  "town": "長野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "40230",
+      "oldZipCode": "81911",
+      "zipCode": "8191153",
+      "prefectureKana": "フクオカケン",
+      "cityKana": "イトシマシ",
+      "townKana": "ナガノ",
+      "prefecture": "福岡県",
+      "city": "糸島市",
+      "town": "長野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

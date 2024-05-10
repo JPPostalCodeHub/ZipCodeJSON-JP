@@ -1,17 +1,21 @@
 {
-  "jisCode": "39210",
-  "oldZipCode": "78711",
-  "zipCode": "7871104",
-  "prefectureKana": "コウチケン",
-  "cityKana": "シマントシ",
-  "townKana": "ワカフジ",
-  "prefecture": "高知県",
-  "city": "四万十市",
-  "town": "若藤",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "39210",
+      "oldZipCode": "78711",
+      "zipCode": "7871104",
+      "prefectureKana": "コウチケン",
+      "cityKana": "シマントシ",
+      "townKana": "ワカフジ",
+      "prefecture": "高知県",
+      "city": "四万十市",
+      "town": "若藤",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

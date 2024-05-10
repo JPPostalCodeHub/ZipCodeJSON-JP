@@ -1,17 +1,21 @@
 {
-  "jisCode": "20217",
-  "oldZipCode": "38404",
-  "zipCode": "3840413",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "サクシ",
-  "townKana": "ミブン",
-  "prefecture": "長野県",
-  "city": "佐久市",
-  "town": "三分",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20217",
+      "oldZipCode": "38404",
+      "zipCode": "3840413",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "サクシ",
+      "townKana": "ミブン",
+      "prefecture": "長野県",
+      "city": "佐久市",
+      "town": "三分",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

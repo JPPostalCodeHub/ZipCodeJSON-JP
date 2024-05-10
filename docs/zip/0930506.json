@@ -1,17 +1,21 @@
 {
-  "jisCode": "01552",
-  "oldZipCode": "09305",
-  "zipCode": "0930506",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "トコログンサロマチョウ",
-  "townKana": "トップシ",
-  "prefecture": "北海道",
-  "city": "常呂郡佐呂間町",
-  "town": "富武士",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01552",
+      "oldZipCode": "09305",
+      "zipCode": "0930506",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "トコログンサロマチョウ",
+      "townKana": "トップシ",
+      "prefecture": "北海道",
+      "city": "常呂郡佐呂間町",
+      "town": "富武士",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,38 @@
 {
-  "jisCode": "04302",
-  "oldZipCode": "98905",
-  "zipCode": "9890519",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "カッタグンシチカシュクマチ",
-  "townKana": "スワバラ",
-  "prefecture": "宮城県",
-  "city": "刈田郡七ヶ宿町",
-  "town": "諏訪原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04302",
+      "oldZipCode": "98905",
+      "zipCode": "9890519",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "カッタグンシチカシュクマチ",
+      "townKana": "カミバヤシヤマ",
+      "prefecture": "宮城県",
+      "city": "刈田郡七ヶ宿町",
+      "town": "神林山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "04302",
+      "oldZipCode": "98905",
+      "zipCode": "9890519",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "カッタグンシチカシュクマチ",
+      "townKana": "スワバラ",
+      "prefecture": "宮城県",
+      "city": "刈田郡七ヶ宿町",
+      "town": "諏訪原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

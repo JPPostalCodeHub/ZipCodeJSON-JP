@@ -1,17 +1,21 @@
 {
-  "jisCode": "11206",
-  "oldZipCode": "361  ",
-  "zipCode": "3610035",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "ギョウダシ",
-  "townKana": "ツツミネ",
-  "prefecture": "埼玉県",
-  "city": "行田市",
-  "town": "堤根",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11206",
+      "oldZipCode": "361  ",
+      "zipCode": "3610035",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "ギョウダシ",
+      "townKana": "ツツミネ",
+      "prefecture": "埼玉県",
+      "city": "行田市",
+      "town": "堤根",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

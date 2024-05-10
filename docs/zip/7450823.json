@@ -1,17 +1,21 @@
 {
-  "jisCode": "35215",
-  "oldZipCode": "745  ",
-  "zipCode": "7450823",
-  "prefectureKana": "ヤマグチケン",
-  "cityKana": "シュウナンシ",
-  "townKana": "シュウヨウ",
-  "prefecture": "山口県",
-  "city": "周南市",
-  "town": "周陽",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "35215",
+      "oldZipCode": "745  ",
+      "zipCode": "7450823",
+      "prefectureKana": "ヤマグチケン",
+      "cityKana": "シュウナンシ",
+      "townKana": "シュウヨウ",
+      "prefecture": "山口県",
+      "city": "周南市",
+      "town": "周陽",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

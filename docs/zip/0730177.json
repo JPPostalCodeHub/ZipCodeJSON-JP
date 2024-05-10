@@ -1,17 +1,21 @@
 {
-  "jisCode": "01226",
-  "oldZipCode": "07301",
-  "zipCode": "0730177",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "スナガワシ",
-  "townKana": "ソラチブト（１−３４９バンチ）",
-  "prefecture": "北海道",
-  "city": "砂川市",
-  "town": "空知太（１〜３４９番地）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01226",
+      "oldZipCode": "07301",
+      "zipCode": "0730177",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "スナガワシ",
+      "townKana": "ソラチブト（１−３４９バンチ）",
+      "prefecture": "北海道",
+      "city": "砂川市",
+      "town": "空知太（１〜３４９番地）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

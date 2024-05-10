@@ -1,17 +1,21 @@
 {
-  "jisCode": "01229",
-  "oldZipCode": "07915",
-  "zipCode": "0791562",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "フラノシ",
-  "townKana": "ヤマベキタマチ",
-  "prefecture": "北海道",
-  "city": "富良野市",
-  "town": "山部北町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01229",
+      "oldZipCode": "07915",
+      "zipCode": "0791562",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "フラノシ",
+      "townKana": "ヤマベキタマチ",
+      "prefecture": "北海道",
+      "city": "富良野市",
+      "town": "山部北町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

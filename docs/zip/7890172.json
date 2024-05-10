@@ -1,17 +1,21 @@
 {
-  "jisCode": "39344",
-  "oldZipCode": "78901",
-  "zipCode": "7890172",
-  "prefectureKana": "コウチケン",
-  "cityKana": "ナガオカグンオオトヨチョウ",
-  "townKana": "カワイ",
-  "prefecture": "高知県",
-  "city": "長岡郡大豊町",
-  "town": "川井",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "39344",
+      "oldZipCode": "78901",
+      "zipCode": "7890172",
+      "prefectureKana": "コウチケン",
+      "cityKana": "ナガオカグンオオトヨチョウ",
+      "townKana": "カワイ",
+      "prefecture": "高知県",
+      "city": "長岡郡大豊町",
+      "town": "川井",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "28107",
-  "oldZipCode": "65401",
-  "zipCode": "6540132",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "コウベシスマク",
-  "townKana": "タイノハタミナミマチ",
-  "prefecture": "兵庫県",
-  "city": "神戸市須磨区",
-  "town": "多井畑南町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28107",
+      "oldZipCode": "65401",
+      "zipCode": "6540132",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "コウベシスマク",
+      "townKana": "タイノハタミナミマチ",
+      "prefecture": "兵庫県",
+      "city": "神戸市須磨区",
+      "town": "多井畑南町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

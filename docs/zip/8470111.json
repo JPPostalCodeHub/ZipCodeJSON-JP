@@ -1,17 +1,21 @@
 {
-  "jisCode": "41202",
-  "oldZipCode": "84701",
-  "zipCode": "8470111",
-  "prefectureKana": "サガケン",
-  "cityKana": "カラツシ",
-  "townKana": "サシ",
-  "prefecture": "佐賀県",
-  "city": "唐津市",
-  "town": "佐志",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "41202",
+      "oldZipCode": "84701",
+      "zipCode": "8470111",
+      "prefectureKana": "サガケン",
+      "cityKana": "カラツシ",
+      "townKana": "サシ",
+      "prefecture": "佐賀県",
+      "city": "唐津市",
+      "town": "佐志",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

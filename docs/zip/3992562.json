@@ -1,17 +1,21 @@
 {
-  "jisCode": "20205",
-  "oldZipCode": "39925",
-  "zipCode": "3992562",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "イイダシ",
-  "townKana": "ナガノハラ",
-  "prefecture": "長野県",
-  "city": "飯田市",
-  "town": "長野原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20205",
+      "oldZipCode": "39925",
+      "zipCode": "3992562",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "イイダシ",
+      "townKana": "ナガノハラ",
+      "prefecture": "長野県",
+      "city": "飯田市",
+      "town": "長野原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

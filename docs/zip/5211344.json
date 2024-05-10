@@ -1,17 +1,21 @@
 {
-  "jisCode": "25204",
-  "oldZipCode": "52113",
-  "zipCode": "5211344",
-  "prefectureKana": "シガケン",
-  "cityKana": "オウミハチマンシ",
-  "townKana": "アヅチチョウナカヤ",
-  "prefecture": "滋賀県",
-  "city": "近江八幡市",
-  "town": "安土町中屋",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "25204",
+      "oldZipCode": "52113",
+      "zipCode": "5211344",
+      "prefectureKana": "シガケン",
+      "cityKana": "オウミハチマンシ",
+      "townKana": "アヅチチョウナカヤ",
+      "prefecture": "滋賀県",
+      "city": "近江八幡市",
+      "town": "安土町中屋",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

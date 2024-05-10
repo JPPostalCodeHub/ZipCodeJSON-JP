@@ -1,17 +1,21 @@
 {
-  "jisCode": "06208",
-  "oldZipCode": "99502",
-  "zipCode": "9950209",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "ムラヤマシ",
-  "townKana": "ゴテン",
-  "prefecture": "山形県",
-  "city": "村山市",
-  "town": "碁点",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06208",
+      "oldZipCode": "99502",
+      "zipCode": "9950209",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "ムラヤマシ",
+      "townKana": "ゴテン",
+      "prefecture": "山形県",
+      "city": "村山市",
+      "town": "碁点",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "09213",
-  "oldZipCode": "32501",
-  "zipCode": "3250108",
-  "prefectureKana": "トチギケン",
-  "cityKana": "ナスシオバラシ",
-  "townKana": "ヤツボ",
-  "prefecture": "栃木県",
-  "city": "那須塩原市",
-  "town": "箭坪",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "09213",
+      "oldZipCode": "32501",
+      "zipCode": "3250108",
+      "prefectureKana": "トチギケン",
+      "cityKana": "ナスシオバラシ",
+      "townKana": "ヤツボ",
+      "prefecture": "栃木県",
+      "city": "那須塩原市",
+      "town": "箭坪",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

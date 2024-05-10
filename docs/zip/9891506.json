@@ -1,17 +1,21 @@
 {
-  "jisCode": "04324",
-  "oldZipCode": "98915",
-  "zipCode": "9891506",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "シバタグンカワサキマチ",
-  "townKana": "ハセクラダイ",
-  "prefecture": "宮城県",
-  "city": "柴田郡川崎町",
-  "town": "支倉台",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04324",
+      "oldZipCode": "98915",
+      "zipCode": "9891506",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "シバタグンカワサキマチ",
+      "townKana": "ハセクラダイ",
+      "prefecture": "宮城県",
+      "city": "柴田郡川崎町",
+      "town": "支倉台",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

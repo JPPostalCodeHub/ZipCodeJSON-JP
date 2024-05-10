@@ -1,17 +1,38 @@
 {
-  "jisCode": "41327",
-  "oldZipCode": "842  ",
-  "zipCode": "8420000",
-  "prefectureKana": "サガケン",
-  "cityKana": "カンザキグンヨシノガリチョウ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "佐賀県",
-  "city": "神埼郡吉野ヶ里町",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "41210",
+      "oldZipCode": "842  ",
+      "zipCode": "8420000",
+      "prefectureKana": "サガケン",
+      "cityKana": "カンザキシ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "佐賀県",
+      "city": "神埼市",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "41327",
+      "oldZipCode": "842  ",
+      "zipCode": "8420000",
+      "prefectureKana": "サガケン",
+      "cityKana": "カンザキグンヨシノガリチョウ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "佐賀県",
+      "city": "神埼郡吉野ヶ里町",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "03208",
-  "oldZipCode": "02805",
-  "zipCode": "0280503",
-  "prefectureKana": "イワテケン",
-  "cityKana": "トオノシ",
-  "townKana": "アオザサチョウアオザサ",
-  "prefecture": "岩手県",
-  "city": "遠野市",
-  "town": "青笹町青笹",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "03208",
+      "oldZipCode": "02805",
+      "zipCode": "0280503",
+      "prefectureKana": "イワテケン",
+      "cityKana": "トオノシ",
+      "townKana": "アオザサチョウアオザサ",
+      "prefecture": "岩手県",
+      "city": "遠野市",
+      "town": "青笹町青笹",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

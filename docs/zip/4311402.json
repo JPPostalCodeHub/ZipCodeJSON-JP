@@ -1,17 +1,21 @@
 {
-  "jisCode": "22139",
-  "oldZipCode": "43114",
-  "zipCode": "4311402",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "ハママツシハマナク",
-  "townKana": "ミッカビチョウツヅキ",
-  "prefecture": "静岡県",
-  "city": "浜松市浜名区",
-  "town": "三ヶ日町都筑",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22139",
+      "oldZipCode": "43114",
+      "zipCode": "4311402",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "ハママツシハマナク",
+      "townKana": "ミッカビチョウツヅキ",
+      "prefecture": "静岡県",
+      "city": "浜松市浜名区",
+      "town": "三ヶ日町都筑",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "19207",
-  "oldZipCode": "407  ",
-  "zipCode": "4070043",
-  "prefectureKana": "ヤマナシケン",
-  "cityKana": "ニラサキシ",
-  "townKana": "カミヤママチナベヤマ",
-  "prefecture": "山梨県",
-  "city": "韮崎市",
-  "town": "神山町鍋山",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "19207",
+      "oldZipCode": "407  ",
+      "zipCode": "4070043",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "ニラサキシ",
+      "townKana": "カミヤママチナベヤマ",
+      "prefecture": "山梨県",
+      "city": "韮崎市",
+      "town": "神山町鍋山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

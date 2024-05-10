@@ -1,17 +1,21 @@
 {
-  "jisCode": "34202",
-  "oldZipCode": "73712",
-  "zipCode": "7371212",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "クレシ",
-  "townKana": "オンドチョウアリキヨ",
-  "prefecture": "広島県",
-  "city": "呉市",
-  "town": "音戸町有清",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34202",
+      "oldZipCode": "73712",
+      "zipCode": "7371212",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "クレシ",
+      "townKana": "オンドチョウアリキヨ",
+      "prefecture": "広島県",
+      "city": "呉市",
+      "town": "音戸町有清",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "44214",
-  "oldZipCode": "87213",
-  "zipCode": "8721322",
-  "prefectureKana": "オオイタケン",
-  "cityKana": "クニサキシ",
-  "townKana": "クニミマチサイホウジ",
-  "prefecture": "大分県",
-  "city": "国東市",
-  "town": "国見町西方寺",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "44214",
+      "oldZipCode": "87213",
+      "zipCode": "8721322",
+      "prefectureKana": "オオイタケン",
+      "cityKana": "クニサキシ",
+      "townKana": "クニミマチサイホウジ",
+      "prefecture": "大分県",
+      "city": "国東市",
+      "town": "国見町西方寺",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

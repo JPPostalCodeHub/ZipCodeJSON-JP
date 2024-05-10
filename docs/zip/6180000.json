@@ -1,17 +1,38 @@
 {
-  "jisCode": "27301",
-  "oldZipCode": "618  ",
-  "zipCode": "6180000",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "ミシマグンシマモトチョウ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "大阪府",
-  "city": "三島郡島本町",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26303",
+      "oldZipCode": "618  ",
+      "zipCode": "6180000",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "オトクニグンオオヤマザキチョウ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "京都府",
+      "city": "乙訓郡大山崎町",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "27301",
+      "oldZipCode": "618  ",
+      "zipCode": "6180000",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "ミシマグンシマモトチョウ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "大阪府",
+      "city": "三島郡島本町",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "12207",
-  "oldZipCode": "270  ",
-  "zipCode": "2700023",
-  "prefectureKana": "チバケン",
-  "cityKana": "マツドシ",
-  "townKana": "ハチガサキ",
-  "prefecture": "千葉県",
-  "city": "松戸市",
-  "town": "八ケ崎",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12207",
+      "oldZipCode": "270  ",
+      "zipCode": "2700023",
+      "prefectureKana": "チバケン",
+      "cityKana": "マツドシ",
+      "townKana": "ハチガサキ",
+      "prefecture": "千葉県",
+      "city": "松戸市",
+      "town": "八ケ崎",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

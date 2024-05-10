@@ -1,17 +1,21 @@
 {
-  "jisCode": "26102",
-  "oldZipCode": "602  ",
-  "zipCode": "6028405",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシカミギョウク",
-  "townKana": "オオイノクマチョウ",
-  "prefecture": "京都府",
-  "city": "京都市上京区",
-  "town": "大猪熊町（寺之内通大宮西入、寺之内通智恵光院西入、寺之内通智恵光院東入、寺之内通大宮東入、智恵光院通寺之内下る）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26102",
+      "oldZipCode": "602  ",
+      "zipCode": "6028405",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシカミギョウク",
+      "townKana": "オオイノクマチョウ",
+      "prefecture": "京都府",
+      "city": "京都市上京区",
+      "town": "大猪熊町（寺之内通大宮西入、寺之内通智恵光院西入、寺之内通智恵光院東入、寺之内通大宮東入、智恵光院通寺之内下る）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "19207",
-  "oldZipCode": "407  ",
-  "zipCode": "4070033",
-  "prefectureKana": "ヤマナシケン",
-  "cityKana": "ニラサキシ",
-  "townKana": "タツオカマチシモジョウミナミワリ",
-  "prefecture": "山梨県",
-  "city": "韮崎市",
-  "town": "龍岡町下條南割",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "19207",
+      "oldZipCode": "407  ",
+      "zipCode": "4070033",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "ニラサキシ",
+      "townKana": "タツオカマチシモジョウミナミワリ",
+      "prefecture": "山梨県",
+      "city": "韮崎市",
+      "town": "龍岡町下條南割",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

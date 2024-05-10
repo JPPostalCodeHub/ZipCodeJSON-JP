@@ -1,17 +1,21 @@
 {
-  "jisCode": "26202",
-  "oldZipCode": "624  ",
-  "zipCode": "6240966",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "マイヅルシ",
-  "townKana": "ナカヤマ",
-  "prefecture": "京都府",
-  "city": "舞鶴市",
-  "town": "中山",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26202",
+      "oldZipCode": "624  ",
+      "zipCode": "6240966",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "マイヅルシ",
+      "townKana": "ナカヤマ",
+      "prefecture": "京都府",
+      "city": "舞鶴市",
+      "town": "中山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

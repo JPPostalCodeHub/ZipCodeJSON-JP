@@ -1,17 +1,21 @@
 {
-  "jisCode": "08221",
-  "oldZipCode": "31112",
-  "zipCode": "3111213",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "ヒタチナカシ",
-  "townKana": "ウシクボ",
-  "prefecture": "茨城県",
-  "city": "ひたちなか市",
-  "town": "牛久保",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08221",
+      "oldZipCode": "31112",
+      "zipCode": "3111213",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "ヒタチナカシ",
+      "townKana": "ウシクボ",
+      "prefecture": "茨城県",
+      "city": "ひたちなか市",
+      "town": "牛久保",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

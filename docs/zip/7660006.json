@@ -1,17 +1,21 @@
 {
-  "jisCode": "37403",
-  "oldZipCode": "766  ",
-  "zipCode": "7660006",
-  "prefectureKana": "カガワケン",
-  "cityKana": "ナカタドグンコトヒラチョウ",
-  "townKana": "カミクシナシ",
-  "prefecture": "香川県",
-  "city": "仲多度郡琴平町",
-  "town": "上櫛梨",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "37403",
+      "oldZipCode": "766  ",
+      "zipCode": "7660006",
+      "prefectureKana": "カガワケン",
+      "cityKana": "ナカタドグンコトヒラチョウ",
+      "townKana": "カミクシナシ",
+      "prefecture": "香川県",
+      "city": "仲多度郡琴平町",
+      "town": "上櫛梨",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

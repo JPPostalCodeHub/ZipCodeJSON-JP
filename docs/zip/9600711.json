@@ -1,17 +1,38 @@
 {
-  "jisCode": "07213",
-  "oldZipCode": "96007",
-  "zipCode": "9600711",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "ダテシ",
-  "townKana": "ヤナガワマチシモガワラ",
-  "prefecture": "福島県",
-  "city": "伊達市",
-  "town": "梁川町下川原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07213",
+      "oldZipCode": "96007",
+      "zipCode": "9600711",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "ダテシ",
+      "townKana": "ヤナガワマチアワノ",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "town": "梁川町粟野",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "07213",
+      "oldZipCode": "96007",
+      "zipCode": "9600711",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "ダテシ",
+      "townKana": "ヤナガワマチシモガワラ",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "town": "梁川町下川原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "15202",
-  "oldZipCode": "94953",
-  "zipCode": "9495333",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ナガオカシ",
-  "townKana": "オグニマチオグニサワ",
-  "prefecture": "新潟県",
-  "city": "長岡市",
-  "town": "小国町小国沢",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15202",
+      "oldZipCode": "94953",
+      "zipCode": "9495333",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ナガオカシ",
+      "townKana": "オグニマチオグニサワ",
+      "prefecture": "新潟県",
+      "city": "長岡市",
+      "town": "小国町小国沢",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

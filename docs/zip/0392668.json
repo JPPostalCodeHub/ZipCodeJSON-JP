@@ -1,17 +1,38 @@
 {
-  "jisCode": "02408",
-  "oldZipCode": "03926",
-  "zipCode": "0392668",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "カミキタグントウホクマチ",
-  "townKana": "シノナイタイ",
-  "prefecture": "青森県",
-  "city": "上北郡東北町",
-  "town": "篠内平",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02408",
+      "oldZipCode": "03926",
+      "zipCode": "0392668",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "カミキタグントウホクマチ",
+      "townKana": "キタゼンマエ",
+      "prefecture": "青森県",
+      "city": "上北郡東北町",
+      "town": "北膳前",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "02408",
+      "oldZipCode": "03926",
+      "zipCode": "0392668",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "カミキタグントウホクマチ",
+      "townKana": "シノナイタイ",
+      "prefecture": "青森県",
+      "city": "上北郡東北町",
+      "town": "篠内平",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "20205",
-  "oldZipCode": "39913",
-  "zipCode": "3991313",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "イイダシ",
-  "townKana": "ミナミシナノミナミワダ（ソノタ）",
-  "prefecture": "長野県",
-  "city": "飯田市",
-  "town": "南信濃南和田（その他）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20205",
+      "oldZipCode": "39913",
+      "zipCode": "3991313",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "イイダシ",
+      "townKana": "ミナミシナノミナミワダ（ソノタ）",
+      "prefecture": "長野県",
+      "city": "飯田市",
+      "town": "南信濃南和田（その他）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

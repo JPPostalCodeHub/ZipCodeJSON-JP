@@ -1,17 +1,21 @@
 {
-  "jisCode": "26102",
-  "oldZipCode": "602  ",
-  "zipCode": "6028451",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシカミギョウク",
-  "townKana": "ヒシヤチョウ（ナカスジドオリジョウフクジヒガシイル、ナカスジドオリチエコウインニシイル）",
-  "prefecture": "京都府",
-  "city": "京都市上京区",
-  "town": "菱屋町（中筋通浄福寺東入、中筋通智恵光院西入）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26102",
+      "oldZipCode": "602  ",
+      "zipCode": "6028451",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシカミギョウク",
+      "townKana": "ヒシヤチョウ（ナカスジドオリジョウフクジヒガシイル、ナカスジドオリチエコウインニシイル）",
+      "prefecture": "京都府",
+      "city": "京都市上京区",
+      "town": "菱屋町（中筋通浄福寺東入、中筋通智恵光院西入）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

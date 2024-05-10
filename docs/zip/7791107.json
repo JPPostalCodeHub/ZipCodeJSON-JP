@@ -1,17 +1,21 @@
 {
-  "jisCode": "36204",
-  "oldZipCode": "77911",
-  "zipCode": "7791107",
-  "prefectureKana": "トクシマケン",
-  "cityKana": "アナンシ",
-  "townKana": "ハノウラチョウイワワキ（オクノタニ）",
-  "prefecture": "徳島県",
-  "city": "阿南市",
-  "town": "羽ノ浦町岩脇（奥ノ谷）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "36204",
+      "oldZipCode": "77911",
+      "zipCode": "7791107",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "アナンシ",
+      "townKana": "ハノウラチョウイワワキ（オクノタニ）",
+      "prefecture": "徳島県",
+      "city": "阿南市",
+      "town": "羽ノ浦町岩脇（奥ノ谷）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

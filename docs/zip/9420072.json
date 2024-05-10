@@ -1,17 +1,21 @@
 {
-  "jisCode": "15222",
-  "oldZipCode": "942  ",
-  "zipCode": "9420072",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ジョウエツシ",
-  "townKana": "サカエチョウ（１、２チョウメ）",
-  "prefecture": "新潟県",
-  "city": "上越市",
-  "town": "栄町（１、２丁目）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15222",
+      "oldZipCode": "942  ",
+      "zipCode": "9420072",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ジョウエツシ",
+      "townKana": "サカエチョウ（１、２チョウメ）",
+      "prefecture": "新潟県",
+      "city": "上越市",
+      "town": "栄町（１、２丁目）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

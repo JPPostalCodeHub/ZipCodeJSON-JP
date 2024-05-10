@@ -1,17 +1,21 @@
 {
-  "jisCode": "43507",
-  "oldZipCode": "86807",
-  "zipCode": "8680703",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "クマグンミズカミムラ",
-  "townKana": "ユヤマ",
-  "prefecture": "熊本県",
-  "city": "球磨郡水上村",
-  "town": "湯山",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43507",
+      "oldZipCode": "86807",
+      "zipCode": "8680703",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "クマグンミズカミムラ",
+      "townKana": "ユヤマ",
+      "prefecture": "熊本県",
+      "city": "球磨郡水上村",
+      "town": "湯山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

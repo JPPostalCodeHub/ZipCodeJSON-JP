@@ -1,17 +1,21 @@
 {
-  "jisCode": "44204",
-  "oldZipCode": "877  ",
-  "zipCode": "8770065",
-  "prefectureKana": "オオイタケン",
-  "cityKana": "ヒタシ",
-  "townKana": "ミドリマチ",
-  "prefecture": "大分県",
-  "city": "日田市",
-  "town": "緑町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "44204",
+      "oldZipCode": "877  ",
+      "zipCode": "8770065",
+      "prefectureKana": "オオイタケン",
+      "cityKana": "ヒタシ",
+      "townKana": "ミドリマチ",
+      "prefecture": "大分県",
+      "city": "日田市",
+      "town": "緑町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

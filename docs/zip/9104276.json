@@ -1,17 +1,38 @@
 {
-  "jisCode": "18208",
-  "oldZipCode": "91042",
-  "zipCode": "9104276",
-  "prefectureKana": "フクイケン",
-  "cityKana": "アワラシ",
-  "townKana": "ジョウ",
-  "prefecture": "福井県",
-  "city": "あわら市",
-  "town": "城",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18208",
+      "oldZipCode": "91042",
+      "zipCode": "9104276",
+      "prefectureKana": "フクイケン",
+      "cityKana": "アワラシ",
+      "townKana": "ジュウソウ（ジョウ）",
+      "prefecture": "福井県",
+      "city": "あわら市",
+      "town": "十三（城）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "18208",
+      "oldZipCode": "91042",
+      "zipCode": "9104276",
+      "prefectureKana": "フクイケン",
+      "cityKana": "アワラシ",
+      "townKana": "ジョウ",
+      "prefecture": "福井県",
+      "city": "あわら市",
+      "town": "城",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

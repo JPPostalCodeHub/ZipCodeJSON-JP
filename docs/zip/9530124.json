@@ -1,17 +1,21 @@
 {
-  "jisCode": "15108",
-  "oldZipCode": "95301",
-  "zipCode": "9530124",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ニイガタシニシカンク",
-  "townKana": "ハラ",
-  "prefecture": "新潟県",
-  "city": "新潟市西蒲区",
-  "town": "原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15108",
+      "oldZipCode": "95301",
+      "zipCode": "9530124",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ニイガタシニシカンク",
+      "townKana": "ハラ",
+      "prefecture": "新潟県",
+      "city": "新潟市西蒲区",
+      "town": "原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

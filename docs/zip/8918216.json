@@ -1,17 +1,21 @@
 {
-  "jisCode": "46532",
-  "oldZipCode": "89182",
-  "zipCode": "8918216",
-  "prefectureKana": "カゴシマケン",
-  "cityKana": "オオシマグンイセンチョウ",
-  "townKana": "ケンブク（４１６−５１６バンチ）",
-  "prefecture": "鹿児島県",
-  "city": "大島郡伊仙町",
-  "town": "検福（４１６〜５１６番地）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "46532",
+      "oldZipCode": "89182",
+      "zipCode": "8918216",
+      "prefectureKana": "カゴシマケン",
+      "cityKana": "オオシマグンイセンチョウ",
+      "townKana": "ケンブク（４１６−５１６バンチ）",
+      "prefecture": "鹿児島県",
+      "city": "大島郡伊仙町",
+      "town": "検福（４１６〜５１６番地）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

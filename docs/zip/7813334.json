@@ -1,17 +1,21 @@
 {
-  "jisCode": "39363",
-  "oldZipCode": "78133",
-  "zipCode": "7813334",
-  "prefectureKana": "コウチケン",
-  "cityKana": "トサグントサチョウ",
-  "townKana": "ニシイシハラ",
-  "prefecture": "高知県",
-  "city": "土佐郡土佐町",
-  "town": "西石原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "39363",
+      "oldZipCode": "78133",
+      "zipCode": "7813334",
+      "prefectureKana": "コウチケン",
+      "cityKana": "トサグントサチョウ",
+      "townKana": "ニシイシハラ",
+      "prefecture": "高知県",
+      "city": "土佐郡土佐町",
+      "town": "西石原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

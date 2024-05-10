@@ -1,17 +1,21 @@
 {
-  "jisCode": "06208",
-  "oldZipCode": "99501",
-  "zipCode": "9950112",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "ムラヤマシ",
-  "townKana": "ユノサワ",
-  "prefecture": "山形県",
-  "city": "村山市",
-  "town": "湯野沢",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06208",
+      "oldZipCode": "99501",
+      "zipCode": "9950112",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "ムラヤマシ",
+      "townKana": "ユノサワ",
+      "prefecture": "山形県",
+      "city": "村山市",
+      "town": "湯野沢",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

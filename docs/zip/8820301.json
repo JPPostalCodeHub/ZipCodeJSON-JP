@@ -1,17 +1,21 @@
 {
-  "jisCode": "45442",
-  "oldZipCode": "88203",
-  "zipCode": "8820301",
-  "prefectureKana": "ミヤザキケン",
-  "cityKana": "ニシウスキグンヒノカゲチョウ",
-  "townKana": "ナナオリ（アゲ、カサド、カバギ、シシガワ、シンマチ、タキノウチ、ナカガワ、ニシノウチ、フネノオ、ヤト、ヤナザキ）",
-  "prefecture": "宮崎県",
-  "city": "西臼杵郡日之影町",
-  "town": "七折（阿下、笠戸、椛木、鹿川、新町、滝ノ内、中川、西ノ内、舟ノ尾、八戸、簗崎）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "45442",
+      "oldZipCode": "88203",
+      "zipCode": "8820301",
+      "prefectureKana": "ミヤザキケン",
+      "cityKana": "ニシウスキグンヒノカゲチョウ",
+      "townKana": "ナナオリ（アゲ、カサド、カバギ、シシガワ、シンマチ、タキノウチ、ナカガワ、ニシノウチ、フネノオ、ヤト、ヤナザキ）",
+      "prefecture": "宮崎県",
+      "city": "西臼杵郡日之影町",
+      "town": "七折（阿下、笠戸、椛木、鹿川、新町、滝ノ内、中川、西ノ内、舟ノ尾、八戸、簗崎）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

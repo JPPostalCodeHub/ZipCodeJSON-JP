@@ -1,17 +1,21 @@
 {
-  "jisCode": "18404",
-  "oldZipCode": "91901",
-  "zipCode": "9190135",
-  "prefectureKana": "フクイケン",
-  "cityKana": "ナンジョウグンミナミエチゼンチョウ",
-  "townKana": "フタツヤ",
-  "prefecture": "福井県",
-  "city": "南条郡南越前町",
-  "town": "二ツ屋",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18404",
+      "oldZipCode": "91901",
+      "zipCode": "9190135",
+      "prefectureKana": "フクイケン",
+      "cityKana": "ナンジョウグンミナミエチゼンチョウ",
+      "townKana": "フタツヤ",
+      "prefecture": "福井県",
+      "city": "南条郡南越前町",
+      "town": "二ツ屋",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

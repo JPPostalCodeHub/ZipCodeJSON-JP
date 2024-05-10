@@ -1,17 +1,38 @@
 {
-  "jisCode": "18205",
-  "oldZipCode": "912  ",
-  "zipCode": "9120087",
-  "prefectureKana": "フクイケン",
-  "cityKana": "オオノシ",
-  "townKana": "シロマチ",
-  "prefecture": "福井県",
-  "city": "大野市",
-  "town": "城町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18205",
+      "oldZipCode": "912  ",
+      "zipCode": "9120087",
+      "prefectureKana": "フクイケン",
+      "cityKana": "オオノシ",
+      "townKana": "カメヤマ",
+      "prefecture": "福井県",
+      "city": "大野市",
+      "town": "亀山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "18205",
+      "oldZipCode": "912  ",
+      "zipCode": "9120087",
+      "prefectureKana": "フクイケン",
+      "cityKana": "オオノシ",
+      "townKana": "シロマチ",
+      "prefecture": "福井県",
+      "city": "大野市",
+      "town": "城町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

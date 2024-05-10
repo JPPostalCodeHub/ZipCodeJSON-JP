@@ -1,17 +1,38 @@
 {
-  "jisCode": "04341",
-  "oldZipCode": "98121",
-  "zipCode": "9812154",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "イググンマルモリマチ",
-  "townKana": "オオカワグチマエ",
-  "prefecture": "宮城県",
-  "city": "伊具郡丸森町",
-  "town": "大川口前",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04341",
+      "oldZipCode": "98121",
+      "zipCode": "9812154",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "イググンマルモリマチ",
+      "townKana": "オオカワグチ",
+      "prefecture": "宮城県",
+      "city": "伊具郡丸森町",
+      "town": "大川口",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "04341",
+      "oldZipCode": "98121",
+      "zipCode": "9812154",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "イググンマルモリマチ",
+      "townKana": "オオカワグチマエ",
+      "prefecture": "宮城県",
+      "city": "伊具郡丸森町",
+      "town": "大川口前",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

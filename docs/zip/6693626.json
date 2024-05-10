@@ -1,17 +1,21 @@
 {
-  "jisCode": "28223",
-  "oldZipCode": "66936",
-  "zipCode": "6693626",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "タンバシ",
-  "townKana": "ヒカミチョウキヨズミ",
-  "prefecture": "兵庫県",
-  "city": "丹波市",
-  "town": "氷上町清住",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28223",
+      "oldZipCode": "66936",
+      "zipCode": "6693626",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "タンバシ",
+      "townKana": "ヒカミチョウキヨズミ",
+      "prefecture": "兵庫県",
+      "city": "丹波市",
+      "town": "氷上町清住",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

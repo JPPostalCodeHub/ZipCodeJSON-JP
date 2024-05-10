@@ -1,17 +1,21 @@
 {
-  "jisCode": "15461",
-  "oldZipCode": "94961",
-  "zipCode": "9496103",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ミナミウオヌマグンユザワマチ",
-  "townKana": "ツチダル",
-  "prefecture": "新潟県",
-  "city": "南魚沼郡湯沢町",
-  "town": "土樽",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15461",
+      "oldZipCode": "94961",
+      "zipCode": "9496103",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ミナミウオヌマグンユザワマチ",
+      "townKana": "ツチダル",
+      "prefecture": "新潟県",
+      "city": "南魚沼郡湯沢町",
+      "town": "土樽",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

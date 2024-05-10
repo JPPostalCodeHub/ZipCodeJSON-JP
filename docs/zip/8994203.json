@@ -1,17 +1,21 @@
 {
-  "jisCode": "46218",
-  "oldZipCode": "89942",
-  "zipCode": "8994203",
-  "prefectureKana": "カゴシマケン",
-  "cityKana": "キリシマシ",
-  "townKana": "キリシマオオクボ",
-  "prefecture": "鹿児島県",
-  "city": "霧島市",
-  "town": "霧島大窪",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "46218",
+      "oldZipCode": "89942",
+      "zipCode": "8994203",
+      "prefectureKana": "カゴシマケン",
+      "cityKana": "キリシマシ",
+      "townKana": "キリシマオオクボ",
+      "prefecture": "鹿児島県",
+      "city": "霧島市",
+      "town": "霧島大窪",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "05215",
-  "oldZipCode": "01403",
-  "zipCode": "0140374",
-  "prefectureKana": "アキタケン",
-  "cityKana": "センボクシ",
-  "townKana": "カクノダテマチウワノ",
-  "prefecture": "秋田県",
-  "city": "仙北市",
-  "town": "角館町上野",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05215",
+      "oldZipCode": "01403",
+      "zipCode": "0140374",
+      "prefectureKana": "アキタケン",
+      "cityKana": "センボクシ",
+      "townKana": "カクノダテマチウワノ",
+      "prefecture": "秋田県",
+      "city": "仙北市",
+      "town": "角館町上野",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

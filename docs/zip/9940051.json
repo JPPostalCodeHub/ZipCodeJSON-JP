@@ -1,17 +1,21 @@
 {
-  "jisCode": "06210",
-  "oldZipCode": "994  ",
-  "zipCode": "9940051",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "テンドウシ",
-  "townKana": "ナラザワ",
-  "prefecture": "山形県",
-  "city": "天童市",
-  "town": "奈良沢",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06210",
+      "oldZipCode": "994  ",
+      "zipCode": "9940051",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "テンドウシ",
+      "townKana": "ナラザワ",
+      "prefecture": "山形県",
+      "city": "天童市",
+      "town": "奈良沢",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

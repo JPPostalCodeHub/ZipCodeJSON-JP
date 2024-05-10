@@ -1,17 +1,21 @@
 {
-  "jisCode": "28204",
-  "oldZipCode": "662  ",
-  "zipCode": "6620064",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "ニシノミヤシ",
-  "townKana": "クモイチョウ",
-  "prefecture": "兵庫県",
-  "city": "西宮市",
-  "town": "雲井町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28204",
+      "oldZipCode": "662  ",
+      "zipCode": "6620064",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "ニシノミヤシ",
+      "townKana": "クモイチョウ",
+      "prefecture": "兵庫県",
+      "city": "西宮市",
+      "town": "雲井町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

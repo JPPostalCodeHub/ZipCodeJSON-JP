@@ -1,17 +1,21 @@
 {
-  "jisCode": "22211",
-  "oldZipCode": "43802",
-  "zipCode": "4380224",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "イワタシ",
-  "townKana": "ハマシンデン",
-  "prefecture": "静岡県",
-  "city": "磐田市",
-  "town": "浜新田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22211",
+      "oldZipCode": "43802",
+      "zipCode": "4380224",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "イワタシ",
+      "townKana": "ハマシンデン",
+      "prefecture": "静岡県",
+      "city": "磐田市",
+      "town": "浜新田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

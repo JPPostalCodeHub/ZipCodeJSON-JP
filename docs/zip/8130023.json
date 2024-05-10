@@ -1,17 +1,21 @@
 {
-  "jisCode": "40131",
-  "oldZipCode": "813  ",
-  "zipCode": "8130023",
-  "prefectureKana": "フクオカケン",
-  "cityKana": "フクオカシヒガシク",
-  "townKana": "カマタ",
-  "prefecture": "福岡県",
-  "city": "福岡市東区",
-  "town": "蒲田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "40131",
+      "oldZipCode": "813  ",
+      "zipCode": "8130023",
+      "prefectureKana": "フクオカケン",
+      "cityKana": "フクオカシヒガシク",
+      "townKana": "カマタ",
+      "prefecture": "福岡県",
+      "city": "福岡市東区",
+      "town": "蒲田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

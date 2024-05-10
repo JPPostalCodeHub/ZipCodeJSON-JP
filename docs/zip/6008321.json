@@ -1,17 +1,21 @@
 {
-  "jisCode": "26106",
-  "oldZipCode": "600  ",
-  "zipCode": "6008321",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシシモギョウク",
-  "townKana": "ヤオヤチョウ",
-  "prefecture": "京都府",
-  "city": "京都市下京区",
-  "town": "八百屋町（西洞院通楊梅上る、西洞院通楊梅下る、楊梅通西洞院東入、楊梅通若宮西入）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26106",
+      "oldZipCode": "600  ",
+      "zipCode": "6008321",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシシモギョウク",
+      "townKana": "ヤオヤチョウ",
+      "prefecture": "京都府",
+      "city": "京都市下京区",
+      "town": "八百屋町（西洞院通楊梅上る、西洞院通楊梅下る、楊梅通西洞院東入、楊梅通若宮西入）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "24344",
-  "oldZipCode": "512  ",
-  "zipCode": "5108123",
-  "prefectureKana": "ミエケン",
-  "cityKana": "ミエグンカワゴエチョウ",
-  "townKana": "トヨダイッシキ",
-  "prefecture": "三重県",
-  "city": "三重郡川越町",
-  "town": "豊田一色",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "24344",
+      "oldZipCode": "512  ",
+      "zipCode": "5108123",
+      "prefectureKana": "ミエケン",
+      "cityKana": "ミエグンカワゴエチョウ",
+      "townKana": "トヨダイッシキ",
+      "prefecture": "三重県",
+      "city": "三重郡川越町",
+      "town": "豊田一色",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

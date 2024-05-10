@@ -1,17 +1,21 @@
 {
-  "jisCode": "24209",
-  "oldZipCode": "51936",
-  "zipCode": "5193643",
-  "prefectureKana": "ミエケン",
-  "cityKana": "オワセシ",
-  "townKana": "ミナミウラ（オバラノ）",
-  "prefecture": "三重県",
-  "city": "尾鷲市",
-  "town": "南浦（小原野）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "24209",
+      "oldZipCode": "51936",
+      "zipCode": "5193643",
+      "prefectureKana": "ミエケン",
+      "cityKana": "オワセシ",
+      "townKana": "ミナミウラ（オバラノ）",
+      "prefecture": "三重県",
+      "city": "尾鷲市",
+      "town": "南浦（小原野）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "17365",
-  "oldZipCode": "92002",
-  "zipCode": "9200266",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "カホクグンウチナダマチ",
-  "townKana": "オオネブ",
-  "prefecture": "石川県",
-  "city": "河北郡内灘町",
-  "town": "大根布",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17365",
+      "oldZipCode": "92002",
+      "zipCode": "9200266",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "カホクグンウチナダマチ",
+      "townKana": "オオネブ",
+      "prefecture": "石川県",
+      "city": "河北郡内灘町",
+      "town": "大根布",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

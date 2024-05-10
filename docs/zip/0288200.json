@@ -1,17 +1,21 @@
 {
-  "jisCode": "03503",
-  "oldZipCode": "02882",
-  "zipCode": "0288200",
-  "prefectureKana": "イワテケン",
-  "cityKana": "クノヘグンノダムラ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "岩手県",
-  "city": "九戸郡野田村",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "03503",
+      "oldZipCode": "02882",
+      "zipCode": "0288200",
+      "prefectureKana": "イワテケン",
+      "cityKana": "クノヘグンノダムラ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "岩手県",
+      "city": "九戸郡野田村",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

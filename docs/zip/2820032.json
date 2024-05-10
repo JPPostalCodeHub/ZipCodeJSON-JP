@@ -1,17 +1,21 @@
 {
-  "jisCode": "12409",
-  "oldZipCode": "282  ",
-  "zipCode": "2820032",
-  "prefectureKana": "チバケン",
-  "cityKana": "サンブグンシバヤママチ",
-  "townKana": "カヤマシンデン（ナリタコクサイクウコウナイ）",
-  "prefecture": "千葉県",
-  "city": "山武郡芝山町",
-  "town": "香山新田（成田国際空港内）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12409",
+      "oldZipCode": "282  ",
+      "zipCode": "2820032",
+      "prefectureKana": "チバケン",
+      "cityKana": "サンブグンシバヤママチ",
+      "townKana": "カヤマシンデン（ナリタコクサイクウコウナイ）",
+      "prefecture": "千葉県",
+      "city": "山武郡芝山町",
+      "town": "香山新田（成田国際空港内）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

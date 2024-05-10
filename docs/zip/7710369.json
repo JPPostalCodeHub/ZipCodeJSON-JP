@@ -1,17 +1,21 @@
 {
-  "jisCode": "36202",
-  "oldZipCode": "77103",
-  "zipCode": "7710369",
-  "prefectureKana": "トクシマケン",
-  "cityKana": "ナルトシ",
-  "townKana": "セトチョウムサ",
-  "prefecture": "徳島県",
-  "city": "鳴門市",
-  "town": "瀬戸町撫佐",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "36202",
+      "oldZipCode": "77103",
+      "zipCode": "7710369",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "ナルトシ",
+      "townKana": "セトチョウムサ",
+      "prefecture": "徳島県",
+      "city": "鳴門市",
+      "town": "瀬戸町撫佐",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

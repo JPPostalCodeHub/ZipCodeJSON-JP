@@ -1,17 +1,21 @@
 {
-  "jisCode": "26210",
-  "oldZipCode": "614  ",
-  "zipCode": "6148128",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "ヤワタシ",
-  "townKana": "シモナラノガミ",
-  "prefecture": "京都府",
-  "city": "八幡市",
-  "town": "下奈良野神",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26210",
+      "oldZipCode": "614  ",
+      "zipCode": "6148128",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "ヤワタシ",
+      "townKana": "シモナラノガミ",
+      "prefecture": "京都府",
+      "city": "八幡市",
+      "town": "下奈良野神",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

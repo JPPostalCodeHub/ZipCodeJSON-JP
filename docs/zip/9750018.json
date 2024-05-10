@@ -1,17 +1,21 @@
 {
-  "jisCode": "07212",
-  "oldZipCode": "975  ",
-  "zipCode": "9750018",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "ミナミソウマシ",
-  "townKana": "ハラマチクキタマチ",
-  "prefecture": "福島県",
-  "city": "南相馬市",
-  "town": "原町区北町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07212",
+      "oldZipCode": "975  ",
+      "zipCode": "9750018",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "ミナミソウマシ",
+      "townKana": "ハラマチクキタマチ",
+      "prefecture": "福島県",
+      "city": "南相馬市",
+      "town": "原町区北町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

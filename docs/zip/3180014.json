@@ -1,17 +1,21 @@
 {
-  "jisCode": "08214",
-  "oldZipCode": "318  ",
-  "zipCode": "3180014",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "タカハギシ",
-  "townKana": "ヒガシホンチョウ",
-  "prefecture": "茨城県",
-  "city": "高萩市",
-  "town": "東本町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08214",
+      "oldZipCode": "318  ",
+      "zipCode": "3180014",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "タカハギシ",
+      "townKana": "ヒガシホンチョウ",
+      "prefecture": "茨城県",
+      "city": "高萩市",
+      "town": "東本町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

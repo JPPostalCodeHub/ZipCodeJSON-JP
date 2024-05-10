@@ -1,17 +1,21 @@
 {
-  "jisCode": "03402",
-  "oldZipCode": "02941",
-  "zipCode": "0294101",
-  "prefectureKana": "イワテケン",
-  "cityKana": "ニシイワイグンヒライズミチョウ",
-  "townKana": "ナガシマ",
-  "prefecture": "岩手県",
-  "city": "西磐井郡平泉町",
-  "town": "長島",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "03402",
+      "oldZipCode": "02941",
+      "zipCode": "0294101",
+      "prefectureKana": "イワテケン",
+      "cityKana": "ニシイワイグンヒライズミチョウ",
+      "townKana": "ナガシマ",
+      "prefecture": "岩手県",
+      "city": "西磐井郡平泉町",
+      "town": "長島",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

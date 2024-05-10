@@ -1,17 +1,21 @@
 {
-  "jisCode": "17207",
-  "oldZipCode": "925  ",
-  "zipCode": "9250049",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "ハクイシ",
-  "townKana": "ヤナギバシマチ",
-  "prefecture": "石川県",
-  "city": "羽咋市",
-  "town": "柳橋町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17207",
+      "oldZipCode": "925  ",
+      "zipCode": "9250049",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "ハクイシ",
+      "townKana": "ヤナギバシマチ",
+      "prefecture": "石川県",
+      "city": "羽咋市",
+      "town": "柳橋町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

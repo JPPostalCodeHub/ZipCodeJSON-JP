@@ -1,17 +1,21 @@
 {
-  "jisCode": "27232",
-  "oldZipCode": "59902",
-  "zipCode": "5990201",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "ハンナンシ",
-  "townKana": "オザキチョウ",
-  "prefecture": "大阪府",
-  "city": "阪南市",
-  "town": "尾崎町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27232",
+      "oldZipCode": "59902",
+      "zipCode": "5990201",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "ハンナンシ",
+      "townKana": "オザキチョウ",
+      "prefecture": "大阪府",
+      "city": "阪南市",
+      "town": "尾崎町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

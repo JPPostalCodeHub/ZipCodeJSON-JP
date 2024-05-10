@@ -1,17 +1,21 @@
 {
-  "jisCode": "45201",
-  "oldZipCode": "880  ",
-  "zipCode": "8800946",
-  "prefectureKana": "ミヤザキケン",
-  "cityKana": "ミヤザキシ",
-  "townKana": "フクシマチョウ（チョウメ）",
-  "prefecture": "宮崎県",
-  "city": "宮崎市",
-  "town": "福島町（丁目）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "45201",
+      "oldZipCode": "880  ",
+      "zipCode": "8800946",
+      "prefectureKana": "ミヤザキケン",
+      "cityKana": "ミヤザキシ",
+      "townKana": "フクシマチョウ（チョウメ）",
+      "prefecture": "宮崎県",
+      "city": "宮崎市",
+      "town": "福島町（丁目）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

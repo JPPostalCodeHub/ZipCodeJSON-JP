@@ -1,17 +1,21 @@
 {
-  "jisCode": "05204",
-  "oldZipCode": "017  ",
-  "zipCode": "0170822",
-  "prefectureKana": "アキタケン",
-  "cityKana": "オオダテシ",
-  "townKana": "サクラチョウミナミ",
-  "prefecture": "秋田県",
-  "city": "大館市",
-  "town": "桜町南",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05204",
+      "oldZipCode": "017  ",
+      "zipCode": "0170822",
+      "prefectureKana": "アキタケン",
+      "cityKana": "オオダテシ",
+      "townKana": "サクラチョウミナミ",
+      "prefecture": "秋田県",
+      "city": "大館市",
+      "town": "桜町南",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

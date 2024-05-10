@@ -1,17 +1,21 @@
 {
-  "jisCode": "34204",
-  "oldZipCode": "723  ",
-  "zipCode": "7230052",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "ミハラシ",
-  "townKana": "ミナミ",
-  "prefecture": "広島県",
-  "city": "三原市",
-  "town": "皆実",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34204",
+      "oldZipCode": "723  ",
+      "zipCode": "7230052",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ミハラシ",
+      "townKana": "ミナミ",
+      "prefecture": "広島県",
+      "city": "三原市",
+      "town": "皆実",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

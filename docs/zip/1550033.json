@@ -1,17 +1,21 @@
 {
-  "jisCode": "13112",
-  "oldZipCode": "155  ",
-  "zipCode": "1550033",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "セタガヤク",
-  "townKana": "ダイタ",
-  "prefecture": "東京都",
-  "city": "世田谷区",
-  "town": "代田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13112",
+      "oldZipCode": "155  ",
+      "zipCode": "1550033",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "セタガヤク",
+      "townKana": "ダイタ",
+      "prefecture": "東京都",
+      "city": "世田谷区",
+      "town": "代田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

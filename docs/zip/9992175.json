@@ -1,17 +1,21 @@
 {
-  "jisCode": "06381",
-  "oldZipCode": "99921",
-  "zipCode": "9992175",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "ヒガシオキタマグンタカハタマチ",
-  "townKana": "フクザワミナミ",
-  "prefecture": "山形県",
-  "city": "東置賜郡高畠町",
-  "town": "福沢南",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06381",
+      "oldZipCode": "99921",
+      "zipCode": "9992175",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "ヒガシオキタマグンタカハタマチ",
+      "townKana": "フクザワミナミ",
+      "prefecture": "山形県",
+      "city": "東置賜郡高畠町",
+      "town": "福沢南",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

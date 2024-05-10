@@ -1,17 +1,21 @@
 {
-  "jisCode": "26106",
-  "oldZipCode": "600  ",
-  "zipCode": "6008066",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシシモギョウク",
-  "townKana": "カシワヤチョウ",
-  "prefecture": "京都府",
-  "city": "京都市下京区",
-  "town": "柏屋町（万寿寺通柳馬場西入、柳馬場通五条上る、柳馬場通万寿寺下る）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26106",
+      "oldZipCode": "600  ",
+      "zipCode": "6008066",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシシモギョウク",
+      "townKana": "カシワヤチョウ",
+      "prefecture": "京都府",
+      "city": "京都市下京区",
+      "town": "柏屋町（万寿寺通柳馬場西入、柳馬場通五条上る、柳馬場通万寿寺下る）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "40108",
-  "oldZipCode": "805  ",
-  "zipCode": "8050064",
-  "prefectureKana": "フクオカケン",
-  "cityKana": "キタキュウシュウシヤハタヒガシク",
-  "townKana": "ニシダイラマチ",
-  "prefecture": "福岡県",
-  "city": "北九州市八幡東区",
-  "town": "西台良町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "40108",
+      "oldZipCode": "805  ",
+      "zipCode": "8050064",
+      "prefectureKana": "フクオカケン",
+      "cityKana": "キタキュウシュウシヤハタヒガシク",
+      "townKana": "ニシダイラマチ",
+      "prefecture": "福岡県",
+      "city": "北九州市八幡東区",
+      "town": "西台良町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

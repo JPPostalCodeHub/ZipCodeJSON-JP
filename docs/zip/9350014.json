@@ -1,17 +1,21 @@
 {
-  "jisCode": "16205",
-  "oldZipCode": "935  ",
-  "zipCode": "9350014",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "ヒミシ",
-  "townKana": "ジゾウマチ",
-  "prefecture": "富山県",
-  "city": "氷見市",
-  "town": "地蔵町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16205",
+      "oldZipCode": "935  ",
+      "zipCode": "9350014",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "ヒミシ",
+      "townKana": "ジゾウマチ",
+      "prefecture": "富山県",
+      "city": "氷見市",
+      "town": "地蔵町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

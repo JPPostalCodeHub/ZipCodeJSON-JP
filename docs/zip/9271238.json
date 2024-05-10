@@ -1,17 +1,38 @@
 {
-  "jisCode": "17205",
-  "oldZipCode": "92712",
-  "zipCode": "9271238",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "スズシ",
-  "townKana": "ワカヤママチヒミヤ",
-  "prefecture": "石川県",
-  "city": "珠洲市",
-  "town": "若山町火宮",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17205",
+      "oldZipCode": "92712",
+      "zipCode": "9271238",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "スズシ",
+      "townKana": "ワカヤママチノブタケ",
+      "prefecture": "石川県",
+      "city": "珠洲市",
+      "town": "若山町延武",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "17205",
+      "oldZipCode": "92712",
+      "zipCode": "9271238",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "スズシ",
+      "townKana": "ワカヤママチヒミヤ",
+      "prefecture": "石川県",
+      "city": "珠洲市",
+      "town": "若山町火宮",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

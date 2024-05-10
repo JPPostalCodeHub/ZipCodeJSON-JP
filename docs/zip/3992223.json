@@ -1,17 +1,21 @@
 {
-  "jisCode": "20205",
-  "oldZipCode": "39922",
-  "zipCode": "3992223",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "イイダシ",
-  "townKana": "チハエ",
-  "prefecture": "長野県",
-  "city": "飯田市",
-  "town": "千栄",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20205",
+      "oldZipCode": "39922",
+      "zipCode": "3992223",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "イイダシ",
+      "townKana": "チハエ",
+      "prefecture": "長野県",
+      "city": "飯田市",
+      "town": "千栄",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

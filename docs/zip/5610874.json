@@ -1,17 +1,21 @@
 {
-  "jisCode": "27203",
-  "oldZipCode": "560  ",
-  "zipCode": "5610874",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "トヨナカシ",
-  "townKana": "チョウコウジミナミ",
-  "prefecture": "大阪府",
-  "city": "豊中市",
-  "town": "長興寺南",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27203",
+      "oldZipCode": "560  ",
+      "zipCode": "5610874",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "トヨナカシ",
+      "townKana": "チョウコウジミナミ",
+      "prefecture": "大阪府",
+      "city": "豊中市",
+      "town": "長興寺南",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

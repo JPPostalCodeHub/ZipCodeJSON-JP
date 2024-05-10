@@ -1,17 +1,21 @@
 {
-  "jisCode": "26111",
-  "oldZipCode": "615  ",
-  "zipCode": "6158052",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシニシキョウク",
-  "townKana": "ウシガセドウデンチョウ",
-  "prefecture": "京都府",
-  "city": "京都市西京区",
-  "town": "牛ケ瀬堂田町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26111",
+      "oldZipCode": "615  ",
+      "zipCode": "6158052",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシニシキョウク",
+      "townKana": "ウシガセドウデンチョウ",
+      "prefecture": "京都府",
+      "city": "京都市西京区",
+      "town": "牛ケ瀬堂田町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "33211",
-  "oldZipCode": "70902",
-  "zipCode": "7090214",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "ビゼンシ",
-  "townKana": "ヨシナガチョウワイダニ",
-  "prefecture": "岡山県",
-  "city": "備前市",
-  "town": "吉永町和意谷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33211",
+      "oldZipCode": "70902",
+      "zipCode": "7090214",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "ビゼンシ",
+      "townKana": "ヨシナガチョウワイダニ",
+      "prefecture": "岡山県",
+      "city": "備前市",
+      "town": "吉永町和意谷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

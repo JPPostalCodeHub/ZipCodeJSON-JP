@@ -1,17 +1,21 @@
 {
-  "jisCode": "27208",
-  "oldZipCode": "597  ",
-  "zipCode": "5970063",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "カイヅカシ",
-  "townKana": "ニシキミナトマチ",
-  "prefecture": "大阪府",
-  "city": "貝塚市",
-  "town": "二色港町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27208",
+      "oldZipCode": "597  ",
+      "zipCode": "5970063",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "カイヅカシ",
+      "townKana": "ニシキミナトマチ",
+      "prefecture": "大阪府",
+      "city": "貝塚市",
+      "town": "二色港町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

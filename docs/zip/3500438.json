@@ -1,17 +1,21 @@
 {
-  "jisCode": "11326",
-  "oldZipCode": "35004",
-  "zipCode": "3500438",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "イルマグンモロヤママチ",
-  "townKana": "サイド",
-  "prefecture": "埼玉県",
-  "city": "入間郡毛呂山町",
-  "town": "西戸",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11326",
+      "oldZipCode": "35004",
+      "zipCode": "3500438",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "イルマグンモロヤママチ",
+      "townKana": "サイド",
+      "prefecture": "埼玉県",
+      "city": "入間郡毛呂山町",
+      "town": "西戸",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

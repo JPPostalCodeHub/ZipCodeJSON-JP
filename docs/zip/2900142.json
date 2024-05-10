@@ -1,17 +1,21 @@
 {
-  "jisCode": "12219",
-  "oldZipCode": "29001",
-  "zipCode": "2900142",
-  "prefectureKana": "チバケン",
-  "cityKana": "イチハラシ",
-  "townKana": "チハラダイミナミ",
-  "prefecture": "千葉県",
-  "city": "市原市",
-  "town": "ちはら台南",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12219",
+      "oldZipCode": "29001",
+      "zipCode": "2900142",
+      "prefectureKana": "チバケン",
+      "cityKana": "イチハラシ",
+      "townKana": "チハラダイミナミ",
+      "prefecture": "千葉県",
+      "city": "市原市",
+      "town": "ちはら台南",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

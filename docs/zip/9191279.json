@@ -1,17 +1,21 @@
 {
-  "jisCode": "18202",
-  "oldZipCode": "91912",
-  "zipCode": "9191279",
-  "prefectureKana": "フクイケン",
-  "cityKana": "ツルガシ",
-  "townKana": "シラキ",
-  "prefecture": "福井県",
-  "city": "敦賀市",
-  "town": "白木",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18202",
+      "oldZipCode": "91912",
+      "zipCode": "9191279",
+      "prefectureKana": "フクイケン",
+      "cityKana": "ツルガシ",
+      "townKana": "シラキ",
+      "prefecture": "福井県",
+      "city": "敦賀市",
+      "town": "白木",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

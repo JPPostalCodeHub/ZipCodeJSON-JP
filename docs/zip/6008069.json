@@ -1,17 +1,21 @@
 {
-  "jisCode": "26106",
-  "oldZipCode": "600  ",
-  "zipCode": "6008069",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシシモギョウク",
-  "townKana": "キチモンジチョウ",
-  "prefecture": "京都府",
-  "city": "京都市下京区",
-  "town": "吉文字町（高辻通柳馬場西入、高辻通柳馬場東入、柳馬場通高辻下る、柳馬場通松原上る）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26106",
+      "oldZipCode": "600  ",
+      "zipCode": "6008069",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシシモギョウク",
+      "townKana": "キチモンジチョウ",
+      "prefecture": "京都府",
+      "city": "京都市下京区",
+      "town": "吉文字町（高辻通柳馬場西入、高辻通柳馬場東入、柳馬場通高辻下る、柳馬場通松原上る）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

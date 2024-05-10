@@ -1,17 +1,21 @@
 {
-  "jisCode": "01230",
-  "oldZipCode": "059  ",
-  "zipCode": "0590005",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ノボリベツシ",
-  "townKana": "サツナイチョウ（５、９、１１−１２、３６、４２−２、６２、８０、９５、１８４、２３１、３８９−２、４９９、５００バンチ）",
-  "prefecture": "北海道",
-  "city": "登別市",
-  "town": "札内町（５、９、１１−１２、３６、４２−２、６２、８０、９５、１８４、２３１、３８９−２、４９９、５００番地）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01230",
+      "oldZipCode": "059  ",
+      "zipCode": "0590005",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ノボリベツシ",
+      "townKana": "サツナイチョウ（５、９、１１−１２、３６、４２−２、６２、８０、９５、１８４、２３１、３８９−２、４９９、５００バンチ）",
+      "prefecture": "北海道",
+      "city": "登別市",
+      "town": "札内町（５、９、１１−１２、３６、４２−２、６２、８０、９５、１８４、２３１、３８９−２、４９９、５００番地）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

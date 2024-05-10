@@ -1,17 +1,21 @@
 {
-  "jisCode": "38204",
-  "oldZipCode": "796  ",
-  "zipCode": "7968003",
-  "prefectureKana": "エヒメケン",
-  "cityKana": "ヤワタハマシ",
-  "townKana": "フルマチ",
-  "prefecture": "愛媛県",
-  "city": "八幡浜市",
-  "town": "古町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "38204",
+      "oldZipCode": "796  ",
+      "zipCode": "7968003",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "ヤワタハマシ",
+      "townKana": "フルマチ",
+      "prefecture": "愛媛県",
+      "city": "八幡浜市",
+      "town": "古町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

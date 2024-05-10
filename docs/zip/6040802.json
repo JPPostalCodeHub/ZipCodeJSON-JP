@@ -1,17 +1,21 @@
 {
-  "jisCode": "26104",
-  "oldZipCode": "604  ",
-  "zipCode": "6040802",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシナカギョウク",
-  "townKana": "タチバナチョウ",
-  "prefecture": "京都府",
-  "city": "京都市中京区",
-  "town": "橘町（堺町通丸太町下る、堺町通竹屋町上る、竹屋町通堺町西入、竹屋町通堺町東入）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26104",
+      "oldZipCode": "604  ",
+      "zipCode": "6040802",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシナカギョウク",
+      "townKana": "タチバナチョウ",
+      "prefecture": "京都府",
+      "city": "京都市中京区",
+      "town": "橘町（堺町通丸太町下る、堺町通竹屋町上る、竹屋町通堺町西入、竹屋町通堺町東入）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "24201",
-  "oldZipCode": "51533",
-  "zipCode": "5153313",
-  "prefectureKana": "ミエケン",
-  "cityKana": "ツシ",
-  "townKana": "ミスギチョウニュウノマタ",
-  "prefecture": "三重県",
-  "city": "津市",
-  "town": "美杉町丹生俣",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "24201",
+      "oldZipCode": "51533",
+      "zipCode": "5153313",
+      "prefectureKana": "ミエケン",
+      "cityKana": "ツシ",
+      "townKana": "ミスギチョウニュウノマタ",
+      "prefecture": "三重県",
+      "city": "津市",
+      "town": "美杉町丹生俣",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "04404",
-  "oldZipCode": "985  ",
-  "zipCode": "9850821",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "ミヤギグンシチガハママチ",
-  "townKana": "シオミダイ",
-  "prefecture": "宮城県",
-  "city": "宮城郡七ヶ浜町",
-  "town": "汐見台",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04404",
+      "oldZipCode": "985  ",
+      "zipCode": "9850821",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "ミヤギグンシチガハママチ",
+      "townKana": "シオミダイ",
+      "prefecture": "宮城県",
+      "city": "宮城郡七ヶ浜町",
+      "town": "汐見台",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

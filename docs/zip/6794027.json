@@ -1,17 +1,21 @@
 {
-  "jisCode": "28229",
-  "oldZipCode": "67941",
-  "zipCode": "6794027",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "タツノシ",
-  "townKana": "イッサイチョウナガオ",
-  "prefecture": "兵庫県",
-  "city": "たつの市",
-  "town": "揖西町長尾",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28229",
+      "oldZipCode": "67941",
+      "zipCode": "6794027",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "タツノシ",
+      "townKana": "イッサイチョウナガオ",
+      "prefecture": "兵庫県",
+      "city": "たつの市",
+      "town": "揖西町長尾",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

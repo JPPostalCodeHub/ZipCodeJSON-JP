@@ -1,17 +1,38 @@
 {
-  "jisCode": "24205",
-  "oldZipCode": "511  ",
-  "zipCode": "5110912",
-  "prefectureKana": "ミエケン",
-  "cityKana": "クワナシ",
-  "townKana": "ホシミガオカ",
-  "prefecture": "三重県",
-  "city": "桑名市",
-  "town": "星見ケ丘",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "24205",
+      "oldZipCode": "511  ",
+      "zipCode": "5110912",
+      "prefectureKana": "ミエケン",
+      "cityKana": "クワナシ",
+      "townKana": "ホシカワ",
+      "prefecture": "三重県",
+      "city": "桑名市",
+      "town": "星川",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "24205",
+      "oldZipCode": "511  ",
+      "zipCode": "5110912",
+      "prefectureKana": "ミエケン",
+      "cityKana": "クワナシ",
+      "townKana": "ホシミガオカ",
+      "prefecture": "三重県",
+      "city": "桑名市",
+      "town": "星見ケ丘",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

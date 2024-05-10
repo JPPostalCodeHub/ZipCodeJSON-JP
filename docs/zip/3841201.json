@@ -1,17 +1,21 @@
 {
-  "jisCode": "20307",
-  "oldZipCode": "38412",
-  "zipCode": "3841201",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "ミナミサクグンキタアイキムラ",
-  "townKana": "キタアイキムライチエン",
-  "prefecture": "長野県",
-  "city": "南佐久郡北相木村",
-  "town": "北相木村一円",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20307",
+      "oldZipCode": "38412",
+      "zipCode": "3841201",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "ミナミサクグンキタアイキムラ",
+      "townKana": "キタアイキムライチエン",
+      "prefecture": "長野県",
+      "city": "南佐久郡北相木村",
+      "town": "北相木村一円",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

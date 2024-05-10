@@ -1,17 +1,38 @@
 {
-  "jisCode": "15104",
-  "oldZipCode": "95011",
-  "zipCode": "9501143",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ニイガタシコウナンク",
-  "townKana": "タワラヤナギ",
-  "prefecture": "新潟県",
-  "city": "新潟市江南区",
-  "town": "俵柳",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15103",
+      "oldZipCode": "95011",
+      "zipCode": "9501143",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ニイガタシチュウオウク",
+      "townKana": "タワラヤナギ",
+      "prefecture": "新潟県",
+      "city": "新潟市中央区",
+      "town": "俵柳",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "15104",
+      "oldZipCode": "95011",
+      "zipCode": "9501143",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ニイガタシコウナンク",
+      "townKana": "タワラヤナギ",
+      "prefecture": "新潟県",
+      "city": "新潟市江南区",
+      "town": "俵柳",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

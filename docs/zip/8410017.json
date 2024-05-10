@@ -1,17 +1,21 @@
 {
-  "jisCode": "41203",
-  "oldZipCode": "841  ",
-  "zipCode": "8410017",
-  "prefectureKana": "サガケン",
-  "cityKana": "トスシ",
-  "townKana": "タシロダイカンマチ",
-  "prefecture": "佐賀県",
-  "city": "鳥栖市",
-  "town": "田代大官町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "41203",
+      "oldZipCode": "841  ",
+      "zipCode": "8410017",
+      "prefectureKana": "サガケン",
+      "cityKana": "トスシ",
+      "townKana": "タシロダイカンマチ",
+      "prefecture": "佐賀県",
+      "city": "鳥栖市",
+      "town": "田代大官町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

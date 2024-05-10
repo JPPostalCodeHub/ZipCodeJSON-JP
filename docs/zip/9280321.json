@@ -1,17 +1,21 @@
 {
-  "jisCode": "17463",
-  "oldZipCode": "92803",
-  "zipCode": "9280321",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "ホウスグンノトチョウ",
-  "townKana": "ジュウロバラ",
-  "prefecture": "石川県",
-  "city": "鳳珠郡能登町",
-  "town": "十郎原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17463",
+      "oldZipCode": "92803",
+      "zipCode": "9280321",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "ホウスグンノトチョウ",
+      "townKana": "ジュウロバラ",
+      "prefecture": "石川県",
+      "city": "鳳珠郡能登町",
+      "town": "十郎原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

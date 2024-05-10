@@ -1,17 +1,21 @@
 {
-  "jisCode": "01487",
-  "oldZipCode": "09833",
-  "zipCode": "0983302",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "テシオグンテシオチョウ",
-  "townKana": "ヤマテウラドオリ",
-  "prefecture": "北海道",
-  "city": "天塩郡天塩町",
-  "town": "山手裏通",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01487",
+      "oldZipCode": "09833",
+      "zipCode": "0983302",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "テシオグンテシオチョウ",
+      "townKana": "ヤマテウラドオリ",
+      "prefecture": "北海道",
+      "city": "天塩郡天塩町",
+      "town": "山手裏通",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

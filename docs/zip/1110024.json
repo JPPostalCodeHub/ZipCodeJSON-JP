@@ -1,17 +1,21 @@
 {
-  "jisCode": "13106",
-  "oldZipCode": "111  ",
-  "zipCode": "1110024",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "タイトウク",
-  "townKana": "イマド",
-  "prefecture": "東京都",
-  "city": "台東区",
-  "town": "今戸",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13106",
+      "oldZipCode": "111  ",
+      "zipCode": "1110024",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "タイトウク",
+      "townKana": "イマド",
+      "prefecture": "東京都",
+      "city": "台東区",
+      "town": "今戸",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

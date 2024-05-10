@@ -1,17 +1,21 @@
 {
-  "jisCode": "28203",
-  "oldZipCode": "673  ",
-  "zipCode": "6730878",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "アカシシ",
-  "townKana": "ヤマシタチョウ",
-  "prefecture": "兵庫県",
-  "city": "明石市",
-  "town": "山下町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28203",
+      "oldZipCode": "673  ",
+      "zipCode": "6730878",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "アカシシ",
+      "townKana": "ヤマシタチョウ",
+      "prefecture": "兵庫県",
+      "city": "明石市",
+      "town": "山下町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "12227",
-  "oldZipCode": "279  ",
-  "zipCode": "2790024",
-  "prefectureKana": "チバケン",
-  "cityKana": "ウラヤスシ",
-  "townKana": "ミナト",
-  "prefecture": "千葉県",
-  "city": "浦安市",
-  "town": "港",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12227",
+      "oldZipCode": "279  ",
+      "zipCode": "2790024",
+      "prefectureKana": "チバケン",
+      "cityKana": "ウラヤスシ",
+      "townKana": "ミナト",
+      "prefecture": "千葉県",
+      "city": "浦安市",
+      "town": "港",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

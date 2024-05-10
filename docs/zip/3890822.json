@@ -1,17 +1,21 @@
 {
-  "jisCode": "20218",
-  "oldZipCode": "38908",
-  "zipCode": "3890822",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "チクマシ",
-  "townKana": "カミヤマダ",
-  "prefecture": "長野県",
-  "city": "千曲市",
-  "town": "上山田",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20218",
+      "oldZipCode": "38908",
+      "zipCode": "3890822",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "チクマシ",
+      "townKana": "カミヤマダ",
+      "prefecture": "長野県",
+      "city": "千曲市",
+      "town": "上山田",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

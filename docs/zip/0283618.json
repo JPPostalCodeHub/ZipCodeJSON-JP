@@ -1,17 +1,21 @@
 {
-  "jisCode": "03322",
-  "oldZipCode": "02836",
-  "zipCode": "0283618",
-  "prefectureKana": "イワテケン",
-  "cityKana": "シワグンヤハバチョウ",
-  "townKana": "エキヒガシ",
-  "prefecture": "岩手県",
-  "city": "紫波郡矢巾町",
-  "town": "駅東",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "03322",
+      "oldZipCode": "02836",
+      "zipCode": "0283618",
+      "prefectureKana": "イワテケン",
+      "cityKana": "シワグンヤハバチョウ",
+      "townKana": "エキヒガシ",
+      "prefecture": "岩手県",
+      "city": "紫波郡矢巾町",
+      "town": "駅東",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

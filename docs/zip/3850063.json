@@ -1,17 +1,21 @@
 {
-  "jisCode": "20217",
-  "oldZipCode": "38402",
-  "zipCode": "3850063",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "サクシ",
-  "townKana": "ヒガシタテシナ",
-  "prefecture": "長野県",
-  "city": "佐久市",
-  "town": "東立科",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20217",
+      "oldZipCode": "38402",
+      "zipCode": "3850063",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "サクシ",
+      "townKana": "ヒガシタテシナ",
+      "prefecture": "長野県",
+      "city": "佐久市",
+      "town": "東立科",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

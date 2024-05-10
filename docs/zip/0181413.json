@@ -1,17 +1,21 @@
 {
-  "jisCode": "05211",
-  "oldZipCode": "01814",
-  "zipCode": "0181413",
-  "prefectureKana": "アキタケン",
-  "cityKana": "カタガミシ",
-  "townKana": "ショウワトヨカワフナバシ",
-  "prefecture": "秋田県",
-  "city": "潟上市",
-  "town": "昭和豊川船橋",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05211",
+      "oldZipCode": "01814",
+      "zipCode": "0181413",
+      "prefectureKana": "アキタケン",
+      "cityKana": "カタガミシ",
+      "townKana": "ショウワトヨカワフナバシ",
+      "prefecture": "秋田県",
+      "city": "潟上市",
+      "town": "昭和豊川船橋",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

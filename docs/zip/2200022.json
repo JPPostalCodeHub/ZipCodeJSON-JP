@@ -1,17 +1,21 @@
 {
-  "jisCode": "14103",
-  "oldZipCode": "220  ",
-  "zipCode": "2200022",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "ヨコハマシニシク",
-  "townKana": "ハナサキチョウ（４−７チョウメ）",
-  "prefecture": "神奈川県",
-  "city": "横浜市西区",
-  "town": "花咲町（４〜７丁目）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14103",
+      "oldZipCode": "220  ",
+      "zipCode": "2200022",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "ヨコハマシニシク",
+      "townKana": "ハナサキチョウ（４−７チョウメ）",
+      "prefecture": "神奈川県",
+      "city": "横浜市西区",
+      "town": "花咲町（４〜７丁目）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

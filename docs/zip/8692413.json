@@ -1,17 +1,21 @@
 {
-  "jisCode": "43214",
-  "oldZipCode": "86924",
-  "zipCode": "8692413",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "アソシ",
-  "townKana": "ヤマダ（クラトコ、ハシダイ、ミョウガハラ）",
-  "prefecture": "熊本県",
-  "city": "阿蘇市",
-  "town": "山田（蔵床、橋台、茗ケ原）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43214",
+      "oldZipCode": "86924",
+      "zipCode": "8692413",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "アソシ",
+      "townKana": "ヤマダ（クラトコ、ハシダイ、ミョウガハラ）",
+      "prefecture": "熊本県",
+      "city": "阿蘇市",
+      "town": "山田（蔵床、橋台、茗ケ原）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

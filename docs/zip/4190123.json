@@ -1,17 +1,21 @@
 {
-  "jisCode": "22325",
-  "oldZipCode": "41901",
-  "zipCode": "4190123",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "タガタグンカンナミチョウ",
-  "townKana": "マミヤ",
-  "prefecture": "静岡県",
-  "city": "田方郡函南町",
-  "town": "間宮",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22325",
+      "oldZipCode": "41901",
+      "zipCode": "4190123",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "タガタグンカンナミチョウ",
+      "townKana": "マミヤ",
+      "prefecture": "静岡県",
+      "city": "田方郡函南町",
+      "town": "間宮",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

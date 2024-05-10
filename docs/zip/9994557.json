@@ -1,17 +1,21 @@
 {
-  "jisCode": "06212",
-  "oldZipCode": "99945",
-  "zipCode": "9994557",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "オバナザワシ",
-  "townKana": "ミナミサワ",
-  "prefecture": "山形県",
-  "city": "尾花沢市",
-  "town": "南沢",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06212",
+      "oldZipCode": "99945",
+      "zipCode": "9994557",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "オバナザワシ",
+      "townKana": "ミナミサワ",
+      "prefecture": "山形県",
+      "city": "尾花沢市",
+      "town": "南沢",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

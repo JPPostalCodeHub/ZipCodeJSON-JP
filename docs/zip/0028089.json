@@ -1,17 +1,21 @@
 {
-  "jisCode": "01303",
-  "oldZipCode": "002  ",
-  "zipCode": "0028089",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "イシカリグントウベツチョウ",
-  "townKana": "ビトエ（ナカジマ）",
-  "prefecture": "北海道",
-  "city": "石狩郡当別町",
-  "town": "ビトエ（中島）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01303",
+      "oldZipCode": "002  ",
+      "zipCode": "0028089",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "イシカリグントウベツチョウ",
+      "townKana": "ビトエ（ナカジマ）",
+      "prefecture": "北海道",
+      "city": "石狩郡当別町",
+      "town": "ビトエ（中島）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

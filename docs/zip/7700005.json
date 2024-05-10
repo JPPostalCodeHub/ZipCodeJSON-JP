@@ -1,17 +1,21 @@
 {
-  "jisCode": "36201",
-  "oldZipCode": "770  ",
-  "zipCode": "7700005",
-  "prefectureKana": "トクシマケン",
-  "cityKana": "トクシマシ",
-  "townKana": "ミナミヤソチョウ",
-  "prefecture": "徳島県",
-  "city": "徳島市",
-  "town": "南矢三町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "36201",
+      "oldZipCode": "770  ",
+      "zipCode": "7700005",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "トクシマシ",
+      "townKana": "ミナミヤソチョウ",
+      "prefecture": "徳島県",
+      "city": "徳島市",
+      "town": "南矢三町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

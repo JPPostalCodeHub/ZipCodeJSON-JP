@@ -1,17 +1,21 @@
 {
-  "jisCode": "28223",
-  "oldZipCode": "66942",
-  "zipCode": "6694263",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "タンバシ",
-  "townKana": "カスガチョウヒロセ",
-  "prefecture": "兵庫県",
-  "city": "丹波市",
-  "town": "春日町広瀬",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28223",
+      "oldZipCode": "66942",
+      "zipCode": "6694263",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "タンバシ",
+      "townKana": "カスガチョウヒロセ",
+      "prefecture": "兵庫県",
+      "city": "丹波市",
+      "town": "春日町広瀬",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "23220",
-  "oldZipCode": "492  ",
-  "zipCode": "4928132",
-  "prefectureKana": "アイチケン",
-  "cityKana": "イナザワシ",
-  "townKana": "ジロマルテンジンチョウ",
-  "prefecture": "愛知県",
-  "city": "稲沢市",
-  "town": "治郎丸天神町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23220",
+      "oldZipCode": "492  ",
+      "zipCode": "4928132",
+      "prefectureKana": "アイチケン",
+      "cityKana": "イナザワシ",
+      "townKana": "ジロマルテンジンチョウ",
+      "prefecture": "愛知県",
+      "city": "稲沢市",
+      "town": "治郎丸天神町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

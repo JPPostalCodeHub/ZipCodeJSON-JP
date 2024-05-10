@@ -1,17 +1,21 @@
 {
-  "jisCode": "23217",
-  "oldZipCode": "483  ",
-  "zipCode": "4838337",
-  "prefectureKana": "アイチケン",
-  "cityKana": "コウナンシ",
-  "townKana": "フジガオカ",
-  "prefecture": "愛知県",
-  "city": "江南市",
-  "town": "藤ケ丘",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23217",
+      "oldZipCode": "483  ",
+      "zipCode": "4838337",
+      "prefectureKana": "アイチケン",
+      "cityKana": "コウナンシ",
+      "townKana": "フジガオカ",
+      "prefecture": "愛知県",
+      "city": "江南市",
+      "town": "藤ケ丘",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

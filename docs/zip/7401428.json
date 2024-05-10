@@ -1,17 +1,21 @@
 {
-  "jisCode": "35208",
-  "oldZipCode": "74014",
-  "zipCode": "7401428",
-  "prefectureKana": "ヤマグチケン",
-  "cityKana": "イワクニシ",
-  "townKana": "ユウマチチュウオウ",
-  "prefecture": "山口県",
-  "city": "岩国市",
-  "town": "由宇町中央",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "35208",
+      "oldZipCode": "74014",
+      "zipCode": "7401428",
+      "prefectureKana": "ヤマグチケン",
+      "cityKana": "イワクニシ",
+      "townKana": "ユウマチチュウオウ",
+      "prefecture": "山口県",
+      "city": "岩国市",
+      "town": "由宇町中央",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

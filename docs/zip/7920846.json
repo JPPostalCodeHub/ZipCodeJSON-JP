@@ -1,17 +1,21 @@
 {
-  "jisCode": "38205",
-  "oldZipCode": "792  ",
-  "zipCode": "7920846",
-  "prefectureKana": "エヒメケン",
-  "cityKana": "ニイハマシ",
-  "townKana": "タツカワチョウ（タツカワヤマヲフクム）",
-  "prefecture": "愛媛県",
-  "city": "新居浜市",
-  "town": "立川町（立川山を含む）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "38205",
+      "oldZipCode": "792  ",
+      "zipCode": "7920846",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "ニイハマシ",
+      "townKana": "タツカワチョウ（タツカワヤマヲフクム）",
+      "prefecture": "愛媛県",
+      "city": "新居浜市",
+      "town": "立川町（立川山を含む）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

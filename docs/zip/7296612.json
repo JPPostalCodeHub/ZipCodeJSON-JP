@@ -1,17 +1,38 @@
 {
-  "jisCode": "34209",
-  "oldZipCode": "72966",
-  "zipCode": "7296612",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "ミヨシシ",
-  "townKana": "ミワチョウシモイタキ",
-  "prefecture": "広島県",
-  "city": "三次市",
-  "town": "三和町下板木",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34209",
+      "oldZipCode": "72966",
+      "zipCode": "7296612",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ミヨシシ",
+      "townKana": "ミワチョウシキナ（ホコノウネ）",
+      "prefecture": "広島県",
+      "city": "三次市",
+      "town": "三和町敷名（鉾畦）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "34209",
+      "oldZipCode": "72966",
+      "zipCode": "7296612",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ミヨシシ",
+      "townKana": "ミワチョウシモイタキ",
+      "prefecture": "広島県",
+      "city": "三次市",
+      "town": "三和町下板木",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "23217",
-  "oldZipCode": "483  ",
-  "zipCode": "4838259",
-  "prefectureKana": "アイチケン",
-  "cityKana": "コウナンシ",
-  "townKana": "カミナラチョウ（サカエ、アサヒ、ニシキ、テンノウ、ミドリ）",
-  "prefecture": "愛知県",
-  "city": "江南市",
-  "town": "上奈良町（栄、旭、錦、天王、緑）",
-  "multipleZipCodes": "1",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23217",
+      "oldZipCode": "483  ",
+      "zipCode": "4838259",
+      "prefectureKana": "アイチケン",
+      "cityKana": "コウナンシ",
+      "townKana": "カミナラチョウ（サカエ、アサヒ、ニシキ、テンノウ、ミドリ）",
+      "prefecture": "愛知県",
+      "city": "江南市",
+      "town": "上奈良町（栄、旭、錦、天王、緑）",
+      "multipleZipCodes": "1",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "12104",
-  "oldZipCode": "264  ",
-  "zipCode": "2640023",
-  "prefectureKana": "チバケン",
-  "cityKana": "チバシワカバク",
-  "townKana": "カイヅカチョウ",
-  "prefecture": "千葉県",
-  "city": "千葉市若葉区",
-  "town": "貝塚町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12104",
+      "oldZipCode": "264  ",
+      "zipCode": "2640023",
+      "prefectureKana": "チバケン",
+      "cityKana": "チバシワカバク",
+      "townKana": "カイヅカチョウ",
+      "prefecture": "千葉県",
+      "city": "千葉市若葉区",
+      "town": "貝塚町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

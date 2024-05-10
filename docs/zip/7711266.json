@@ -1,17 +1,38 @@
 {
-  "jisCode": "36403",
-  "oldZipCode": "77112",
-  "zipCode": "7711266",
-  "prefectureKana": "トクシマケン",
-  "cityKana": "イタノグンアイズミチョウ",
-  "townKana": "スミヨシ（ワカミヤ）",
-  "prefecture": "徳島県",
-  "city": "板野郡藍住町",
-  "town": "住吉（若宮）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "36403",
+      "oldZipCode": "77112",
+      "zipCode": "7711266",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "イタノグンアイズミチョウ",
+      "townKana": "スミヨシ（フジノキ）",
+      "prefecture": "徳島県",
+      "city": "板野郡藍住町",
+      "town": "住吉（藤ノ木）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "36403",
+      "oldZipCode": "77112",
+      "zipCode": "7711266",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "イタノグンアイズミチョウ",
+      "townKana": "スミヨシ（ワカミヤ）",
+      "prefecture": "徳島県",
+      "city": "板野郡藍住町",
+      "town": "住吉（若宮）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

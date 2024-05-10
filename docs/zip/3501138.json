@@ -1,17 +1,21 @@
 {
-  "jisCode": "11201",
-  "oldZipCode": "35011",
-  "zipCode": "3501138",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "カワゴエシ",
-  "townKana": "ナカダイモトマチ",
-  "prefecture": "埼玉県",
-  "city": "川越市",
-  "town": "中台元町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11201",
+      "oldZipCode": "35011",
+      "zipCode": "3501138",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "カワゴエシ",
+      "townKana": "ナカダイモトマチ",
+      "prefecture": "埼玉県",
+      "city": "川越市",
+      "town": "中台元町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

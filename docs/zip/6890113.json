@@ -1,17 +1,21 @@
 {
-  "jisCode": "31201",
-  "oldZipCode": "68901",
-  "zipCode": "6890113",
-  "prefectureKana": "トットリケン",
-  "cityKana": "トットリシ",
-  "townKana": "フクベチョウクジラ（ソノタ）",
-  "prefecture": "鳥取県",
-  "city": "鳥取市",
-  "town": "福部町久志羅（その他）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "31201",
+      "oldZipCode": "68901",
+      "zipCode": "6890113",
+      "prefectureKana": "トットリケン",
+      "cityKana": "トットリシ",
+      "townKana": "フクベチョウクジラ（ソノタ）",
+      "prefecture": "鳥取県",
+      "city": "鳥取市",
+      "town": "福部町久志羅（その他）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

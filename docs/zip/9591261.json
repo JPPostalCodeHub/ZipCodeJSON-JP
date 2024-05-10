@@ -1,17 +1,21 @@
 {
-  "jisCode": "15213",
-  "oldZipCode": "95912",
-  "zipCode": "9591261",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ツバメシ",
-  "townKana": "アキバチョウ",
-  "prefecture": "新潟県",
-  "city": "燕市",
-  "town": "秋葉町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15213",
+      "oldZipCode": "95912",
+      "zipCode": "9591261",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ツバメシ",
+      "townKana": "アキバチョウ",
+      "prefecture": "新潟県",
+      "city": "燕市",
+      "town": "秋葉町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

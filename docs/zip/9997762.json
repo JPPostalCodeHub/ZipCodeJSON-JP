@@ -1,17 +1,21 @@
 {
-  "jisCode": "06428",
-  "oldZipCode": "99977",
-  "zipCode": "9997762",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "ヒガシタガワグンショウナイマチ",
-  "townKana": "カネアイ",
-  "prefecture": "山形県",
-  "city": "東田川郡庄内町",
-  "town": "家根合",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06428",
+      "oldZipCode": "99977",
+      "zipCode": "9997762",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "ヒガシタガワグンショウナイマチ",
+      "townKana": "カネアイ",
+      "prefecture": "山形県",
+      "city": "東田川郡庄内町",
+      "town": "家根合",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

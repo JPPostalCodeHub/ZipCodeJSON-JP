@@ -1,17 +1,21 @@
 {
-  "jisCode": "26202",
-  "oldZipCode": "625  ",
-  "zipCode": "6250043",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "マイヅルシ",
-  "townKana": "ウメガタニ",
-  "prefecture": "京都府",
-  "city": "舞鶴市",
-  "town": "梅ケ谷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26202",
+      "oldZipCode": "625  ",
+      "zipCode": "6250043",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "マイヅルシ",
+      "townKana": "ウメガタニ",
+      "prefecture": "京都府",
+      "city": "舞鶴市",
+      "town": "梅ケ谷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

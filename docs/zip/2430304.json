@@ -1,17 +1,21 @@
 {
-  "jisCode": "14401",
-  "oldZipCode": "24303",
-  "zipCode": "2430304",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "アイコウグンアイカワマチ",
-  "townKana": "タナザワ",
-  "prefecture": "神奈川県",
-  "city": "愛甲郡愛川町",
-  "town": "棚沢",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14401",
+      "oldZipCode": "24303",
+      "zipCode": "2430304",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "アイコウグンアイカワマチ",
+      "townKana": "タナザワ",
+      "prefecture": "神奈川県",
+      "city": "愛甲郡愛川町",
+      "town": "棚沢",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

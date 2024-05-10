@@ -1,17 +1,21 @@
 {
-  "jisCode": "01398",
-  "oldZipCode": "04402",
-  "zipCode": "0440223",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "アブタグンキモベツチョウ",
-  "townKana": "カワカミ",
-  "prefecture": "北海道",
-  "city": "虻田郡喜茂別町",
-  "town": "川上",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01398",
+      "oldZipCode": "04402",
+      "zipCode": "0440223",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "アブタグンキモベツチョウ",
+      "townKana": "カワカミ",
+      "prefecture": "北海道",
+      "city": "虻田郡喜茂別町",
+      "town": "川上",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

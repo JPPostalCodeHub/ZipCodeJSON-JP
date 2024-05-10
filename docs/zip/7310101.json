@@ -1,17 +1,38 @@
 {
-  "jisCode": "34105",
-  "oldZipCode": "73101",
-  "zipCode": "7310101",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "ヒロシマシアサミナミク",
-  "townKana": "ヤギチョウ",
-  "prefecture": "広島県",
-  "city": "広島市安佐南区",
-  "town": "八木町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34105",
+      "oldZipCode": "73101",
+      "zipCode": "7310101",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ヒロシマシアサミナミク",
+      "townKana": "ヤギ",
+      "prefecture": "広島県",
+      "city": "広島市安佐南区",
+      "town": "八木",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "34105",
+      "oldZipCode": "73101",
+      "zipCode": "7310101",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ヒロシマシアサミナミク",
+      "townKana": "ヤギチョウ",
+      "prefecture": "広島県",
+      "city": "広島市安佐南区",
+      "town": "八木町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

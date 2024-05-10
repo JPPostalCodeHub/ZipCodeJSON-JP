@@ -1,17 +1,21 @@
 {
-  "jisCode": "45202",
-  "oldZipCode": "88918",
-  "zipCode": "8891801",
-  "prefectureKana": "ミヤザキケン",
-  "cityKana": "ミヤコノジョウシ",
-  "townKana": "ヤマノクチチョウトミヨシ",
-  "prefecture": "宮崎県",
-  "city": "都城市",
-  "town": "山之口町富吉",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "45202",
+      "oldZipCode": "88918",
+      "zipCode": "8891801",
+      "prefectureKana": "ミヤザキケン",
+      "cityKana": "ミヤコノジョウシ",
+      "townKana": "ヤマノクチチョウトミヨシ",
+      "prefecture": "宮崎県",
+      "city": "都城市",
+      "town": "山之口町富吉",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

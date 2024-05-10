@@ -1,17 +1,21 @@
 {
-  "jisCode": "07301",
-  "oldZipCode": "96916",
-  "zipCode": "9691605",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "ダテグンコオリマチ",
-  "townKana": "セキアイ",
-  "prefecture": "福島県",
-  "city": "伊達郡桑折町",
-  "town": "堰合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07301",
+      "oldZipCode": "96916",
+      "zipCode": "9691605",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "ダテグンコオリマチ",
+      "townKana": "セキアイ",
+      "prefecture": "福島県",
+      "city": "伊達郡桑折町",
+      "town": "堰合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

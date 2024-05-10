@@ -1,17 +1,21 @@
 {
-  "jisCode": "29442",
-  "oldZipCode": "63931",
-  "zipCode": "6393127",
-  "prefectureKana": "ナラケン",
-  "cityKana": "ヨシノグンオオヨドチョウ",
-  "townKana": "バサ",
-  "prefecture": "奈良県",
-  "city": "吉野郡大淀町",
-  "town": "馬佐",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "29442",
+      "oldZipCode": "63931",
+      "zipCode": "6393127",
+      "prefectureKana": "ナラケン",
+      "cityKana": "ヨシノグンオオヨドチョウ",
+      "townKana": "バサ",
+      "prefecture": "奈良県",
+      "city": "吉野郡大淀町",
+      "town": "馬佐",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

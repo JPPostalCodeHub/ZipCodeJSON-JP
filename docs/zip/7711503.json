@@ -1,17 +1,21 @@
 {
-  "jisCode": "36206",
-  "oldZipCode": "77115",
-  "zipCode": "7711503",
-  "prefectureKana": "トクシマケン",
-  "cityKana": "アワシ",
-  "townKana": "ドナリチョウウラノイケ",
-  "prefecture": "徳島県",
-  "city": "阿波市",
-  "town": "土成町浦池",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "36206",
+      "oldZipCode": "77115",
+      "zipCode": "7711503",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "アワシ",
+      "townKana": "ドナリチョウウラノイケ",
+      "prefecture": "徳島県",
+      "city": "阿波市",
+      "town": "土成町浦池",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

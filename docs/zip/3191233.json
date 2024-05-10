@@ -1,17 +1,21 @@
 {
-  "jisCode": "08202",
-  "oldZipCode": "31912",
-  "zipCode": "3191233",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "ヒタチシ",
-  "townKana": "カンダチョウ",
-  "prefecture": "茨城県",
-  "city": "日立市",
-  "town": "神田町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08202",
+      "oldZipCode": "31912",
+      "zipCode": "3191233",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "ヒタチシ",
+      "townKana": "カンダチョウ",
+      "prefecture": "茨城県",
+      "city": "日立市",
+      "town": "神田町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

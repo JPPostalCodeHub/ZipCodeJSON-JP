@@ -1,17 +1,21 @@
 {
-  "jisCode": "12231",
-  "oldZipCode": "27013",
-  "zipCode": "2701342",
-  "prefectureKana": "チバケン",
-  "cityKana": "インザイシ",
-  "townKana": "タカバナ",
-  "prefecture": "千葉県",
-  "city": "印西市",
-  "town": "高花",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12231",
+      "oldZipCode": "27013",
+      "zipCode": "2701342",
+      "prefectureKana": "チバケン",
+      "cityKana": "インザイシ",
+      "townKana": "タカバナ",
+      "prefecture": "千葉県",
+      "city": "印西市",
+      "town": "高花",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

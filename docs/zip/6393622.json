@@ -1,17 +1,38 @@
 {
-  "jisCode": "29452",
-  "oldZipCode": "63936",
-  "zipCode": "6393622",
-  "prefectureKana": "ナラケン",
-  "cityKana": "ヨシノグンカワカミムラ",
-  "townKana": "タキギ",
-  "prefecture": "奈良県",
-  "city": "吉野郡川上村",
-  "town": "武木",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "29452",
+      "oldZipCode": "63936",
+      "zipCode": "6393622",
+      "prefectureKana": "ナラケン",
+      "cityKana": "ヨシノグンカワカミムラ",
+      "townKana": "イド（ネジバタ）",
+      "prefecture": "奈良県",
+      "city": "吉野郡川上村",
+      "town": "井戸（ネジ畑）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "29452",
+      "oldZipCode": "63936",
+      "zipCode": "6393622",
+      "prefectureKana": "ナラケン",
+      "cityKana": "ヨシノグンカワカミムラ",
+      "townKana": "タキギ",
+      "prefecture": "奈良県",
+      "city": "吉野郡川上村",
+      "town": "武木",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

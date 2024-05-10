@@ -1,17 +1,21 @@
 {
-  "jisCode": "13121",
-  "oldZipCode": "121  ",
-  "zipCode": "1210837",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "アダチク",
-  "townKana": "トネリコウエン",
-  "prefecture": "東京都",
-  "city": "足立区",
-  "town": "舎人公園",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13121",
+      "oldZipCode": "121  ",
+      "zipCode": "1210837",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "アダチク",
+      "townKana": "トネリコウエン",
+      "prefecture": "東京都",
+      "city": "足立区",
+      "town": "舎人公園",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

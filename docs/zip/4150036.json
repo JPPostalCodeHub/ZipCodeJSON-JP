@@ -1,17 +1,21 @@
 {
-  "jisCode": "22219",
-  "oldZipCode": "415  ",
-  "zipCode": "4150036",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "シモダシ",
-  "townKana": "ニシホンゴウ",
-  "prefecture": "静岡県",
-  "city": "下田市",
-  "town": "西本郷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22219",
+      "oldZipCode": "415  ",
+      "zipCode": "4150036",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "シモダシ",
+      "townKana": "ニシホンゴウ",
+      "prefecture": "静岡県",
+      "city": "下田市",
+      "town": "西本郷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

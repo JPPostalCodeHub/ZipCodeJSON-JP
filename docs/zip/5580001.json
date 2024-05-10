@@ -1,17 +1,21 @@
 {
-  "jisCode": "27120",
-  "oldZipCode": "558  ",
-  "zipCode": "5580001",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "オオサカシスミヨシク",
-  "townKana": "ダイリョウ",
-  "prefecture": "大阪府",
-  "city": "大阪市住吉区",
-  "town": "大領",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27120",
+      "oldZipCode": "558  ",
+      "zipCode": "5580001",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "オオサカシスミヨシク",
+      "townKana": "ダイリョウ",
+      "prefecture": "大阪府",
+      "city": "大阪市住吉区",
+      "town": "大領",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

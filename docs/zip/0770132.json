@@ -1,17 +1,21 @@
 {
-  "jisCode": "01481",
-  "oldZipCode": "07701",
-  "zipCode": "0770132",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "マシケグンマシケチョウ",
-  "townKana": "シャクマ（ソノタ）",
-  "prefecture": "北海道",
-  "city": "増毛郡増毛町",
-  "town": "舎熊（その他）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01481",
+      "oldZipCode": "07701",
+      "zipCode": "0770132",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "マシケグンマシケチョウ",
+      "townKana": "シャクマ（ソノタ）",
+      "prefecture": "北海道",
+      "city": "増毛郡増毛町",
+      "town": "舎熊（その他）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

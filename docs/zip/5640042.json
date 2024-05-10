@@ -1,17 +1,21 @@
 {
-  "jisCode": "27205",
-  "oldZipCode": "564  ",
-  "zipCode": "5640042",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "スイタシ",
-  "townKana": "ホナミチョウ",
-  "prefecture": "大阪府",
-  "city": "吹田市",
-  "town": "穂波町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27205",
+      "oldZipCode": "564  ",
+      "zipCode": "5640042",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "スイタシ",
+      "townKana": "ホナミチョウ",
+      "prefecture": "大阪府",
+      "city": "吹田市",
+      "town": "穂波町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "01563",
-  "oldZipCode": "09817",
-  "zipCode": "0981708",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "モンベツグンオウムチョウ",
-  "townKana": "カミホロナイ",
-  "prefecture": "北海道",
-  "city": "紋別郡雄武町",
-  "town": "上幌内",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01563",
+      "oldZipCode": "09817",
+      "zipCode": "0981708",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "モンベツグンオウムチョウ",
+      "townKana": "カミホロナイ",
+      "prefecture": "北海道",
+      "city": "紋別郡雄武町",
+      "town": "上幌内",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

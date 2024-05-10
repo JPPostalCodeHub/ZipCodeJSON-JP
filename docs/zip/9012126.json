@@ -1,17 +1,21 @@
 {
-  "jisCode": "47208",
-  "oldZipCode": "90121",
-  "zipCode": "9012126",
-  "prefectureKana": "オキナワケン",
-  "cityKana": "ウラソエシ",
-  "townKana": "ミヤギ",
-  "prefecture": "沖縄県",
-  "city": "浦添市",
-  "town": "宮城",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "47208",
+      "oldZipCode": "90121",
+      "zipCode": "9012126",
+      "prefectureKana": "オキナワケン",
+      "cityKana": "ウラソエシ",
+      "townKana": "ミヤギ",
+      "prefecture": "沖縄県",
+      "city": "浦添市",
+      "town": "宮城",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

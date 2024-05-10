@@ -1,17 +1,21 @@
 {
-  "jisCode": "15204",
-  "oldZipCode": "955  ",
-  "zipCode": "9550012",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "サンジョウシ",
-  "townKana": "キタノシンデン",
-  "prefecture": "新潟県",
-  "city": "三条市",
-  "town": "北野新田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15204",
+      "oldZipCode": "955  ",
+      "zipCode": "9550012",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "サンジョウシ",
+      "townKana": "キタノシンデン",
+      "prefecture": "新潟県",
+      "city": "三条市",
+      "town": "北野新田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

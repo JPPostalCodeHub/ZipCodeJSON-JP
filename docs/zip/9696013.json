@@ -1,17 +1,21 @@
 {
-  "jisCode": "07202",
-  "oldZipCode": "96961",
-  "zipCode": "9696013",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "アイヅワカマツシ",
-  "townKana": "キタアイヅマチシモノ",
-  "prefecture": "福島県",
-  "city": "会津若松市",
-  "town": "北会津町下野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07202",
+      "oldZipCode": "96961",
+      "zipCode": "9696013",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "アイヅワカマツシ",
+      "townKana": "キタアイヅマチシモノ",
+      "prefecture": "福島県",
+      "city": "会津若松市",
+      "town": "北会津町下野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "14206",
-  "oldZipCode": "250  ",
-  "zipCode": "2500054",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "オダワラシ",
-  "townKana": "タコ",
-  "prefecture": "神奈川県",
-  "city": "小田原市",
-  "town": "多古",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14206",
+      "oldZipCode": "250  ",
+      "zipCode": "2500054",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "オダワラシ",
+      "townKana": "タコ",
+      "prefecture": "神奈川県",
+      "city": "小田原市",
+      "town": "多古",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

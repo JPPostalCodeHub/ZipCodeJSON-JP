@@ -1,17 +1,21 @@
 {
-  "jisCode": "20423",
-  "oldZipCode": "39953",
-  "zipCode": "3995302",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "キソグンナギソマチ",
-  "townKana": "アヅマ",
-  "prefecture": "長野県",
-  "city": "木曽郡南木曽町",
-  "town": "吾妻",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20423",
+      "oldZipCode": "39953",
+      "zipCode": "3995302",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "キソグンナギソマチ",
+      "townKana": "アヅマ",
+      "prefecture": "長野県",
+      "city": "木曽郡南木曽町",
+      "town": "吾妻",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "08204",
-  "oldZipCode": "306  ",
-  "zipCode": "3060041",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "コガシ",
-  "townKana": "コウノス",
-  "prefecture": "茨城県",
-  "city": "古河市",
-  "town": "鴻巣",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08204",
+      "oldZipCode": "306  ",
+      "zipCode": "3060041",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "コガシ",
+      "townKana": "コウノス",
+      "prefecture": "茨城県",
+      "city": "古河市",
+      "town": "鴻巣",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

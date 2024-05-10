@@ -1,17 +1,21 @@
 {
-  "jisCode": "03205",
-  "oldZipCode": "02503",
-  "zipCode": "0250321",
-  "prefectureKana": "イワテケン",
-  "cityKana": "ハナマキシ",
-  "townKana": "カナヤ",
-  "prefecture": "岩手県",
-  "city": "花巻市",
-  "town": "金矢",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "03205",
+      "oldZipCode": "02503",
+      "zipCode": "0250321",
+      "prefectureKana": "イワテケン",
+      "cityKana": "ハナマキシ",
+      "townKana": "カナヤ",
+      "prefecture": "岩手県",
+      "city": "花巻市",
+      "town": "金矢",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

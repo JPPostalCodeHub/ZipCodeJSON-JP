@@ -1,17 +1,38 @@
 {
-  "jisCode": "16201",
-  "oldZipCode": "93935",
-  "zipCode": "9393512",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "トヤマシ",
-  "townKana": "ミズハシニシオオマチ",
-  "prefecture": "富山県",
-  "city": "富山市",
-  "town": "水橋西大町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16201",
+      "oldZipCode": "939  ",
+      "zipCode": "9393512",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "トヤマシ",
+      "townKana": "ミズハシオオマチ（セイブチク）",
+      "prefecture": "富山県",
+      "city": "富山市",
+      "town": "水橋大町（西部地区）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "16201",
+      "oldZipCode": "93935",
+      "zipCode": "9393512",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "トヤマシ",
+      "townKana": "ミズハシニシオオマチ",
+      "prefecture": "富山県",
+      "city": "富山市",
+      "town": "水橋西大町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

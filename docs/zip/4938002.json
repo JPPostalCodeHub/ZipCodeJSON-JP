@@ -1,17 +1,21 @@
 {
-  "jisCode": "23203",
-  "oldZipCode": "493  ",
-  "zipCode": "4938002",
-  "prefectureKana": "アイチケン",
-  "cityKana": "イチノミヤシ",
-  "townKana": "キタガタチョウソネ",
-  "prefecture": "愛知県",
-  "city": "一宮市",
-  "town": "北方町曽根",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23203",
+      "oldZipCode": "493  ",
+      "zipCode": "4938002",
+      "prefectureKana": "アイチケン",
+      "cityKana": "イチノミヤシ",
+      "townKana": "キタガタチョウソネ",
+      "prefecture": "愛知県",
+      "city": "一宮市",
+      "town": "北方町曽根",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

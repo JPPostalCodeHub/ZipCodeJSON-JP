@@ -1,17 +1,21 @@
 {
-  "jisCode": "18205",
-  "oldZipCode": "912  ",
-  "zipCode": "9120066",
-  "prefectureKana": "フクイケン",
-  "cityKana": "オオノシ",
-  "townKana": "ミナミカスガノ",
-  "prefecture": "福井県",
-  "city": "大野市",
-  "town": "南春日野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18205",
+      "oldZipCode": "912  ",
+      "zipCode": "9120066",
+      "prefectureKana": "フクイケン",
+      "cityKana": "オオノシ",
+      "townKana": "ミナミカスガノ",
+      "prefecture": "福井県",
+      "city": "大野市",
+      "town": "南春日野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

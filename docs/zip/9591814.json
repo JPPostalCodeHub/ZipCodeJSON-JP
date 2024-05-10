@@ -1,17 +1,21 @@
 {
-  "jisCode": "15218",
-  "oldZipCode": "95916",
-  "zipCode": "9591814",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ゴセンシ",
-  "townKana": "キタゴセンエキマエ",
-  "prefecture": "新潟県",
-  "city": "五泉市",
-  "town": "北五泉駅前",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15218",
+      "oldZipCode": "95916",
+      "zipCode": "9591814",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ゴセンシ",
+      "townKana": "キタゴセンエキマエ",
+      "prefecture": "新潟県",
+      "city": "五泉市",
+      "town": "北五泉駅前",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

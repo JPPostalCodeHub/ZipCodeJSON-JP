@@ -1,17 +1,21 @@
 {
-  "jisCode": "12219",
-  "oldZipCode": "29005",
-  "zipCode": "2900556",
-  "prefectureKana": "チバケン",
-  "cityKana": "イチハラシ",
-  "townKana": "ホンゴウ",
-  "prefecture": "千葉県",
-  "city": "市原市",
-  "town": "本郷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12219",
+      "oldZipCode": "29005",
+      "zipCode": "2900556",
+      "prefectureKana": "チバケン",
+      "cityKana": "イチハラシ",
+      "townKana": "ホンゴウ",
+      "prefecture": "千葉県",
+      "city": "市原市",
+      "town": "本郷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

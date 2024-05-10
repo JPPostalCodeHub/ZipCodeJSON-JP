@@ -1,17 +1,21 @@
 {
-  "jisCode": "04215",
-  "oldZipCode": "98961",
-  "zipCode": "9896165",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "オオサキシ",
-  "townKana": "フルカワトオカマチ",
-  "prefecture": "宮城県",
-  "city": "大崎市",
-  "town": "古川十日町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04215",
+      "oldZipCode": "98961",
+      "zipCode": "9896165",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "オオサキシ",
+      "townKana": "フルカワトオカマチ",
+      "prefecture": "宮城県",
+      "city": "大崎市",
+      "town": "古川十日町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

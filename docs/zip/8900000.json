@@ -1,17 +1,38 @@
 {
-  "jisCode": "46303",
-  "oldZipCode": "890  ",
-  "zipCode": "8900000",
-  "prefectureKana": "カゴシマケン",
-  "cityKana": "カゴシマグンミシマムラ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "鹿児島県",
-  "city": "鹿児島郡三島村",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "46201",
+      "oldZipCode": "890  ",
+      "zipCode": "8900000",
+      "prefectureKana": "カゴシマケン",
+      "cityKana": "カゴシマシ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "鹿児島県",
+      "city": "鹿児島市",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "46303",
+      "oldZipCode": "890  ",
+      "zipCode": "8900000",
+      "prefectureKana": "カゴシマケン",
+      "cityKana": "カゴシマグンミシマムラ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "鹿児島県",
+      "city": "鹿児島郡三島村",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

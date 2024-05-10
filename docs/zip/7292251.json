@@ -1,17 +1,38 @@
 {
-  "jisCode": "34204",
-  "oldZipCode": "72922",
-  "zipCode": "7292251",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "ミハラシ",
-  "townKana": "サイザキチョウクワキ",
-  "prefecture": "広島県",
-  "city": "三原市",
-  "town": "幸崎町久和喜",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34204",
+      "oldZipCode": "72922",
+      "zipCode": "7292251",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ミハラシ",
+      "townKana": "サイザキクワキ",
+      "prefecture": "広島県",
+      "city": "三原市",
+      "town": "幸崎久和喜",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "34204",
+      "oldZipCode": "72922",
+      "zipCode": "7292251",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ミハラシ",
+      "townKana": "サイザキチョウクワキ",
+      "prefecture": "広島県",
+      "city": "三原市",
+      "town": "幸崎町久和喜",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

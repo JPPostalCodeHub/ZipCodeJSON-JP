@@ -1,17 +1,21 @@
 {
-  "jisCode": "10383",
-  "oldZipCode": "37028",
-  "zipCode": "3702804",
-  "prefectureKana": "グンマケン",
-  "cityKana": "カンラグンナンモクムラ",
-  "townKana": "イワド",
-  "prefecture": "群馬県",
-  "city": "甘楽郡南牧村",
-  "town": "磐戸",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "10383",
+      "oldZipCode": "37028",
+      "zipCode": "3702804",
+      "prefectureKana": "グンマケン",
+      "cityKana": "カンラグンナンモクムラ",
+      "townKana": "イワド",
+      "prefecture": "群馬県",
+      "city": "甘楽郡南牧村",
+      "town": "磐戸",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

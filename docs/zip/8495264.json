@@ -1,17 +1,21 @@
 {
-  "jisCode": "41205",
-  "oldZipCode": "84952",
-  "zipCode": "8495264",
-  "prefectureKana": "サガケン",
-  "cityKana": "イマリシ",
-  "townKana": "マツウラチョウサゲノカワ",
-  "prefecture": "佐賀県",
-  "city": "伊万里市",
-  "town": "松浦町提川",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "41205",
+      "oldZipCode": "84952",
+      "zipCode": "8495264",
+      "prefectureKana": "サガケン",
+      "cityKana": "イマリシ",
+      "townKana": "マツウラチョウサゲノカワ",
+      "prefecture": "佐賀県",
+      "city": "伊万里市",
+      "town": "松浦町提川",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

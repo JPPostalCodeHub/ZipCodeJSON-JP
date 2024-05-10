@@ -1,17 +1,21 @@
 {
-  "jisCode": "17407",
-  "oldZipCode": "92916",
-  "zipCode": "9291606",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "カシマグンナカノトマチ",
-  "townKana": "カミウシロヤマ",
-  "prefecture": "石川県",
-  "city": "鹿島郡中能登町",
-  "town": "上後山",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17407",
+      "oldZipCode": "92916",
+      "zipCode": "9291606",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "カシマグンナカノトマチ",
+      "townKana": "カミウシロヤマ",
+      "prefecture": "石川県",
+      "city": "鹿島郡中能登町",
+      "town": "上後山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

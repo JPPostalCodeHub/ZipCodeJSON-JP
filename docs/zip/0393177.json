@@ -1,17 +1,38 @@
 {
-  "jisCode": "02401",
-  "oldZipCode": "03931",
-  "zipCode": "0393177",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "カミキタグンノヘジマチ",
-  "townKana": "ハノキヤチ",
-  "prefecture": "青森県",
-  "city": "上北郡野辺地町",
-  "town": "八ノ木谷地",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02401",
+      "oldZipCode": "03931",
+      "zipCode": "0393177",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "カミキタグンノヘジマチ",
+      "townKana": "シバサキ",
+      "prefecture": "青森県",
+      "city": "上北郡野辺地町",
+      "town": "柴崎",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "02401",
+      "oldZipCode": "03931",
+      "zipCode": "0393177",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "カミキタグンノヘジマチ",
+      "townKana": "ハノキヤチ",
+      "prefecture": "青森県",
+      "city": "上北郡野辺地町",
+      "town": "八ノ木谷地",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

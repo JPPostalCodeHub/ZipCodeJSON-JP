@@ -1,17 +1,21 @@
 {
-  "jisCode": "11217",
-  "oldZipCode": "365  ",
-  "zipCode": "3650024",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "コウノスシ",
-  "townKana": "ジョウコウ",
-  "prefecture": "埼玉県",
-  "city": "鴻巣市",
-  "town": "常光",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11217",
+      "oldZipCode": "365  ",
+      "zipCode": "3650024",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "コウノスシ",
+      "townKana": "ジョウコウ",
+      "prefecture": "埼玉県",
+      "city": "鴻巣市",
+      "town": "常光",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

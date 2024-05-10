@@ -1,17 +1,21 @@
 {
-  "jisCode": "35213",
-  "oldZipCode": "75405",
-  "zipCode": "7540514",
-  "prefectureKana": "ヤマグチケン",
-  "cityKana": "ミネシ",
-  "townKana": "シュウホウチョウ（ソノタ）",
-  "prefecture": "山口県",
-  "city": "美祢市",
-  "town": "秋芳町（その他）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "35213",
+      "oldZipCode": "75405",
+      "zipCode": "7540514",
+      "prefectureKana": "ヤマグチケン",
+      "cityKana": "ミネシ",
+      "townKana": "シュウホウチョウ（ソノタ）",
+      "prefecture": "山口県",
+      "city": "美祢市",
+      "town": "秋芳町（その他）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "32203",
-  "oldZipCode": "69906",
-  "zipCode": "6990623",
-  "prefectureKana": "シマネケン",
-  "cityKana": "イズモシ",
-  "townKana": "ヒカワチョウトリイ",
-  "prefecture": "島根県",
-  "city": "出雲市",
-  "town": "斐川町鳥井",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "32203",
+      "oldZipCode": "69906",
+      "zipCode": "6990623",
+      "prefectureKana": "シマネケン",
+      "cityKana": "イズモシ",
+      "townKana": "ヒカワチョウトリイ",
+      "prefecture": "島根県",
+      "city": "出雲市",
+      "town": "斐川町鳥井",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

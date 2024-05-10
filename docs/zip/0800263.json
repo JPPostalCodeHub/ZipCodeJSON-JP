@@ -1,17 +1,21 @@
 {
-  "jisCode": "01631",
-  "oldZipCode": "08002",
-  "zipCode": "0800263",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "カトウグンオトフケチョウ",
-  "townKana": "トカチガワオンセンミナミ",
-  "prefecture": "北海道",
-  "city": "河東郡音更町",
-  "town": "十勝川温泉南",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01631",
+      "oldZipCode": "08002",
+      "zipCode": "0800263",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "カトウグンオトフケチョウ",
+      "townKana": "トカチガワオンセンミナミ",
+      "prefecture": "北海道",
+      "city": "河東郡音更町",
+      "town": "十勝川温泉南",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

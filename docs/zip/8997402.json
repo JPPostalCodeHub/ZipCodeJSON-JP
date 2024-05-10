@@ -1,17 +1,21 @@
 {
-  "jisCode": "46221",
-  "oldZipCode": "89974",
-  "zipCode": "8997402",
-  "prefectureKana": "カゴシマケン",
-  "cityKana": "シブシシ",
-  "townKana": "アリアケチョウノイクラ",
-  "prefecture": "鹿児島県",
-  "city": "志布志市",
-  "town": "有明町野井倉",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "46221",
+      "oldZipCode": "89974",
+      "zipCode": "8997402",
+      "prefectureKana": "カゴシマケン",
+      "cityKana": "シブシシ",
+      "townKana": "アリアケチョウノイクラ",
+      "prefecture": "鹿児島県",
+      "city": "志布志市",
+      "town": "有明町野井倉",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

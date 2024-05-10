@@ -1,17 +1,38 @@
 {
-  "jisCode": "16323",
-  "oldZipCode": "93002",
-  "zipCode": "9300245",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "ナカニイカワグンタテヤママチ",
-  "townKana": "ナカヤマ",
-  "prefecture": "富山県",
-  "city": "中新川郡立山町",
-  "town": "中山",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16323",
+      "oldZipCode": "93002",
+      "zipCode": "9300245",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "ナカニイカワグンタテヤママチ",
+      "townKana": "サワナカヤマ",
+      "prefecture": "富山県",
+      "city": "中新川郡立山町",
+      "town": "沢中山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "16323",
+      "oldZipCode": "93002",
+      "zipCode": "9300245",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "ナカニイカワグンタテヤママチ",
+      "townKana": "ナカヤマ",
+      "prefecture": "富山県",
+      "city": "中新川郡立山町",
+      "town": "中山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "12217",
-  "oldZipCode": "277  ",
-  "zipCode": "2770041",
-  "prefectureKana": "チバケン",
-  "cityKana": "カシワシ",
-  "townKana": "サカサイフジノダイ",
-  "prefecture": "千葉県",
-  "city": "柏市",
-  "town": "逆井藤ノ台",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12217",
+      "oldZipCode": "277  ",
+      "zipCode": "2770041",
+      "prefectureKana": "チバケン",
+      "cityKana": "カシワシ",
+      "townKana": "サカサイフジノダイ",
+      "prefecture": "千葉県",
+      "city": "柏市",
+      "town": "逆井藤ノ台",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

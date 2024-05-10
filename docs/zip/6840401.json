@@ -1,17 +1,21 @@
 {
-  "jisCode": "32525",
-  "oldZipCode": "68404",
-  "zipCode": "6840401",
-  "prefectureKana": "シマネケン",
-  "cityKana": "オキグンアマチョウ",
-  "townKana": "ウズカ",
-  "prefecture": "島根県",
-  "city": "隠岐郡海士町",
-  "town": "宇受賀",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "32525",
+      "oldZipCode": "68404",
+      "zipCode": "6840401",
+      "prefectureKana": "シマネケン",
+      "cityKana": "オキグンアマチョウ",
+      "townKana": "ウズカ",
+      "prefecture": "島根県",
+      "city": "隠岐郡海士町",
+      "town": "宇受賀",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

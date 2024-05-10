@@ -1,17 +1,21 @@
 {
-  "jisCode": "32501",
-  "oldZipCode": "69952",
-  "zipCode": "6995216",
-  "prefectureKana": "シマネケン",
-  "cityKana": "カノアシグンツワノチョウ",
-  "townKana": "イケムラ",
-  "prefecture": "島根県",
-  "city": "鹿足郡津和野町",
-  "town": "池村",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "32501",
+      "oldZipCode": "69952",
+      "zipCode": "6995216",
+      "prefectureKana": "シマネケン",
+      "cityKana": "カノアシグンツワノチョウ",
+      "townKana": "イケムラ",
+      "prefecture": "島根県",
+      "city": "鹿足郡津和野町",
+      "town": "池村",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

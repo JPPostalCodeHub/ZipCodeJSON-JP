@@ -1,17 +1,21 @@
 {
-  "jisCode": "33212",
-  "oldZipCode": "70142",
-  "zipCode": "7014263",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "セトウチシ",
-  "townKana": "オサフネチョウニシスエ",
-  "prefecture": "岡山県",
-  "city": "瀬戸内市",
-  "town": "長船町西須恵",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33212",
+      "oldZipCode": "70142",
+      "zipCode": "7014263",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "セトウチシ",
+      "townKana": "オサフネチョウニシスエ",
+      "prefecture": "岡山県",
+      "city": "瀬戸内市",
+      "town": "長船町西須恵",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

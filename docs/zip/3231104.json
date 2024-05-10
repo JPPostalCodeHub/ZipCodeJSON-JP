@@ -1,17 +1,21 @@
 {
-  "jisCode": "09203",
-  "oldZipCode": "34913",
-  "zipCode": "3231104",
-  "prefectureKana": "トチギケン",
-  "cityKana": "トチギシ",
-  "townKana": "フジオカマチフジオカ",
-  "prefecture": "栃木県",
-  "city": "栃木市",
-  "town": "藤岡町藤岡",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "09203",
+      "oldZipCode": "34913",
+      "zipCode": "3231104",
+      "prefectureKana": "トチギケン",
+      "cityKana": "トチギシ",
+      "townKana": "フジオカマチフジオカ",
+      "prefecture": "栃木県",
+      "city": "栃木市",
+      "town": "藤岡町藤岡",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

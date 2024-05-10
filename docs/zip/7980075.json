@@ -1,17 +1,21 @@
 {
-  "jisCode": "38203",
-  "oldZipCode": "798  ",
-  "zipCode": "7980075",
-  "prefectureKana": "エヒメケン",
-  "cityKana": "ウワジマシ",
-  "townKana": "カワチ（ソノタ）",
-  "prefecture": "愛媛県",
-  "city": "宇和島市",
-  "town": "川内（その他）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "38203",
+      "oldZipCode": "798  ",
+      "zipCode": "7980075",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "ウワジマシ",
+      "townKana": "カワチ（ソノタ）",
+      "prefecture": "愛媛県",
+      "city": "宇和島市",
+      "town": "川内（その他）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

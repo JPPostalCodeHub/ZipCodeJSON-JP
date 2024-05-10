@@ -1,17 +1,21 @@
 {
-  "jisCode": "01643",
-  "oldZipCode": "08906",
-  "zipCode": "0890623",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ナカガワグンマクベツチョウ",
-  "townKana": "ナンセイ",
-  "prefecture": "北海道",
-  "city": "中川郡幕別町",
-  "town": "南勢",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01643",
+      "oldZipCode": "08906",
+      "zipCode": "0890623",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ナカガワグンマクベツチョウ",
+      "townKana": "ナンセイ",
+      "prefecture": "北海道",
+      "city": "中川郡幕別町",
+      "town": "南勢",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

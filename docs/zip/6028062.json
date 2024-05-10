@@ -1,17 +1,21 @@
 {
-  "jisCode": "26102",
-  "oldZipCode": "602  ",
-  "zipCode": "6028062",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシカミギョウク",
-  "townKana": "カメヤチョウ",
-  "prefecture": "京都府",
-  "city": "京都市上京区",
-  "town": "亀屋町（油小路通上長者町下る、油小路通下長者町上る、油小路通中長者町上る、油小路通中長者町下る、上長者町通油小路西入、上長者町通油小路東入）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26102",
+      "oldZipCode": "602  ",
+      "zipCode": "6028062",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシカミギョウク",
+      "townKana": "カメヤチョウ",
+      "prefecture": "京都府",
+      "city": "京都市上京区",
+      "town": "亀屋町（油小路通上長者町下る、油小路通下長者町上る、油小路通中長者町上る、油小路通中長者町下る、上長者町通油小路西入、上長者町通油小路東入）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

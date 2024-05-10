@@ -1,17 +1,21 @@
 {
-  "jisCode": "15101",
-  "oldZipCode": "95031",
-  "zipCode": "9503114",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ニイガタシキタク",
-  "townKana": "ナメトコロ",
-  "prefecture": "新潟県",
-  "city": "新潟市北区",
-  "town": "名目所",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15101",
+      "oldZipCode": "95031",
+      "zipCode": "9503114",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ニイガタシキタク",
+      "townKana": "ナメトコロ",
+      "prefecture": "新潟県",
+      "city": "新潟市北区",
+      "town": "名目所",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

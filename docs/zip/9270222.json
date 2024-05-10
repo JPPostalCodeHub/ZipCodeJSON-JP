@@ -1,17 +1,21 @@
 {
-  "jisCode": "17461",
-  "oldZipCode": "92702",
-  "zipCode": "9270222",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "ホウスグンアナミズマチ",
-  "townKana": "ダイゴウ",
-  "prefecture": "石川県",
-  "city": "鳳珠郡穴水町",
-  "town": "大郷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17461",
+      "oldZipCode": "92702",
+      "zipCode": "9270222",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "ホウスグンアナミズマチ",
+      "townKana": "ダイゴウ",
+      "prefecture": "石川県",
+      "city": "鳳珠郡穴水町",
+      "town": "大郷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

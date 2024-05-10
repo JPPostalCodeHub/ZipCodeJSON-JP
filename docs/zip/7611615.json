@@ -1,17 +1,38 @@
 {
-  "jisCode": "37201",
-  "oldZipCode": "76116",
-  "zipCode": "7611615",
-  "prefectureKana": "カガワケン",
-  "cityKana": "タカマツシ",
-  "townKana": "シオノエチョウヤスハラシモ（スミヤ）",
-  "prefecture": "香川県",
-  "city": "高松市",
-  "town": "塩江町安原下（炭谷）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "37201",
+      "oldZipCode": "76116",
+      "zipCode": "7611615",
+      "prefectureKana": "カガワケン",
+      "cityKana": "タカマツシ",
+      "townKana": "シオノエチョウヤスハラシモ（カミコタ）",
+      "prefecture": "香川県",
+      "city": "高松市",
+      "town": "塩江町安原下（上小田）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "37201",
+      "oldZipCode": "76116",
+      "zipCode": "7611615",
+      "prefectureKana": "カガワケン",
+      "cityKana": "タカマツシ",
+      "townKana": "シオノエチョウヤスハラシモ（スミヤ）",
+      "prefecture": "香川県",
+      "city": "高松市",
+      "town": "塩江町安原下（炭谷）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

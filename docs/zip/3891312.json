@@ -1,17 +1,21 @@
 {
-  "jisCode": "20583",
-  "oldZipCode": "38913",
-  "zipCode": "3891312",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "カミミノチグンシナノマチ",
-  "townKana": "トミノ",
-  "prefecture": "長野県",
-  "city": "上水内郡信濃町",
-  "town": "富濃",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20583",
+      "oldZipCode": "38913",
+      "zipCode": "3891312",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "カミミノチグンシナノマチ",
+      "townKana": "トミノ",
+      "prefecture": "長野県",
+      "city": "上水内郡信濃町",
+      "town": "富濃",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "16342",
-  "oldZipCode": "93906",
-  "zipCode": "9390635",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "シモニイカワグンニュウゼンマチ",
-  "townKana": "ワカグリシン",
-  "prefecture": "富山県",
-  "city": "下新川郡入善町",
-  "town": "若栗新",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16342",
+      "oldZipCode": "93906",
+      "zipCode": "9390635",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "シモニイカワグンニュウゼンマチ",
+      "townKana": "ワカグリシン",
+      "prefecture": "富山県",
+      "city": "下新川郡入善町",
+      "town": "若栗新",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

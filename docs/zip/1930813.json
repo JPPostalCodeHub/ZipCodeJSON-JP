@@ -1,17 +1,21 @@
 {
-  "jisCode": "13201",
-  "oldZipCode": "193  ",
-  "zipCode": "1930813",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "ハチオウジシ",
-  "townKana": "ヨツヤマチ",
-  "prefecture": "東京都",
-  "city": "八王子市",
-  "town": "四谷町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13201",
+      "oldZipCode": "193  ",
+      "zipCode": "1930813",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "ハチオウジシ",
+      "townKana": "ヨツヤマチ",
+      "prefecture": "東京都",
+      "city": "八王子市",
+      "town": "四谷町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

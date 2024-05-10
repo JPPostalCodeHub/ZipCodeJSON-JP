@@ -1,17 +1,21 @@
 {
-  "jisCode": "29212",
-  "oldZipCode": "63304",
-  "zipCode": "6330422",
-  "prefectureKana": "ナラケン",
-  "cityKana": "ウダシ",
-  "townKana": "ムロウシモタグチ",
-  "prefecture": "奈良県",
-  "city": "宇陀市",
-  "town": "室生下田口",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "29212",
+      "oldZipCode": "63304",
+      "zipCode": "6330422",
+      "prefectureKana": "ナラケン",
+      "cityKana": "ウダシ",
+      "townKana": "ムロウシモタグチ",
+      "prefecture": "奈良県",
+      "city": "宇陀市",
+      "town": "室生下田口",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

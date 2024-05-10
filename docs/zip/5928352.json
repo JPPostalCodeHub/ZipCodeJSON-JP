@@ -1,17 +1,21 @@
 {
-  "jisCode": "27144",
-  "oldZipCode": "592  ",
-  "zipCode": "5928352",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "サカイシニシク",
-  "townKana": "チッコウハマデラニシマチ",
-  "prefecture": "大阪府",
-  "city": "堺市西区",
-  "town": "築港浜寺西町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27144",
+      "oldZipCode": "592  ",
+      "zipCode": "5928352",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "サカイシニシク",
+      "townKana": "チッコウハマデラニシマチ",
+      "prefecture": "大阪府",
+      "city": "堺市西区",
+      "town": "築港浜寺西町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

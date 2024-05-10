@@ -1,17 +1,21 @@
 {
-  "jisCode": "28585",
-  "oldZipCode": "66713",
-  "zipCode": "6671314",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "ミカタグンカミチョウ",
-  "townKana": "ムラオカクハギヤマ",
-  "prefecture": "兵庫県",
-  "city": "美方郡香美町",
-  "town": "村岡区萩山",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28585",
+      "oldZipCode": "66713",
+      "zipCode": "6671314",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "ミカタグンカミチョウ",
+      "townKana": "ムラオカクハギヤマ",
+      "prefecture": "兵庫県",
+      "city": "美方郡香美町",
+      "town": "村岡区萩山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

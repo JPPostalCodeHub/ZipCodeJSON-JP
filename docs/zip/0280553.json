@@ -1,17 +1,21 @@
 {
-  "jisCode": "03208",
-  "oldZipCode": "02805",
-  "zipCode": "0280553",
-  "prefectureKana": "イワテケン",
-  "cityKana": "トオノシ",
-  "townKana": "ツチブチチョウカシワザキ",
-  "prefecture": "岩手県",
-  "city": "遠野市",
-  "town": "土淵町柏崎",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "03208",
+      "oldZipCode": "02805",
+      "zipCode": "0280553",
+      "prefectureKana": "イワテケン",
+      "cityKana": "トオノシ",
+      "townKana": "ツチブチチョウカシワザキ",
+      "prefecture": "岩手県",
+      "city": "遠野市",
+      "town": "土淵町柏崎",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

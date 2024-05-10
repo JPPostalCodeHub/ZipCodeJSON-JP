@@ -1,17 +1,21 @@
 {
-  "jisCode": "20562",
-  "oldZipCode": "38923",
-  "zipCode": "3892301",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "シモタカイグンキジマダイラムラ",
-  "townKana": "ホタカ",
-  "prefecture": "長野県",
-  "city": "下高井郡木島平村",
-  "town": "穂高",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20562",
+      "oldZipCode": "38923",
+      "zipCode": "3892301",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "シモタカイグンキジマダイラムラ",
+      "townKana": "ホタカ",
+      "prefecture": "長野県",
+      "city": "下高井郡木島平村",
+      "town": "穂高",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

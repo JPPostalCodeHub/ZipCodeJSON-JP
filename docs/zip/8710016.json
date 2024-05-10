@@ -1,17 +1,21 @@
 {
-  "jisCode": "44203",
-  "oldZipCode": "871  ",
-  "zipCode": "8710016",
-  "prefectureKana": "オオイタケン",
-  "cityKana": "ナカツシ",
-  "townKana": "ウシガミマチ",
-  "prefecture": "大分県",
-  "city": "中津市",
-  "town": "牛神町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "44203",
+      "oldZipCode": "871  ",
+      "zipCode": "8710016",
+      "prefectureKana": "オオイタケン",
+      "cityKana": "ナカツシ",
+      "townKana": "ウシガミマチ",
+      "prefecture": "大分県",
+      "city": "中津市",
+      "town": "牛神町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

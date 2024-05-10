@@ -1,17 +1,21 @@
 {
-  "jisCode": "01236",
-  "oldZipCode": "04112",
-  "zipCode": "0411215",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ホクトシ",
-  "townKana": "ハギノ",
-  "prefecture": "北海道",
-  "city": "北斗市",
-  "town": "萩野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01236",
+      "oldZipCode": "04112",
+      "zipCode": "0411215",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ホクトシ",
+      "townKana": "ハギノ",
+      "prefecture": "北海道",
+      "city": "北斗市",
+      "town": "萩野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

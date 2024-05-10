@@ -1,17 +1,21 @@
 {
-  "jisCode": "42211",
-  "oldZipCode": "853  ",
-  "zipCode": "8530017",
-  "prefectureKana": "ナガサキケン",
-  "cityKana": "ゴトウシ",
-  "townKana": "ブケヤシキ",
-  "prefecture": "長崎県",
-  "city": "五島市",
-  "town": "武家屋敷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "42211",
+      "oldZipCode": "853  ",
+      "zipCode": "8530017",
+      "prefectureKana": "ナガサキケン",
+      "cityKana": "ゴトウシ",
+      "townKana": "ブケヤシキ",
+      "prefecture": "長崎県",
+      "city": "五島市",
+      "town": "武家屋敷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "08205",
-  "oldZipCode": "315  ",
-  "zipCode": "3150007",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "イシオカシ",
-  "townKana": "ソメヤ",
-  "prefecture": "茨城県",
-  "city": "石岡市",
-  "town": "染谷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08205",
+      "oldZipCode": "315  ",
+      "zipCode": "3150007",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "イシオカシ",
+      "townKana": "ソメヤ",
+      "prefecture": "茨城県",
+      "city": "石岡市",
+      "town": "染谷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

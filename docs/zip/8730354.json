@@ -1,17 +1,21 @@
 {
-  "jisCode": "44214",
-  "oldZipCode": "87303",
-  "zipCode": "8730354",
-  "prefectureKana": "オオイタケン",
-  "cityKana": "クニサキシ",
-  "townKana": "アキマチイトナガ",
-  "prefecture": "大分県",
-  "city": "国東市",
-  "town": "安岐町糸永",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "44214",
+      "oldZipCode": "87303",
+      "zipCode": "8730354",
+      "prefectureKana": "オオイタケン",
+      "cityKana": "クニサキシ",
+      "townKana": "アキマチイトナガ",
+      "prefecture": "大分県",
+      "city": "国東市",
+      "town": "安岐町糸永",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

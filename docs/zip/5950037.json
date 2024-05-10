@@ -1,17 +1,38 @@
 {
-  "jisCode": "27206",
-  "oldZipCode": "595  ",
-  "zipCode": "5950037",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "イズミオオツシ",
-  "townKana": "ムシトリチョウ",
-  "prefecture": "大阪府",
-  "city": "泉大津市",
-  "town": "虫取町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27206",
+      "oldZipCode": "595  ",
+      "zipCode": "5950037",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "イズミオオツシ",
+      "townKana": "ムシトリ",
+      "prefecture": "大阪府",
+      "city": "泉大津市",
+      "town": "虫取",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "27206",
+      "oldZipCode": "595  ",
+      "zipCode": "5950037",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "イズミオオツシ",
+      "townKana": "ムシトリチョウ",
+      "prefecture": "大阪府",
+      "city": "泉大津市",
+      "town": "虫取町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

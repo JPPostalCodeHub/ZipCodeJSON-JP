@@ -1,17 +1,21 @@
 {
-  "jisCode": "28205",
-  "oldZipCode": "656  ",
-  "zipCode": "6560014",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "スモトシ",
-  "townKana": "クワマ",
-  "prefecture": "兵庫県",
-  "city": "洲本市",
-  "town": "桑間",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28205",
+      "oldZipCode": "656  ",
+      "zipCode": "6560014",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "スモトシ",
+      "townKana": "クワマ",
+      "prefecture": "兵庫県",
+      "city": "洲本市",
+      "town": "桑間",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

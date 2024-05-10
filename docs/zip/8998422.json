@@ -1,17 +1,21 @@
 {
-  "jisCode": "46217",
-  "oldZipCode": "89984",
-  "zipCode": "8998422",
-  "prefectureKana": "カゴシマケン",
-  "cityKana": "ソオシ",
-  "townKana": "オオスミチョウサカモト",
-  "prefecture": "鹿児島県",
-  "city": "曽於市",
-  "town": "大隅町坂元",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "46217",
+      "oldZipCode": "89984",
+      "zipCode": "8998422",
+      "prefectureKana": "カゴシマケン",
+      "cityKana": "ソオシ",
+      "townKana": "オオスミチョウサカモト",
+      "prefecture": "鹿児島県",
+      "city": "曽於市",
+      "town": "大隅町坂元",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

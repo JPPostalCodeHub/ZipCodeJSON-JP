@@ -1,17 +1,21 @@
 {
-  "jisCode": "26206",
-  "oldZipCode": "621  ",
-  "zipCode": "6210043",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "カメオカシ",
-  "townKana": "チヨカワチョウオバヤシ",
-  "prefecture": "京都府",
-  "city": "亀岡市",
-  "town": "千代川町小林",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26206",
+      "oldZipCode": "621  ",
+      "zipCode": "6210043",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "カメオカシ",
+      "townKana": "チヨカワチョウオバヤシ",
+      "prefecture": "京都府",
+      "city": "亀岡市",
+      "town": "千代川町小林",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

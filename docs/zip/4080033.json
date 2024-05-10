@@ -1,17 +1,21 @@
 {
-  "jisCode": "19209",
-  "oldZipCode": "408  ",
-  "zipCode": "4080033",
-  "prefectureKana": "ヤマナシケン",
-  "cityKana": "ホクトシ",
-  "townKana": "ナガサカチョウシロイザワ",
-  "prefecture": "山梨県",
-  "city": "北杜市",
-  "town": "長坂町白井沢",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "19209",
+      "oldZipCode": "408  ",
+      "zipCode": "4080033",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "ホクトシ",
+      "townKana": "ナガサカチョウシロイザワ",
+      "prefecture": "山梨県",
+      "city": "北杜市",
+      "town": "長坂町白井沢",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

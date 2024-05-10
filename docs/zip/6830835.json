@@ -1,17 +1,21 @@
 {
-  "jisCode": "31202",
-  "oldZipCode": "683  ",
-  "zipCode": "6830835",
-  "prefectureKana": "トットリケン",
-  "cityKana": "ヨナゴシ",
-  "townKana": "ナダマチ",
-  "prefecture": "鳥取県",
-  "city": "米子市",
-  "town": "灘町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "31202",
+      "oldZipCode": "683  ",
+      "zipCode": "6830835",
+      "prefectureKana": "トットリケン",
+      "cityKana": "ヨナゴシ",
+      "townKana": "ナダマチ",
+      "prefecture": "鳥取県",
+      "city": "米子市",
+      "town": "灘町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

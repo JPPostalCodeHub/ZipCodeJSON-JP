@@ -1,17 +1,21 @@
 {
-  "jisCode": "07204",
-  "oldZipCode": "972  ",
-  "zipCode": "9728336",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "イワキシ",
-  "townKana": "ワタナベマチカミカマド",
-  "prefecture": "福島県",
-  "city": "いわき市",
-  "town": "渡辺町上釜戸",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07204",
+      "oldZipCode": "972  ",
+      "zipCode": "9728336",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "イワキシ",
+      "townKana": "ワタナベマチカミカマド",
+      "prefecture": "福島県",
+      "city": "いわき市",
+      "town": "渡辺町上釜戸",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

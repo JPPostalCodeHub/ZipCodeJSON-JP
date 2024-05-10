@@ -1,17 +1,21 @@
 {
-  "jisCode": "24212",
-  "oldZipCode": "51943",
-  "zipCode": "5194326",
-  "prefectureKana": "ミエケン",
-  "cityKana": "クマノシ",
-  "townKana": "クシヤチョウ",
-  "prefecture": "三重県",
-  "city": "熊野市",
-  "town": "久生屋町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "24212",
+      "oldZipCode": "51943",
+      "zipCode": "5194326",
+      "prefectureKana": "ミエケン",
+      "cityKana": "クマノシ",
+      "townKana": "クシヤチョウ",
+      "prefecture": "三重県",
+      "city": "熊野市",
+      "town": "久生屋町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

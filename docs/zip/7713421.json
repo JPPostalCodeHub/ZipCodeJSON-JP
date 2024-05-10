@@ -1,17 +1,21 @@
 {
-  "jisCode": "36342",
-  "oldZipCode": "77134",
-  "zipCode": "7713421",
-  "prefectureKana": "トクシマケン",
-  "cityKana": "ミョウザイグンカミヤマチョウ",
-  "townKana": "シモブン",
-  "prefecture": "徳島県",
-  "city": "名西郡神山町",
-  "town": "下分",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "36342",
+      "oldZipCode": "77134",
+      "zipCode": "7713421",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "ミョウザイグンカミヤマチョウ",
+      "townKana": "シモブン",
+      "prefecture": "徳島県",
+      "city": "名西郡神山町",
+      "town": "下分",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

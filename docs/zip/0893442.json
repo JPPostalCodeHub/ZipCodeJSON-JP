@@ -1,17 +1,21 @@
 {
-  "jisCode": "01646",
-  "oldZipCode": "08934",
-  "zipCode": "0893442",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ナカガワグンホンベツチョウ",
-  "townKana": "ビリベツ（タクノウ、ヒガシカッコミ、ヒガシカミ、ヒガシナカ）",
-  "prefecture": "北海道",
-  "city": "中川郡本別町",
-  "town": "美里別（拓農、東活込、東上、東中）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01646",
+      "oldZipCode": "08934",
+      "zipCode": "0893442",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ナカガワグンホンベツチョウ",
+      "townKana": "ビリベツ（タクノウ、ヒガシカッコミ、ヒガシカミ、ヒガシナカ）",
+      "prefecture": "北海道",
+      "city": "中川郡本別町",
+      "town": "美里別（拓農、東活込、東上、東中）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

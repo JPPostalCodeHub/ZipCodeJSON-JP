@@ -1,17 +1,21 @@
 {
-  "jisCode": "19201",
-  "oldZipCode": "400  ",
-  "zipCode": "4000867",
-  "prefectureKana": "ヤマナシケン",
-  "cityKana": "コウフシ",
-  "townKana": "アオヌマ",
-  "prefecture": "山梨県",
-  "city": "甲府市",
-  "town": "青沼",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "19201",
+      "oldZipCode": "400  ",
+      "zipCode": "4000867",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "コウフシ",
+      "townKana": "アオヌマ",
+      "prefecture": "山梨県",
+      "city": "甲府市",
+      "town": "青沼",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

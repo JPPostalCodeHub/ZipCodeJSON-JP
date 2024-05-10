@@ -1,17 +1,21 @@
 {
-  "jisCode": "34102",
-  "oldZipCode": "732  ",
-  "zipCode": "7320065",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "ヒロシマシヒガシク",
-  "townKana": "ウシタナカ",
-  "prefecture": "広島県",
-  "city": "広島市東区",
-  "town": "牛田中",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34102",
+      "oldZipCode": "732  ",
+      "zipCode": "7320065",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ヒロシマシヒガシク",
+      "townKana": "ウシタナカ",
+      "prefecture": "広島県",
+      "city": "広島市東区",
+      "town": "牛田中",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

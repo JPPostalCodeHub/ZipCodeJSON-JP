@@ -1,17 +1,21 @@
 {
-  "jisCode": "28222",
-  "oldZipCode": "66711",
-  "zipCode": "6671122",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "ヤブシ",
-  "townKana": "クサイデ",
-  "prefecture": "兵庫県",
-  "city": "養父市",
-  "town": "草出",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28222",
+      "oldZipCode": "66711",
+      "zipCode": "6671122",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "ヤブシ",
+      "townKana": "クサイデ",
+      "prefecture": "兵庫県",
+      "city": "養父市",
+      "town": "草出",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

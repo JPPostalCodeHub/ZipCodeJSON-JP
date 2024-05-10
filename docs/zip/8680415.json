@@ -1,17 +1,21 @@
 {
-  "jisCode": "43514",
-  "oldZipCode": "86804",
-  "zipCode": "8680415",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "クマグンアサギリチョウ",
-  "townKana": "メンダニシ",
-  "prefecture": "熊本県",
-  "city": "球磨郡あさぎり町",
-  "town": "免田西",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43514",
+      "oldZipCode": "86804",
+      "zipCode": "8680415",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "クマグンアサギリチョウ",
+      "townKana": "メンダニシ",
+      "prefecture": "熊本県",
+      "city": "球磨郡あさぎり町",
+      "town": "免田西",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

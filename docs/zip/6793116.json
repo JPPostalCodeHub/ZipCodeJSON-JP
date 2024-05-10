@@ -1,17 +1,21 @@
 {
-  "jisCode": "28446",
-  "oldZipCode": "67931",
-  "zipCode": "6793116",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "カンザキグンカミカワチョウ",
-  "townKana": "テラマエ",
-  "prefecture": "兵庫県",
-  "city": "神崎郡神河町",
-  "town": "寺前",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28446",
+      "oldZipCode": "67931",
+      "zipCode": "6793116",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "カンザキグンカミカワチョウ",
+      "townKana": "テラマエ",
+      "prefecture": "兵庫県",
+      "city": "神崎郡神河町",
+      "town": "寺前",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

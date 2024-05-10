@@ -1,17 +1,21 @@
 {
-  "jisCode": "13363",
-  "oldZipCode": "10004",
-  "zipCode": "1000401",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "ニイジマムラ",
-  "townKana": "ワカゴウ",
-  "prefecture": "東京都",
-  "city": "新島村",
-  "town": "若郷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13363",
+      "oldZipCode": "10004",
+      "zipCode": "1000401",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "ニイジマムラ",
+      "townKana": "ワカゴウ",
+      "prefecture": "東京都",
+      "city": "新島村",
+      "town": "若郷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

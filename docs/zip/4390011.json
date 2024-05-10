@@ -1,17 +1,21 @@
 {
-  "jisCode": "22224",
-  "oldZipCode": "439  ",
-  "zipCode": "4390011",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "キクガワシ",
-  "townKana": "ナカジマ",
-  "prefecture": "静岡県",
-  "city": "菊川市",
-  "town": "仲島",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22224",
+      "oldZipCode": "439  ",
+      "zipCode": "4390011",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "キクガワシ",
+      "townKana": "ナカジマ",
+      "prefecture": "静岡県",
+      "city": "菊川市",
+      "town": "仲島",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

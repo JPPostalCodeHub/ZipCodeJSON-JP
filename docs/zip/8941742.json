@@ -1,17 +1,21 @@
 {
-  "jisCode": "46525",
-  "oldZipCode": "89417",
-  "zipCode": "8941742",
-  "prefectureKana": "カゴシマケン",
-  "cityKana": "オオシマグンセトウチチョウ",
-  "townKana": "アムロガマ",
-  "prefecture": "鹿児島県",
-  "city": "大島郡瀬戸内町",
-  "town": "阿室釜",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "46525",
+      "oldZipCode": "89417",
+      "zipCode": "8941742",
+      "prefectureKana": "カゴシマケン",
+      "cityKana": "オオシマグンセトウチチョウ",
+      "townKana": "アムロガマ",
+      "prefecture": "鹿児島県",
+      "city": "大島郡瀬戸内町",
+      "town": "阿室釜",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

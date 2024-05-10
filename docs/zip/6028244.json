@@ -1,17 +1,21 @@
 {
-  "jisCode": "26102",
-  "oldZipCode": "602  ",
-  "zipCode": "6028244",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシカミギョウク",
-  "townKana": "キクヤチョウ",
-  "prefecture": "京都府",
-  "city": "京都市上京区",
-  "town": "菊屋町（葭屋町通上長者町下る、葭屋町通下長者町上る、上長者町通葭屋町西入、上長者町通葭屋町東入、下長者町通葭屋町西入、下長者町通葭屋町東入、下長者町通堀川西入）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26102",
+      "oldZipCode": "602  ",
+      "zipCode": "6028244",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシカミギョウク",
+      "townKana": "キクヤチョウ",
+      "prefecture": "京都府",
+      "city": "京都市上京区",
+      "town": "菊屋町（葭屋町通上長者町下る、葭屋町通下長者町上る、上長者町通葭屋町西入、上長者町通葭屋町東入、下長者町通葭屋町西入、下長者町通葭屋町東入、下長者町通堀川西入）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

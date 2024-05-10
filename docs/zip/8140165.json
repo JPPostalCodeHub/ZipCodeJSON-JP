@@ -1,17 +1,21 @@
 {
-  "jisCode": "40137",
-  "oldZipCode": "81401",
-  "zipCode": "8140165",
-  "prefectureKana": "フクオカケン",
-  "cityKana": "フクオカシサワラク",
-  "townKana": "ジロウマル",
-  "prefecture": "福岡県",
-  "city": "福岡市早良区",
-  "town": "次郎丸",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "40137",
+      "oldZipCode": "81401",
+      "zipCode": "8140165",
+      "prefectureKana": "フクオカケン",
+      "cityKana": "フクオカシサワラク",
+      "townKana": "ジロウマル",
+      "prefecture": "福岡県",
+      "city": "福岡市早良区",
+      "town": "次郎丸",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

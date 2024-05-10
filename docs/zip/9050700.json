@@ -1,17 +1,21 @@
 {
-  "jisCode": "47359",
-  "oldZipCode": "90507",
-  "zipCode": "9050700",
-  "prefectureKana": "オキナワケン",
-  "cityKana": "シマジリグンイヘヤソン",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "沖縄県",
-  "city": "島尻郡伊平屋村",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "47359",
+      "oldZipCode": "90507",
+      "zipCode": "9050700",
+      "prefectureKana": "オキナワケン",
+      "cityKana": "シマジリグンイヘヤソン",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "沖縄県",
+      "city": "島尻郡伊平屋村",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "23203",
-  "oldZipCode": "491  ",
-  "zipCode": "4910918",
-  "prefectureKana": "アイチケン",
-  "cityKana": "イチノミヤシ",
-  "townKana": "スエヒロ",
-  "prefecture": "愛知県",
-  "city": "一宮市",
-  "town": "末広",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23203",
+      "oldZipCode": "491  ",
+      "zipCode": "4910918",
+      "prefectureKana": "アイチケン",
+      "cityKana": "イチノミヤシ",
+      "townKana": "スエヒロ",
+      "prefecture": "愛知県",
+      "city": "一宮市",
+      "town": "末広",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

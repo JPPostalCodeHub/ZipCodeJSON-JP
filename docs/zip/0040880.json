@@ -1,17 +1,21 @@
 {
-  "jisCode": "01110",
-  "oldZipCode": "004  ",
-  "zipCode": "0040880",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "サッポロシキヨタク",
-  "townKana": "ヒラオカ１０ジョウ",
-  "prefecture": "北海道",
-  "city": "札幌市清田区",
-  "town": "平岡十条",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01110",
+      "oldZipCode": "004  ",
+      "zipCode": "0040880",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "サッポロシキヨタク",
+      "townKana": "ヒラオカ１０ジョウ",
+      "prefecture": "北海道",
+      "city": "札幌市清田区",
+      "town": "平岡十条",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

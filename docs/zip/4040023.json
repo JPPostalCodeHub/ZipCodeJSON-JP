@@ -1,17 +1,21 @@
 {
-  "jisCode": "19213",
-  "oldZipCode": "404  ",
-  "zipCode": "4040023",
-  "prefectureKana": "ヤマナシケン",
-  "cityKana": "コウシュウシ",
-  "townKana": "エンザンナカハギハラ（ソノタ）",
-  "prefecture": "山梨県",
-  "city": "甲州市",
-  "town": "塩山中萩原（その他）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "19213",
+      "oldZipCode": "404  ",
+      "zipCode": "4040023",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "コウシュウシ",
+      "townKana": "エンザンナカハギハラ（ソノタ）",
+      "prefecture": "山梨県",
+      "city": "甲州市",
+      "town": "塩山中萩原（その他）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

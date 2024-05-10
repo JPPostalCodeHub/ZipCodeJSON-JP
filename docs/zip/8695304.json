@@ -1,17 +1,21 @@
 {
-  "jisCode": "43482",
-  "oldZipCode": "86953",
-  "zipCode": "8695304",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "アシキタグンアシキタマチ",
-  "townKana": "ウミノウラ",
-  "prefecture": "熊本県",
-  "city": "葦北郡芦北町",
-  "town": "海浦",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43482",
+      "oldZipCode": "86953",
+      "zipCode": "8695304",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "アシキタグンアシキタマチ",
+      "townKana": "ウミノウラ",
+      "prefecture": "熊本県",
+      "city": "葦北郡芦北町",
+      "town": "海浦",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

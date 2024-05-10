@@ -1,17 +1,21 @@
 {
-  "jisCode": "30343",
-  "oldZipCode": "64801",
-  "zipCode": "6480142",
-  "prefectureKana": "ワカヤマケン",
-  "cityKana": "イトグンクドヤマチョウ",
-  "townKana": "カサギ",
-  "prefecture": "和歌山県",
-  "city": "伊都郡九度山町",
-  "town": "笠木",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "30343",
+      "oldZipCode": "64801",
+      "zipCode": "6480142",
+      "prefectureKana": "ワカヤマケン",
+      "cityKana": "イトグンクドヤマチョウ",
+      "townKana": "カサギ",
+      "prefecture": "和歌山県",
+      "city": "伊都郡九度山町",
+      "town": "笠木",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

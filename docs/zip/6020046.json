@@ -1,17 +1,21 @@
 {
-  "jisCode": "26102",
-  "oldZipCode": "602  ",
-  "zipCode": "6020046",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシカミギョウク",
-  "townKana": "ニシオオジチョウ",
-  "prefecture": "京都府",
-  "city": "京都市上京区",
-  "town": "西大路町（上立売通小川東入、上立売通新町西入、上立売通新町東入、上立売通新町東入上る、新町通上立売上る）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26102",
+      "oldZipCode": "602  ",
+      "zipCode": "6020046",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシカミギョウク",
+      "townKana": "ニシオオジチョウ",
+      "prefecture": "京都府",
+      "city": "京都市上京区",
+      "town": "西大路町（上立売通小川東入、上立売通新町西入、上立売通新町東入、上立売通新町東入上る、新町通上立売上る）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "34545",
-  "oldZipCode": "72936",
-  "zipCode": "7293602",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "ジンセキグンジンセキコウゲンチョウ",
-  "townKana": "ナガノ",
-  "prefecture": "広島県",
-  "city": "神石郡神石高原町",
-  "town": "永野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34545",
+      "oldZipCode": "72936",
+      "zipCode": "7293602",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ジンセキグンジンセキコウゲンチョウ",
+      "townKana": "ナガノ",
+      "prefecture": "広島県",
+      "city": "神石郡神石高原町",
+      "town": "永野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

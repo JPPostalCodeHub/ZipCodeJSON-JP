@@ -1,17 +1,21 @@
 {
-  "jisCode": "02207",
-  "oldZipCode": "033  ",
-  "zipCode": "0330000",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "ミサワシ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "青森県",
-  "city": "三沢市",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02207",
+      "oldZipCode": "033  ",
+      "zipCode": "0330000",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "ミサワシ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "青森県",
+      "city": "三沢市",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

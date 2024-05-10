@@ -1,17 +1,21 @@
 {
-  "jisCode": "22103",
-  "oldZipCode": "42131",
-  "zipCode": "4213102",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "シズオカシシミズク",
-  "townKana": "ユイヒガシヤマデラ",
-  "prefecture": "静岡県",
-  "city": "静岡市清水区",
-  "town": "由比東山寺",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22103",
+      "oldZipCode": "42131",
+      "zipCode": "4213102",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "シズオカシシミズク",
+      "townKana": "ユイヒガシヤマデラ",
+      "prefecture": "静岡県",
+      "city": "静岡市清水区",
+      "town": "由比東山寺",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

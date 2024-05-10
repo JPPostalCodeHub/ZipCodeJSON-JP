@@ -1,17 +1,21 @@
 {
-  "jisCode": "40220",
-  "oldZipCode": "81141",
-  "zipCode": "8114165",
-  "prefectureKana": "フクオカケン",
-  "cityKana": "ムナカタシ",
-  "townKana": "コウリョウダイ",
-  "prefecture": "福岡県",
-  "city": "宗像市",
-  "town": "広陵台",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "40220",
+      "oldZipCode": "81141",
+      "zipCode": "8114165",
+      "prefectureKana": "フクオカケン",
+      "cityKana": "ムナカタシ",
+      "townKana": "コウリョウダイ",
+      "prefecture": "福岡県",
+      "city": "宗像市",
+      "town": "広陵台",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

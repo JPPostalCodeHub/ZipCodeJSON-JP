@@ -1,17 +1,21 @@
 {
-  "jisCode": "19366",
-  "oldZipCode": "40922",
-  "zipCode": "4092212",
-  "prefectureKana": "ヤマナシケン",
-  "cityKana": "ミナミコマグンナンブチョウ",
-  "townKana": "ナンブ",
-  "prefecture": "山梨県",
-  "city": "南巨摩郡南部町",
-  "town": "南部",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "19366",
+      "oldZipCode": "40922",
+      "zipCode": "4092212",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "ミナミコマグンナンブチョウ",
+      "townKana": "ナンブ",
+      "prefecture": "山梨県",
+      "city": "南巨摩郡南部町",
+      "town": "南部",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

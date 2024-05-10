@@ -1,17 +1,21 @@
 {
-  "jisCode": "26104",
-  "oldZipCode": "604  ",
-  "zipCode": "6048073",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシナカギョウク",
-  "townKana": "ダイコクチョウ",
-  "prefecture": "京都府",
-  "city": "京都市中京区",
-  "town": "大黒町（麩屋町通六角上る、麩屋町通六角下る、六角通麩屋町西入、富小路通六角上る、富小路通六角下る、六角通富小路西入、六角通富小路東入、六角通柳馬場東入）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26104",
+      "oldZipCode": "604  ",
+      "zipCode": "6048073",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシナカギョウク",
+      "townKana": "ダイコクチョウ",
+      "prefecture": "京都府",
+      "city": "京都市中京区",
+      "town": "大黒町（麩屋町通六角上る、麩屋町通六角下る、六角通麩屋町西入、富小路通六角上る、富小路通六角下る、六角通富小路西入、六角通富小路東入、六角通柳馬場東入）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

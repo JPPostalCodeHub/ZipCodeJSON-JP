@@ -1,17 +1,21 @@
 {
-  "jisCode": "14103",
-  "oldZipCode": "220  ",
-  "zipCode": "2206127",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "ヨコハマシニシク",
-  "townKana": "ミナトミライクイーンズタワーＢ（２７カイ）",
-  "prefecture": "神奈川県",
-  "city": "横浜市西区",
-  "town": "みなとみらいクイーンズタワーＢ（２７階）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14103",
+      "oldZipCode": "220  ",
+      "zipCode": "2206127",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "ヨコハマシニシク",
+      "townKana": "ミナトミライクイーンズタワーＢ（２７カイ）",
+      "prefecture": "神奈川県",
+      "city": "横浜市西区",
+      "town": "みなとみらいクイーンズタワーＢ（２７階）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

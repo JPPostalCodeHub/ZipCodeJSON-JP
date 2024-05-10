@@ -1,17 +1,21 @@
 {
-  "jisCode": "23104",
-  "oldZipCode": "451  ",
-  "zipCode": "4510035",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ナゴヤシニシク",
-  "townKana": "センゲン",
-  "prefecture": "愛知県",
-  "city": "名古屋市西区",
-  "town": "浅間",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23104",
+      "oldZipCode": "451  ",
+      "zipCode": "4510035",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ナゴヤシニシク",
+      "townKana": "センゲン",
+      "prefecture": "愛知県",
+      "city": "名古屋市西区",
+      "town": "浅間",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

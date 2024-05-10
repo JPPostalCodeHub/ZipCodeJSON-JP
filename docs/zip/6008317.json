@@ -1,17 +1,21 @@
 {
-  "jisCode": "26106",
-  "oldZipCode": "600  ",
-  "zipCode": "6008317",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシシモギョウク",
-  "townKana": "カギヤチョウ",
-  "prefecture": "京都府",
-  "city": "京都市下京区",
-  "town": "鍵屋町（北小路通西洞院東入、北小路通若宮西入、正面通新町西入、若宮通正面下る、若宮通北小路上る、正面通若宮東入）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26106",
+      "oldZipCode": "600  ",
+      "zipCode": "6008317",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシシモギョウク",
+      "townKana": "カギヤチョウ",
+      "prefecture": "京都府",
+      "city": "京都市下京区",
+      "town": "鍵屋町（北小路通西洞院東入、北小路通若宮西入、正面通新町西入、若宮通正面下る、若宮通北小路上る、正面通若宮東入）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

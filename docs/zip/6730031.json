@@ -1,17 +1,21 @@
 {
-  "jisCode": "28203",
-  "oldZipCode": "673  ",
-  "zipCode": "6730031",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "アカシシ",
-  "townKana": "ミヤノウエ",
-  "prefecture": "兵庫県",
-  "city": "明石市",
-  "town": "宮の上",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28203",
+      "oldZipCode": "673  ",
+      "zipCode": "6730031",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "アカシシ",
+      "townKana": "ミヤノウエ",
+      "prefecture": "兵庫県",
+      "city": "明石市",
+      "town": "宮の上",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

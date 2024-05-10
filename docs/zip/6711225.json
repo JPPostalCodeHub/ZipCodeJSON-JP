@@ -1,17 +1,21 @@
 {
-  "jisCode": "28201",
-  "oldZipCode": "67112",
-  "zipCode": "6711225",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "ヒメジシ",
-  "townKana": "アボシクフクイ",
-  "prefecture": "兵庫県",
-  "city": "姫路市",
-  "town": "網干区福井",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28201",
+      "oldZipCode": "67112",
+      "zipCode": "6711225",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "ヒメジシ",
+      "townKana": "アボシクフクイ",
+      "prefecture": "兵庫県",
+      "city": "姫路市",
+      "town": "網干区福井",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

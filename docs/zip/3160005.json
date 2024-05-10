@@ -1,17 +1,21 @@
 {
-  "jisCode": "08202",
-  "oldZipCode": "316  ",
-  "zipCode": "3160005",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "ヒタチシ",
-  "townKana": "カワラゴチョウ",
-  "prefecture": "茨城県",
-  "city": "日立市",
-  "town": "河原子町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08202",
+      "oldZipCode": "316  ",
+      "zipCode": "3160005",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "ヒタチシ",
+      "townKana": "カワラゴチョウ",
+      "prefecture": "茨城県",
+      "city": "日立市",
+      "town": "河原子町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "01693",
-  "oldZipCode": "08616",
-  "zipCode": "0861626",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "シベツグンシベツチョウ",
-  "townKana": "チャシコツ（ヒガシハマチョウ）",
-  "prefecture": "北海道",
-  "city": "標津郡標津町",
-  "town": "茶志骨（東浜町）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01693",
+      "oldZipCode": "08616",
+      "zipCode": "0861626",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "シベツグンシベツチョウ",
+      "townKana": "チャシコツ（ヒガシハマチョウ）",
+      "prefecture": "北海道",
+      "city": "標津郡標津町",
+      "town": "茶志骨（東浜町）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

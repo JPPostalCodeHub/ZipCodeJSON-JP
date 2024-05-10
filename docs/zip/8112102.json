@@ -1,17 +1,21 @@
 {
-  "jisCode": "40341",
-  "oldZipCode": "81121",
-  "zipCode": "8112102",
-  "prefectureKana": "フクオカケン",
-  "cityKana": "カスヤグンウミマチ",
-  "townKana": "スミヤキ",
-  "prefecture": "福岡県",
-  "city": "糟屋郡宇美町",
-  "town": "炭焼",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "40341",
+      "oldZipCode": "81121",
+      "zipCode": "8112102",
+      "prefectureKana": "フクオカケン",
+      "cityKana": "カスヤグンウミマチ",
+      "townKana": "スミヤキ",
+      "prefecture": "福岡県",
+      "city": "糟屋郡宇美町",
+      "town": "炭焼",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

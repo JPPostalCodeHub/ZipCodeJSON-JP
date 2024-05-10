@@ -1,17 +1,38 @@
 {
-  "jisCode": "39210",
-  "oldZipCode": "78711",
-  "zipCode": "7871107",
-  "prefectureKana": "コウチケン",
-  "cityKana": "シマントシ",
-  "townKana": "ナカムラ（ダイヨウジ）",
-  "prefecture": "高知県",
-  "city": "四万十市",
-  "town": "中村（大用寺）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "39210",
+      "oldZipCode": "78711",
+      "zipCode": "7871107",
+      "prefectureKana": "コウチケン",
+      "cityKana": "シマントシ",
+      "townKana": "イワタ",
+      "prefecture": "高知県",
+      "city": "四万十市",
+      "town": "岩田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "39210",
+      "oldZipCode": "78711",
+      "zipCode": "7871107",
+      "prefectureKana": "コウチケン",
+      "cityKana": "シマントシ",
+      "townKana": "ナカムラ（ダイヨウジ）",
+      "prefecture": "高知県",
+      "city": "四万十市",
+      "town": "中村（大用寺）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

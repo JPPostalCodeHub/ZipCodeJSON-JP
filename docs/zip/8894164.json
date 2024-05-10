@@ -1,17 +1,21 @@
 {
-  "jisCode": "45209",
-  "oldZipCode": "88941",
-  "zipCode": "8894164",
-  "prefectureKana": "ミヤザキケン",
-  "cityKana": "エビノシ",
-  "townKana": "ショウミョウジ",
-  "prefecture": "宮崎県",
-  "city": "えびの市",
-  "town": "昌明寺",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "45209",
+      "oldZipCode": "88941",
+      "zipCode": "8894164",
+      "prefectureKana": "ミヤザキケン",
+      "cityKana": "エビノシ",
+      "townKana": "ショウミョウジ",
+      "prefecture": "宮崎県",
+      "city": "えびの市",
+      "town": "昌明寺",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

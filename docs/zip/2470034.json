@@ -1,17 +1,21 @@
 {
-  "jisCode": "14115",
-  "oldZipCode": "247  ",
-  "zipCode": "2470034",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "ヨコハマシサカエク",
-  "townKana": "カツラダイナカ",
-  "prefecture": "神奈川県",
-  "city": "横浜市栄区",
-  "town": "桂台中",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14115",
+      "oldZipCode": "247  ",
+      "zipCode": "2470034",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "ヨコハマシサカエク",
+      "townKana": "カツラダイナカ",
+      "prefecture": "神奈川県",
+      "city": "横浜市栄区",
+      "town": "桂台中",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

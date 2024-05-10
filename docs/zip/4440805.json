@@ -1,17 +1,21 @@
 {
-  "jisCode": "23202",
-  "oldZipCode": "444  ",
-  "zipCode": "4440805",
-  "prefectureKana": "アイチケン",
-  "cityKana": "オカザキシ",
-  "townKana": "ミアイチョウジゾウノ",
-  "prefecture": "愛知県",
-  "city": "岡崎市",
-  "town": "美合町地蔵野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23202",
+      "oldZipCode": "444  ",
+      "zipCode": "4440805",
+      "prefectureKana": "アイチケン",
+      "cityKana": "オカザキシ",
+      "townKana": "ミアイチョウジゾウノ",
+      "prefecture": "愛知県",
+      "city": "岡崎市",
+      "town": "美合町地蔵野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "12221",
-  "oldZipCode": "276  ",
-  "zipCode": "2760048",
-  "prefectureKana": "チバケン",
-  "cityKana": "ヤチヨシ",
-  "townKana": "オサキ",
-  "prefecture": "千葉県",
-  "city": "八千代市",
-  "town": "尾崎",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12221",
+      "oldZipCode": "276  ",
+      "zipCode": "2760048",
+      "prefectureKana": "チバケン",
+      "cityKana": "ヤチヨシ",
+      "townKana": "オサキ",
+      "prefecture": "千葉県",
+      "city": "八千代市",
+      "town": "尾崎",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

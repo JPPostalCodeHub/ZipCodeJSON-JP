@@ -1,17 +1,21 @@
 {
-  "jisCode": "26104",
-  "oldZipCode": "604  ",
-  "zipCode": "6048103",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシナカギョウク",
-  "townKana": "アブラヤチョウ",
-  "prefecture": "京都府",
-  "city": "京都市中京区",
-  "town": "油屋町（柳馬場通姉小路下る、柳馬場通三条上る、姉小路通柳馬場東入、姉小路通柳馬場西入）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26104",
+      "oldZipCode": "604  ",
+      "zipCode": "6048103",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシナカギョウク",
+      "townKana": "アブラヤチョウ",
+      "prefecture": "京都府",
+      "city": "京都市中京区",
+      "town": "油屋町（柳馬場通姉小路下る、柳馬場通三条上る、姉小路通柳馬場東入、姉小路通柳馬場西入）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

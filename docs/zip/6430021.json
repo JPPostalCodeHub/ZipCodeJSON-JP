@@ -1,17 +1,21 @@
 {
-  "jisCode": "30366",
-  "oldZipCode": "643  ",
-  "zipCode": "6430021",
-  "prefectureKana": "ワカヤマケン",
-  "cityKana": "アリダグンアリダガワチョウ",
-  "townKana": "シモツノ",
-  "prefecture": "和歌山県",
-  "city": "有田郡有田川町",
-  "town": "下津野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "30366",
+      "oldZipCode": "643  ",
+      "zipCode": "6430021",
+      "prefectureKana": "ワカヤマケン",
+      "cityKana": "アリダグンアリダガワチョウ",
+      "townKana": "シモツノ",
+      "prefecture": "和歌山県",
+      "city": "有田郡有田川町",
+      "town": "下津野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

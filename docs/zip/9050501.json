@@ -1,17 +1,21 @@
 {
-  "jisCode": "47315",
-  "oldZipCode": "90505",
-  "zipCode": "9050501",
-  "prefectureKana": "オキナワケン",
-  "cityKana": "クニガミグンイエソン",
-  "townKana": "ヒガシエウエ",
-  "prefecture": "沖縄県",
-  "city": "国頭郡伊江村",
-  "town": "東江上",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "47315",
+      "oldZipCode": "90505",
+      "zipCode": "9050501",
+      "prefectureKana": "オキナワケン",
+      "cityKana": "クニガミグンイエソン",
+      "townKana": "ヒガシエウエ",
+      "prefecture": "沖縄県",
+      "city": "国頭郡伊江村",
+      "town": "東江上",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

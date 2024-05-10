@@ -1,17 +1,21 @@
 {
-  "jisCode": "11107",
-  "oldZipCode": "336  ",
-  "zipCode": "3300074",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "サイタマシウラワク",
-  "townKana": "キタウラワ",
-  "prefecture": "埼玉県",
-  "city": "さいたま市浦和区",
-  "town": "北浦和",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11107",
+      "oldZipCode": "336  ",
+      "zipCode": "3300074",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "サイタマシウラワク",
+      "townKana": "キタウラワ",
+      "prefecture": "埼玉県",
+      "city": "さいたま市浦和区",
+      "town": "北浦和",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

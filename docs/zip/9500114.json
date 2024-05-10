@@ -1,17 +1,21 @@
 {
-  "jisCode": "15104",
-  "oldZipCode": "95001",
-  "zipCode": "9500114",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ニイガタシコウナンク",
-  "townKana": "ミョウガダニ",
-  "prefecture": "新潟県",
-  "city": "新潟市江南区",
-  "town": "茗荷谷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15104",
+      "oldZipCode": "95001",
+      "zipCode": "9500114",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ニイガタシコウナンク",
+      "townKana": "ミョウガダニ",
+      "prefecture": "新潟県",
+      "city": "新潟市江南区",
+      "town": "茗荷谷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

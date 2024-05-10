@@ -1,17 +1,21 @@
 {
-  "jisCode": "31390",
-  "oldZipCode": "68942",
-  "zipCode": "6894221",
-  "prefectureKana": "トットリケン",
-  "cityKana": "サイハクグンホウキチョウ",
-  "townKana": "トミエ",
-  "prefecture": "鳥取県",
-  "city": "西伯郡伯耆町",
-  "town": "富江",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "31390",
+      "oldZipCode": "68942",
+      "zipCode": "6894221",
+      "prefectureKana": "トットリケン",
+      "cityKana": "サイハクグンホウキチョウ",
+      "townKana": "トミエ",
+      "prefecture": "鳥取県",
+      "city": "西伯郡伯耆町",
+      "town": "富江",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

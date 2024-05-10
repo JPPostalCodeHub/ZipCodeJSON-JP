@@ -1,17 +1,38 @@
 {
-  "jisCode": "11327",
-  "oldZipCode": "35004",
-  "zipCode": "3500400",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "イルマグンオゴセマチ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "埼玉県",
-  "city": "入間郡越生町",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11326",
+      "oldZipCode": "35004",
+      "zipCode": "3500400",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "イルマグンモロヤママチ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "埼玉県",
+      "city": "入間郡毛呂山町",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "11327",
+      "oldZipCode": "35004",
+      "zipCode": "3500400",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "イルマグンオゴセマチ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "埼玉県",
+      "city": "入間郡越生町",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "40105",
-  "oldZipCode": "804  ",
-  "zipCode": "8040013",
-  "prefectureKana": "フクオカケン",
-  "cityKana": "キタキュウシュウシトバタク",
-  "townKana": "サカイガワ",
-  "prefecture": "福岡県",
-  "city": "北九州市戸畑区",
-  "town": "境川",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "40105",
+      "oldZipCode": "804  ",
+      "zipCode": "8040013",
+      "prefectureKana": "フクオカケン",
+      "cityKana": "キタキュウシュウシトバタク",
+      "townKana": "サカイガワ",
+      "prefecture": "福岡県",
+      "city": "北九州市戸畑区",
+      "town": "境川",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

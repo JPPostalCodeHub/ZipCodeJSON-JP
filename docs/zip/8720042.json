@@ -1,17 +1,21 @@
 {
-  "jisCode": "44211",
-  "oldZipCode": "872  ",
-  "zipCode": "8720042",
-  "prefectureKana": "オオイタケン",
-  "cityKana": "ウサシ",
-  "townKana": "キフネマチ",
-  "prefecture": "大分県",
-  "city": "宇佐市",
-  "town": "貴船町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "44211",
+      "oldZipCode": "872  ",
+      "zipCode": "8720042",
+      "prefectureKana": "オオイタケン",
+      "cityKana": "ウサシ",
+      "townKana": "キフネマチ",
+      "prefecture": "大分県",
+      "city": "宇佐市",
+      "town": "貴船町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

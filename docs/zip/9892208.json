@@ -1,17 +1,21 @@
 {
-  "jisCode": "04362",
-  "oldZipCode": "98922",
-  "zipCode": "9892208",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "ワタリグンヤマモトチョウ",
-  "townKana": "ツバメノモリ",
-  "prefecture": "宮城県",
-  "city": "亘理郡山元町",
-  "town": "つばめの杜",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04362",
+      "oldZipCode": "98922",
+      "zipCode": "9892208",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "ワタリグンヤマモトチョウ",
+      "townKana": "ツバメノモリ",
+      "prefecture": "宮城県",
+      "city": "亘理郡山元町",
+      "town": "つばめの杜",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

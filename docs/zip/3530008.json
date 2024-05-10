@@ -1,17 +1,21 @@
 {
-  "jisCode": "11228",
-  "oldZipCode": "353  ",
-  "zipCode": "3530008",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "シキシ",
-  "townKana": "ムネオカ",
-  "prefecture": "埼玉県",
-  "city": "志木市",
-  "town": "宗岡",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11228",
+      "oldZipCode": "353  ",
+      "zipCode": "3530008",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "シキシ",
+      "townKana": "ムネオカ",
+      "prefecture": "埼玉県",
+      "city": "志木市",
+      "town": "宗岡",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

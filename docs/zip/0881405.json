@@ -1,17 +1,21 @@
 {
-  "jisCode": "01663",
-  "oldZipCode": "08814",
-  "zipCode": "0881405",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "アッケシグンハマナカチョウ",
-  "townKana": "ポンポロト",
-  "prefecture": "北海道",
-  "city": "厚岸郡浜中町",
-  "town": "奔幌戸",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01663",
+      "oldZipCode": "08814",
+      "zipCode": "0881405",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "アッケシグンハマナカチョウ",
+      "townKana": "ポンポロト",
+      "prefecture": "北海道",
+      "city": "厚岸郡浜中町",
+      "town": "奔幌戸",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

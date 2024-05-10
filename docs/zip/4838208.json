@@ -1,17 +1,21 @@
 {
-  "jisCode": "23217",
-  "oldZipCode": "483  ",
-  "zipCode": "4838208",
-  "prefectureKana": "アイチケン",
-  "cityKana": "コウナンシ",
-  "townKana": "コチノチョウハナガスミ",
-  "prefecture": "愛知県",
-  "city": "江南市",
-  "town": "古知野町花霞",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23217",
+      "oldZipCode": "483  ",
+      "zipCode": "4838208",
+      "prefectureKana": "アイチケン",
+      "cityKana": "コウナンシ",
+      "townKana": "コチノチョウハナガスミ",
+      "prefecture": "愛知県",
+      "city": "江南市",
+      "town": "古知野町花霞",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

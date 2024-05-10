@@ -1,17 +1,21 @@
 {
-  "jisCode": "11241",
-  "oldZipCode": "35002",
-  "zipCode": "3502218",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "ツルガシマシ",
-  "townKana": "ヤナギドチョウ",
-  "prefecture": "埼玉県",
-  "city": "鶴ヶ島市",
-  "town": "柳戸町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11241",
+      "oldZipCode": "35002",
+      "zipCode": "3502218",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "ツルガシマシ",
+      "townKana": "ヤナギドチョウ",
+      "prefecture": "埼玉県",
+      "city": "鶴ヶ島市",
+      "town": "柳戸町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "12225",
-  "oldZipCode": "29204",
-  "zipCode": "2920412",
-  "prefectureKana": "チバケン",
-  "cityKana": "キミツシ",
-  "townKana": "オビツダイ",
-  "prefecture": "千葉県",
-  "city": "君津市",
-  "town": "小櫃台",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12225",
+      "oldZipCode": "29204",
+      "zipCode": "2920412",
+      "prefectureKana": "チバケン",
+      "cityKana": "キミツシ",
+      "townKana": "オビツダイ",
+      "prefecture": "千葉県",
+      "city": "君津市",
+      "town": "小櫃台",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

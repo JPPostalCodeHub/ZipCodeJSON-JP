@@ -1,17 +1,21 @@
 {
-  "jisCode": "32441",
-  "oldZipCode": "69612",
-  "zipCode": "6961222",
-  "prefectureKana": "シマネケン",
-  "cityKana": "オオチグンカワモトマチ",
-  "townKana": "ユダニ",
-  "prefecture": "島根県",
-  "city": "邑智郡川本町",
-  "town": "湯谷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "32441",
+      "oldZipCode": "69612",
+      "zipCode": "6961222",
+      "prefectureKana": "シマネケン",
+      "cityKana": "オオチグンカワモトマチ",
+      "townKana": "ユダニ",
+      "prefecture": "島根県",
+      "city": "邑智郡川本町",
+      "town": "湯谷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

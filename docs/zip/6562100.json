@@ -1,17 +1,21 @@
 {
-  "jisCode": "28226",
-  "oldZipCode": "65621",
-  "zipCode": "6562100",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "アワジシ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "兵庫県",
-  "city": "淡路市",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28226",
+      "oldZipCode": "65621",
+      "zipCode": "6562100",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "アワジシ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "兵庫県",
+      "city": "淡路市",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

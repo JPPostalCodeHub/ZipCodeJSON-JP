@@ -1,17 +1,21 @@
 {
-  "jisCode": "12217",
-  "oldZipCode": "277  ",
-  "zipCode": "2770845",
-  "prefectureKana": "チバケン",
-  "cityKana": "カシワシ",
-  "townKana": "トヨシキダイ",
-  "prefecture": "千葉県",
-  "city": "柏市",
-  "town": "豊四季台",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12217",
+      "oldZipCode": "277  ",
+      "zipCode": "2770845",
+      "prefectureKana": "チバケン",
+      "cityKana": "カシワシ",
+      "townKana": "トヨシキダイ",
+      "prefecture": "千葉県",
+      "city": "柏市",
+      "town": "豊四季台",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

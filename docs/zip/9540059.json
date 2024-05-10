@@ -1,17 +1,21 @@
 {
-  "jisCode": "15211",
-  "oldZipCode": "954  ",
-  "zipCode": "9540059",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ミツケシ",
-  "townKana": "ショウワマチ",
-  "prefecture": "新潟県",
-  "city": "見附市",
-  "town": "昭和町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15211",
+      "oldZipCode": "954  ",
+      "zipCode": "9540059",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ミツケシ",
+      "townKana": "ショウワマチ",
+      "prefecture": "新潟県",
+      "city": "見附市",
+      "town": "昭和町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

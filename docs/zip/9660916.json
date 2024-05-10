@@ -1,17 +1,21 @@
 {
-  "jisCode": "07208",
-  "oldZipCode": "966  ",
-  "zipCode": "9660916",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "キタカタシ",
-  "townKana": "センガリミチシタ",
-  "prefecture": "福島県",
-  "city": "喜多方市",
-  "town": "千苅道下",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "1",
-  "updateReason": "5"
+  "entries": [
+    {
+      "jisCode": "07208",
+      "oldZipCode": "966  ",
+      "zipCode": "9660916",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "キタカタシ",
+      "townKana": "センガリミチシタ",
+      "prefecture": "福島県",
+      "city": "喜多方市",
+      "town": "千苅道下",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "1",
+      "updateReason": "5"
+    }
+  ]
 }

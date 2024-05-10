@@ -1,17 +1,38 @@
 {
-  "jisCode": "04205",
-  "oldZipCode": "988  ",
-  "zipCode": "9880817",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "ケセンヌマシ",
-  "townKana": "ニシハチマンマエ",
-  "prefecture": "宮城県",
-  "city": "気仙沼市",
-  "town": "西八幡前",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04205",
+      "oldZipCode": "988  ",
+      "zipCode": "9880817",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "ケセンヌマシ",
+      "townKana": "ニシハチマンチョウ",
+      "prefecture": "宮城県",
+      "city": "気仙沼市",
+      "town": "西八幡町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "04205",
+      "oldZipCode": "988  ",
+      "zipCode": "9880817",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "ケセンヌマシ",
+      "townKana": "ニシハチマンマエ",
+      "prefecture": "宮城県",
+      "city": "気仙沼市",
+      "town": "西八幡前",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

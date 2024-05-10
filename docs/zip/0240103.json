@@ -1,17 +1,21 @@
 {
-  "jisCode": "03206",
-  "oldZipCode": "02401",
-  "zipCode": "0240103",
-  "prefectureKana": "イワテケン",
-  "cityKana": "キタカミシ",
-  "townKana": "サラキ",
-  "prefecture": "岩手県",
-  "city": "北上市",
-  "town": "更木",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "03206",
+      "oldZipCode": "02401",
+      "zipCode": "0240103",
+      "prefectureKana": "イワテケン",
+      "cityKana": "キタカミシ",
+      "townKana": "サラキ",
+      "prefecture": "岩手県",
+      "city": "北上市",
+      "town": "更木",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "22216",
-  "oldZipCode": "437  ",
-  "zipCode": "4370039",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "フクロイシ",
-  "townKana": "アイノヒガシ",
-  "prefecture": "静岡県",
-  "city": "袋井市",
-  "town": "愛野東",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22216",
+      "oldZipCode": "437  ",
+      "zipCode": "4370039",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "フクロイシ",
+      "townKana": "アイノヒガシ",
+      "prefecture": "静岡県",
+      "city": "袋井市",
+      "town": "愛野東",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

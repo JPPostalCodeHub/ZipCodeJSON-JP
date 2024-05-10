@@ -1,17 +1,21 @@
 {
-  "jisCode": "33606",
-  "oldZipCode": "70803",
-  "zipCode": "7080321",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "トマタグンカガミノチョウ",
-  "townKana": "エンジュウジ",
-  "prefecture": "岡山県",
-  "city": "苫田郡鏡野町",
-  "town": "円宗寺",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33606",
+      "oldZipCode": "70803",
+      "zipCode": "7080321",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "トマタグンカガミノチョウ",
+      "townKana": "エンジュウジ",
+      "prefecture": "岡山県",
+      "city": "苫田郡鏡野町",
+      "town": "円宗寺",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

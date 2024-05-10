@@ -1,17 +1,21 @@
 {
-  "jisCode": "07214",
-  "oldZipCode": "96911",
-  "zipCode": "9691121",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "モトミヤシ",
-  "townKana": "モトミヤタテノコシ",
-  "prefecture": "福島県",
-  "city": "本宮市",
-  "town": "本宮舘ノ越",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07214",
+      "oldZipCode": "96911",
+      "zipCode": "9691121",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "モトミヤシ",
+      "townKana": "モトミヤタテノコシ",
+      "prefecture": "福島県",
+      "city": "本宮市",
+      "town": "本宮舘ノ越",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

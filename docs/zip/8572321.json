@@ -1,17 +1,21 @@
 {
-  "jisCode": "42212",
-  "oldZipCode": "85723",
-  "zipCode": "8572321",
-  "prefectureKana": "ナガサキケン",
-  "cityKana": "サイカイシ",
-  "townKana": "オオセトチョウユキノウラコウブツゴウ",
-  "prefecture": "長崎県",
-  "city": "西海市",
-  "town": "大瀬戸町雪浦幸物郷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "42212",
+      "oldZipCode": "85723",
+      "zipCode": "8572321",
+      "prefectureKana": "ナガサキケン",
+      "cityKana": "サイカイシ",
+      "townKana": "オオセトチョウユキノウラコウブツゴウ",
+      "prefecture": "長崎県",
+      "city": "西海市",
+      "town": "大瀬戸町雪浦幸物郷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

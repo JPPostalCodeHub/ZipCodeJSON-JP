@@ -1,17 +1,21 @@
 {
-  "jisCode": "01464",
-  "oldZipCode": "09801",
-  "zipCode": "0980113",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "カミカワグンワッサムチョウ",
-  "townKana": "キクノ",
-  "prefecture": "北海道",
-  "city": "上川郡和寒町",
-  "town": "菊野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01464",
+      "oldZipCode": "09801",
+      "zipCode": "0980113",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "カミカワグンワッサムチョウ",
+      "townKana": "キクノ",
+      "prefecture": "北海道",
+      "city": "上川郡和寒町",
+      "town": "菊野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

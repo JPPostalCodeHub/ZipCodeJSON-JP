@@ -1,17 +1,38 @@
 {
-  "jisCode": "02424",
-  "oldZipCode": "035  ",
-  "zipCode": "0350000",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "シモキタグンヒガシドオリムラ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "青森県",
-  "city": "下北郡東通村",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02208",
+      "oldZipCode": "035  ",
+      "zipCode": "0350000",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "ムツシ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "青森県",
+      "city": "むつ市",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "02424",
+      "oldZipCode": "035  ",
+      "zipCode": "0350000",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "シモキタグンヒガシドオリムラ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "青森県",
+      "city": "下北郡東通村",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

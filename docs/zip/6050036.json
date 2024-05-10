@@ -1,17 +1,21 @@
 {
-  "jisCode": "26105",
-  "oldZipCode": "605  ",
-  "zipCode": "6050036",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシヒガシヤマク",
-  "townKana": "ゴケンチョウ（サンジョウドオリシラカワバシヒガシイル、サンジョウドオリシラカワバシサガルヒガシイル、シラカワスジサンジョウサガル）",
-  "prefecture": "京都府",
-  "city": "京都市東山区",
-  "town": "五軒町（三条通白川橋東入、三条通白川橋下る東入、白川筋三条下る）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26105",
+      "oldZipCode": "605  ",
+      "zipCode": "6050036",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシヒガシヤマク",
+      "townKana": "ゴケンチョウ（サンジョウドオリシラカワバシヒガシイル、サンジョウドオリシラカワバシサガルヒガシイル、シラカワスジサンジョウサガル）",
+      "prefecture": "京都府",
+      "city": "京都市東山区",
+      "town": "五軒町（三条通白川橋東入、三条通白川橋下る東入、白川筋三条下る）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

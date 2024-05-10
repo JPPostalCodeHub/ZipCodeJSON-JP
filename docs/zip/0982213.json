@@ -1,17 +1,21 @@
 {
-  "jisCode": "01469",
-  "oldZipCode": "09822",
-  "zipCode": "0982213",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ナカガワグンビフカチョウ",
-  "townKana": "ヨシノ",
-  "prefecture": "北海道",
-  "city": "中川郡美深町",
-  "town": "吉野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01469",
+      "oldZipCode": "09822",
+      "zipCode": "0982213",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ナカガワグンビフカチョウ",
+      "townKana": "ヨシノ",
+      "prefecture": "北海道",
+      "city": "中川郡美深町",
+      "town": "吉野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

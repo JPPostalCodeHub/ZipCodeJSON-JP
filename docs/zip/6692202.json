@@ -1,17 +1,21 @@
 {
-  "jisCode": "28221",
-  "oldZipCode": "66922",
-  "zipCode": "6692202",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "タンバササヤマシ",
-  "townKana": "ヒガシブキ",
-  "prefecture": "兵庫県",
-  "city": "丹波篠山市",
-  "town": "東吹",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28221",
+      "oldZipCode": "66922",
+      "zipCode": "6692202",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "タンバササヤマシ",
+      "townKana": "ヒガシブキ",
+      "prefecture": "兵庫県",
+      "city": "丹波篠山市",
+      "town": "東吹",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

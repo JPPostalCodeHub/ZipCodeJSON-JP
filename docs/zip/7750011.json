@@ -1,17 +1,21 @@
 {
-  "jisCode": "36383",
-  "oldZipCode": "775  ",
-  "zipCode": "7750011",
-  "prefectureKana": "トクシマケン",
-  "cityKana": "カイフグンムギチョウ",
-  "townKana": "ムギウラ（ハマサキ）",
-  "prefecture": "徳島県",
-  "city": "海部郡牟岐町",
-  "town": "牟岐浦（浜崎）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "36383",
+      "oldZipCode": "775  ",
+      "zipCode": "7750011",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "カイフグンムギチョウ",
+      "townKana": "ムギウラ（ハマサキ）",
+      "prefecture": "徳島県",
+      "city": "海部郡牟岐町",
+      "town": "牟岐浦（浜崎）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

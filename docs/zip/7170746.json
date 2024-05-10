@@ -1,17 +1,21 @@
 {
-  "jisCode": "33214",
-  "oldZipCode": "71934",
-  "zipCode": "7170746",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "マニワシ",
-  "townKana": "カミ",
-  "prefecture": "岡山県",
-  "city": "真庭市",
-  "town": "上",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33214",
+      "oldZipCode": "71934",
+      "zipCode": "7170746",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "マニワシ",
+      "townKana": "カミ",
+      "prefecture": "岡山県",
+      "city": "真庭市",
+      "town": "上",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

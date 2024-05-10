@@ -1,17 +1,21 @@
 {
-  "jisCode": "47314",
-  "oldZipCode": "90412",
-  "zipCode": "9041202",
-  "prefectureKana": "オキナワケン",
-  "cityKana": "クニガミグンキンチョウ",
-  "townKana": "イゲイ",
-  "prefecture": "沖縄県",
-  "city": "国頭郡金武町",
-  "town": "伊芸",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "47314",
+      "oldZipCode": "90412",
+      "zipCode": "9041202",
+      "prefectureKana": "オキナワケン",
+      "cityKana": "クニガミグンキンチョウ",
+      "townKana": "イゲイ",
+      "prefecture": "沖縄県",
+      "city": "国頭郡金武町",
+      "town": "伊芸",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

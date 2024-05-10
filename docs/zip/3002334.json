@@ -1,17 +1,21 @@
 {
-  "jisCode": "08235",
-  "oldZipCode": "30023",
-  "zipCode": "3002334",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "ツクバミライシ",
-  "townKana": "ナカヒラヤナギ",
-  "prefecture": "茨城県",
-  "city": "つくばみらい市",
-  "town": "中平柳",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08235",
+      "oldZipCode": "30023",
+      "zipCode": "3002334",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "ツクバミライシ",
+      "townKana": "ナカヒラヤナギ",
+      "prefecture": "茨城県",
+      "city": "つくばみらい市",
+      "town": "中平柳",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

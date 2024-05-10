@@ -1,17 +1,21 @@
 {
-  "jisCode": "04501",
-  "oldZipCode": "98701",
-  "zipCode": "9870104",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "トオダグンワクヤチョウ",
-  "townKana": "タヌマチョウ",
-  "prefecture": "宮城県",
-  "city": "遠田郡涌谷町",
-  "town": "田沼町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04501",
+      "oldZipCode": "98701",
+      "zipCode": "9870104",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "トオダグンワクヤチョウ",
+      "townKana": "タヌマチョウ",
+      "prefecture": "宮城県",
+      "city": "遠田郡涌谷町",
+      "town": "田沼町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

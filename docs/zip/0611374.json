@@ -1,17 +1,21 @@
 {
-  "jisCode": "01231",
-  "oldZipCode": "06113",
-  "zipCode": "0611374",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "エニワシ",
-  "townKana": "メグミノキタ",
-  "prefecture": "北海道",
-  "city": "恵庭市",
-  "town": "恵み野北",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01231",
+      "oldZipCode": "06113",
+      "zipCode": "0611374",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "エニワシ",
+      "townKana": "メグミノキタ",
+      "prefecture": "北海道",
+      "city": "恵庭市",
+      "town": "恵み野北",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

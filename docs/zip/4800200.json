@@ -1,17 +1,21 @@
 {
-  "jisCode": "23342",
-  "oldZipCode": "48002",
-  "zipCode": "4800200",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ニシカスガイグントヨヤマチョウ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "愛知県",
-  "city": "西春日井郡豊山町",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23342",
+      "oldZipCode": "48002",
+      "zipCode": "4800200",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ニシカスガイグントヨヤマチョウ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "愛知県",
+      "city": "西春日井郡豊山町",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

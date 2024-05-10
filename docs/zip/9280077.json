@@ -1,17 +1,38 @@
 {
-  "jisCode": "17204",
-  "oldZipCode": "928  ",
-  "zipCode": "9280077",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "ワジマシ",
-  "townKana": "フゲシマチ（ドウキンダ）",
-  "prefecture": "石川県",
-  "city": "輪島市",
-  "town": "鳳至町（堂金田）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17204",
+      "oldZipCode": "928  ",
+      "zipCode": "9280077",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "ワジマシ",
+      "townKana": "フゲシマチ（カミマチ）",
+      "prefecture": "石川県",
+      "city": "輪島市",
+      "town": "鳳至町（上町）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "17204",
+      "oldZipCode": "928  ",
+      "zipCode": "9280077",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "ワジマシ",
+      "townKana": "フゲシマチ（ドウキンダ）",
+      "prefecture": "石川県",
+      "city": "輪島市",
+      "town": "鳳至町（堂金田）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

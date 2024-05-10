@@ -1,17 +1,21 @@
 {
-  "jisCode": "10209",
-  "oldZipCode": "37014",
-  "zipCode": "3701402",
-  "prefectureKana": "グンマケン",
-  "cityKana": "フジオカシ",
-  "townKana": "ユズリハラ",
-  "prefecture": "群馬県",
-  "city": "藤岡市",
-  "town": "譲原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "10209",
+      "oldZipCode": "37014",
+      "zipCode": "3701402",
+      "prefectureKana": "グンマケン",
+      "cityKana": "フジオカシ",
+      "townKana": "ユズリハラ",
+      "prefecture": "群馬県",
+      "city": "藤岡市",
+      "town": "譲原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

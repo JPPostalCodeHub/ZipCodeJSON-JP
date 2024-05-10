@@ -1,17 +1,21 @@
 {
-  "jisCode": "04205",
-  "oldZipCode": "98801",
-  "zipCode": "9880124",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "ケセンヌマシ",
-  "townKana": "マツザキタカヤ",
-  "prefecture": "宮城県",
-  "city": "気仙沼市",
-  "town": "松崎高谷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04205",
+      "oldZipCode": "98801",
+      "zipCode": "9880124",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "ケセンヌマシ",
+      "townKana": "マツザキタカヤ",
+      "prefecture": "宮城県",
+      "city": "気仙沼市",
+      "town": "松崎高谷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

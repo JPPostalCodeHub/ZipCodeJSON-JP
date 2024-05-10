@@ -1,17 +1,21 @@
 {
-  "jisCode": "32449",
-  "oldZipCode": "69601",
-  "zipCode": "6960103",
-  "prefectureKana": "シマネケン",
-  "cityKana": "オオチグンオオナンチョウ",
-  "townKana": "ヤカミ",
-  "prefecture": "島根県",
-  "city": "邑智郡邑南町",
-  "town": "矢上",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "32449",
+      "oldZipCode": "69601",
+      "zipCode": "6960103",
+      "prefectureKana": "シマネケン",
+      "cityKana": "オオチグンオオナンチョウ",
+      "townKana": "ヤカミ",
+      "prefecture": "島根県",
+      "city": "邑智郡邑南町",
+      "town": "矢上",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

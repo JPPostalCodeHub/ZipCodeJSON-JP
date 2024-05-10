@@ -1,17 +1,21 @@
 {
-  "jisCode": "13101",
-  "oldZipCode": "101  ",
-  "zipCode": "1010044",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "チヨダク",
-  "townKana": "カジチョウ",
-  "prefecture": "東京都",
-  "city": "千代田区",
-  "town": "鍛冶町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13101",
+      "oldZipCode": "101  ",
+      "zipCode": "1010044",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "チヨダク",
+      "townKana": "カジチョウ",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "town": "鍛冶町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

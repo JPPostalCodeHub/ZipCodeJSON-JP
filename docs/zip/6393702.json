@@ -1,17 +1,21 @@
 {
-  "jisCode": "29451",
-  "oldZipCode": "63937",
-  "zipCode": "6393702",
-  "prefectureKana": "ナラケン",
-  "cityKana": "ヨシノグンカミキタヤマムラ",
-  "townKana": "コトチ",
-  "prefecture": "奈良県",
-  "city": "吉野郡上北山村",
-  "town": "小橡",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "29451",
+      "oldZipCode": "63937",
+      "zipCode": "6393702",
+      "prefectureKana": "ナラケン",
+      "cityKana": "ヨシノグンカミキタヤマムラ",
+      "townKana": "コトチ",
+      "prefecture": "奈良県",
+      "city": "吉野郡上北山村",
+      "town": "小橡",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

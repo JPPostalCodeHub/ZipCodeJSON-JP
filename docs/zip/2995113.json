@@ -1,17 +1,21 @@
 {
-  "jisCode": "12443",
-  "oldZipCode": "29951",
-  "zipCode": "2995113",
-  "prefectureKana": "チバケン",
-  "cityKana": "イスミグンオンジュクマチ",
-  "townKana": "ナナモト",
-  "prefecture": "千葉県",
-  "city": "夷隅郡御宿町",
-  "town": "七本",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12443",
+      "oldZipCode": "29951",
+      "zipCode": "2995113",
+      "prefectureKana": "チバケン",
+      "cityKana": "イスミグンオンジュクマチ",
+      "townKana": "ナナモト",
+      "prefecture": "千葉県",
+      "city": "夷隅郡御宿町",
+      "town": "七本",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "04203",
-  "oldZipCode": "985  ",
-  "zipCode": "9850042",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "シオガマシ",
-  "townKana": "タマガワ",
-  "prefecture": "宮城県",
-  "city": "塩竈市",
-  "town": "玉川",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04203",
+      "oldZipCode": "985  ",
+      "zipCode": "9850042",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "シオガマシ",
+      "townKana": "タマガワ",
+      "prefecture": "宮城県",
+      "city": "塩竈市",
+      "town": "玉川",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

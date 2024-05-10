@@ -1,17 +1,21 @@
 {
-  "jisCode": "26211",
-  "oldZipCode": "61003",
-  "zipCode": "6100333",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウタナベシ",
-  "townKana": "カンナビダイ",
-  "prefecture": "京都府",
-  "city": "京田辺市",
-  "town": "甘南備台",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26211",
+      "oldZipCode": "61003",
+      "zipCode": "6100333",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウタナベシ",
+      "townKana": "カンナビダイ",
+      "prefecture": "京都府",
+      "city": "京田辺市",
+      "town": "甘南備台",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

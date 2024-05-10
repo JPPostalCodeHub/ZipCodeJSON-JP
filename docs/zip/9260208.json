@@ -1,17 +1,21 @@
 {
-  "jisCode": "17202",
-  "oldZipCode": "92602",
-  "zipCode": "9260208",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "ナナオシ",
-  "townKana": "ノトジマオウラマチ",
-  "prefecture": "石川県",
-  "city": "七尾市",
-  "town": "能登島小浦町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17202",
+      "oldZipCode": "92602",
+      "zipCode": "9260208",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "ナナオシ",
+      "townKana": "ノトジマオウラマチ",
+      "prefecture": "石川県",
+      "city": "七尾市",
+      "town": "能登島小浦町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

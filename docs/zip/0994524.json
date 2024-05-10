@@ -1,17 +1,21 @@
 {
-  "jisCode": "01546",
-  "oldZipCode": "09945",
-  "zipCode": "0994524",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "シャリグンキヨサトチョウ",
-  "townKana": "アオバ",
-  "prefecture": "北海道",
-  "city": "斜里郡清里町",
-  "town": "青葉",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01546",
+      "oldZipCode": "09945",
+      "zipCode": "0994524",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "シャリグンキヨサトチョウ",
+      "townKana": "アオバ",
+      "prefecture": "北海道",
+      "city": "斜里郡清里町",
+      "town": "青葉",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

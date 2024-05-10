@@ -1,17 +1,21 @@
 {
-  "jisCode": "17201",
-  "oldZipCode": "92011",
-  "zipCode": "9201152",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "カナザワシ",
-  "townKana": "タガミ",
-  "prefecture": "石川県",
-  "city": "金沢市",
-  "town": "田上",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17201",
+      "oldZipCode": "92011",
+      "zipCode": "9201152",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "カナザワシ",
+      "townKana": "タガミ",
+      "prefecture": "石川県",
+      "city": "金沢市",
+      "town": "田上",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

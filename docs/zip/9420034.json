@@ -1,17 +1,21 @@
 {
-  "jisCode": "15222",
-  "oldZipCode": "942  ",
-  "zipCode": "9420034",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ジョウエツシ",
-  "townKana": "シモマナゴ",
-  "prefecture": "新潟県",
-  "city": "上越市",
-  "town": "下真砂",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15222",
+      "oldZipCode": "942  ",
+      "zipCode": "9420034",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ジョウエツシ",
+      "townKana": "シモマナゴ",
+      "prefecture": "新潟県",
+      "city": "上越市",
+      "town": "下真砂",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

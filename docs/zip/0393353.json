@@ -1,17 +1,21 @@
 {
-  "jisCode": "02301",
-  "oldZipCode": "03933",
-  "zipCode": "0393353",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "ヒガシツガルグンヒラナイマチ",
-  "townKana": "タモギ",
-  "prefecture": "青森県",
-  "city": "東津軽郡平内町",
-  "town": "田茂木",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02301",
+      "oldZipCode": "03933",
+      "zipCode": "0393353",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "ヒガシツガルグンヒラナイマチ",
+      "townKana": "タモギ",
+      "prefecture": "青森県",
+      "city": "東津軽郡平内町",
+      "town": "田茂木",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

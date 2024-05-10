@@ -1,17 +1,21 @@
 {
-  "jisCode": "26102",
-  "oldZipCode": "602  ",
-  "zipCode": "6028154",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシカミギョウク",
-  "townKana": "ヨンチョウメ",
-  "prefecture": "京都府",
-  "city": "京都市上京区",
-  "town": "四町目（竹屋町通日暮西入、日暮通竹屋町上る、日暮通丸太町下る、日暮通丸太町下る西入）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26102",
+      "oldZipCode": "602  ",
+      "zipCode": "6028154",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシカミギョウク",
+      "townKana": "ヨンチョウメ",
+      "prefecture": "京都府",
+      "city": "京都市上京区",
+      "town": "四町目（竹屋町通日暮西入、日暮通竹屋町上る、日暮通丸太町下る、日暮通丸太町下る西入）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

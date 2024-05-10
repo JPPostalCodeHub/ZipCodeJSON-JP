@@ -1,17 +1,21 @@
 {
-  "jisCode": "06381",
-  "oldZipCode": "99203",
-  "zipCode": "9920341",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "ヒガシオキタマグンタカハタマチ",
-  "townKana": "トキザワ",
-  "prefecture": "山形県",
-  "city": "東置賜郡高畠町",
-  "town": "時沢",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06381",
+      "oldZipCode": "99203",
+      "zipCode": "9920341",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "ヒガシオキタマグンタカハタマチ",
+      "townKana": "トキザワ",
+      "prefecture": "山形県",
+      "city": "東置賜郡高畠町",
+      "town": "時沢",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

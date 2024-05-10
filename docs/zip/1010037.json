@@ -1,17 +1,21 @@
 {
-  "jisCode": "13101",
-  "oldZipCode": "101  ",
-  "zipCode": "1010037",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "チヨダク",
-  "townKana": "カンダニシフクダチョウ",
-  "prefecture": "東京都",
-  "city": "千代田区",
-  "town": "神田西福田町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13101",
+      "oldZipCode": "101  ",
+      "zipCode": "1010037",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "チヨダク",
+      "townKana": "カンダニシフクダチョウ",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "town": "神田西福田町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

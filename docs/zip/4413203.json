@@ -1,17 +1,21 @@
 {
-  "jisCode": "23201",
-  "oldZipCode": "44132",
-  "zipCode": "4413203",
-  "prefectureKana": "アイチケン",
-  "cityKana": "トヨハシシ",
-  "townKana": "タカツカチョウ",
-  "prefecture": "愛知県",
-  "city": "豊橋市",
-  "town": "高塚町",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23201",
+      "oldZipCode": "44132",
+      "zipCode": "4413203",
+      "prefectureKana": "アイチケン",
+      "cityKana": "トヨハシシ",
+      "townKana": "タカツカチョウ",
+      "prefecture": "愛知県",
+      "city": "豊橋市",
+      "town": "高塚町",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

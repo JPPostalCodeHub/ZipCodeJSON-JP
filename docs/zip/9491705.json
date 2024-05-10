@@ -1,17 +1,21 @@
 {
-  "jisCode": "15222",
-  "oldZipCode": "94917",
-  "zipCode": "9491705",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ジョウエツシ",
-  "townKana": "ヨシウラ",
-  "prefecture": "新潟県",
-  "city": "上越市",
-  "town": "吉浦",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15222",
+      "oldZipCode": "94917",
+      "zipCode": "9491705",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ジョウエツシ",
+      "townKana": "ヨシウラ",
+      "prefecture": "新潟県",
+      "city": "上越市",
+      "town": "吉浦",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

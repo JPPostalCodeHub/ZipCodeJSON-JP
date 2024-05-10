@@ -1,8 +1,5 @@
 # ZipCodeJSON-JP
 
-> [!IMPORTANT]
-> 郵便番号 1 つにつき 2 つ以上の住所に対応していません。現在修正中のため現行バージョンは使用しないでください
-
 ## 概要
 
 ZipCodeJSON-JP は、日本全国の郵便番号と住所情報を JSON 形式で提供するオープンソースプロジェクトです。
@@ -34,7 +31,9 @@ const response = await fetch('https://jppostalcodehub.github.io/ZipCodeJSON-JP/z
 response.json()
 ```
 
-## インストール
+## 開発
+
+### インストール
 
 このプロジェクトはウェブサービスとして直接利用可能ですが、ローカルでのセットアップ方法は以下の通りです。
 
@@ -50,6 +49,11 @@ cd ZipCodeJSON-JP
 ```
 bun run src/index.ts
 ```
+
+### Q&A
+
+- VSCode で出力したファイルが見れない
+  - 出力ファイル数が多すぎるため見えなくしています。`code docs/zip/xxx.json`で直接開いてください
 
 ## コントリビューション
 

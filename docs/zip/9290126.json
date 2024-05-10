@@ -1,17 +1,21 @@
 {
-  "jisCode": "17211",
-  "oldZipCode": "92901",
-  "zipCode": "9290126",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "ノミシ",
-  "townKana": "ヤマグチマチ",
-  "prefecture": "石川県",
-  "city": "能美市",
-  "town": "山口町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17211",
+      "oldZipCode": "92901",
+      "zipCode": "9290126",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "ノミシ",
+      "townKana": "ヤマグチマチ",
+      "prefecture": "石川県",
+      "city": "能美市",
+      "town": "山口町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

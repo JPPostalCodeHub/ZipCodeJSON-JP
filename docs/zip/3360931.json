@@ -1,17 +1,21 @@
 {
-  "jisCode": "11109",
-  "oldZipCode": "336  ",
-  "zipCode": "3360931",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "サイタマシミドリク",
-  "townKana": "ハラヤマ",
-  "prefecture": "埼玉県",
-  "city": "さいたま市緑区",
-  "town": "原山",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11109",
+      "oldZipCode": "336  ",
+      "zipCode": "3360931",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "サイタマシミドリク",
+      "townKana": "ハラヤマ",
+      "prefecture": "埼玉県",
+      "city": "さいたま市緑区",
+      "town": "原山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "14212",
-  "oldZipCode": "243  ",
-  "zipCode": "2430035",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "アツギシ",
-  "townKana": "アイコウ",
-  "prefecture": "神奈川県",
-  "city": "厚木市",
-  "town": "愛甲",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14212",
+      "oldZipCode": "243  ",
+      "zipCode": "2430035",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "アツギシ",
+      "townKana": "アイコウ",
+      "prefecture": "神奈川県",
+      "city": "厚木市",
+      "town": "愛甲",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

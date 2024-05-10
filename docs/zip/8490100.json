@@ -1,17 +1,38 @@
 {
-  "jisCode": "41346",
-  "oldZipCode": "84901",
-  "zipCode": "8490100",
-  "prefectureKana": "サガケン",
-  "cityKana": "ミヤキグンミヤキチョウ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "佐賀県",
-  "city": "三養基郡みやき町",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "41345",
+      "oldZipCode": "84901",
+      "zipCode": "8490100",
+      "prefectureKana": "サガケン",
+      "cityKana": "ミヤキグンカミミネチョウ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "佐賀県",
+      "city": "三養基郡上峰町",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "41346",
+      "oldZipCode": "84901",
+      "zipCode": "8490100",
+      "prefectureKana": "サガケン",
+      "cityKana": "ミヤキグンミヤキチョウ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "佐賀県",
+      "city": "三養基郡みやき町",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

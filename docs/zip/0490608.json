@@ -1,17 +1,21 @@
 {
-  "jisCode": "01362",
-  "oldZipCode": "04906",
-  "zipCode": "0490608",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ヒヤマグンカミノクニチョウ",
-  "townKana": "シオフキ",
-  "prefecture": "北海道",
-  "city": "檜山郡上ノ国町",
-  "town": "汐吹",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01362",
+      "oldZipCode": "04906",
+      "zipCode": "0490608",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ヒヤマグンカミノクニチョウ",
+      "townKana": "シオフキ",
+      "prefecture": "北海道",
+      "city": "檜山郡上ノ国町",
+      "town": "汐吹",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

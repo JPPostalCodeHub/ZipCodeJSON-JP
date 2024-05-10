@@ -1,17 +1,21 @@
 {
-  "jisCode": "05327",
-  "oldZipCode": "01844",
-  "zipCode": "0184401",
-  "prefectureKana": "アキタケン",
-  "cityKana": "キタアキタグンカミコアニムラ",
-  "townKana": "オキタオモテ",
-  "prefecture": "秋田県",
-  "city": "北秋田郡上小阿仁村",
-  "town": "沖田面",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05327",
+      "oldZipCode": "01844",
+      "zipCode": "0184401",
+      "prefectureKana": "アキタケン",
+      "cityKana": "キタアキタグンカミコアニムラ",
+      "townKana": "オキタオモテ",
+      "prefecture": "秋田県",
+      "city": "北秋田郡上小阿仁村",
+      "town": "沖田面",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

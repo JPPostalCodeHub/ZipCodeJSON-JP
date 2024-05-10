@@ -1,17 +1,21 @@
 {
-  "jisCode": "21220",
-  "oldZipCode": "50925",
-  "zipCode": "5092504",
-  "prefectureKana": "ギフケン",
-  "cityKana": "ゲロシ",
-  "townKana": "ハギワラチョウアトツ",
-  "prefecture": "岐阜県",
-  "city": "下呂市",
-  "town": "萩原町跡津",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "21220",
+      "oldZipCode": "50925",
+      "zipCode": "5092504",
+      "prefectureKana": "ギフケン",
+      "cityKana": "ゲロシ",
+      "townKana": "ハギワラチョウアトツ",
+      "prefecture": "岐阜県",
+      "city": "下呂市",
+      "town": "萩原町跡津",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

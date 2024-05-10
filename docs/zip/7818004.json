@@ -1,17 +1,21 @@
 {
-  "jisCode": "39201",
-  "oldZipCode": "781  ",
-  "zipCode": "7818004",
-  "prefectureKana": "コウチケン",
-  "cityKana": "コウチシ",
-  "townKana": "シンタチョウ",
-  "prefecture": "高知県",
-  "city": "高知市",
-  "town": "新田町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "39201",
+      "oldZipCode": "781  ",
+      "zipCode": "7818004",
+      "prefectureKana": "コウチケン",
+      "cityKana": "コウチシ",
+      "townKana": "シンタチョウ",
+      "prefecture": "高知県",
+      "city": "高知市",
+      "town": "新田町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

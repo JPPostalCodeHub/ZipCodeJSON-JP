@@ -1,17 +1,21 @@
 {
-  "jisCode": "22209",
-  "oldZipCode": "42702",
-  "zipCode": "4270233",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "シマダシ",
-  "townKana": "ミナリ",
-  "prefecture": "静岡県",
-  "city": "島田市",
-  "town": "身成",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22209",
+      "oldZipCode": "42702",
+      "zipCode": "4270233",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "シマダシ",
+      "townKana": "ミナリ",
+      "prefecture": "静岡県",
+      "city": "島田市",
+      "town": "身成",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "36387",
-  "oldZipCode": "77923",
-  "zipCode": "7792304",
-  "prefectureKana": "トクシマケン",
-  "cityKana": "カイフグンミナミチョウ",
-  "townKana": "ヒワサウラ",
-  "prefecture": "徳島県",
-  "city": "海部郡美波町",
-  "town": "日和佐浦",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "36387",
+      "oldZipCode": "77923",
+      "zipCode": "7792304",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "カイフグンミナミチョウ",
+      "townKana": "ヒワサウラ",
+      "prefecture": "徳島県",
+      "city": "海部郡美波町",
+      "town": "日和佐浦",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

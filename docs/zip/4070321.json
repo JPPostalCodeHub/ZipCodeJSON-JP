@@ -1,17 +1,21 @@
 {
-  "jisCode": "19209",
-  "oldZipCode": "40703",
-  "zipCode": "4070321",
-  "prefectureKana": "ヤマナシケン",
-  "cityKana": "ホクトシ",
-  "townKana": "スタマチョウカミツガネ",
-  "prefecture": "山梨県",
-  "city": "北杜市",
-  "town": "須玉町上津金",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "19209",
+      "oldZipCode": "40703",
+      "zipCode": "4070321",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "ホクトシ",
+      "townKana": "スタマチョウカミツガネ",
+      "prefecture": "山梨県",
+      "city": "北杜市",
+      "town": "須玉町上津金",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

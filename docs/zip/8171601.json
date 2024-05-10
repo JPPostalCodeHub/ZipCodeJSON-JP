@@ -1,17 +1,21 @@
 {
-  "jisCode": "42209",
-  "oldZipCode": "81716",
-  "zipCode": "8171601",
-  "prefectureKana": "ナガサキケン",
-  "cityKana": "ツシマシ",
-  "townKana": "カミアガタマチニシツヤ",
-  "prefecture": "長崎県",
-  "city": "対馬市",
-  "town": "上県町西津屋",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "42209",
+      "oldZipCode": "81716",
+      "zipCode": "8171601",
+      "prefectureKana": "ナガサキケン",
+      "cityKana": "ツシマシ",
+      "townKana": "カミアガタマチニシツヤ",
+      "prefecture": "長崎県",
+      "city": "対馬市",
+      "town": "上県町西津屋",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,38 @@
 {
-  "jisCode": "27341",
-  "oldZipCode": "595  ",
-  "zipCode": "5950000",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "センボクグンタダオカチョウ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "大阪府",
-  "city": "泉北郡忠岡町",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27206",
+      "oldZipCode": "595  ",
+      "zipCode": "5950000",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "イズミオオツシ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "大阪府",
+      "city": "泉大津市",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "27341",
+      "oldZipCode": "595  ",
+      "zipCode": "5950000",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "センボクグンタダオカチョウ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "大阪府",
+      "city": "泉北郡忠岡町",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

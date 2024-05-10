@@ -1,17 +1,21 @@
 {
-  "jisCode": "29209",
-  "oldZipCode": "63001",
-  "zipCode": "6300113",
-  "prefectureKana": "ナラケン",
-  "cityKana": "イコマシ",
-  "townKana": "シカノダイミナミ",
-  "prefecture": "奈良県",
-  "city": "生駒市",
-  "town": "鹿ノ台南",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "29209",
+      "oldZipCode": "63001",
+      "zipCode": "6300113",
+      "prefectureKana": "ナラケン",
+      "cityKana": "イコマシ",
+      "townKana": "シカノダイミナミ",
+      "prefecture": "奈良県",
+      "city": "生駒市",
+      "town": "鹿ノ台南",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

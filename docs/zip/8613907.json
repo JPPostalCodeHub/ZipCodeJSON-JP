@@ -1,17 +1,21 @@
 {
-  "jisCode": "43447",
-  "oldZipCode": "86139",
-  "zipCode": "8613907",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "カミマシキグンヤマトチョウ",
-  "townKana": "シライシ",
-  "prefecture": "熊本県",
-  "city": "上益城郡山都町",
-  "town": "白石",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43447",
+      "oldZipCode": "86139",
+      "zipCode": "8613907",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "カミマシキグンヤマトチョウ",
+      "townKana": "シライシ",
+      "prefecture": "熊本県",
+      "city": "上益城郡山都町",
+      "town": "白石",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

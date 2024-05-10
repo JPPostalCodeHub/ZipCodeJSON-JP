@@ -1,17 +1,21 @@
 {
-  "jisCode": "23237",
-  "oldZipCode": "49012",
-  "zipCode": "4901206",
-  "prefectureKana": "アイチケン",
-  "cityKana": "アマシ",
-  "townKana": "ヒガシミゾグチ",
-  "prefecture": "愛知県",
-  "city": "あま市",
-  "town": "東溝口",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23237",
+      "oldZipCode": "49012",
+      "zipCode": "4901206",
+      "prefectureKana": "アイチケン",
+      "cityKana": "アマシ",
+      "townKana": "ヒガシミゾグチ",
+      "prefecture": "愛知県",
+      "city": "あま市",
+      "town": "東溝口",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

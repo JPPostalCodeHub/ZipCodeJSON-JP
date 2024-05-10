@@ -1,17 +1,21 @@
 {
-  "jisCode": "47324",
-  "oldZipCode": "90403",
-  "zipCode": "9040314",
-  "prefectureKana": "オキナワケン",
-  "cityKana": "ナカガミグンヨミタンソン",
-  "townKana": "フルゲン",
-  "prefecture": "沖縄県",
-  "city": "中頭郡読谷村",
-  "town": "古堅",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "47324",
+      "oldZipCode": "90403",
+      "zipCode": "9040314",
+      "prefectureKana": "オキナワケン",
+      "cityKana": "ナカガミグンヨミタンソン",
+      "townKana": "フルゲン",
+      "prefecture": "沖縄県",
+      "city": "中頭郡読谷村",
+      "town": "古堅",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "23207",
-  "oldZipCode": "442  ",
-  "zipCode": "4420006",
-  "prefectureKana": "アイチケン",
-  "cityKana": "トヨカワシ",
-  "townKana": "サンゾウゴチョウ",
-  "prefecture": "愛知県",
-  "city": "豊川市",
-  "town": "三蔵子町",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23207",
+      "oldZipCode": "442  ",
+      "zipCode": "4420006",
+      "prefectureKana": "アイチケン",
+      "cityKana": "トヨカワシ",
+      "townKana": "サンゾウゴチョウ",
+      "prefecture": "愛知県",
+      "city": "豊川市",
+      "town": "三蔵子町",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

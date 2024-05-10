@@ -1,17 +1,21 @@
 {
-  "jisCode": "04321",
-  "oldZipCode": "98912",
-  "zipCode": "9891205",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "シバタグンオオガワラマチ",
-  "townKana": "オオシバ",
-  "prefecture": "宮城県",
-  "city": "柴田郡大河原町",
-  "town": "大芝",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04321",
+      "oldZipCode": "98912",
+      "zipCode": "9891205",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "シバタグンオオガワラマチ",
+      "townKana": "オオシバ",
+      "prefecture": "宮城県",
+      "city": "柴田郡大河原町",
+      "town": "大芝",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

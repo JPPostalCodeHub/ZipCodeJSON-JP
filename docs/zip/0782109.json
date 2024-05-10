@@ -1,17 +1,21 @@
 {
-  "jisCode": "01434",
-  "oldZipCode": "07821",
-  "zipCode": "0782109",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ウリュウグンチップベツチョウ",
-  "townKana": "９ジョウ",
-  "prefecture": "北海道",
-  "city": "雨竜郡秩父別町",
-  "town": "９条",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01434",
+      "oldZipCode": "07821",
+      "zipCode": "0782109",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ウリュウグンチップベツチョウ",
+      "townKana": "９ジョウ",
+      "prefecture": "北海道",
+      "city": "雨竜郡秩父別町",
+      "town": "９条",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "12227",
-  "oldZipCode": "279  ",
-  "zipCode": "2790012",
-  "prefectureKana": "チバケン",
-  "cityKana": "ウラヤスシ",
-  "townKana": "イリフネ",
-  "prefecture": "千葉県",
-  "city": "浦安市",
-  "town": "入船",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12227",
+      "oldZipCode": "279  ",
+      "zipCode": "2790012",
+      "prefectureKana": "チバケン",
+      "cityKana": "ウラヤスシ",
+      "townKana": "イリフネ",
+      "prefecture": "千葉県",
+      "city": "浦安市",
+      "town": "入船",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "27109",
-  "oldZipCode": "543  ",
-  "zipCode": "5430011",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "オオサカシテンノウジク",
-  "townKana": "シミズダニチョウ",
-  "prefecture": "大阪府",
-  "city": "大阪市天王寺区",
-  "town": "清水谷町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27109",
+      "oldZipCode": "543  ",
+      "zipCode": "5430011",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "オオサカシテンノウジク",
+      "townKana": "シミズダニチョウ",
+      "prefecture": "大阪府",
+      "city": "大阪市天王寺区",
+      "town": "清水谷町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

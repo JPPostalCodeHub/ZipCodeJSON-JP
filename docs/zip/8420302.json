@@ -1,17 +1,21 @@
 {
-  "jisCode": "41201",
-  "oldZipCode": "84203",
-  "zipCode": "8420302",
-  "prefectureKana": "サガケン",
-  "cityKana": "サガシ",
-  "townKana": "ミツセムラフジバル",
-  "prefecture": "佐賀県",
-  "city": "佐賀市",
-  "town": "三瀬村藤原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "41201",
+      "oldZipCode": "84203",
+      "zipCode": "8420302",
+      "prefectureKana": "サガケン",
+      "cityKana": "サガシ",
+      "townKana": "ミツセムラフジバル",
+      "prefecture": "佐賀県",
+      "city": "佐賀市",
+      "town": "三瀬村藤原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

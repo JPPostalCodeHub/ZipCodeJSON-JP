@@ -1,17 +1,21 @@
 {
-  "jisCode": "15202",
-  "oldZipCode": "940  ",
-  "zipCode": "9400004",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ナガオカシ",
-  "townKana": "タカミマチ",
-  "prefecture": "新潟県",
-  "city": "長岡市",
-  "town": "高見町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15202",
+      "oldZipCode": "940  ",
+      "zipCode": "9400004",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ナガオカシ",
+      "townKana": "タカミマチ",
+      "prefecture": "新潟県",
+      "city": "長岡市",
+      "town": "高見町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

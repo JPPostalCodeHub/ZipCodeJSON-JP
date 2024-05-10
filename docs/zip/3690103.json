@@ -1,17 +1,21 @@
 {
-  "jisCode": "11202",
-  "oldZipCode": "36901",
-  "zipCode": "3690103",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "クマガヤシ",
-  "townKana": "コヤツバヤシ",
-  "prefecture": "埼玉県",
-  "city": "熊谷市",
-  "town": "小八林",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11202",
+      "oldZipCode": "36901",
+      "zipCode": "3690103",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "クマガヤシ",
+      "townKana": "コヤツバヤシ",
+      "prefecture": "埼玉県",
+      "city": "熊谷市",
+      "town": "小八林",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

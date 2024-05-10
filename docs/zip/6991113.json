@@ -1,17 +1,21 @@
 {
-  "jisCode": "32209",
-  "oldZipCode": "69911",
-  "zipCode": "6991113",
-  "prefectureKana": "シマネケン",
-  "cityKana": "ウンナンシ",
-  "townKana": "カモチョウヒガシダニ",
-  "prefecture": "島根県",
-  "city": "雲南市",
-  "town": "加茂町東谷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "32209",
+      "oldZipCode": "69911",
+      "zipCode": "6991113",
+      "prefectureKana": "シマネケン",
+      "cityKana": "ウンナンシ",
+      "townKana": "カモチョウヒガシダニ",
+      "prefecture": "島根県",
+      "city": "雲南市",
+      "town": "加茂町東谷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

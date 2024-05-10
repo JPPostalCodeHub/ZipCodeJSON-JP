@@ -1,17 +1,21 @@
 {
-  "jisCode": "22212",
-  "oldZipCode": "425  ",
-  "zipCode": "4250036",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "ヤイヅシ",
-  "townKana": "ニシコガワ",
-  "prefecture": "静岡県",
-  "city": "焼津市",
-  "town": "西小川",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22212",
+      "oldZipCode": "425  ",
+      "zipCode": "4250036",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "ヤイヅシ",
+      "townKana": "ニシコガワ",
+      "prefecture": "静岡県",
+      "city": "焼津市",
+      "town": "西小川",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

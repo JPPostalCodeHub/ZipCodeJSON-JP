@@ -1,17 +1,21 @@
 {
-  "jisCode": "22101",
-  "oldZipCode": "42114",
-  "zipCode": "4211405",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "シズオカシアオイク",
-  "townKana": "サカノカミ",
-  "prefecture": "静岡県",
-  "city": "静岡市葵区",
-  "town": "坂ノ上",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22101",
+      "oldZipCode": "42114",
+      "zipCode": "4211405",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "シズオカシアオイク",
+      "townKana": "サカノカミ",
+      "prefecture": "静岡県",
+      "city": "静岡市葵区",
+      "town": "坂ノ上",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

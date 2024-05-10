@@ -1,17 +1,21 @@
 {
-  "jisCode": "12219",
-  "oldZipCode": "29005",
-  "zipCode": "2900549",
-  "prefectureKana": "チバケン",
-  "cityKana": "イチハラシ",
-  "townKana": "マンダノ",
-  "prefecture": "千葉県",
-  "city": "市原市",
-  "town": "万田野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12219",
+      "oldZipCode": "29005",
+      "zipCode": "2900549",
+      "prefectureKana": "チバケン",
+      "cityKana": "イチハラシ",
+      "townKana": "マンダノ",
+      "prefecture": "千葉県",
+      "city": "市原市",
+      "town": "万田野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

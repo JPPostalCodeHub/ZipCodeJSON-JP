@@ -1,17 +1,21 @@
 {
-  "jisCode": "15216",
-  "oldZipCode": "941  ",
-  "zipCode": "9410027",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "イトイガワシ",
-  "townKana": "ヒガシカワラ",
-  "prefecture": "新潟県",
-  "city": "糸魚川市",
-  "town": "東川原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15216",
+      "oldZipCode": "941  ",
+      "zipCode": "9410027",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "イトイガワシ",
+      "townKana": "ヒガシカワラ",
+      "prefecture": "新潟県",
+      "city": "糸魚川市",
+      "town": "東川原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "22221",
-  "oldZipCode": "43104",
-  "zipCode": "4310443",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "コサイシ",
-  "townKana": "ヤマグチ",
-  "prefecture": "静岡県",
-  "city": "湖西市",
-  "town": "山口",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22221",
+      "oldZipCode": "43104",
+      "zipCode": "4310443",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "コサイシ",
+      "townKana": "ヤマグチ",
+      "prefecture": "静岡県",
+      "city": "湖西市",
+      "town": "山口",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

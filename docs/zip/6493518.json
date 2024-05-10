@@ -1,17 +1,21 @@
 {
-  "jisCode": "30428",
-  "oldZipCode": "64935",
-  "zipCode": "6493518",
-  "prefectureKana": "ワカヤマケン",
-  "cityKana": "ヒガシムログンクシモトチョウ",
-  "townKana": "アリダカミ",
-  "prefecture": "和歌山県",
-  "city": "東牟婁郡串本町",
-  "town": "有田上",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "30428",
+      "oldZipCode": "64935",
+      "zipCode": "6493518",
+      "prefectureKana": "ワカヤマケン",
+      "cityKana": "ヒガシムログンクシモトチョウ",
+      "townKana": "アリダカミ",
+      "prefecture": "和歌山県",
+      "city": "東牟婁郡串本町",
+      "town": "有田上",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

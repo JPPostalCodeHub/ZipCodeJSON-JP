@@ -1,17 +1,21 @@
 {
-  "jisCode": "47211",
-  "oldZipCode": "904  ",
-  "zipCode": "9040013",
-  "prefectureKana": "オキナワケン",
-  "cityKana": "オキナワシ",
-  "townKana": "ムロカワ",
-  "prefecture": "沖縄県",
-  "city": "沖縄市",
-  "town": "室川",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "47211",
+      "oldZipCode": "904  ",
+      "zipCode": "9040013",
+      "prefectureKana": "オキナワケン",
+      "cityKana": "オキナワシ",
+      "townKana": "ムロカワ",
+      "prefecture": "沖縄県",
+      "city": "沖縄市",
+      "town": "室川",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

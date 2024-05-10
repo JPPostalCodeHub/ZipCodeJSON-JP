@@ -1,17 +1,21 @@
 {
-  "jisCode": "32206",
-  "oldZipCode": "692  ",
-  "zipCode": "6920000",
-  "prefectureKana": "シマネケン",
-  "cityKana": "ヤスギシ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "島根県",
-  "city": "安来市",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "32206",
+      "oldZipCode": "692  ",
+      "zipCode": "6920000",
+      "prefectureKana": "シマネケン",
+      "cityKana": "ヤスギシ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "島根県",
+      "city": "安来市",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

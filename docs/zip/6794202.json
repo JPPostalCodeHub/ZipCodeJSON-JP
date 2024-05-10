@@ -1,17 +1,21 @@
 {
-  "jisCode": "28201",
-  "oldZipCode": "67942",
-  "zipCode": "6794202",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "ヒメジシ",
-  "townKana": "ハヤシダチョウシモカマエ",
-  "prefecture": "兵庫県",
-  "city": "姫路市",
-  "town": "林田町下構",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28201",
+      "oldZipCode": "67942",
+      "zipCode": "6794202",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "ヒメジシ",
+      "townKana": "ハヤシダチョウシモカマエ",
+      "prefecture": "兵庫県",
+      "city": "姫路市",
+      "town": "林田町下構",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

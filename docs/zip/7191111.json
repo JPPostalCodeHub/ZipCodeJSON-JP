@@ -1,17 +1,21 @@
 {
-  "jisCode": "33208",
-  "oldZipCode": "71911",
-  "zipCode": "7191111",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "ソウジャシ",
-  "townKana": "ナガラ",
-  "prefecture": "岡山県",
-  "city": "総社市",
-  "town": "長良",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33208",
+      "oldZipCode": "71911",
+      "zipCode": "7191111",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "ソウジャシ",
+      "townKana": "ナガラ",
+      "prefecture": "岡山県",
+      "city": "総社市",
+      "town": "長良",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

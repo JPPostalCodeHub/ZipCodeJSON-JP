@@ -1,17 +1,21 @@
 {
-  "jisCode": "32204",
-  "oldZipCode": "69951",
-  "zipCode": "6995122",
-  "prefectureKana": "シマネケン",
-  "cityKana": "マスダシ",
-  "townKana": "ホンマタガチョウ",
-  "prefecture": "島根県",
-  "city": "益田市",
-  "town": "本俣賀町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "32204",
+      "oldZipCode": "69951",
+      "zipCode": "6995122",
+      "prefectureKana": "シマネケン",
+      "cityKana": "マスダシ",
+      "townKana": "ホンマタガチョウ",
+      "prefecture": "島根県",
+      "city": "益田市",
+      "town": "本俣賀町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

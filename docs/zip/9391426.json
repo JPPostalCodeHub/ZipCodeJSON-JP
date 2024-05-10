@@ -1,17 +1,21 @@
 {
-  "jisCode": "16208",
-  "oldZipCode": "93914",
-  "zipCode": "9391426",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "トナミシ",
-  "townKana": "コウチ",
-  "prefecture": "富山県",
-  "city": "砺波市",
-  "town": "川内",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16208",
+      "oldZipCode": "93914",
+      "zipCode": "9391426",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "トナミシ",
+      "townKana": "コウチ",
+      "prefecture": "富山県",
+      "city": "砺波市",
+      "town": "川内",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

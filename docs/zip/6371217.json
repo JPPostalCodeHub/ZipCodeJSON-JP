@@ -1,17 +1,21 @@
 {
-  "jisCode": "29449",
-  "oldZipCode": "63712",
-  "zipCode": "6371217",
-  "prefectureKana": "ナラケン",
-  "cityKana": "ヨシノグントツカワムラ",
-  "townKana": "カゼヤ",
-  "prefecture": "奈良県",
-  "city": "吉野郡十津川村",
-  "town": "風屋",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "29449",
+      "oldZipCode": "63712",
+      "zipCode": "6371217",
+      "prefectureKana": "ナラケン",
+      "cityKana": "ヨシノグントツカワムラ",
+      "townKana": "カゼヤ",
+      "prefecture": "奈良県",
+      "city": "吉野郡十津川村",
+      "town": "風屋",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

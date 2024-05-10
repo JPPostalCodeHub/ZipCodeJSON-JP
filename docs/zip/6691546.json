@@ -1,17 +1,21 @@
 {
-  "jisCode": "28219",
-  "oldZipCode": "66913",
-  "zipCode": "6691546",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "サンダシ",
-  "townKana": "ヤヨイガオカ",
-  "prefecture": "兵庫県",
-  "city": "三田市",
-  "town": "弥生が丘",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28219",
+      "oldZipCode": "66913",
+      "zipCode": "6691546",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "サンダシ",
+      "townKana": "ヤヨイガオカ",
+      "prefecture": "兵庫県",
+      "city": "三田市",
+      "town": "弥生が丘",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

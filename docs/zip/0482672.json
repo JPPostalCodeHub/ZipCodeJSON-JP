@@ -1,17 +1,21 @@
 {
-  "jisCode": "01203",
-  "oldZipCode": "04826",
-  "zipCode": "0482672",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "オタルシ",
-  "townKana": "シオヤ",
-  "prefecture": "北海道",
-  "city": "小樽市",
-  "town": "塩谷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01203",
+      "oldZipCode": "04826",
+      "zipCode": "0482672",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "オタルシ",
+      "townKana": "シオヤ",
+      "prefecture": "北海道",
+      "city": "小樽市",
+      "town": "塩谷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

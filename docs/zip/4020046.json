@@ -1,17 +1,21 @@
 {
-  "jisCode": "19204",
-  "oldZipCode": "402  ",
-  "zipCode": "4020046",
-  "prefectureKana": "ヤマナシケン",
-  "cityKana": "ツルシ",
-  "townKana": "ナカツモリ",
-  "prefecture": "山梨県",
-  "city": "都留市",
-  "town": "中津森",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "19204",
+      "oldZipCode": "402  ",
+      "zipCode": "4020046",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "ツルシ",
+      "townKana": "ナカツモリ",
+      "prefecture": "山梨県",
+      "city": "都留市",
+      "town": "中津森",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "29449",
-  "oldZipCode": "63711",
-  "zipCode": "6371107",
-  "prefectureKana": "ナラケン",
-  "cityKana": "ヨシノグントツカワムラ",
-  "townKana": "ウグハラ",
-  "prefecture": "奈良県",
-  "city": "吉野郡十津川村",
-  "town": "宇宮原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "29449",
+      "oldZipCode": "63711",
+      "zipCode": "6371107",
+      "prefectureKana": "ナラケン",
+      "cityKana": "ヨシノグントツカワムラ",
+      "townKana": "ウグハラ",
+      "prefecture": "奈良県",
+      "city": "吉野郡十津川村",
+      "town": "宇宮原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

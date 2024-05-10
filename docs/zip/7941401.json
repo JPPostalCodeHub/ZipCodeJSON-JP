@@ -1,17 +1,21 @@
 {
-  "jisCode": "38202",
-  "oldZipCode": "79414",
-  "zipCode": "7941401",
-  "prefectureKana": "エヒメケン",
-  "cityKana": "イマバリシ",
-  "townKana": "カミウラチョウサカリ",
-  "prefecture": "愛媛県",
-  "city": "今治市",
-  "town": "上浦町盛",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "38202",
+      "oldZipCode": "79414",
+      "zipCode": "7941401",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "イマバリシ",
+      "townKana": "カミウラチョウサカリ",
+      "prefecture": "愛媛県",
+      "city": "今治市",
+      "town": "上浦町盛",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

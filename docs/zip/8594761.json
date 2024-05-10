@@ -1,17 +1,38 @@
 {
-  "jisCode": "42208",
-  "oldZipCode": "85947",
-  "zipCode": "8594761",
-  "prefectureKana": "ナガサキケン",
-  "cityKana": "マツウラシ",
-  "townKana": "ミクリヤチョウタバルメン",
-  "prefecture": "長崎県",
-  "city": "松浦市",
-  "town": "御厨町田原免",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "42208",
+      "oldZipCode": "85947",
+      "zipCode": "8594761",
+      "prefectureKana": "ナガサキケン",
+      "cityKana": "マツウラシ",
+      "townKana": "ミクリヤチョウアイサカメン",
+      "prefecture": "長崎県",
+      "city": "松浦市",
+      "town": "御厨町相坂免",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "42208",
+      "oldZipCode": "85947",
+      "zipCode": "8594761",
+      "prefectureKana": "ナガサキケン",
+      "cityKana": "マツウラシ",
+      "townKana": "ミクリヤチョウタバルメン",
+      "prefecture": "長崎県",
+      "city": "松浦市",
+      "town": "御厨町田原免",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

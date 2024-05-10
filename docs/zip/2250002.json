@@ -1,17 +1,21 @@
 {
-  "jisCode": "14117",
-  "oldZipCode": "225  ",
-  "zipCode": "2250002",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "ヨコハマシアオバク",
-  "townKana": "ウツクシガオカ",
-  "prefecture": "神奈川県",
-  "city": "横浜市青葉区",
-  "town": "美しが丘",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14117",
+      "oldZipCode": "225  ",
+      "zipCode": "2250002",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "ヨコハマシアオバク",
+      "townKana": "ウツクシガオカ",
+      "prefecture": "神奈川県",
+      "city": "横浜市青葉区",
+      "town": "美しが丘",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "10201",
-  "oldZipCode": "37102",
-  "zipCode": "3710221",
-  "prefectureKana": "グンマケン",
-  "cityKana": "マエバシシ",
-  "townKana": "ヒゴシマチ",
-  "prefecture": "群馬県",
-  "city": "前橋市",
-  "town": "樋越町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "10201",
+      "oldZipCode": "37102",
+      "zipCode": "3710221",
+      "prefectureKana": "グンマケン",
+      "cityKana": "マエバシシ",
+      "townKana": "ヒゴシマチ",
+      "prefecture": "群馬県",
+      "city": "前橋市",
+      "town": "樋越町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

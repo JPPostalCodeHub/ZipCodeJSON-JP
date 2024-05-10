@@ -1,17 +1,21 @@
 {
-  "jisCode": "20350",
-  "oldZipCode": "38606",
-  "zipCode": "3860601",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "チイサガタグンナガワマチ",
-  "townKana": "ダイモン",
-  "prefecture": "長野県",
-  "city": "小県郡長和町",
-  "town": "大門",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20350",
+      "oldZipCode": "38606",
+      "zipCode": "3860601",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "チイサガタグンナガワマチ",
+      "townKana": "ダイモン",
+      "prefecture": "長野県",
+      "city": "小県郡長和町",
+      "town": "大門",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

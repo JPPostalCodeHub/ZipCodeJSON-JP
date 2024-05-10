@@ -1,17 +1,21 @@
 {
-  "jisCode": "19206",
-  "oldZipCode": "40906",
-  "zipCode": "4090614",
-  "prefectureKana": "ヤマナシケン",
-  "cityKana": "オオツキシ",
-  "townKana": "サルハシマチサルハシ",
-  "prefecture": "山梨県",
-  "city": "大月市",
-  "town": "猿橋町猿橋",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "19206",
+      "oldZipCode": "40906",
+      "zipCode": "4090614",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "オオツキシ",
+      "townKana": "サルハシマチサルハシ",
+      "prefecture": "山梨県",
+      "city": "大月市",
+      "town": "猿橋町猿橋",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

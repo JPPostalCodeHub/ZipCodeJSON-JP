@@ -1,17 +1,21 @@
 {
-  "jisCode": "26104",
-  "oldZipCode": "604  ",
-  "zipCode": "6040983",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシナカギョウク",
-  "townKana": "ササヤチョウ",
-  "prefecture": "京都府",
-  "city": "京都市中京区",
-  "town": "笹屋町（麩屋町通竹屋町下る、麩屋町通夷川上る、竹屋町通麩屋町西入、竹屋町通麩屋町東入、竹屋町通御幸町西入、夷川通麩屋町西入、夷川通麩屋町東入）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26104",
+      "oldZipCode": "604  ",
+      "zipCode": "6040983",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシナカギョウク",
+      "townKana": "ササヤチョウ",
+      "prefecture": "京都府",
+      "city": "京都市中京区",
+      "town": "笹屋町（麩屋町通竹屋町下る、麩屋町通夷川上る、竹屋町通麩屋町西入、竹屋町通麩屋町東入、竹屋町通御幸町西入、夷川通麩屋町西入、夷川通麩屋町東入）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

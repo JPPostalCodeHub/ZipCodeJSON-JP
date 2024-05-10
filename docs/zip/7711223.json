@@ -1,17 +1,38 @@
 {
-  "jisCode": "36403",
-  "oldZipCode": "77112",
-  "zipCode": "7711223",
-  "prefectureKana": "トクシマケン",
-  "cityKana": "イタノグンアイズミチョウ",
-  "townKana": "ヒガシナカトミ（テンノウホウジ）",
-  "prefecture": "徳島県",
-  "city": "板野郡藍住町",
-  "town": "東中富（天王傍示）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "36403",
+      "oldZipCode": "77112",
+      "zipCode": "7711223",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "イタノグンアイズミチョウ",
+      "townKana": "ヒガシナカトミ（シキジホウジ）",
+      "prefecture": "徳島県",
+      "city": "板野郡藍住町",
+      "town": "東中富（敷地傍示）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "36403",
+      "oldZipCode": "77112",
+      "zipCode": "7711223",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "イタノグンアイズミチョウ",
+      "townKana": "ヒガシナカトミ（テンノウホウジ）",
+      "prefecture": "徳島県",
+      "city": "板野郡藍住町",
+      "town": "東中富（天王傍示）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

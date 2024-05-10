@@ -1,17 +1,21 @@
 {
-  "jisCode": "37406",
-  "oldZipCode": "76602",
-  "zipCode": "7660203",
-  "prefectureKana": "カガワケン",
-  "cityKana": "ナカタドグンマンノウチョウ",
-  "townKana": "カワヒガシ",
-  "prefecture": "香川県",
-  "city": "仲多度郡まんのう町",
-  "town": "川東",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "37406",
+      "oldZipCode": "76602",
+      "zipCode": "7660203",
+      "prefectureKana": "カガワケン",
+      "cityKana": "ナカタドグンマンノウチョウ",
+      "townKana": "カワヒガシ",
+      "prefecture": "香川県",
+      "city": "仲多度郡まんのう町",
+      "town": "川東",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

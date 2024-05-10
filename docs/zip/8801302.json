@@ -1,17 +1,21 @@
 {
-  "jisCode": "45383",
-  "oldZipCode": "88013",
-  "zipCode": "8801302",
-  "prefectureKana": "ミヤザキケン",
-  "cityKana": "ヒガシモロカタグンアヤチョウ",
-  "townKana": "キタマタ",
-  "prefecture": "宮崎県",
-  "city": "東諸県郡綾町",
-  "town": "北俣",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "45383",
+      "oldZipCode": "88013",
+      "zipCode": "8801302",
+      "prefectureKana": "ミヤザキケン",
+      "cityKana": "ヒガシモロカタグンアヤチョウ",
+      "townKana": "キタマタ",
+      "prefecture": "宮崎県",
+      "city": "東諸県郡綾町",
+      "town": "北俣",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

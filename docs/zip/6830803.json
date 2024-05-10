@@ -1,17 +1,21 @@
 {
-  "jisCode": "31202",
-  "oldZipCode": "683  ",
-  "zipCode": "6830803",
-  "prefectureKana": "トットリケン",
-  "cityKana": "ヨナゴシ",
-  "townKana": "ヒノデチョウ",
-  "prefecture": "鳥取県",
-  "city": "米子市",
-  "town": "日ノ出町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "31202",
+      "oldZipCode": "683  ",
+      "zipCode": "6830803",
+      "prefectureKana": "トットリケン",
+      "cityKana": "ヨナゴシ",
+      "townKana": "ヒノデチョウ",
+      "prefecture": "鳥取県",
+      "city": "米子市",
+      "town": "日ノ出町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

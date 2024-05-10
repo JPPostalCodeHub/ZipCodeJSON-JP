@@ -1,17 +1,21 @@
 {
-  "jisCode": "01469",
-  "oldZipCode": "09822",
-  "zipCode": "0982220",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ナカガワグンビフカチョウ",
-  "townKana": "オオドオリキタ",
-  "prefecture": "北海道",
-  "city": "中川郡美深町",
-  "town": "大通北",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01469",
+      "oldZipCode": "09822",
+      "zipCode": "0982220",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ナカガワグンビフカチョウ",
+      "townKana": "オオドオリキタ",
+      "prefecture": "北海道",
+      "city": "中川郡美深町",
+      "town": "大通北",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "07561",
-  "oldZipCode": "97927",
-  "zipCode": "9792707",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "ソウマグンシンチマチ",
-  "townKana": "マユミ",
-  "prefecture": "福島県",
-  "city": "相馬郡新地町",
-  "town": "真弓",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07561",
+      "oldZipCode": "97927",
+      "zipCode": "9792707",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "ソウマグンシンチマチ",
+      "townKana": "マユミ",
+      "prefecture": "福島県",
+      "city": "相馬郡新地町",
+      "town": "真弓",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

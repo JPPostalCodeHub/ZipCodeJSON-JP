@@ -1,17 +1,38 @@
 {
-  "jisCode": "04213",
-  "oldZipCode": "98721",
-  "zipCode": "9872147",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "クリハラシ",
-  "townKana": "タカシミズカンノンドウ",
-  "prefecture": "宮城県",
-  "city": "栗原市",
-  "town": "高清水観音堂",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04213",
+      "oldZipCode": "98721",
+      "zipCode": "9872147",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "クリハラシ",
+      "townKana": "タカシミズカンノンザワ",
+      "prefecture": "宮城県",
+      "city": "栗原市",
+      "town": "高清水観音沢",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "04213",
+      "oldZipCode": "98721",
+      "zipCode": "9872147",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "クリハラシ",
+      "townKana": "タカシミズカンノンドウ",
+      "prefecture": "宮城県",
+      "city": "栗原市",
+      "town": "高清水観音堂",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

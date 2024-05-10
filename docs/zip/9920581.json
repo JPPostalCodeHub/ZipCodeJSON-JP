@@ -1,17 +1,21 @@
 {
-  "jisCode": "06213",
-  "oldZipCode": "99205",
-  "zipCode": "9920581",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "ナンヨウシ",
-  "townKana": "コタキ",
-  "prefecture": "山形県",
-  "city": "南陽市",
-  "town": "小滝",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06213",
+      "oldZipCode": "99205",
+      "zipCode": "9920581",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "ナンヨウシ",
+      "townKana": "コタキ",
+      "prefecture": "山形県",
+      "city": "南陽市",
+      "town": "小滝",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

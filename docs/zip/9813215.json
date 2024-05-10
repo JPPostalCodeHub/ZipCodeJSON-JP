@@ -1,17 +1,21 @@
 {
-  "jisCode": "04105",
-  "oldZipCode": "98132",
-  "zipCode": "9813215",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "センダイシイズミク",
-  "townKana": "キタナカヤマ",
-  "prefecture": "宮城県",
-  "city": "仙台市泉区",
-  "town": "北中山",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04105",
+      "oldZipCode": "98132",
+      "zipCode": "9813215",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "センダイシイズミク",
+      "townKana": "キタナカヤマ",
+      "prefecture": "宮城県",
+      "city": "仙台市泉区",
+      "town": "北中山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

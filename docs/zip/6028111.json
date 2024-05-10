@@ -1,17 +1,21 @@
 {
-  "jisCode": "26102",
-  "oldZipCode": "602  ",
-  "zipCode": "6028111",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシカミギョウク",
-  "townKana": "マスヤチョウ（ニシホリカワドオリシモチョウジャマチサガル、ニシホリカワドオリデミズアガル）",
-  "prefecture": "京都府",
-  "city": "京都市上京区",
-  "town": "桝屋町（西堀川通下長者町下る、西堀川通出水上る）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26102",
+      "oldZipCode": "602  ",
+      "zipCode": "6028111",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシカミギョウク",
+      "townKana": "マスヤチョウ（ニシホリカワドオリシモチョウジャマチサガル、ニシホリカワドオリデミズアガル）",
+      "prefecture": "京都府",
+      "city": "京都市上京区",
+      "town": "桝屋町（西堀川通下長者町下る、西堀川通出水上る）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

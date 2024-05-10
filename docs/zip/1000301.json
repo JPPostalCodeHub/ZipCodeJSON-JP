@@ -1,17 +1,21 @@
 {
-  "jisCode": "13362",
-  "oldZipCode": "10003",
-  "zipCode": "1000301",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "トシマムラ",
-  "townKana": "トシマムライチエン",
-  "prefecture": "東京都",
-  "city": "利島村",
-  "town": "利島村一円",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13362",
+      "oldZipCode": "10003",
+      "zipCode": "1000301",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "トシマムラ",
+      "townKana": "トシマムライチエン",
+      "prefecture": "東京都",
+      "city": "利島村",
+      "town": "利島村一円",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

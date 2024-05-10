@@ -1,17 +1,21 @@
 {
-  "jisCode": "01106",
-  "oldZipCode": "06123",
-  "zipCode": "0612302",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "サッポロシミナミク",
-  "townKana": "ジョウザンケイオンセンヒガシ",
-  "prefecture": "北海道",
-  "city": "札幌市南区",
-  "town": "定山渓温泉東",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01106",
+      "oldZipCode": "06123",
+      "zipCode": "0612302",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "サッポロシミナミク",
+      "townKana": "ジョウザンケイオンセンヒガシ",
+      "prefecture": "北海道",
+      "city": "札幌市南区",
+      "town": "定山渓温泉東",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

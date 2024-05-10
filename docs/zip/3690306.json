@@ -1,17 +1,21 @@
 {
-  "jisCode": "11385",
-  "oldZipCode": "36903",
-  "zipCode": "3690306",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "コダマグンカミサトマチ",
-  "townKana": "シチホンギ",
-  "prefecture": "埼玉県",
-  "city": "児玉郡上里町",
-  "town": "七本木",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11385",
+      "oldZipCode": "36903",
+      "zipCode": "3690306",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "コダマグンカミサトマチ",
+      "townKana": "シチホンギ",
+      "prefecture": "埼玉県",
+      "city": "児玉郡上里町",
+      "town": "七本木",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

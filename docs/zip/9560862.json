@@ -1,17 +1,21 @@
 {
-  "jisCode": "15105",
-  "oldZipCode": "956  ",
-  "zipCode": "9560862",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ニイガタシアキハク",
-  "townKana": "シンマチ",
-  "prefecture": "新潟県",
-  "city": "新潟市秋葉区",
-  "town": "新町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15105",
+      "oldZipCode": "956  ",
+      "zipCode": "9560862",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ニイガタシアキハク",
+      "townKana": "シンマチ",
+      "prefecture": "新潟県",
+      "city": "新潟市秋葉区",
+      "town": "新町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

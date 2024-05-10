@@ -1,17 +1,21 @@
 {
-  "jisCode": "27128",
-  "oldZipCode": "542  ",
-  "zipCode": "5420077",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "オオサカシチュウオウク",
-  "townKana": "ドウトンボリ（１チョウメヒガシ）",
-  "prefecture": "大阪府",
-  "city": "大阪市中央区",
-  "town": "道頓堀（１丁目東）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27128",
+      "oldZipCode": "542  ",
+      "zipCode": "5420077",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "オオサカシチュウオウク",
+      "townKana": "ドウトンボリ（１チョウメヒガシ）",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "town": "道頓堀（１丁目東）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

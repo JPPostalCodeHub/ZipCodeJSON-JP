@@ -1,17 +1,21 @@
 {
-  "jisCode": "24303",
-  "oldZipCode": "498  ",
-  "zipCode": "4980804",
-  "prefectureKana": "ミエケン",
-  "cityKana": "クワナグンキソサキチョウ",
-  "townKana": "コイズミ",
-  "prefecture": "三重県",
-  "city": "桑名郡木曽岬町",
-  "town": "小和泉",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "24303",
+      "oldZipCode": "498  ",
+      "zipCode": "4980804",
+      "prefectureKana": "ミエケン",
+      "cityKana": "クワナグンキソサキチョウ",
+      "townKana": "コイズミ",
+      "prefecture": "三重県",
+      "city": "桑名郡木曽岬町",
+      "town": "小和泉",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

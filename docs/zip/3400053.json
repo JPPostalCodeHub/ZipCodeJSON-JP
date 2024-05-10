@@ -1,17 +1,21 @@
 {
-  "jisCode": "11221",
-  "oldZipCode": "340  ",
-  "zipCode": "3400053",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "ソウカシ",
-  "townKana": "アサヒチョウ",
-  "prefecture": "埼玉県",
-  "city": "草加市",
-  "town": "旭町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11221",
+      "oldZipCode": "340  ",
+      "zipCode": "3400053",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "ソウカシ",
+      "townKana": "アサヒチョウ",
+      "prefecture": "埼玉県",
+      "city": "草加市",
+      "town": "旭町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

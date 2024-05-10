@@ -1,17 +1,21 @@
 {
-  "jisCode": "05203",
-  "oldZipCode": "01304",
-  "zipCode": "0130319",
-  "prefectureKana": "アキタケン",
-  "cityKana": "ヨコテシ",
-  "townKana": "タイユウヨツヤヒガシ",
-  "prefecture": "秋田県",
-  "city": "横手市",
-  "town": "大雄四ツ屋東",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05203",
+      "oldZipCode": "01304",
+      "zipCode": "0130319",
+      "prefectureKana": "アキタケン",
+      "cityKana": "ヨコテシ",
+      "townKana": "タイユウヨツヤヒガシ",
+      "prefecture": "秋田県",
+      "city": "横手市",
+      "town": "大雄四ツ屋東",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

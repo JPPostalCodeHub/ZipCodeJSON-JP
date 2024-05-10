@@ -1,17 +1,21 @@
 {
-  "jisCode": "12219",
-  "oldZipCode": "29901",
-  "zipCode": "2990117",
-  "prefectureKana": "チバケン",
-  "cityKana": "イチハラシ",
-  "townKana": "アオバダイ",
-  "prefecture": "千葉県",
-  "city": "市原市",
-  "town": "青葉台",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12219",
+      "oldZipCode": "29901",
+      "zipCode": "2990117",
+      "prefectureKana": "チバケン",
+      "cityKana": "イチハラシ",
+      "townKana": "アオバダイ",
+      "prefecture": "千葉県",
+      "city": "市原市",
+      "town": "青葉台",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

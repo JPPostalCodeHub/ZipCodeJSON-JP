@@ -1,17 +1,21 @@
 {
-  "jisCode": "23217",
-  "oldZipCode": "483  ",
-  "zipCode": "4838154",
-  "prefectureKana": "アイチケン",
-  "cityKana": "コウナンシ",
-  "townKana": "ミナミヤマチョウヒガシ",
-  "prefecture": "愛知県",
-  "city": "江南市",
-  "town": "南山町東",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23217",
+      "oldZipCode": "483  ",
+      "zipCode": "4838154",
+      "prefectureKana": "アイチケン",
+      "cityKana": "コウナンシ",
+      "townKana": "ミナミヤマチョウヒガシ",
+      "prefecture": "愛知県",
+      "city": "江南市",
+      "town": "南山町東",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "37206",
-  "oldZipCode": "76923",
-  "zipCode": "7692314",
-  "prefectureKana": "カガワケン",
-  "cityKana": "サヌキシ",
-  "townKana": "ゾウタオトイ",
-  "prefecture": "香川県",
-  "city": "さぬき市",
-  "town": "造田乙井",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "37206",
+      "oldZipCode": "76923",
+      "zipCode": "7692314",
+      "prefectureKana": "カガワケン",
+      "cityKana": "サヌキシ",
+      "townKana": "ゾウタオトイ",
+      "prefecture": "香川県",
+      "city": "さぬき市",
+      "town": "造田乙井",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

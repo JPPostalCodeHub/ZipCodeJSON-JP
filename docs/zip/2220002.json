@@ -1,17 +1,21 @@
 {
-  "jisCode": "14109",
-  "oldZipCode": "222  ",
-  "zipCode": "2220002",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "ヨコハマシコウホクク",
-  "townKana": "モロオカチョウ",
-  "prefecture": "神奈川県",
-  "city": "横浜市港北区",
-  "town": "師岡町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14109",
+      "oldZipCode": "222  ",
+      "zipCode": "2220002",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "ヨコハマシコウホクク",
+      "townKana": "モロオカチョウ",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "town": "師岡町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

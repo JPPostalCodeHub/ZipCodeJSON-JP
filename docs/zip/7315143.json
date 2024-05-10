@@ -1,17 +1,38 @@
 {
-  "jisCode": "34108",
-  "oldZipCode": "73151",
-  "zipCode": "7315143",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "ヒロシマシサエキク",
-  "townKana": "ミヤケチョウ",
-  "prefecture": "広島県",
-  "city": "広島市佐伯区",
-  "town": "三宅町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34108",
+      "oldZipCode": "73151",
+      "zipCode": "7315143",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ヒロシマシサエキク",
+      "townKana": "ミヤケ",
+      "prefecture": "広島県",
+      "city": "広島市佐伯区",
+      "town": "三宅",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "34108",
+      "oldZipCode": "73151",
+      "zipCode": "7315143",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ヒロシマシサエキク",
+      "townKana": "ミヤケチョウ",
+      "prefecture": "広島県",
+      "city": "広島市佐伯区",
+      "town": "三宅町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

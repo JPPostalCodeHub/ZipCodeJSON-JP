@@ -1,17 +1,21 @@
 {
-  "jisCode": "01207",
-  "oldZipCode": "080  ",
-  "zipCode": "0800804",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "オビヒロシ",
-  "townKana": "ヒガシ４ジョウミナミ",
-  "prefecture": "北海道",
-  "city": "帯広市",
-  "town": "東四条南",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01207",
+      "oldZipCode": "080  ",
+      "zipCode": "0800804",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "オビヒロシ",
+      "townKana": "ヒガシ４ジョウミナミ",
+      "prefecture": "北海道",
+      "city": "帯広市",
+      "town": "東四条南",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

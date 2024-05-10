@@ -1,17 +1,21 @@
 {
-  "jisCode": "24441",
-  "oldZipCode": "51921",
-  "zipCode": "5192171",
-  "prefectureKana": "ミエケン",
-  "cityKana": "タキグンタキチョウ",
-  "townKana": "ニシヤマ",
-  "prefecture": "三重県",
-  "city": "多気郡多気町",
-  "town": "西山",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "24441",
+      "oldZipCode": "51921",
+      "zipCode": "5192171",
+      "prefectureKana": "ミエケン",
+      "cityKana": "タキグンタキチョウ",
+      "townKana": "ニシヤマ",
+      "prefecture": "三重県",
+      "city": "多気郡多気町",
+      "town": "西山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

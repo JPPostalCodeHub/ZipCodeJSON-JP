@@ -1,17 +1,21 @@
 {
-  "jisCode": "26108",
-  "oldZipCode": "60105",
-  "zipCode": "6010536",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシウキョウク",
-  "townKana": "ケイホクシオタチョウ",
-  "prefecture": "京都府",
-  "city": "京都市右京区",
-  "town": "京北塩田町",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26108",
+      "oldZipCode": "60105",
+      "zipCode": "6010536",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシウキョウク",
+      "townKana": "ケイホクシオタチョウ",
+      "prefecture": "京都府",
+      "city": "京都市右京区",
+      "town": "京北塩田町",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "38506",
-  "oldZipCode": "79842",
-  "zipCode": "7984207",
-  "prefectureKana": "エヒメケン",
-  "cityKana": "ミナミウワグンアイナンチョウ",
-  "townKana": "ナカドマリ",
-  "prefecture": "愛媛県",
-  "city": "南宇和郡愛南町",
-  "town": "中泊",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "38506",
+      "oldZipCode": "79842",
+      "zipCode": "7984207",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "ミナミウワグンアイナンチョウ",
+      "townKana": "ナカドマリ",
+      "prefecture": "愛媛県",
+      "city": "南宇和郡愛南町",
+      "town": "中泊",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

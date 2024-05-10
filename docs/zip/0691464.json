@@ -1,17 +1,21 @@
 {
-  "jisCode": "01428",
-  "oldZipCode": "06914",
-  "zipCode": "0691464",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ユウバリグンナガヌマチョウ",
-  "townKana": "ホロナイ",
-  "prefecture": "北海道",
-  "city": "夕張郡長沼町",
-  "town": "幌内",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01428",
+      "oldZipCode": "06914",
+      "zipCode": "0691464",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ユウバリグンナガヌマチョウ",
+      "townKana": "ホロナイ",
+      "prefecture": "北海道",
+      "city": "夕張郡長沼町",
+      "town": "幌内",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

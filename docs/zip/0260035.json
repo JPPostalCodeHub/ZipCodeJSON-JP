@@ -1,17 +1,21 @@
 {
-  "jisCode": "03211",
-  "oldZipCode": "026  ",
-  "zipCode": "0260035",
-  "prefectureKana": "イワテケン",
-  "cityKana": "カマイシシ",
-  "townKana": "ヤグモチョウ",
-  "prefecture": "岩手県",
-  "city": "釜石市",
-  "town": "八雲町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "03211",
+      "oldZipCode": "026  ",
+      "zipCode": "0260035",
+      "prefectureKana": "イワテケン",
+      "cityKana": "カマイシシ",
+      "townKana": "ヤグモチョウ",
+      "prefecture": "岩手県",
+      "city": "釜石市",
+      "town": "八雲町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

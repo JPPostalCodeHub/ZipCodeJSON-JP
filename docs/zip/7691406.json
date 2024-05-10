@@ -1,17 +1,21 @@
 {
-  "jisCode": "37208",
-  "oldZipCode": "76914",
-  "zipCode": "7691406",
-  "prefectureKana": "カガワケン",
-  "cityKana": "ミトヨシ",
-  "townKana": "ニオチョウニオシン",
-  "prefecture": "香川県",
-  "city": "三豊市",
-  "town": "仁尾町仁尾辛",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "37208",
+      "oldZipCode": "76914",
+      "zipCode": "7691406",
+      "prefectureKana": "カガワケン",
+      "cityKana": "ミトヨシ",
+      "townKana": "ニオチョウニオシン",
+      "prefecture": "香川県",
+      "city": "三豊市",
+      "town": "仁尾町仁尾辛",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

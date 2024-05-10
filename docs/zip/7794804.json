@@ -1,17 +1,21 @@
 {
-  "jisCode": "36208",
-  "oldZipCode": "77948",
-  "zipCode": "7794804",
-  "prefectureKana": "トクシマケン",
-  "cityKana": "ミヨシシ",
-  "townKana": "イカワチョウイウチヒガシ",
-  "prefecture": "徳島県",
-  "city": "三好市",
-  "town": "井川町井内東",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "36208",
+      "oldZipCode": "77948",
+      "zipCode": "7794804",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "ミヨシシ",
+      "townKana": "イカワチョウイウチヒガシ",
+      "prefecture": "徳島県",
+      "city": "三好市",
+      "town": "井川町井内東",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

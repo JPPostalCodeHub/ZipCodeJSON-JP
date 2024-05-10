@@ -1,17 +1,38 @@
 {
-  "jisCode": "04505",
-  "oldZipCode": "987  ",
-  "zipCode": "9870024",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "トオダグンミサトマチ",
-  "townKana": "ナリタ",
-  "prefecture": "宮城県",
-  "city": "遠田郡美里町",
-  "town": "成田",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04505",
+      "oldZipCode": "987  ",
+      "zipCode": "9870024",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "トオダグンミサトマチ",
+      "townKana": "ナカゾネ",
+      "prefecture": "宮城県",
+      "city": "遠田郡美里町",
+      "town": "中埣",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "04505",
+      "oldZipCode": "987  ",
+      "zipCode": "9870024",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "トオダグンミサトマチ",
+      "townKana": "ナリタ",
+      "prefecture": "宮城県",
+      "city": "遠田郡美里町",
+      "town": "成田",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

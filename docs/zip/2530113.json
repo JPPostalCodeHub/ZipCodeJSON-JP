@@ -1,17 +1,21 @@
 {
-  "jisCode": "14321",
-  "oldZipCode": "25301",
-  "zipCode": "2530113",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "コウザグンサムカワマチ",
-  "townKana": "オオマガリ",
-  "prefecture": "神奈川県",
-  "city": "高座郡寒川町",
-  "town": "大曲",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14321",
+      "oldZipCode": "25301",
+      "zipCode": "2530113",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "コウザグンサムカワマチ",
+      "townKana": "オオマガリ",
+      "prefecture": "神奈川県",
+      "city": "高座郡寒川町",
+      "town": "大曲",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

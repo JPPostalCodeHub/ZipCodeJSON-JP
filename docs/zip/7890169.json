@@ -1,17 +1,21 @@
 {
-  "jisCode": "39344",
-  "oldZipCode": "78901",
-  "zipCode": "7890169",
-  "prefectureKana": "コウチケン",
-  "cityKana": "ナガオカグンオオトヨチョウ",
-  "townKana": "オオダイラ（ソノタ）",
-  "prefecture": "高知県",
-  "city": "長岡郡大豊町",
-  "town": "大平（その他）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "39344",
+      "oldZipCode": "78901",
+      "zipCode": "7890169",
+      "prefectureKana": "コウチケン",
+      "cityKana": "ナガオカグンオオトヨチョウ",
+      "townKana": "オオダイラ（ソノタ）",
+      "prefecture": "高知県",
+      "city": "長岡郡大豊町",
+      "town": "大平（その他）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

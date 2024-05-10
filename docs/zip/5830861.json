@@ -1,17 +1,21 @@
 {
-  "jisCode": "27222",
-  "oldZipCode": "583  ",
-  "zipCode": "5830861",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "ハビキノシ",
-  "townKana": "ニシウラ",
-  "prefecture": "大阪府",
-  "city": "羽曳野市",
-  "town": "西浦",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27222",
+      "oldZipCode": "583  ",
+      "zipCode": "5830861",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "ハビキノシ",
+      "townKana": "ニシウラ",
+      "prefecture": "大阪府",
+      "city": "羽曳野市",
+      "town": "西浦",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

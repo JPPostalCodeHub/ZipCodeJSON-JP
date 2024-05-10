@@ -1,17 +1,21 @@
 {
-  "jisCode": "29201",
-  "oldZipCode": "63012",
-  "zipCode": "6301235",
-  "prefectureKana": "ナラケン",
-  "cityKana": "ナラシ",
-  "townKana": "ニュウチョウ",
-  "prefecture": "奈良県",
-  "city": "奈良市",
-  "town": "丹生町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "29201",
+      "oldZipCode": "63012",
+      "zipCode": "6301235",
+      "prefectureKana": "ナラケン",
+      "cityKana": "ナラシ",
+      "townKana": "ニュウチョウ",
+      "prefecture": "奈良県",
+      "city": "奈良市",
+      "town": "丹生町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

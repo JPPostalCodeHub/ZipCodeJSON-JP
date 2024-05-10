@@ -1,17 +1,21 @@
 {
-  "jisCode": "37322",
-  "oldZipCode": "76146",
-  "zipCode": "7614664",
-  "prefectureKana": "カガワケン",
-  "cityKana": "ショウズグントノショウチョウ",
-  "townKana": "イギスエ（オデシマ）",
-  "prefecture": "香川県",
-  "city": "小豆郡土庄町",
-  "town": "伊喜末（小豊島）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "37322",
+      "oldZipCode": "76146",
+      "zipCode": "7614664",
+      "prefectureKana": "カガワケン",
+      "cityKana": "ショウズグントノショウチョウ",
+      "townKana": "イギスエ（オデシマ）",
+      "prefecture": "香川県",
+      "city": "小豆郡土庄町",
+      "town": "伊喜末（小豊島）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "34208",
-  "oldZipCode": "726  ",
-  "zipCode": "7260026",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "フチュウシ",
-  "townKana": "サブロウマルチョウ",
-  "prefecture": "広島県",
-  "city": "府中市",
-  "town": "三郎丸町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34208",
+      "oldZipCode": "726  ",
+      "zipCode": "7260026",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "フチュウシ",
+      "townKana": "サブロウマルチョウ",
+      "prefecture": "広島県",
+      "city": "府中市",
+      "town": "三郎丸町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

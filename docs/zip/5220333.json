@@ -1,17 +1,21 @@
 {
-  "jisCode": "25443",
-  "oldZipCode": "52203",
-  "zipCode": "5220333",
-  "prefectureKana": "シガケン",
-  "cityKana": "イヌカミグンタガチョウ",
-  "townKana": "カイハラ",
-  "prefecture": "滋賀県",
-  "city": "犬上郡多賀町",
-  "town": "萱原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "25443",
+      "oldZipCode": "52203",
+      "zipCode": "5220333",
+      "prefectureKana": "シガケン",
+      "cityKana": "イヌカミグンタガチョウ",
+      "townKana": "カイハラ",
+      "prefecture": "滋賀県",
+      "city": "犬上郡多賀町",
+      "town": "萱原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

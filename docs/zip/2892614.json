@@ -1,17 +1,21 @@
 {
-  "jisCode": "12215",
-  "oldZipCode": "28926",
-  "zipCode": "2892614",
-  "prefectureKana": "チバケン",
-  "cityKana": "アサヒシ",
-  "townKana": "エガサキ（１２−２２、１２７−１４０、１７０９、１７２３−３、１７２８−４バンチ）",
-  "prefecture": "千葉県",
-  "city": "旭市",
-  "town": "江ケ崎（１２〜２２、１２７〜１４０、１７０９、１７２３−３、１７２８−４番地）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12215",
+      "oldZipCode": "28926",
+      "zipCode": "2892614",
+      "prefectureKana": "チバケン",
+      "cityKana": "アサヒシ",
+      "townKana": "エガサキ（１２−２２、１２７−１４０、１７０９、１７２３−３、１７２８−４バンチ）",
+      "prefecture": "千葉県",
+      "city": "旭市",
+      "town": "江ケ崎（１２〜２２、１２７〜１４０、１７０９、１７２３−３、１７２８−４番地）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "16201",
-  "oldZipCode": "931  ",
-  "zipCode": "9318437",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "トヤマシ",
-  "townKana": "ミヤマチ",
-  "prefecture": "富山県",
-  "city": "富山市",
-  "town": "宮町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16201",
+      "oldZipCode": "931  ",
+      "zipCode": "9318437",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "トヤマシ",
+      "townKana": "ミヤマチ",
+      "prefecture": "富山県",
+      "city": "富山市",
+      "town": "宮町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

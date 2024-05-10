@@ -1,17 +1,21 @@
 {
-  "jisCode": "15226",
-  "oldZipCode": "94966",
-  "zipCode": "9496601",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ミナミウオヌマシ",
-  "townKana": "キミガエリ",
-  "prefecture": "新潟県",
-  "city": "南魚沼市",
-  "town": "君帰",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15226",
+      "oldZipCode": "94966",
+      "zipCode": "9496601",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ミナミウオヌマシ",
+      "townKana": "キミガエリ",
+      "prefecture": "新潟県",
+      "city": "南魚沼市",
+      "town": "君帰",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

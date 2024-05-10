@@ -1,17 +1,21 @@
 {
-  "jisCode": "13104",
-  "oldZipCode": "162  ",
-  "zipCode": "1620051",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "シンジュクク",
-  "townKana": "ニシワセダ（２チョウメ１バン１−２３ゴウ、２バン）",
-  "prefecture": "東京都",
-  "city": "新宿区",
-  "town": "西早稲田（２丁目１番１〜２３号、２番）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13104",
+      "oldZipCode": "162  ",
+      "zipCode": "1620051",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "シンジュクク",
+      "townKana": "ニシワセダ（２チョウメ１バン１−２３ゴウ、２バン）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "town": "西早稲田（２丁目１番１〜２３号、２番）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

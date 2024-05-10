@@ -1,17 +1,21 @@
 {
-  "jisCode": "27221",
-  "oldZipCode": "582  ",
-  "zipCode": "5820005",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "カシワラシ",
-  "townKana": "ホウゼンジ",
-  "prefecture": "大阪府",
-  "city": "柏原市",
-  "town": "法善寺",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27221",
+      "oldZipCode": "582  ",
+      "zipCode": "5820005",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "カシワラシ",
+      "townKana": "ホウゼンジ",
+      "prefecture": "大阪府",
+      "city": "柏原市",
+      "town": "法善寺",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

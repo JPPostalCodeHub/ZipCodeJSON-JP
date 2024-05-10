@@ -1,17 +1,21 @@
 {
-  "jisCode": "20404",
-  "oldZipCode": "39915",
-  "zipCode": "3991504",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "シモイナグンアナンチョウ",
-  "townKana": "ニシジョウ",
-  "prefecture": "長野県",
-  "city": "下伊那郡阿南町",
-  "town": "西條",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20404",
+      "oldZipCode": "39915",
+      "zipCode": "3991504",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "シモイナグンアナンチョウ",
+      "townKana": "ニシジョウ",
+      "prefecture": "長野県",
+      "city": "下伊那郡阿南町",
+      "town": "西條",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "30207",
-  "oldZipCode": "647  ",
-  "zipCode": "6470010",
-  "prefectureKana": "ワカヤマケン",
-  "cityKana": "シングウシ",
-  "townKana": "タンカク",
-  "prefecture": "和歌山県",
-  "city": "新宮市",
-  "town": "丹鶴",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "30207",
+      "oldZipCode": "647  ",
+      "zipCode": "6470010",
+      "prefectureKana": "ワカヤマケン",
+      "cityKana": "シングウシ",
+      "townKana": "タンカク",
+      "prefecture": "和歌山県",
+      "city": "新宮市",
+      "town": "丹鶴",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

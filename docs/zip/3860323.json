@@ -1,17 +1,21 @@
 {
-  "jisCode": "20203",
-  "oldZipCode": "38603",
-  "zipCode": "3860323",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "ウエダシ",
-  "townKana": "カケユオンセン",
-  "prefecture": "長野県",
-  "city": "上田市",
-  "town": "鹿教湯温泉",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20203",
+      "oldZipCode": "38603",
+      "zipCode": "3860323",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "ウエダシ",
+      "townKana": "カケユオンセン",
+      "prefecture": "長野県",
+      "city": "上田市",
+      "town": "鹿教湯温泉",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

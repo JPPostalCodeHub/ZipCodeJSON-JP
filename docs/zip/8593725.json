@@ -1,17 +1,21 @@
 {
-  "jisCode": "42323",
-  "oldZipCode": "85937",
-  "zipCode": "8593725",
-  "prefectureKana": "ナガサキケン",
-  "cityKana": "ヒガシソノギグンハサミチョウ",
-  "townKana": "ナガノゴウ",
-  "prefecture": "長崎県",
-  "city": "東彼杵郡波佐見町",
-  "town": "長野郷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "42323",
+      "oldZipCode": "85937",
+      "zipCode": "8593725",
+      "prefectureKana": "ナガサキケン",
+      "cityKana": "ヒガシソノギグンハサミチョウ",
+      "townKana": "ナガノゴウ",
+      "prefecture": "長崎県",
+      "city": "東彼杵郡波佐見町",
+      "town": "長野郷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

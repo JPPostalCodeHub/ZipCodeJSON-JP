@@ -1,17 +1,21 @@
 {
-  "jisCode": "42208",
-  "oldZipCode": "85945",
-  "zipCode": "8594503",
-  "prefectureKana": "ナガサキケン",
-  "cityKana": "マツウラシ",
-  "townKana": "シサチョウタカノメン",
-  "prefecture": "長崎県",
-  "city": "松浦市",
-  "town": "志佐町高野免",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "42208",
+      "oldZipCode": "85945",
+      "zipCode": "8594503",
+      "prefectureKana": "ナガサキケン",
+      "cityKana": "マツウラシ",
+      "townKana": "シサチョウタカノメン",
+      "prefecture": "長崎県",
+      "city": "松浦市",
+      "town": "志佐町高野免",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

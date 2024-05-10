@@ -1,17 +1,21 @@
 {
-  "jisCode": "43205",
-  "oldZipCode": "867  ",
-  "zipCode": "8670033",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "ミナマタシ",
-  "townKana": "ナガサキ",
-  "prefecture": "熊本県",
-  "city": "水俣市",
-  "town": "長崎",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43205",
+      "oldZipCode": "867  ",
+      "zipCode": "8670033",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "ミナマタシ",
+      "townKana": "ナガサキ",
+      "prefecture": "熊本県",
+      "city": "水俣市",
+      "town": "長崎",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

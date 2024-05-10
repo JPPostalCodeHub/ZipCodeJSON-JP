@@ -1,17 +1,21 @@
 {
-  "jisCode": "38213",
-  "oldZipCode": "79904",
-  "zipCode": "7990421",
-  "prefectureKana": "エヒメケン",
-  "cityKana": "シコクチュウオウシ",
-  "townKana": "ミシマカネコ",
-  "prefecture": "愛媛県",
-  "city": "四国中央市",
-  "town": "三島金子",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "38213",
+      "oldZipCode": "79904",
+      "zipCode": "7990421",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "シコクチュウオウシ",
+      "townKana": "ミシマカネコ",
+      "prefecture": "愛媛県",
+      "city": "四国中央市",
+      "town": "三島金子",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

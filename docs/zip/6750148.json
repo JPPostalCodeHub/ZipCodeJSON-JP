@@ -1,17 +1,21 @@
 {
-  "jisCode": "28382",
-  "oldZipCode": "67501",
-  "zipCode": "6750148",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "カコグンハリマチョウ",
-  "townKana": "キタフルタ",
-  "prefecture": "兵庫県",
-  "city": "加古郡播磨町",
-  "town": "北古田",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28382",
+      "oldZipCode": "67501",
+      "zipCode": "6750148",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "カコグンハリマチョウ",
+      "townKana": "キタフルタ",
+      "prefecture": "兵庫県",
+      "city": "加古郡播磨町",
+      "town": "北古田",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

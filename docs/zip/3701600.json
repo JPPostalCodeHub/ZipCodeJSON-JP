@@ -1,17 +1,38 @@
 {
-  "jisCode": "10367",
-  "oldZipCode": "37016",
-  "zipCode": "3701600",
-  "prefectureKana": "グンマケン",
-  "cityKana": "タノグンカンナマチ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "群馬県",
-  "city": "多野郡神流町",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "10366",
+      "oldZipCode": "37016",
+      "zipCode": "3701600",
+      "prefectureKana": "グンマケン",
+      "cityKana": "タノグンウエノムラ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "群馬県",
+      "city": "多野郡上野村",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "10367",
+      "oldZipCode": "37016",
+      "zipCode": "3701600",
+      "prefectureKana": "グンマケン",
+      "cityKana": "タノグンカンナマチ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "群馬県",
+      "city": "多野郡神流町",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

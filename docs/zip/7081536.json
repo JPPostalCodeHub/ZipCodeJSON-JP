@@ -1,17 +1,21 @@
 {
-  "jisCode": "33666",
-  "oldZipCode": "70815",
-  "zipCode": "7081536",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "クメグンミサキチョウ",
-  "townKana": "サダムネ",
-  "prefecture": "岡山県",
-  "city": "久米郡美咲町",
-  "town": "定宗",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33666",
+      "oldZipCode": "70815",
+      "zipCode": "7081536",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "クメグンミサキチョウ",
+      "townKana": "サダムネ",
+      "prefecture": "岡山県",
+      "city": "久米郡美咲町",
+      "town": "定宗",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

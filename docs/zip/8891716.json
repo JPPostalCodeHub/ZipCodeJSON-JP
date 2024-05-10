@@ -1,17 +1,21 @@
 {
-  "jisCode": "45201",
-  "oldZipCode": "88917",
-  "zipCode": "8891716",
-  "prefectureKana": "ミヤザキケン",
-  "cityKana": "ミヤザキシ",
-  "townKana": "ホソエ（ヘイワ）",
-  "prefecture": "宮崎県",
-  "city": "宮崎市",
-  "town": "細江（平和）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "45201",
+      "oldZipCode": "88917",
+      "zipCode": "8891716",
+      "prefectureKana": "ミヤザキケン",
+      "cityKana": "ミヤザキシ",
+      "townKana": "ホソエ（ヘイワ）",
+      "prefecture": "宮崎県",
+      "city": "宮崎市",
+      "town": "細江（平和）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

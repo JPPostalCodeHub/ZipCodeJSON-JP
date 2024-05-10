@@ -1,17 +1,38 @@
 {
-  "jisCode": "17463",
-  "oldZipCode": "92706",
-  "zipCode": "9270627",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "ホウスグンノトチョウ",
-  "townKana": "フクミツ",
-  "prefecture": "石川県",
-  "city": "鳳珠郡能登町",
-  "town": "福光",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17463",
+      "oldZipCode": "92706",
+      "zipCode": "9270627",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "ホウスグンノトチョウ",
+      "townKana": "タキノボ",
+      "prefecture": "石川県",
+      "city": "鳳珠郡能登町",
+      "town": "滝之坊",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "17463",
+      "oldZipCode": "92706",
+      "zipCode": "9270627",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "ホウスグンノトチョウ",
+      "townKana": "フクミツ",
+      "prefecture": "石川県",
+      "city": "鳳珠郡能登町",
+      "town": "福光",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

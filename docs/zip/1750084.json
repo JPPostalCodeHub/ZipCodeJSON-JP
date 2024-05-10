@@ -1,17 +1,21 @@
 {
-  "jisCode": "13119",
-  "oldZipCode": "175  ",
-  "zipCode": "1750084",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "イタバシク",
-  "townKana": "ヨツバ",
-  "prefecture": "東京都",
-  "city": "板橋区",
-  "town": "四葉",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13119",
+      "oldZipCode": "175  ",
+      "zipCode": "1750084",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "イタバシク",
+      "townKana": "ヨツバ",
+      "prefecture": "東京都",
+      "city": "板橋区",
+      "town": "四葉",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

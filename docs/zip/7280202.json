@@ -1,17 +1,21 @@
 {
-  "jisCode": "34209",
-  "oldZipCode": "72802",
-  "zipCode": "7280202",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "ミヨシシ",
-  "townKana": "フノチョウシモフノ",
-  "prefecture": "広島県",
-  "city": "三次市",
-  "town": "布野町下布野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34209",
+      "oldZipCode": "72802",
+      "zipCode": "7280202",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ミヨシシ",
+      "townKana": "フノチョウシモフノ",
+      "prefecture": "広島県",
+      "city": "三次市",
+      "town": "布野町下布野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "31372",
-  "oldZipCode": "68921",
-  "zipCode": "6892106",
-  "prefectureKana": "トットリケン",
-  "cityKana": "トウハクグンホクエイチョウ",
-  "townKana": "マツガミ",
-  "prefecture": "鳥取県",
-  "city": "東伯郡北栄町",
-  "town": "松神",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "31372",
+      "oldZipCode": "68921",
+      "zipCode": "6892106",
+      "prefectureKana": "トットリケン",
+      "cityKana": "トウハクグンホクエイチョウ",
+      "townKana": "マツガミ",
+      "prefecture": "鳥取県",
+      "city": "東伯郡北栄町",
+      "town": "松神",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

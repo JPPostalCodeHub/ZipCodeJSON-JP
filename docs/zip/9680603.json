@@ -1,17 +1,21 @@
 {
-  "jisCode": "07367",
-  "oldZipCode": "96806",
-  "zipCode": "9680603",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "ミナミアイヅグンタダミマチ",
-  "townKana": "ヤナトリ",
-  "prefecture": "福島県",
-  "city": "南会津郡只見町",
-  "town": "梁取",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07367",
+      "oldZipCode": "96806",
+      "zipCode": "9680603",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "ミナミアイヅグンタダミマチ",
+      "townKana": "ヤナトリ",
+      "prefecture": "福島県",
+      "city": "南会津郡只見町",
+      "town": "梁取",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

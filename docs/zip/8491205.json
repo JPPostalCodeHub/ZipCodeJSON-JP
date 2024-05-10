@@ -1,17 +1,21 @@
 {
-  "jisCode": "41425",
-  "oldZipCode": "84912",
-  "zipCode": "8491205",
-  "prefectureKana": "サガケン",
-  "cityKana": "キシマグンシロイシチョウ",
-  "townKana": "タノウエ",
-  "prefecture": "佐賀県",
-  "city": "杵島郡白石町",
-  "town": "田野上",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "41425",
+      "oldZipCode": "84912",
+      "zipCode": "8491205",
+      "prefectureKana": "サガケン",
+      "cityKana": "キシマグンシロイシチョウ",
+      "townKana": "タノウエ",
+      "prefecture": "佐賀県",
+      "city": "杵島郡白石町",
+      "town": "田野上",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

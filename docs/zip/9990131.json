@@ -1,17 +1,21 @@
 {
-  "jisCode": "06382",
-  "oldZipCode": "99901",
-  "zipCode": "9990131",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "ヒガシオキタマグンカワニシマチ",
-  "townKana": "クロカワ",
-  "prefecture": "山形県",
-  "city": "東置賜郡川西町",
-  "town": "黒川",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06382",
+      "oldZipCode": "99901",
+      "zipCode": "9990131",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "ヒガシオキタマグンカワニシマチ",
+      "townKana": "クロカワ",
+      "prefecture": "山形県",
+      "city": "東置賜郡川西町",
+      "town": "黒川",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

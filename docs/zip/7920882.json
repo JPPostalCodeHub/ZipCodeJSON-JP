@@ -1,17 +1,21 @@
 {
-  "jisCode": "38205",
-  "oldZipCode": "792  ",
-  "zipCode": "7920882",
-  "prefectureKana": "エヒメケン",
-  "cityKana": "ニイハマシ",
-  "townKana": "マタノ",
-  "prefecture": "愛媛県",
-  "city": "新居浜市",
-  "town": "又野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "38205",
+      "oldZipCode": "792  ",
+      "zipCode": "7920882",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "ニイハマシ",
+      "townKana": "マタノ",
+      "prefecture": "愛媛県",
+      "city": "新居浜市",
+      "town": "又野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "15212",
-  "oldZipCode": "958  ",
-  "zipCode": "9580821",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ムラカミシ",
-  "townKana": "サベリ",
-  "prefecture": "新潟県",
-  "city": "村上市",
-  "town": "山辺里",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15212",
+      "oldZipCode": "958  ",
+      "zipCode": "9580821",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ムラカミシ",
+      "townKana": "サベリ",
+      "prefecture": "新潟県",
+      "city": "村上市",
+      "town": "山辺里",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

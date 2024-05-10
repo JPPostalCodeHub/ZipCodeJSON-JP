@@ -1,17 +1,21 @@
 {
-  "jisCode": "04341",
-  "oldZipCode": "98123",
-  "zipCode": "9812301",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "イググンマルモリマチ",
-  "townKana": "オオハリオオクラ",
-  "prefecture": "宮城県",
-  "city": "伊具郡丸森町",
-  "town": "大張大蔵",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04341",
+      "oldZipCode": "98123",
+      "zipCode": "9812301",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "イググンマルモリマチ",
+      "townKana": "オオハリオオクラ",
+      "prefecture": "宮城県",
+      "city": "伊具郡丸森町",
+      "town": "大張大蔵",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

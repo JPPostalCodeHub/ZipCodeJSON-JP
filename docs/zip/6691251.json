@@ -1,17 +1,21 @@
 {
-  "jisCode": "28204",
-  "oldZipCode": "66912",
-  "zipCode": "6691251",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "ニシノミヤシ",
-  "townKana": "シオセチョウナジオ（４２０５−１、５２０５、５３１３−２０、５３１３−３３、５３１３−３５バンチ）",
-  "prefecture": "兵庫県",
-  "city": "西宮市",
-  "town": "塩瀬町名塩（４２０５−１、５２０５、５３１３−２０、５３１３−３３、５３１３−３５番地）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28204",
+      "oldZipCode": "66912",
+      "zipCode": "6691251",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "ニシノミヤシ",
+      "townKana": "シオセチョウナジオ（４２０５−１、５２０５、５３１３−２０、５３１３−３３、５３１３−３５バンチ）",
+      "prefecture": "兵庫県",
+      "city": "西宮市",
+      "town": "塩瀬町名塩（４２０５−１、５２０５、５３１３−２０、５３１３−３３、５３１３−３５番地）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

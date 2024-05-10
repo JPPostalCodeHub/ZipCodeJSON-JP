@@ -1,17 +1,38 @@
 {
-  "jisCode": "05201",
-  "oldZipCode": "011  ",
-  "zipCode": "0110951",
-  "prefectureKana": "アキタケン",
-  "cityKana": "アキタシ",
-  "townKana": "ツチザキミナトフルカワマチ",
-  "prefecture": "秋田県",
-  "city": "秋田市",
-  "town": "土崎港古川町",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05201",
+      "oldZipCode": "011  ",
+      "zipCode": "0110951",
+      "prefectureKana": "アキタケン",
+      "cityKana": "アキタシ",
+      "townKana": "ツチザキミナトソウゼンマチ",
+      "prefecture": "秋田県",
+      "city": "秋田市",
+      "town": "土崎港相染町",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "05201",
+      "oldZipCode": "011  ",
+      "zipCode": "0110951",
+      "prefectureKana": "アキタケン",
+      "cityKana": "アキタシ",
+      "townKana": "ツチザキミナトフルカワマチ",
+      "prefecture": "秋田県",
+      "city": "秋田市",
+      "town": "土崎港古川町",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

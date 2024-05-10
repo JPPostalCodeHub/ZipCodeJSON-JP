@@ -1,17 +1,21 @@
 {
-  "jisCode": "15102",
-  "oldZipCode": "950  ",
-  "zipCode": "9500001",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ニイガタシヒガシク",
-  "townKana": "マツハマチョウ",
-  "prefecture": "新潟県",
-  "city": "新潟市東区",
-  "town": "松浜町",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15102",
+      "oldZipCode": "950  ",
+      "zipCode": "9500001",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ニイガタシヒガシク",
+      "townKana": "マツハマチョウ",
+      "prefecture": "新潟県",
+      "city": "新潟市東区",
+      "town": "松浜町",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "27211",
-  "oldZipCode": "567  ",
-  "zipCode": "5670083",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "イバラキシ",
-  "townKana": "サイトモエギ",
-  "prefecture": "大阪府",
-  "city": "茨木市",
-  "town": "彩都もえぎ",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27211",
+      "oldZipCode": "567  ",
+      "zipCode": "5670083",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "イバラキシ",
+      "townKana": "サイトモエギ",
+      "prefecture": "大阪府",
+      "city": "茨木市",
+      "town": "彩都もえぎ",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

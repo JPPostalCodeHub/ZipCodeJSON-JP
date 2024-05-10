@@ -1,17 +1,21 @@
 {
-  "jisCode": "08210",
-  "oldZipCode": "304  ",
-  "zipCode": "3040811",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "シモツマシ",
-  "townKana": "シモグリ",
-  "prefecture": "茨城県",
-  "city": "下妻市",
-  "town": "下栗",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08210",
+      "oldZipCode": "304  ",
+      "zipCode": "3040811",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "シモツマシ",
+      "townKana": "シモグリ",
+      "prefecture": "茨城県",
+      "city": "下妻市",
+      "town": "下栗",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

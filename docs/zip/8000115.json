@@ -1,17 +1,21 @@
 {
-  "jisCode": "40101",
-  "oldZipCode": "80001",
-  "zipCode": "8000115",
-  "prefectureKana": "フクオカケン",
-  "cityKana": "キタキュウシュウシモジク",
-  "townKana": "シンモジ",
-  "prefecture": "福岡県",
-  "city": "北九州市門司区",
-  "town": "新門司",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "40101",
+      "oldZipCode": "80001",
+      "zipCode": "8000115",
+      "prefectureKana": "フクオカケン",
+      "cityKana": "キタキュウシュウシモジク",
+      "townKana": "シンモジ",
+      "prefecture": "福岡県",
+      "city": "北九州市門司区",
+      "town": "新門司",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "01233",
-  "oldZipCode": "04404",
-  "zipCode": "0440443",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ダテシ",
-  "townKana": "オオタキクキヨハラチョウ",
-  "prefecture": "北海道",
-  "city": "伊達市",
-  "town": "大滝区清原町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01233",
+      "oldZipCode": "04404",
+      "zipCode": "0440443",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ダテシ",
+      "townKana": "オオタキクキヨハラチョウ",
+      "prefecture": "北海道",
+      "city": "伊達市",
+      "town": "大滝区清原町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

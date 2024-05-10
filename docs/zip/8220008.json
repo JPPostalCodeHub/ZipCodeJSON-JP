@@ -1,17 +1,21 @@
 {
-  "jisCode": "40204",
-  "oldZipCode": "822  ",
-  "zipCode": "8220008",
-  "prefectureKana": "フクオカケン",
-  "cityKana": "ノオガタシ",
-  "townKana": "ユノハラ",
-  "prefecture": "福岡県",
-  "city": "直方市",
-  "town": "湯野原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "40204",
+      "oldZipCode": "822  ",
+      "zipCode": "8220008",
+      "prefectureKana": "フクオカケン",
+      "cityKana": "ノオガタシ",
+      "townKana": "ユノハラ",
+      "prefecture": "福岡県",
+      "city": "直方市",
+      "town": "湯野原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

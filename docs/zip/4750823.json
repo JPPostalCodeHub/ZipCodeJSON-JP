@@ -1,17 +1,21 @@
 {
-  "jisCode": "23205",
-  "oldZipCode": "475  ",
-  "zipCode": "4750823",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ハンダシ",
-  "townKana": "ミナトマチ",
-  "prefecture": "愛知県",
-  "city": "半田市",
-  "town": "港町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23205",
+      "oldZipCode": "475  ",
+      "zipCode": "4750823",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ハンダシ",
+      "townKana": "ミナトマチ",
+      "prefecture": "愛知県",
+      "city": "半田市",
+      "town": "港町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

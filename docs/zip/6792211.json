@@ -1,17 +1,21 @@
 {
-  "jisCode": "28443",
-  "oldZipCode": "67922",
-  "zipCode": "6792211",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "カンザキグンフクサキチョウ",
-  "townKana": "ヤマサキ",
-  "prefecture": "兵庫県",
-  "city": "神崎郡福崎町",
-  "town": "山崎",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28443",
+      "oldZipCode": "67922",
+      "zipCode": "6792211",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "カンザキグンフクサキチョウ",
+      "townKana": "ヤマサキ",
+      "prefecture": "兵庫県",
+      "city": "神崎郡福崎町",
+      "town": "山崎",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

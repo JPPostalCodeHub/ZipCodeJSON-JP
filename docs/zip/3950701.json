@@ -1,17 +1,21 @@
 {
-  "jisCode": "20410",
-  "oldZipCode": "39507",
-  "zipCode": "3950701",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "シモイナグンネバムラ",
-  "townKana": "ネバムライチエン",
-  "prefecture": "長野県",
-  "city": "下伊那郡根羽村",
-  "town": "根羽村一円",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20410",
+      "oldZipCode": "39507",
+      "zipCode": "3950701",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "シモイナグンネバムラ",
+      "townKana": "ネバムライチエン",
+      "prefecture": "長野県",
+      "city": "下伊那郡根羽村",
+      "town": "根羽村一円",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

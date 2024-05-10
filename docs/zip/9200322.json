@@ -1,17 +1,21 @@
 {
-  "jisCode": "17201",
-  "oldZipCode": "92003",
-  "zipCode": "9200322",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "カナザワシ",
-  "townKana": "カナイワイママチ",
-  "prefecture": "石川県",
-  "city": "金沢市",
-  "town": "金石今町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17201",
+      "oldZipCode": "92003",
+      "zipCode": "9200322",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "カナザワシ",
+      "townKana": "カナイワイママチ",
+      "prefecture": "石川県",
+      "city": "金沢市",
+      "town": "金石今町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

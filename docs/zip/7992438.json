@@ -1,17 +1,21 @@
 {
-  "jisCode": "38201",
-  "oldZipCode": "79924",
-  "zipCode": "7992438",
-  "prefectureKana": "エヒメケン",
-  "cityKana": "マツヤマシ",
-  "townKana": "コウノナカスガ",
-  "prefecture": "愛媛県",
-  "city": "松山市",
-  "town": "河野中須賀",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "38201",
+      "oldZipCode": "79924",
+      "zipCode": "7992438",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "マツヤマシ",
+      "townKana": "コウノナカスガ",
+      "prefecture": "愛媛県",
+      "city": "松山市",
+      "town": "河野中須賀",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

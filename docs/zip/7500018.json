@@ -1,17 +1,21 @@
 {
-  "jisCode": "35201",
-  "oldZipCode": "750  ",
-  "zipCode": "7500018",
-  "prefectureKana": "ヤマグチケン",
-  "cityKana": "シモノセキシ",
-  "townKana": "ブゼンダチョウ",
-  "prefecture": "山口県",
-  "city": "下関市",
-  "town": "豊前田町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "35201",
+      "oldZipCode": "750  ",
+      "zipCode": "7500018",
+      "prefectureKana": "ヤマグチケン",
+      "cityKana": "シモノセキシ",
+      "townKana": "ブゼンダチョウ",
+      "prefecture": "山口県",
+      "city": "下関市",
+      "town": "豊前田町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

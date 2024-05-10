@@ -1,17 +1,21 @@
 {
-  "jisCode": "28111",
-  "oldZipCode": "65121",
-  "zipCode": "6512131",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "コウベシニシク",
-  "townKana": "モチコ",
-  "prefecture": "兵庫県",
-  "city": "神戸市西区",
-  "town": "持子",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28111",
+      "oldZipCode": "65121",
+      "zipCode": "6512131",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "コウベシニシク",
+      "townKana": "モチコ",
+      "prefecture": "兵庫県",
+      "city": "神戸市西区",
+      "town": "持子",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

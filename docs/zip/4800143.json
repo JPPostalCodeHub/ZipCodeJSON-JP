@@ -1,17 +1,21 @@
 {
-  "jisCode": "23361",
-  "oldZipCode": "48001",
-  "zipCode": "4800143",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ニワグンオオグチチョウ",
-  "townKana": "シロヤシキ",
-  "prefecture": "愛知県",
-  "city": "丹羽郡大口町",
-  "town": "城屋敷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23361",
+      "oldZipCode": "48001",
+      "zipCode": "4800143",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ニワグンオオグチチョウ",
+      "townKana": "シロヤシキ",
+      "prefecture": "愛知県",
+      "city": "丹羽郡大口町",
+      "town": "城屋敷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

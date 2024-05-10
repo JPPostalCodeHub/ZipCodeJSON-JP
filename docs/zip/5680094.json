@@ -1,17 +1,21 @@
 {
-  "jisCode": "27211",
-  "oldZipCode": "568  ",
-  "zipCode": "5680094",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "イバラキシ",
-  "townKana": "クワノハラ",
-  "prefecture": "大阪府",
-  "city": "茨木市",
-  "town": "桑原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27211",
+      "oldZipCode": "568  ",
+      "zipCode": "5680094",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "イバラキシ",
+      "townKana": "クワノハラ",
+      "prefecture": "大阪府",
+      "city": "茨木市",
+      "town": "桑原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

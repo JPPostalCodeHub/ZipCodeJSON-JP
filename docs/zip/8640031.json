@@ -1,17 +1,21 @@
 {
-  "jisCode": "43204",
-  "oldZipCode": "864  ",
-  "zipCode": "8640031",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "アラオシ",
-  "townKana": "カワノボリ（１７７３−１９７９、１９８１−２０１０、２０５０−２１００バンチ）",
-  "prefecture": "熊本県",
-  "city": "荒尾市",
-  "town": "川登（１７７３〜１９７９、１９８１〜２０１０、２０５０〜２１００番地）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43204",
+      "oldZipCode": "864  ",
+      "zipCode": "8640031",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "アラオシ",
+      "townKana": "カワノボリ（１７７３−１９７９、１９８１−２０１０、２０５０−２１００バンチ）",
+      "prefecture": "熊本県",
+      "city": "荒尾市",
+      "town": "川登（１７７３〜１９７９、１９８１〜２０１０、２０５０〜２１００番地）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

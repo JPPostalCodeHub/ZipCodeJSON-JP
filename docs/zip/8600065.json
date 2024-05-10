@@ -1,17 +1,21 @@
 {
-  "jisCode": "43103",
-  "oldZipCode": "860  ",
-  "zipCode": "8600065",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "クマモトシニシク",
-  "townKana": "ジョウザンヤクシ",
-  "prefecture": "熊本県",
-  "city": "熊本市西区",
-  "town": "城山薬師",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43103",
+      "oldZipCode": "860  ",
+      "zipCode": "8600065",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "クマモトシニシク",
+      "townKana": "ジョウザンヤクシ",
+      "prefecture": "熊本県",
+      "city": "熊本市西区",
+      "town": "城山薬師",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

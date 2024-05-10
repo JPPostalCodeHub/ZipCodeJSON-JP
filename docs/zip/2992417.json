@@ -1,17 +1,21 @@
 {
-  "jisCode": "12234",
-  "oldZipCode": "29924",
-  "zipCode": "2992417",
-  "prefectureKana": "チバケン",
-  "cityKana": "ミナミボウソウシ",
-  "townKana": "トミウラチョウニュウ",
-  "prefecture": "千葉県",
-  "city": "南房総市",
-  "town": "富浦町丹生",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12234",
+      "oldZipCode": "29924",
+      "zipCode": "2992417",
+      "prefectureKana": "チバケン",
+      "cityKana": "ミナミボウソウシ",
+      "townKana": "トミウラチョウニュウ",
+      "prefecture": "千葉県",
+      "city": "南房総市",
+      "town": "富浦町丹生",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

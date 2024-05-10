@@ -1,17 +1,21 @@
 {
-  "jisCode": "32525",
-  "oldZipCode": "68404",
-  "zipCode": "6840402",
-  "prefectureKana": "シマネケン",
-  "cityKana": "オキグンアマチョウ",
-  "townKana": "トヨダ",
-  "prefecture": "島根県",
-  "city": "隠岐郡海士町",
-  "town": "豊田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "32525",
+      "oldZipCode": "68404",
+      "zipCode": "6840402",
+      "prefectureKana": "シマネケン",
+      "cityKana": "オキグンアマチョウ",
+      "townKana": "トヨダ",
+      "prefecture": "島根県",
+      "city": "隠岐郡海士町",
+      "town": "豊田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

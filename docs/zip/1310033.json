@@ -1,17 +1,21 @@
 {
-  "jisCode": "13107",
-  "oldZipCode": "131  ",
-  "zipCode": "1310033",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "スミダク",
-  "townKana": "ムコウジマ",
-  "prefecture": "東京都",
-  "city": "墨田区",
-  "town": "向島",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13107",
+      "oldZipCode": "131  ",
+      "zipCode": "1310033",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "スミダク",
+      "townKana": "ムコウジマ",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "town": "向島",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

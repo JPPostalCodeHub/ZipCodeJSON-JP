@@ -1,17 +1,21 @@
 {
-  "jisCode": "34107",
-  "oldZipCode": "736  ",
-  "zipCode": "7360082",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "ヒロシマシアキク",
-  "townKana": "フナコシミナミ",
-  "prefecture": "広島県",
-  "city": "広島市安芸区",
-  "town": "船越南",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34107",
+      "oldZipCode": "736  ",
+      "zipCode": "7360082",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ヒロシマシアキク",
+      "townKana": "フナコシミナミ",
+      "prefecture": "広島県",
+      "city": "広島市安芸区",
+      "town": "船越南",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

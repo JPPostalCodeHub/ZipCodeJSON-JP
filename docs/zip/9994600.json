@@ -1,17 +1,21 @@
 {
-  "jisCode": "06363",
-  "oldZipCode": "99946",
-  "zipCode": "9994600",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "モガミグンフナガタマチ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "山形県",
-  "city": "最上郡舟形町",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06363",
+      "oldZipCode": "99946",
+      "zipCode": "9994600",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "モガミグンフナガタマチ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "山形県",
+      "city": "最上郡舟形町",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

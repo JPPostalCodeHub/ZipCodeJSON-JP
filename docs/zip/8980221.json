@@ -1,17 +1,21 @@
 {
-  "jisCode": "46220",
-  "oldZipCode": "89802",
-  "zipCode": "8980221",
-  "prefectureKana": "カゴシマケン",
-  "cityKana": "ミナミサツマシ",
-  "townKana": "オオウラチョウ（４７１３−５２７７バンチ）",
-  "prefecture": "鹿児島県",
-  "city": "南さつま市",
-  "town": "大浦町（４７１３〜５２７７番地）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "46220",
+      "oldZipCode": "89802",
+      "zipCode": "8980221",
+      "prefectureKana": "カゴシマケン",
+      "cityKana": "ミナミサツマシ",
+      "townKana": "オオウラチョウ（４７１３−５２７７バンチ）",
+      "prefecture": "鹿児島県",
+      "city": "南さつま市",
+      "town": "大浦町（４７１３〜５２７７番地）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

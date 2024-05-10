@@ -1,17 +1,21 @@
 {
-  "jisCode": "35202",
-  "oldZipCode": "75901",
-  "zipCode": "7590133",
-  "prefectureKana": "ヤマグチケン",
-  "cityKana": "ウベシ",
-  "townKana": "クルマジ",
-  "prefecture": "山口県",
-  "city": "宇部市",
-  "town": "車地",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "35202",
+      "oldZipCode": "75901",
+      "zipCode": "7590133",
+      "prefectureKana": "ヤマグチケン",
+      "cityKana": "ウベシ",
+      "townKana": "クルマジ",
+      "prefecture": "山口県",
+      "city": "宇部市",
+      "town": "車地",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

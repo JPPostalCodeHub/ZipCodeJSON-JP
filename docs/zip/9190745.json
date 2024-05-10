@@ -1,17 +1,21 @@
 {
-  "jisCode": "18208",
-  "oldZipCode": "91907",
-  "zipCode": "9190745",
-  "prefectureKana": "フクイケン",
-  "cityKana": "アワラシ",
-  "townKana": "ジロウマル",
-  "prefecture": "福井県",
-  "city": "あわら市",
-  "town": "次郎丸",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18208",
+      "oldZipCode": "91907",
+      "zipCode": "9190745",
+      "prefectureKana": "フクイケン",
+      "cityKana": "アワラシ",
+      "townKana": "ジロウマル",
+      "prefecture": "福井県",
+      "city": "あわら市",
+      "town": "次郎丸",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

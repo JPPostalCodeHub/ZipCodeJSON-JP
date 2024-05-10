@@ -1,17 +1,21 @@
 {
-  "jisCode": "47215",
-  "oldZipCode": "90114",
-  "zipCode": "9011404",
-  "prefectureKana": "オキナワケン",
-  "cityKana": "ナンジョウシ",
-  "townKana": "サシキフソザキ",
-  "prefecture": "沖縄県",
-  "city": "南城市",
-  "town": "佐敷冨祖崎",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "47215",
+      "oldZipCode": "90114",
+      "zipCode": "9011404",
+      "prefectureKana": "オキナワケン",
+      "cityKana": "ナンジョウシ",
+      "townKana": "サシキフソザキ",
+      "prefecture": "沖縄県",
+      "city": "南城市",
+      "town": "佐敷冨祖崎",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

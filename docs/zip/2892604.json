@@ -1,17 +1,21 @@
 {
-  "jisCode": "12215",
-  "oldZipCode": "28926",
-  "zipCode": "2892604",
-  "prefectureKana": "チバケン",
-  "cityKana": "アサヒシ",
-  "townKana": "タカオイ",
-  "prefecture": "千葉県",
-  "city": "旭市",
-  "town": "高生",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12215",
+      "oldZipCode": "28926",
+      "zipCode": "2892604",
+      "prefectureKana": "チバケン",
+      "cityKana": "アサヒシ",
+      "townKana": "タカオイ",
+      "prefecture": "千葉県",
+      "city": "旭市",
+      "town": "高生",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

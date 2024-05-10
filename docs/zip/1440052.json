@@ -1,17 +1,21 @@
 {
-  "jisCode": "13111",
-  "oldZipCode": "144  ",
-  "zipCode": "1440052",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "オオタク",
-  "townKana": "カマタ",
-  "prefecture": "東京都",
-  "city": "大田区",
-  "town": "蒲田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13111",
+      "oldZipCode": "144  ",
+      "zipCode": "1440052",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "オオタク",
+      "townKana": "カマタ",
+      "prefecture": "東京都",
+      "city": "大田区",
+      "town": "蒲田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

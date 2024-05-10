@@ -1,17 +1,21 @@
 {
-  "jisCode": "27111",
-  "oldZipCode": "556  ",
-  "zipCode": "5560017",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "オオサカシナニワク",
-  "townKana": "ミナトマチ",
-  "prefecture": "大阪府",
-  "city": "大阪市浪速区",
-  "town": "湊町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27111",
+      "oldZipCode": "556  ",
+      "zipCode": "5560017",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "オオサカシナニワク",
+      "townKana": "ミナトマチ",
+      "prefecture": "大阪府",
+      "city": "大阪市浪速区",
+      "town": "湊町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

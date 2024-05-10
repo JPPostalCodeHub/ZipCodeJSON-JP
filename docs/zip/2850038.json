@@ -1,17 +1,21 @@
 {
-  "jisCode": "12212",
-  "oldZipCode": "285  ",
-  "zipCode": "2850038",
-  "prefectureKana": "チバケン",
-  "cityKana": "サクラシ",
-  "townKana": "ミロクマチ",
-  "prefecture": "千葉県",
-  "city": "佐倉市",
-  "town": "弥勒町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12212",
+      "oldZipCode": "285  ",
+      "zipCode": "2850038",
+      "prefectureKana": "チバケン",
+      "cityKana": "サクラシ",
+      "townKana": "ミロクマチ",
+      "prefecture": "千葉県",
+      "city": "佐倉市",
+      "town": "弥勒町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

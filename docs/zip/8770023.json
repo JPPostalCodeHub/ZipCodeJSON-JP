@@ -1,17 +1,21 @@
 {
-  "jisCode": "44204",
-  "oldZipCode": "877  ",
-  "zipCode": "8770023",
-  "prefectureKana": "オオイタケン",
-  "cityKana": "ヒタシ",
-  "townKana": "タシマ（オオアザ）",
-  "prefecture": "大分県",
-  "city": "日田市",
-  "town": "田島（大字）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "44204",
+      "oldZipCode": "877  ",
+      "zipCode": "8770023",
+      "prefectureKana": "オオイタケン",
+      "cityKana": "ヒタシ",
+      "townKana": "タシマ（オオアザ）",
+      "prefecture": "大分県",
+      "city": "日田市",
+      "town": "田島（大字）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

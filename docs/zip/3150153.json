@@ -1,17 +1,21 @@
 {
-  "jisCode": "08205",
-  "oldZipCode": "31501",
-  "zipCode": "3150153",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "イシオカシ",
-  "townKana": "シモアオヤギ",
-  "prefecture": "茨城県",
-  "city": "石岡市",
-  "town": "下青柳",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08205",
+      "oldZipCode": "31501",
+      "zipCode": "3150153",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "イシオカシ",
+      "townKana": "シモアオヤギ",
+      "prefecture": "茨城県",
+      "city": "石岡市",
+      "town": "下青柳",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "08224",
-  "oldZipCode": "30201",
-  "zipCode": "3020122",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "モリヤシ",
-  "townKana": "コヤマ",
-  "prefecture": "茨城県",
-  "city": "守谷市",
-  "town": "小山",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08224",
+      "oldZipCode": "30201",
+      "zipCode": "3020122",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "モリヤシ",
+      "townKana": "コヤマ",
+      "prefecture": "茨城県",
+      "city": "守谷市",
+      "town": "小山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

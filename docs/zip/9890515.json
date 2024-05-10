@@ -1,17 +1,38 @@
 {
-  "jisCode": "04302",
-  "oldZipCode": "98905",
-  "zipCode": "9890515",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "カッタグンシチカシュクマチ",
-  "townKana": "ミヤマエ",
-  "prefecture": "宮城県",
-  "city": "刈田郡七ヶ宿町",
-  "town": "宮前",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04302",
+      "oldZipCode": "98905",
+      "zipCode": "9890515",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "カッタグンシチカシュクマチ",
+      "townKana": "マチジリ",
+      "prefecture": "宮城県",
+      "city": "刈田郡七ヶ宿町",
+      "town": "町尻",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "04302",
+      "oldZipCode": "98905",
+      "zipCode": "9890515",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "カッタグンシチカシュクマチ",
+      "townKana": "ミヤマエ",
+      "prefecture": "宮城県",
+      "city": "刈田郡七ヶ宿町",
+      "town": "宮前",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

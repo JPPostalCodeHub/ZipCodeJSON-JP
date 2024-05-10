@@ -1,17 +1,21 @@
 {
-  "jisCode": "26111",
-  "oldZipCode": "615  ",
-  "zipCode": "6158118",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシニシキョウク",
-  "townKana": "カワシマサンジュウチョウ",
-  "prefecture": "京都府",
-  "city": "京都市西京区",
-  "town": "川島三重町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26111",
+      "oldZipCode": "615  ",
+      "zipCode": "6158118",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシニシキョウク",
+      "townKana": "カワシマサンジュウチョウ",
+      "prefecture": "京都府",
+      "city": "京都市西京区",
+      "town": "川島三重町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

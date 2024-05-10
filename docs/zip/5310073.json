@@ -1,17 +1,21 @@
 {
-  "jisCode": "27127",
-  "oldZipCode": "531  ",
-  "zipCode": "5310073",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "オオサカシキタク",
-  "townKana": "ホンジョウニシ",
-  "prefecture": "大阪府",
-  "city": "大阪市北区",
-  "town": "本庄西",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27127",
+      "oldZipCode": "531  ",
+      "zipCode": "5310073",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "オオサカシキタク",
+      "townKana": "ホンジョウニシ",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "town": "本庄西",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

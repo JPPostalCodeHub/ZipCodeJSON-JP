@@ -1,17 +1,21 @@
 {
-  "jisCode": "32202",
-  "oldZipCode": "69713",
-  "zipCode": "6971338",
-  "prefectureKana": "シマネケン",
-  "cityKana": "ハマダシ",
-  "townKana": "オリイチョウ",
-  "prefecture": "島根県",
-  "city": "浜田市",
-  "town": "折居町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "32202",
+      "oldZipCode": "69713",
+      "zipCode": "6971338",
+      "prefectureKana": "シマネケン",
+      "cityKana": "ハマダシ",
+      "townKana": "オリイチョウ",
+      "prefecture": "島根県",
+      "city": "浜田市",
+      "town": "折居町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

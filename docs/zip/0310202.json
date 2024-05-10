@@ -1,17 +1,21 @@
 {
-  "jisCode": "02203",
-  "oldZipCode": "03102",
-  "zipCode": "0310202",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "ハチノヘシ",
-  "townKana": "ナンゴウシマモリ",
-  "prefecture": "青森県",
-  "city": "八戸市",
-  "town": "南郷島守",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02203",
+      "oldZipCode": "03102",
+      "zipCode": "0310202",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "ハチノヘシ",
+      "townKana": "ナンゴウシマモリ",
+      "prefecture": "青森県",
+      "city": "八戸市",
+      "town": "南郷島守",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

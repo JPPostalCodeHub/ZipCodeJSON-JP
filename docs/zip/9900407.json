@@ -1,17 +1,21 @@
 {
-  "jisCode": "06302",
-  "oldZipCode": "99004",
-  "zipCode": "9900407",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "ヒガシムラヤマグンナカヤママチ",
-  "townKana": "ツチハシ",
-  "prefecture": "山形県",
-  "city": "東村山郡中山町",
-  "town": "土橋",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06302",
+      "oldZipCode": "99004",
+      "zipCode": "9900407",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "ヒガシムラヤマグンナカヤママチ",
+      "townKana": "ツチハシ",
+      "prefecture": "山形県",
+      "city": "東村山郡中山町",
+      "town": "土橋",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

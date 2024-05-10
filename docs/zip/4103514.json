@@ -1,17 +1,21 @@
 {
-  "jisCode": "22306",
-  "oldZipCode": "41035",
-  "zipCode": "4103514",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "カモグンニシイズチョウ",
-  "townKana": "ニシナ",
-  "prefecture": "静岡県",
-  "city": "賀茂郡西伊豆町",
-  "town": "仁科",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22306",
+      "oldZipCode": "41035",
+      "zipCode": "4103514",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "カモグンニシイズチョウ",
+      "townKana": "ニシナ",
+      "prefecture": "静岡県",
+      "city": "賀茂郡西伊豆町",
+      "town": "仁科",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

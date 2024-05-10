@@ -1,17 +1,21 @@
 {
-  "jisCode": "01634",
-  "oldZipCode": "08103",
-  "zipCode": "0810345",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "カトウグンシカオイチョウ",
-  "townKana": "ナカウリマクニシ",
-  "prefecture": "北海道",
-  "city": "河東郡鹿追町",
-  "town": "中瓜幕西",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01634",
+      "oldZipCode": "08103",
+      "zipCode": "0810345",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "カトウグンシカオイチョウ",
+      "townKana": "ナカウリマクニシ",
+      "prefecture": "北海道",
+      "city": "河東郡鹿追町",
+      "town": "中瓜幕西",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

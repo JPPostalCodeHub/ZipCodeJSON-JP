@@ -1,17 +1,21 @@
 {
-  "jisCode": "02307",
-  "oldZipCode": "03014",
-  "zipCode": "0301404",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "ヒガシツガルグンソトガハママチ",
-  "townKana": "タイラダテヤゾウカマ",
-  "prefecture": "青森県",
-  "city": "東津軽郡外ヶ浜町",
-  "town": "平舘弥蔵釜",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02307",
+      "oldZipCode": "03014",
+      "zipCode": "0301404",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "ヒガシツガルグンソトガハママチ",
+      "townKana": "タイラダテヤゾウカマ",
+      "prefecture": "青森県",
+      "city": "東津軽郡外ヶ浜町",
+      "town": "平舘弥蔵釜",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

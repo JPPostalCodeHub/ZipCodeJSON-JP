@@ -1,17 +1,21 @@
 {
-  "jisCode": "36207",
-  "oldZipCode": "77936",
-  "zipCode": "7793637",
-  "prefectureKana": "トクシマケン",
-  "cityKana": "ミマシ",
-  "townKana": "ワキマチ（カミナカノ、シモナカノ、ヒラボウシ、フナキ）",
-  "prefecture": "徳島県",
-  "city": "美馬市",
-  "town": "脇町（上中野、下中野、平帽子、舟木）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "36207",
+      "oldZipCode": "77936",
+      "zipCode": "7793637",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "ミマシ",
+      "townKana": "ワキマチ（カミナカノ、シモナカノ、ヒラボウシ、フナキ）",
+      "prefecture": "徳島県",
+      "city": "美馬市",
+      "town": "脇町（上中野、下中野、平帽子、舟木）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

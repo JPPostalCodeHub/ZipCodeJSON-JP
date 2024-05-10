@@ -1,17 +1,21 @@
 {
-  "jisCode": "37386",
-  "oldZipCode": "76902",
-  "zipCode": "7690213",
-  "prefectureKana": "カガワケン",
-  "cityKana": "アヤウタグンウタヅチョウ",
-  "townKana": "ヒガシブン",
-  "prefecture": "香川県",
-  "city": "綾歌郡宇多津町",
-  "town": "東分",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "37386",
+      "oldZipCode": "76902",
+      "zipCode": "7690213",
+      "prefectureKana": "カガワケン",
+      "cityKana": "アヤウタグンウタヅチョウ",
+      "townKana": "ヒガシブン",
+      "prefecture": "香川県",
+      "city": "綾歌郡宇多津町",
+      "town": "東分",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

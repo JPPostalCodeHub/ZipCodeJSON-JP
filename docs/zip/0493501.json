@@ -1,17 +1,38 @@
 {
-  "jisCode": "01347",
-  "oldZipCode": "04935",
-  "zipCode": "0493501",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ヤマコシグンオシャマンベチョウ",
-  "townKana": "フタバ",
-  "prefecture": "北海道",
-  "city": "山越郡長万部町",
-  "town": "双葉",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01347",
+      "oldZipCode": "04935",
+      "zipCode": "0493501",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ヤマコシグンオシャマンベチョウ",
+      "townKana": "オオミネ",
+      "prefecture": "北海道",
+      "city": "山越郡長万部町",
+      "town": "大峰",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "01347",
+      "oldZipCode": "04935",
+      "zipCode": "0493501",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ヤマコシグンオシャマンベチョウ",
+      "townKana": "フタバ",
+      "prefecture": "北海道",
+      "city": "山越郡長万部町",
+      "town": "双葉",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

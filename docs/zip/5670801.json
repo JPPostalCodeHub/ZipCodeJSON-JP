@@ -1,17 +1,21 @@
 {
-  "jisCode": "27211",
-  "oldZipCode": "567  ",
-  "zipCode": "5670801",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "イバラキシ",
-  "townKana": "ソウジジ",
-  "prefecture": "大阪府",
-  "city": "茨木市",
-  "town": "総持寺",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27211",
+      "oldZipCode": "567  ",
+      "zipCode": "5670801",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "イバラキシ",
+      "townKana": "ソウジジ",
+      "prefecture": "大阪府",
+      "city": "茨木市",
+      "town": "総持寺",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

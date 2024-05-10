@@ -1,17 +1,21 @@
 {
-  "jisCode": "12104",
-  "oldZipCode": "265  ",
-  "zipCode": "2650053",
-  "prefectureKana": "チバケン",
-  "cityKana": "チバシワカバク",
-  "townKana": "ノロチョウ",
-  "prefecture": "千葉県",
-  "city": "千葉市若葉区",
-  "town": "野呂町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12104",
+      "oldZipCode": "265  ",
+      "zipCode": "2650053",
+      "prefectureKana": "チバケン",
+      "cityKana": "チバシワカバク",
+      "townKana": "ノロチョウ",
+      "prefecture": "千葉県",
+      "city": "千葉市若葉区",
+      "town": "野呂町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

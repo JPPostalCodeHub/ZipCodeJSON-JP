@@ -1,17 +1,38 @@
 {
-  "jisCode": "07213",
-  "oldZipCode": "96006",
-  "zipCode": "9600644",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "ダテシ",
-  "townKana": "ホバラマチユタカマチ",
-  "prefecture": "福島県",
-  "city": "伊達市",
-  "town": "保原町豊町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07213",
+      "oldZipCode": "96006",
+      "zipCode": "9600644",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "ダテシ",
+      "townKana": "ホバラマチトヨタ",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "town": "保原町豊田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "07213",
+      "oldZipCode": "96006",
+      "zipCode": "9600644",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "ダテシ",
+      "townKana": "ホバラマチユタカマチ",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "town": "保原町豊町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "10204",
-  "oldZipCode": "37001",
-  "zipCode": "3700105",
-  "prefectureKana": "グンマケン",
-  "cityKana": "イセサキシ",
-  "townKana": "サカイイヨク",
-  "prefecture": "群馬県",
-  "city": "伊勢崎市",
-  "town": "境伊与久",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "10204",
+      "oldZipCode": "37001",
+      "zipCode": "3700105",
+      "prefectureKana": "グンマケン",
+      "cityKana": "イセサキシ",
+      "townKana": "サカイイヨク",
+      "prefecture": "群馬県",
+      "city": "伊勢崎市",
+      "town": "境伊与久",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

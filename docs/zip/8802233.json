@@ -1,17 +1,21 @@
 {
-  "jisCode": "45201",
-  "oldZipCode": "88022",
-  "zipCode": "8802233",
-  "prefectureKana": "ミヤザキケン",
-  "cityKana": "ミヤザキシ",
-  "townKana": "ヨシノ",
-  "prefecture": "宮崎県",
-  "city": "宮崎市",
-  "town": "吉野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "45201",
+      "oldZipCode": "88022",
+      "zipCode": "8802233",
+      "prefectureKana": "ミヤザキケン",
+      "cityKana": "ミヤザキシ",
+      "townKana": "ヨシノ",
+      "prefecture": "宮崎県",
+      "city": "宮崎市",
+      "town": "吉野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

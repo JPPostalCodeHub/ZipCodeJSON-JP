@@ -1,17 +1,21 @@
 {
-  "jisCode": "14363",
-  "oldZipCode": "258  ",
-  "zipCode": "2580002",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "アシガラカミグンマツダマチ",
-  "townKana": "コウヤマ",
-  "prefecture": "神奈川県",
-  "city": "足柄上郡松田町",
-  "town": "神山",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14363",
+      "oldZipCode": "258  ",
+      "zipCode": "2580002",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "アシガラカミグンマツダマチ",
+      "townKana": "コウヤマ",
+      "prefecture": "神奈川県",
+      "city": "足柄上郡松田町",
+      "town": "神山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

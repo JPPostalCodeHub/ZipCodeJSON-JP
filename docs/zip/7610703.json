@@ -1,17 +1,21 @@
 {
-  "jisCode": "37341",
-  "oldZipCode": "76107",
-  "zipCode": "7610703",
-  "prefectureKana": "カガワケン",
-  "cityKana": "キタグンミキチョウ",
-  "townKana": "シシブセ",
-  "prefecture": "香川県",
-  "city": "木田郡三木町",
-  "town": "鹿伏",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "37341",
+      "oldZipCode": "76107",
+      "zipCode": "7610703",
+      "prefectureKana": "カガワケン",
+      "cityKana": "キタグンミキチョウ",
+      "townKana": "シシブセ",
+      "prefecture": "香川県",
+      "city": "木田郡三木町",
+      "town": "鹿伏",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

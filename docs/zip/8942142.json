@@ -1,17 +1,21 @@
 {
-  "jisCode": "46525",
-  "oldZipCode": "89421",
-  "zipCode": "8942142",
-  "prefectureKana": "カゴシマケン",
-  "cityKana": "オオシマグンセトウチチョウ",
-  "townKana": "イケンマ",
-  "prefecture": "鹿児島県",
-  "city": "大島郡瀬戸内町",
-  "town": "生間",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "46525",
+      "oldZipCode": "89421",
+      "zipCode": "8942142",
+      "prefectureKana": "カゴシマケン",
+      "cityKana": "オオシマグンセトウチチョウ",
+      "townKana": "イケンマ",
+      "prefecture": "鹿児島県",
+      "city": "大島郡瀬戸内町",
+      "town": "生間",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

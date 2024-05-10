@@ -1,17 +1,21 @@
 {
-  "jisCode": "14113",
-  "oldZipCode": "226  ",
-  "zipCode": "2260006",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "ヨコハマシミドリク",
-  "townKana": "ハクサン",
-  "prefecture": "神奈川県",
-  "city": "横浜市緑区",
-  "town": "白山",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14113",
+      "oldZipCode": "226  ",
+      "zipCode": "2260006",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "ヨコハマシミドリク",
+      "townKana": "ハクサン",
+      "prefecture": "神奈川県",
+      "city": "横浜市緑区",
+      "town": "白山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

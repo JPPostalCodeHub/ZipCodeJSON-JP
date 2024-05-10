@@ -1,17 +1,21 @@
 {
-  "jisCode": "23202",
-  "oldZipCode": "444  ",
-  "zipCode": "4440950",
-  "prefectureKana": "アイチケン",
-  "cityKana": "オカザキシ",
-  "townKana": "ウトウヒガシマチ",
-  "prefecture": "愛知県",
-  "city": "岡崎市",
-  "town": "宇頭東町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23202",
+      "oldZipCode": "444  ",
+      "zipCode": "4440950",
+      "prefectureKana": "アイチケン",
+      "cityKana": "オカザキシ",
+      "townKana": "ウトウヒガシマチ",
+      "prefecture": "愛知県",
+      "city": "岡崎市",
+      "town": "宇頭東町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

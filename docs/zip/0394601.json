@@ -1,17 +1,21 @@
 {
-  "jisCode": "02423",
-  "oldZipCode": "03946",
-  "zipCode": "0394601",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "シモキタグンオオママチ",
-  "townKana": "オオマ",
-  "prefecture": "青森県",
-  "city": "下北郡大間町",
-  "town": "大間",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02423",
+      "oldZipCode": "03946",
+      "zipCode": "0394601",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "シモキタグンオオママチ",
+      "townKana": "オオマ",
+      "prefecture": "青森県",
+      "city": "下北郡大間町",
+      "town": "大間",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

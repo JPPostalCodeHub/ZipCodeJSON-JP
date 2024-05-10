@@ -1,17 +1,21 @@
 {
-  "jisCode": "01224",
-  "oldZipCode": "06602",
-  "zipCode": "0660283",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "チトセシ",
-  "townKana": "モラップ",
-  "prefecture": "北海道",
-  "city": "千歳市",
-  "town": "モラップ",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01224",
+      "oldZipCode": "06602",
+      "zipCode": "0660283",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "チトセシ",
+      "townKana": "モラップ",
+      "prefecture": "北海道",
+      "city": "千歳市",
+      "town": "モラップ",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

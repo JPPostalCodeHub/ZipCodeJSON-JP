@@ -1,17 +1,21 @@
 {
-  "jisCode": "42201",
-  "oldZipCode": "850  ",
-  "zipCode": "8500952",
-  "prefectureKana": "ナガサキケン",
-  "cityKana": "ナガサキシ",
-  "townKana": "トマチ",
-  "prefecture": "長崎県",
-  "city": "長崎市",
-  "town": "戸町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "42201",
+      "oldZipCode": "850  ",
+      "zipCode": "8500952",
+      "prefectureKana": "ナガサキケン",
+      "cityKana": "ナガサキシ",
+      "townKana": "トマチ",
+      "prefecture": "長崎県",
+      "city": "長崎市",
+      "town": "戸町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

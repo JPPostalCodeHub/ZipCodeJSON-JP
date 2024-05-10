@@ -1,17 +1,21 @@
 {
-  "jisCode": "04404",
-  "oldZipCode": "985  ",
-  "zipCode": "9850801",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "ミヤギグンシチガハママチ",
-  "townKana": "ヨガサキハマ",
-  "prefecture": "宮城県",
-  "city": "宮城郡七ヶ浜町",
-  "town": "代ヶ崎浜",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04404",
+      "oldZipCode": "985  ",
+      "zipCode": "9850801",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "ミヤギグンシチガハママチ",
+      "townKana": "ヨガサキハマ",
+      "prefecture": "宮城県",
+      "city": "宮城郡七ヶ浜町",
+      "town": "代ヶ崎浜",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "17361",
-  "oldZipCode": "92904",
-  "zipCode": "9290436",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "カホクグンツバタマチ",
-  "townKana": "アサヒバタ",
-  "prefecture": "石川県",
-  "city": "河北郡津幡町",
-  "town": "朝日畑",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17361",
+      "oldZipCode": "92904",
+      "zipCode": "9290436",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "カホクグンツバタマチ",
+      "townKana": "アサヒバタ",
+      "prefecture": "石川県",
+      "city": "河北郡津幡町",
+      "town": "朝日畑",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

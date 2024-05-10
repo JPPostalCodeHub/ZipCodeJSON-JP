@@ -1,17 +1,21 @@
 {
-  "jisCode": "35215",
-  "oldZipCode": "74501",
-  "zipCode": "7450123",
-  "prefectureKana": "ヤマグチケン",
-  "cityKana": "シュウナンシ",
-  "townKana": "トクヤマ（スギガトウゲ）",
-  "prefecture": "山口県",
-  "city": "周南市",
-  "town": "徳山（杉ケ峠）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "35215",
+      "oldZipCode": "74501",
+      "zipCode": "7450123",
+      "prefectureKana": "ヤマグチケン",
+      "cityKana": "シュウナンシ",
+      "townKana": "トクヤマ（スギガトウゲ）",
+      "prefecture": "山口県",
+      "city": "周南市",
+      "town": "徳山（杉ケ峠）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

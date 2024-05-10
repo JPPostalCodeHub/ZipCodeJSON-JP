@@ -1,17 +1,21 @@
 {
-  "jisCode": "27122",
-  "oldZipCode": "557  ",
-  "zipCode": "5570031",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "オオサカシニシナリク",
-  "townKana": "ツルミバシ",
-  "prefecture": "大阪府",
-  "city": "大阪市西成区",
-  "town": "鶴見橋",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27122",
+      "oldZipCode": "557  ",
+      "zipCode": "5570031",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "オオサカシニシナリク",
+      "townKana": "ツルミバシ",
+      "prefecture": "大阪府",
+      "city": "大阪市西成区",
+      "town": "鶴見橋",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

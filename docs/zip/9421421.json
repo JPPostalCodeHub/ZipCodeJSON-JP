@@ -1,17 +1,21 @@
 {
-  "jisCode": "15210",
-  "oldZipCode": "94214",
-  "zipCode": "9421421",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "トオカマチシ",
-  "townKana": "マツノヤマイガゴダイラ",
-  "prefecture": "新潟県",
-  "city": "十日町市",
-  "town": "松之山五十子平",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15210",
+      "oldZipCode": "94214",
+      "zipCode": "9421421",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "トオカマチシ",
+      "townKana": "マツノヤマイガゴダイラ",
+      "prefecture": "新潟県",
+      "city": "十日町市",
+      "town": "松之山五十子平",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

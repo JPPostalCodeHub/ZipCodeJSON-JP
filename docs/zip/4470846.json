@@ -1,17 +1,21 @@
 {
-  "jisCode": "23209",
-  "oldZipCode": "447  ",
-  "zipCode": "4470846",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ヘキナンシ",
-  "townKana": "ナカマチ",
-  "prefecture": "愛知県",
-  "city": "碧南市",
-  "town": "中町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23209",
+      "oldZipCode": "447  ",
+      "zipCode": "4470846",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ヘキナンシ",
+      "townKana": "ナカマチ",
+      "prefecture": "愛知県",
+      "city": "碧南市",
+      "town": "中町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

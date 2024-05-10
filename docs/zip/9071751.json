@@ -1,17 +1,21 @@
 {
-  "jisCode": "47381",
-  "oldZipCode": "90717",
-  "zipCode": "9071751",
-  "prefectureKana": "オキナワケン",
-  "cityKana": "ヤエヤマグンタケトミチョウ",
-  "townKana": "ハテルマ",
-  "prefecture": "沖縄県",
-  "city": "八重山郡竹富町",
-  "town": "波照間",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "47381",
+      "oldZipCode": "90717",
+      "zipCode": "9071751",
+      "prefectureKana": "オキナワケン",
+      "cityKana": "ヤエヤマグンタケトミチョウ",
+      "townKana": "ハテルマ",
+      "prefecture": "沖縄県",
+      "city": "八重山郡竹富町",
+      "town": "波照間",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

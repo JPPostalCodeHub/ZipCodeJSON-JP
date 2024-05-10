@@ -1,17 +1,21 @@
 {
-  "jisCode": "26204",
-  "oldZipCode": "611  ",
-  "zipCode": "6110044",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "ウジシ",
-  "townKana": "イセダチョウナギ",
-  "prefecture": "京都府",
-  "city": "宇治市",
-  "town": "伊勢田町名木",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26204",
+      "oldZipCode": "611  ",
+      "zipCode": "6110044",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "ウジシ",
+      "townKana": "イセダチョウナギ",
+      "prefecture": "京都府",
+      "city": "宇治市",
+      "town": "伊勢田町名木",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

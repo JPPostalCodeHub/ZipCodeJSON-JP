@@ -1,17 +1,21 @@
 {
-  "jisCode": "43204",
-  "oldZipCode": "86401",
-  "zipCode": "8640161",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "アラオシ",
-  "townKana": "コモヤ",
-  "prefecture": "熊本県",
-  "city": "荒尾市",
-  "town": "菰屋",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43204",
+      "oldZipCode": "86401",
+      "zipCode": "8640161",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "アラオシ",
+      "townKana": "コモヤ",
+      "prefecture": "熊本県",
+      "city": "荒尾市",
+      "town": "菰屋",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

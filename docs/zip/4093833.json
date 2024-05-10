@@ -1,17 +1,21 @@
 {
-  "jisCode": "19214",
-  "oldZipCode": "40938",
-  "zipCode": "4093833",
-  "prefectureKana": "ヤマナシケン",
-  "cityKana": "チュウオウシ",
-  "townKana": "フジマキ",
-  "prefecture": "山梨県",
-  "city": "中央市",
-  "town": "藤巻",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "19214",
+      "oldZipCode": "40938",
+      "zipCode": "4093833",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "チュウオウシ",
+      "townKana": "フジマキ",
+      "prefecture": "山梨県",
+      "city": "中央市",
+      "town": "藤巻",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

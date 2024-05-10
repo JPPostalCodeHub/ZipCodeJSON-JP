@@ -1,17 +1,21 @@
 {
-  "jisCode": "23446",
-  "oldZipCode": "47032",
-  "zipCode": "4703234",
-  "prefectureKana": "アイチケン",
-  "cityKana": "チタグンミハマチョウ",
-  "townKana": "シンサカエ",
-  "prefecture": "愛知県",
-  "city": "知多郡美浜町",
-  "town": "新栄",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23446",
+      "oldZipCode": "47032",
+      "zipCode": "4703234",
+      "prefectureKana": "アイチケン",
+      "cityKana": "チタグンミハマチョウ",
+      "townKana": "シンサカエ",
+      "prefecture": "愛知県",
+      "city": "知多郡美浜町",
+      "town": "新栄",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

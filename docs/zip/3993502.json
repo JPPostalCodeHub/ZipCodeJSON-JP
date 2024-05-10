@@ -1,17 +1,21 @@
 {
-  "jisCode": "20417",
-  "oldZipCode": "39935",
-  "zipCode": "3993502",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "シモイナグンオオシカムラ",
-  "townKana": "オオカワラ",
-  "prefecture": "長野県",
-  "city": "下伊那郡大鹿村",
-  "town": "大河原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20417",
+      "oldZipCode": "39935",
+      "zipCode": "3993502",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "シモイナグンオオシカムラ",
+      "townKana": "オオカワラ",
+      "prefecture": "長野県",
+      "city": "下伊那郡大鹿村",
+      "town": "大河原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

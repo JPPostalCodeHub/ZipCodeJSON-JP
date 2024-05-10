@@ -1,17 +1,21 @@
 {
-  "jisCode": "34204",
-  "oldZipCode": "72301",
-  "zipCode": "7230145",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "ミハラシ",
-  "townKana": "ヌタヒガシチョウカタシマ",
-  "prefecture": "広島県",
-  "city": "三原市",
-  "town": "沼田東町片島",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34204",
+      "oldZipCode": "72301",
+      "zipCode": "7230145",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ミハラシ",
+      "townKana": "ヌタヒガシチョウカタシマ",
+      "prefecture": "広島県",
+      "city": "三原市",
+      "town": "沼田東町片島",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

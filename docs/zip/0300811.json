@@ -1,17 +1,21 @@
 {
-  "jisCode": "02201",
-  "oldZipCode": "030  ",
-  "zipCode": "0300811",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "アオモリシ",
-  "townKana": "アオヤギ",
-  "prefecture": "青森県",
-  "city": "青森市",
-  "town": "青柳",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02201",
+      "oldZipCode": "030  ",
+      "zipCode": "0300811",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "アオモリシ",
+      "townKana": "アオヤギ",
+      "prefecture": "青森県",
+      "city": "青森市",
+      "town": "青柳",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "10210",
-  "oldZipCode": "37902",
-  "zipCode": "3790209",
-  "prefectureKana": "グンマケン",
-  "cityKana": "トミオカシ",
-  "townKana": "ミョウギマチモロト",
-  "prefecture": "群馬県",
-  "city": "富岡市",
-  "town": "妙義町諸戸",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "10210",
+      "oldZipCode": "37902",
+      "zipCode": "3790209",
+      "prefectureKana": "グンマケン",
+      "cityKana": "トミオカシ",
+      "townKana": "ミョウギマチモロト",
+      "prefecture": "群馬県",
+      "city": "富岡市",
+      "town": "妙義町諸戸",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

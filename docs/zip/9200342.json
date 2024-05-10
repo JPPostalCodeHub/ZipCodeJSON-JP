@@ -1,17 +1,38 @@
 {
-  "jisCode": "17201",
-  "oldZipCode": "92003",
-  "zipCode": "9200342",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "カナザワシ",
-  "townKana": "ウネダニシ",
-  "prefecture": "石川県",
-  "city": "金沢市",
-  "town": "畝田西",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17201",
+      "oldZipCode": "92003",
+      "zipCode": "9200342",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "カナザワシ",
+      "townKana": "ウネダマチ",
+      "prefecture": "石川県",
+      "city": "金沢市",
+      "town": "畝田町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "17201",
+      "oldZipCode": "92003",
+      "zipCode": "9200342",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "カナザワシ",
+      "townKana": "ウネダニシ",
+      "prefecture": "石川県",
+      "city": "金沢市",
+      "town": "畝田西",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

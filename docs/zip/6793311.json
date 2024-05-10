@@ -1,17 +1,21 @@
 {
-  "jisCode": "28225",
-  "oldZipCode": "67933",
-  "zipCode": "6793311",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "アサゴシ",
-  "townKana": "イクノチョウマユミ",
-  "prefecture": "兵庫県",
-  "city": "朝来市",
-  "town": "生野町真弓",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28225",
+      "oldZipCode": "67933",
+      "zipCode": "6793311",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "アサゴシ",
+      "townKana": "イクノチョウマユミ",
+      "prefecture": "兵庫県",
+      "city": "朝来市",
+      "town": "生野町真弓",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

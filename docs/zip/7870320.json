@@ -1,17 +1,21 @@
 {
-  "jisCode": "39209",
-  "oldZipCode": "78703",
-  "zipCode": "7870320",
-  "prefectureKana": "コウチケン",
-  "cityKana": "トサシミズシ",
-  "townKana": "シミズ",
-  "prefecture": "高知県",
-  "city": "土佐清水市",
-  "town": "清水",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "39209",
+      "oldZipCode": "78703",
+      "zipCode": "7870320",
+      "prefectureKana": "コウチケン",
+      "cityKana": "トサシミズシ",
+      "townKana": "シミズ",
+      "prefecture": "高知県",
+      "city": "土佐清水市",
+      "town": "清水",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

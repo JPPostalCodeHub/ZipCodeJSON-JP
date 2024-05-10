@@ -1,17 +1,21 @@
 {
-  "jisCode": "31202",
-  "oldZipCode": "683  ",
-  "zipCode": "6830815",
-  "prefectureKana": "トットリケン",
-  "cityKana": "ヨナゴシ",
-  "townKana": "ヒガシクラヨシマチ",
-  "prefecture": "鳥取県",
-  "city": "米子市",
-  "town": "東倉吉町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "31202",
+      "oldZipCode": "683  ",
+      "zipCode": "6830815",
+      "prefectureKana": "トットリケン",
+      "cityKana": "ヨナゴシ",
+      "townKana": "ヒガシクラヨシマチ",
+      "prefecture": "鳥取県",
+      "city": "米子市",
+      "town": "東倉吉町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,38 @@
 {
-  "jisCode": "19211",
-  "oldZipCode": "405  ",
-  "zipCode": "4050075",
-  "prefectureKana": "ヤマナシケン",
-  "cityKana": "フエフキシ",
-  "townKana": "イチノミヤチョウヒガシバラ",
-  "prefecture": "山梨県",
-  "city": "笛吹市",
-  "town": "一宮町東原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "19211",
+      "oldZipCode": "405  ",
+      "zipCode": "4050075",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "フエフキシ",
+      "townKana": "イチノミヤチョウハシタテ",
+      "prefecture": "山梨県",
+      "city": "笛吹市",
+      "town": "一宮町橋立",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "19211",
+      "oldZipCode": "405  ",
+      "zipCode": "4050075",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "フエフキシ",
+      "townKana": "イチノミヤチョウヒガシバラ",
+      "prefecture": "山梨県",
+      "city": "笛吹市",
+      "town": "一宮町東原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

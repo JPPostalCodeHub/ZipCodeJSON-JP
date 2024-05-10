@@ -1,17 +1,21 @@
 {
-  "jisCode": "44461",
-  "oldZipCode": "87947",
-  "zipCode": "8794724",
-  "prefectureKana": "オオイタケン",
-  "cityKana": "クスグンココノエマチ",
-  "townKana": "スガワラ",
-  "prefecture": "大分県",
-  "city": "玖珠郡九重町",
-  "town": "菅原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "44461",
+      "oldZipCode": "87947",
+      "zipCode": "8794724",
+      "prefectureKana": "オオイタケン",
+      "cityKana": "クスグンココノエマチ",
+      "townKana": "スガワラ",
+      "prefecture": "大分県",
+      "city": "玖珠郡九重町",
+      "town": "菅原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

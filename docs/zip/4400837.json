@@ -1,17 +1,38 @@
 {
-  "jisCode": "23201",
-  "oldZipCode": "440  ",
-  "zipCode": "4400837",
-  "prefectureKana": "アイチケン",
-  "cityKana": "トヨハシシ",
-  "townKana": "ミノワチョウミノワ",
-  "prefecture": "愛知県",
-  "city": "豊橋市",
-  "town": "三ノ輪町三ノ輪",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23201",
+      "oldZipCode": "440  ",
+      "zipCode": "4400837",
+      "prefectureKana": "アイチケン",
+      "cityKana": "トヨハシシ",
+      "townKana": "ミノワチョウホンコウジ",
+      "prefecture": "愛知県",
+      "city": "豊橋市",
+      "town": "三ノ輪町本興寺",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "23201",
+      "oldZipCode": "440  ",
+      "zipCode": "4400837",
+      "prefectureKana": "アイチケン",
+      "cityKana": "トヨハシシ",
+      "townKana": "ミノワチョウミノワ",
+      "prefecture": "愛知県",
+      "city": "豊橋市",
+      "town": "三ノ輪町三ノ輪",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

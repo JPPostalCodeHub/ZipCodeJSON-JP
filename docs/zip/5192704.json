@@ -1,17 +1,21 @@
 {
-  "jisCode": "24471",
-  "oldZipCode": "51927",
-  "zipCode": "5192704",
-  "prefectureKana": "ミエケン",
-  "cityKana": "ワタライグンタイキチョウ",
-  "townKana": "アソ",
-  "prefecture": "三重県",
-  "city": "度会郡大紀町",
-  "town": "阿曽",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "24471",
+      "oldZipCode": "51927",
+      "zipCode": "5192704",
+      "prefectureKana": "ミエケン",
+      "cityKana": "ワタライグンタイキチョウ",
+      "townKana": "アソ",
+      "prefecture": "三重県",
+      "city": "度会郡大紀町",
+      "town": "阿曽",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

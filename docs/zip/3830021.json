@@ -1,17 +1,21 @@
 {
-  "jisCode": "20211",
-  "oldZipCode": "383  ",
-  "zipCode": "3830021",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "ナカノシ",
-  "townKana": "ニシ",
-  "prefecture": "長野県",
-  "city": "中野市",
-  "town": "西",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20211",
+      "oldZipCode": "383  ",
+      "zipCode": "3830021",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "ナカノシ",
+      "townKana": "ニシ",
+      "prefecture": "長野県",
+      "city": "中野市",
+      "town": "西",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

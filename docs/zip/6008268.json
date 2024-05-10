@@ -1,17 +1,21 @@
 {
-  "jisCode": "26106",
-  "oldZipCode": "600  ",
-  "zipCode": "6008268",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシシモギョウク",
-  "townKana": "ダイクチョウ",
-  "prefecture": "京都府",
-  "city": "京都市下京区",
-  "town": "大工町（猪熊通七条上る、猪熊通七条下る、猪熊通下魚棚上る、七条通猪熊西入、七条通大宮東入、下魚棚通猪熊西入、下魚棚通大宮東入、下魚棚通大宮東入下る、下魚棚通黒門東入）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26106",
+      "oldZipCode": "600  ",
+      "zipCode": "6008268",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシシモギョウク",
+      "townKana": "ダイクチョウ",
+      "prefecture": "京都府",
+      "city": "京都市下京区",
+      "town": "大工町（猪熊通七条上る、猪熊通七条下る、猪熊通下魚棚上る、七条通猪熊西入、七条通大宮東入、下魚棚通猪熊西入、下魚棚通大宮東入、下魚棚通大宮東入下る、下魚棚通黒門東入）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

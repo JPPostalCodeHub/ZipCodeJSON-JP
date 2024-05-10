@@ -1,17 +1,21 @@
 {
-  "jisCode": "13211",
-  "oldZipCode": "187  ",
-  "zipCode": "1870033",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "コダイラシ",
-  "townKana": "ナカジマチョウ",
-  "prefecture": "東京都",
-  "city": "小平市",
-  "town": "中島町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13211",
+      "oldZipCode": "187  ",
+      "zipCode": "1870033",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "コダイラシ",
+      "townKana": "ナカジマチョウ",
+      "prefecture": "東京都",
+      "city": "小平市",
+      "town": "中島町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

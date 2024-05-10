@@ -1,17 +1,21 @@
 {
-  "jisCode": "46216",
-  "oldZipCode": "89925",
-  "zipCode": "8992524",
-  "prefectureKana": "カゴシマケン",
-  "cityKana": "ヒオキシ",
-  "townKana": "イジュウインチョウコイノハラ",
-  "prefecture": "鹿児島県",
-  "city": "日置市",
-  "town": "伊集院町恋之原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "46216",
+      "oldZipCode": "89925",
+      "zipCode": "8992524",
+      "prefectureKana": "カゴシマケン",
+      "cityKana": "ヒオキシ",
+      "townKana": "イジュウインチョウコイノハラ",
+      "prefecture": "鹿児島県",
+      "city": "日置市",
+      "town": "伊集院町恋之原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

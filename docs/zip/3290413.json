@@ -1,17 +1,21 @@
 {
-  "jisCode": "09216",
-  "oldZipCode": "32904",
-  "zipCode": "3290413",
-  "prefectureKana": "トチギケン",
-  "cityKana": "シモツケシ",
-  "townKana": "エキヒガシ",
-  "prefecture": "栃木県",
-  "city": "下野市",
-  "town": "駅東",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "09216",
+      "oldZipCode": "32904",
+      "zipCode": "3290413",
+      "prefectureKana": "トチギケン",
+      "cityKana": "シモツケシ",
+      "townKana": "エキヒガシ",
+      "prefecture": "栃木県",
+      "city": "下野市",
+      "town": "駅東",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

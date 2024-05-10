@@ -1,17 +1,21 @@
 {
-  "jisCode": "18481",
-  "oldZipCode": "91922",
-  "zipCode": "9192212",
-  "prefectureKana": "フクイケン",
-  "cityKana": "オオイグンタカハマチョウ",
-  "townKana": "カネヨリ",
-  "prefecture": "福井県",
-  "city": "大飯郡高浜町",
-  "town": "鐘寄",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18481",
+      "oldZipCode": "91922",
+      "zipCode": "9192212",
+      "prefectureKana": "フクイケン",
+      "cityKana": "オオイグンタカハマチョウ",
+      "townKana": "カネヨリ",
+      "prefecture": "福井県",
+      "city": "大飯郡高浜町",
+      "town": "鐘寄",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "03211",
-  "oldZipCode": "02603",
-  "zipCode": "0260301",
-  "prefectureKana": "イワテケン",
-  "cityKana": "カマイシシ",
-  "townKana": "ウノスマイチョウ",
-  "prefecture": "岩手県",
-  "city": "釜石市",
-  "town": "鵜住居町",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "03211",
+      "oldZipCode": "02603",
+      "zipCode": "0260301",
+      "prefectureKana": "イワテケン",
+      "cityKana": "カマイシシ",
+      "townKana": "ウノスマイチョウ",
+      "prefecture": "岩手県",
+      "city": "釜石市",
+      "town": "鵜住居町",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

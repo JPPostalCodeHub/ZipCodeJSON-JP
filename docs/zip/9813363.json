@@ -1,17 +1,21 @@
 {
-  "jisCode": "04216",
-  "oldZipCode": "98133",
-  "zipCode": "9813363",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "トミヤシ",
-  "townKana": "モリノハシ",
-  "prefecture": "宮城県",
-  "city": "富谷市",
-  "town": "杜乃橋",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04216",
+      "oldZipCode": "98133",
+      "zipCode": "9813363",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "トミヤシ",
+      "townKana": "モリノハシ",
+      "prefecture": "宮城県",
+      "city": "富谷市",
+      "town": "杜乃橋",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

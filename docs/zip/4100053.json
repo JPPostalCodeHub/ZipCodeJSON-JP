@@ -1,17 +1,21 @@
 {
-  "jisCode": "22203",
-  "oldZipCode": "410  ",
-  "zipCode": "4100053",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "ヌマヅシ",
-  "townKana": "コトブキチョウ",
-  "prefecture": "静岡県",
-  "city": "沼津市",
-  "town": "寿町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22203",
+      "oldZipCode": "410  ",
+      "zipCode": "4100053",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "ヌマヅシ",
+      "townKana": "コトブキチョウ",
+      "prefecture": "静岡県",
+      "city": "沼津市",
+      "town": "寿町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

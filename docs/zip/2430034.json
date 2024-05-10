@@ -1,17 +1,21 @@
 {
-  "jisCode": "14212",
-  "oldZipCode": "243  ",
-  "zipCode": "2430034",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "アツギシ",
-  "townKana": "フナコ",
-  "prefecture": "神奈川県",
-  "city": "厚木市",
-  "town": "船子",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14212",
+      "oldZipCode": "243  ",
+      "zipCode": "2430034",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "アツギシ",
+      "townKana": "フナコ",
+      "prefecture": "神奈川県",
+      "city": "厚木市",
+      "town": "船子",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

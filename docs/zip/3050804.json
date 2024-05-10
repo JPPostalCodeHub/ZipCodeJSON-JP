@@ -1,17 +1,21 @@
 {
-  "jisCode": "08220",
-  "oldZipCode": "305  ",
-  "zipCode": "3050804",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "ツクバシ",
-  "townKana": "アサヒ（１）",
-  "prefecture": "茨城県",
-  "city": "つくば市",
-  "town": "旭（１）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08220",
+      "oldZipCode": "305  ",
+      "zipCode": "3050804",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "ツクバシ",
+      "townKana": "アサヒ（１）",
+      "prefecture": "茨城県",
+      "city": "つくば市",
+      "town": "旭（１）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

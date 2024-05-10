@@ -1,17 +1,21 @@
 {
-  "jisCode": "03482",
-  "oldZipCode": "02813",
-  "zipCode": "0281351",
-  "prefectureKana": "イワテケン",
-  "cityKana": "シモヘイグンヤマダマチ",
-  "townKana": "ナガサキ",
-  "prefecture": "岩手県",
-  "city": "下閉伊郡山田町",
-  "town": "長崎",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "03482",
+      "oldZipCode": "02813",
+      "zipCode": "0281351",
+      "prefectureKana": "イワテケン",
+      "cityKana": "シモヘイグンヤマダマチ",
+      "townKana": "ナガサキ",
+      "prefecture": "岩手県",
+      "city": "下閉伊郡山田町",
+      "town": "長崎",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

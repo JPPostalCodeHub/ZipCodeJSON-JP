@@ -1,17 +1,21 @@
 {
-  "jisCode": "08201",
-  "oldZipCode": "31141",
-  "zipCode": "3114145",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "ミトシ",
-  "townKana": "フタバダイ",
-  "prefecture": "茨城県",
-  "city": "水戸市",
-  "town": "双葉台",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08201",
+      "oldZipCode": "31141",
+      "zipCode": "3114145",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "ミトシ",
+      "townKana": "フタバダイ",
+      "prefecture": "茨城県",
+      "city": "水戸市",
+      "town": "双葉台",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

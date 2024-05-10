@@ -1,17 +1,38 @@
 {
-  "jisCode": "34304",
-  "oldZipCode": "736  ",
-  "zipCode": "7360000",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "アキグンカイタチョウ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "広島県",
-  "city": "安芸郡海田町",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34107",
+      "oldZipCode": "736  ",
+      "zipCode": "7360000",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ヒロシマシアキク",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "広島県",
+      "city": "広島市安芸区",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "34304",
+      "oldZipCode": "736  ",
+      "zipCode": "7360000",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "アキグンカイタチョウ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "広島県",
+      "city": "安芸郡海田町",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

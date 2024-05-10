@@ -1,17 +1,21 @@
 {
-  "jisCode": "02201",
-  "oldZipCode": "03813",
-  "zipCode": "0381345",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "アオモリシ",
-  "townKana": "ナミオカシモイシカワ",
-  "prefecture": "青森県",
-  "city": "青森市",
-  "town": "浪岡下石川",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02201",
+      "oldZipCode": "03813",
+      "zipCode": "0381345",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "アオモリシ",
+      "townKana": "ナミオカシモイシカワ",
+      "prefecture": "青森県",
+      "city": "青森市",
+      "town": "浪岡下石川",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "01601",
-  "oldZipCode": "07923",
-  "zipCode": "0552311",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "サルグンヒダカチョウ",
-  "townKana": "ヒダカ（１ク）",
-  "prefecture": "北海道",
-  "city": "沙流郡日高町",
-  "town": "日高（１区）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01601",
+      "oldZipCode": "07923",
+      "zipCode": "0552311",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "サルグンヒダカチョウ",
+      "townKana": "ヒダカ（１ク）",
+      "prefecture": "北海道",
+      "city": "沙流郡日高町",
+      "town": "日高（１区）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

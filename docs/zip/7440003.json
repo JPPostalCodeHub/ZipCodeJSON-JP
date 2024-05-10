@@ -1,17 +1,21 @@
 {
-  "jisCode": "35207",
-  "oldZipCode": "744  ",
-  "zipCode": "7440003",
-  "prefectureKana": "ヤマグチケン",
-  "cityKana": "クダマツシ",
-  "townKana": "コトヒラチョウ",
-  "prefecture": "山口県",
-  "city": "下松市",
-  "town": "琴平町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "35207",
+      "oldZipCode": "744  ",
+      "zipCode": "7440003",
+      "prefectureKana": "ヤマグチケン",
+      "cityKana": "クダマツシ",
+      "townKana": "コトヒラチョウ",
+      "prefecture": "山口県",
+      "city": "下松市",
+      "town": "琴平町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

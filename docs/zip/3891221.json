@@ -1,17 +1,21 @@
 {
-  "jisCode": "20590",
-  "oldZipCode": "38912",
-  "zipCode": "3891221",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "カミミノチグンイイヅナマチ",
-  "townKana": "フルマチ",
-  "prefecture": "長野県",
-  "city": "上水内郡飯綱町",
-  "town": "古町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20590",
+      "oldZipCode": "38912",
+      "zipCode": "3891221",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "カミミノチグンイイヅナマチ",
+      "townKana": "フルマチ",
+      "prefecture": "長野県",
+      "city": "上水内郡飯綱町",
+      "town": "古町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

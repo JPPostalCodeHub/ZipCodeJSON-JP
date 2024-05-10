@@ -1,17 +1,21 @@
 {
-  "jisCode": "20215",
-  "oldZipCode": "39907",
-  "zipCode": "3990725",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "シオジリシ",
-  "townKana": "ナカニシジョウ",
-  "prefecture": "長野県",
-  "city": "塩尻市",
-  "town": "中西条",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20215",
+      "oldZipCode": "39907",
+      "zipCode": "3990725",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "シオジリシ",
+      "townKana": "ナカニシジョウ",
+      "prefecture": "長野県",
+      "city": "塩尻市",
+      "town": "中西条",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

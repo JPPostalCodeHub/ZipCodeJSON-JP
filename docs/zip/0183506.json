@@ -1,17 +1,21 @@
 {
-  "jisCode": "05204",
-  "oldZipCode": "01835",
-  "zipCode": "0183506",
-  "prefectureKana": "アキタケン",
-  "cityKana": "オオダテシ",
-  "townKana": "ヤマセ",
-  "prefecture": "秋田県",
-  "city": "大館市",
-  "town": "山瀬",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05204",
+      "oldZipCode": "01835",
+      "zipCode": "0183506",
+      "prefectureKana": "アキタケン",
+      "cityKana": "オオダテシ",
+      "townKana": "ヤマセ",
+      "prefecture": "秋田県",
+      "city": "大館市",
+      "town": "山瀬",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

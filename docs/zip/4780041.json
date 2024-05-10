@@ -1,17 +1,21 @@
 {
-  "jisCode": "23224",
-  "oldZipCode": "478  ",
-  "zipCode": "4780041",
-  "prefectureKana": "アイチケン",
-  "cityKana": "チタシ",
-  "townKana": "ヒナガ",
-  "prefecture": "愛知県",
-  "city": "知多市",
-  "town": "日長",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23224",
+      "oldZipCode": "478  ",
+      "zipCode": "4780041",
+      "prefectureKana": "アイチケン",
+      "cityKana": "チタシ",
+      "townKana": "ヒナガ",
+      "prefecture": "愛知県",
+      "city": "知多市",
+      "town": "日長",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

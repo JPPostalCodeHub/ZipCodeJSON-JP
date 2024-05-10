@@ -1,17 +1,38 @@
 {
-  "jisCode": "16210",
-  "oldZipCode": "93918",
-  "zipCode": "9391824",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "ナントシ",
-  "townKana": "オガヤ",
-  "prefecture": "富山県",
-  "city": "南砺市",
-  "town": "大鋸屋",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16210",
+      "oldZipCode": "93918",
+      "zipCode": "9391824",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "ナントシ",
+      "townKana": "ウエダ",
+      "prefecture": "富山県",
+      "city": "南砺市",
+      "town": "上田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "16210",
+      "oldZipCode": "93918",
+      "zipCode": "9391824",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "ナントシ",
+      "townKana": "オガヤ",
+      "prefecture": "富山県",
+      "city": "南砺市",
+      "town": "大鋸屋",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

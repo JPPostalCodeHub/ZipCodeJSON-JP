@@ -1,17 +1,21 @@
 {
-  "jisCode": "39344",
-  "oldZipCode": "78902",
-  "zipCode": "7890246",
-  "prefectureKana": "コウチケン",
-  "cityKana": "ナガオカグンオオトヨチョウ",
-  "townKana": "ヤナギノ",
-  "prefecture": "高知県",
-  "city": "長岡郡大豊町",
-  "town": "柳野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "39344",
+      "oldZipCode": "78902",
+      "zipCode": "7890246",
+      "prefectureKana": "コウチケン",
+      "cityKana": "ナガオカグンオオトヨチョウ",
+      "townKana": "ヤナギノ",
+      "prefecture": "高知県",
+      "city": "長岡郡大豊町",
+      "town": "柳野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "29212",
-  "oldZipCode": "63303",
-  "zipCode": "6330317",
-  "prefectureKana": "ナラケン",
-  "cityKana": "ウダシ",
-  "townKana": "ムロウサンボンマツ",
-  "prefecture": "奈良県",
-  "city": "宇陀市",
-  "town": "室生三本松",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "29212",
+      "oldZipCode": "63303",
+      "zipCode": "6330317",
+      "prefectureKana": "ナラケン",
+      "cityKana": "ウダシ",
+      "townKana": "ムロウサンボンマツ",
+      "prefecture": "奈良県",
+      "city": "宇陀市",
+      "town": "室生三本松",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "31201",
-  "oldZipCode": "680  ",
-  "zipCode": "6800031",
-  "prefectureKana": "トットリケン",
-  "cityKana": "トットリシ",
-  "townKana": "ホンマチ",
-  "prefecture": "鳥取県",
-  "city": "鳥取市",
-  "town": "本町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "31201",
+      "oldZipCode": "680  ",
+      "zipCode": "6800031",
+      "prefectureKana": "トットリケン",
+      "cityKana": "トットリシ",
+      "townKana": "ホンマチ",
+      "prefecture": "鳥取県",
+      "city": "鳥取市",
+      "town": "本町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

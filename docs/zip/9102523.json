@@ -1,17 +1,38 @@
 {
-  "jisCode": "18382",
-  "oldZipCode": "91025",
-  "zipCode": "9102523",
-  "prefectureKana": "フクイケン",
-  "cityKana": "イマダテグンイケダチョウ",
-  "townKana": "シヅハラ",
-  "prefecture": "福井県",
-  "city": "今立郡池田町",
-  "town": "志津原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18382",
+      "oldZipCode": "91025",
+      "zipCode": "9102523",
+      "prefectureKana": "フクイケン",
+      "cityKana": "イマダテグンイケダチョウ",
+      "townKana": "コウチ",
+      "prefecture": "福井県",
+      "city": "今立郡池田町",
+      "town": "河内",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "18382",
+      "oldZipCode": "91025",
+      "zipCode": "9102523",
+      "prefectureKana": "フクイケン",
+      "cityKana": "イマダテグンイケダチョウ",
+      "townKana": "シヅハラ",
+      "prefecture": "福井県",
+      "city": "今立郡池田町",
+      "town": "志津原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

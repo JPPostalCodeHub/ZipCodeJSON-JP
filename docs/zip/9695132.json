@@ -1,17 +1,21 @@
 {
-  "jisCode": "07202",
-  "oldZipCode": "96951",
-  "zipCode": "9695132",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "アイヅワカマツシ",
-  "townKana": "オオトマチカミオシュウ",
-  "prefecture": "福島県",
-  "city": "会津若松市",
-  "town": "大戸町上小塩",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07202",
+      "oldZipCode": "96951",
+      "zipCode": "9695132",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "アイヅワカマツシ",
+      "townKana": "オオトマチカミオシュウ",
+      "prefecture": "福島県",
+      "city": "会津若松市",
+      "town": "大戸町上小塩",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

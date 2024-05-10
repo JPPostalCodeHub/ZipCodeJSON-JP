@@ -1,17 +1,21 @@
 {
-  "jisCode": "35212",
-  "oldZipCode": "742  ",
-  "zipCode": "7420002",
-  "prefectureKana": "ヤマグチケン",
-  "cityKana": "ヤナイシ",
-  "townKana": "ヤマネ",
-  "prefecture": "山口県",
-  "city": "柳井市",
-  "town": "山根",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "35212",
+      "oldZipCode": "742  ",
+      "zipCode": "7420002",
+      "prefectureKana": "ヤマグチケン",
+      "cityKana": "ヤナイシ",
+      "townKana": "ヤマネ",
+      "prefecture": "山口県",
+      "city": "柳井市",
+      "town": "山根",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

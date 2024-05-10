@@ -1,17 +1,21 @@
 {
-  "jisCode": "06365",
-  "oldZipCode": "99602",
-  "zipCode": "9960213",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "モガミグンオオクラムラ",
-  "townKana": "アカマツ",
-  "prefecture": "山形県",
-  "city": "最上郡大蔵村",
-  "town": "赤松",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06365",
+      "oldZipCode": "99602",
+      "zipCode": "9960213",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "モガミグンオオクラムラ",
+      "townKana": "アカマツ",
+      "prefecture": "山形県",
+      "city": "最上郡大蔵村",
+      "town": "赤松",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

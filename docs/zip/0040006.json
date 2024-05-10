@@ -1,17 +1,21 @@
 {
-  "jisCode": "01108",
-  "oldZipCode": "004  ",
-  "zipCode": "0040006",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "サッポロシアツベツク",
-  "townKana": "アツベツチョウコノッポロ",
-  "prefecture": "北海道",
-  "city": "札幌市厚別区",
-  "town": "厚別町小野幌",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01108",
+      "oldZipCode": "004  ",
+      "zipCode": "0040006",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "サッポロシアツベツク",
+      "townKana": "アツベツチョウコノッポロ",
+      "prefecture": "北海道",
+      "city": "札幌市厚別区",
+      "town": "厚別町小野幌",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

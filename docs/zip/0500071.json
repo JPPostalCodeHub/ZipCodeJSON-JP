@@ -1,17 +1,21 @@
 {
-  "jisCode": "01205",
-  "oldZipCode": "050  ",
-  "zipCode": "0500071",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ムロランシ",
-  "townKana": "ミズモトチョウ",
-  "prefecture": "北海道",
-  "city": "室蘭市",
-  "town": "水元町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01205",
+      "oldZipCode": "050  ",
+      "zipCode": "0500071",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ムロランシ",
+      "townKana": "ミズモトチョウ",
+      "prefecture": "北海道",
+      "city": "室蘭市",
+      "town": "水元町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

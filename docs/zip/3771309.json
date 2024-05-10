@@ -1,17 +1,21 @@
 {
-  "jisCode": "10424",
-  "oldZipCode": "37713",
-  "zipCode": "3771309",
-  "prefectureKana": "グンマケン",
-  "cityKana": "アガツマグンナガノハラマチ",
-  "townKana": "ハヤシ",
-  "prefecture": "群馬県",
-  "city": "吾妻郡長野原町",
-  "town": "林",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "10424",
+      "oldZipCode": "37713",
+      "zipCode": "3771309",
+      "prefectureKana": "グンマケン",
+      "cityKana": "アガツマグンナガノハラマチ",
+      "townKana": "ハヤシ",
+      "prefecture": "群馬県",
+      "city": "吾妻郡長野原町",
+      "town": "林",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

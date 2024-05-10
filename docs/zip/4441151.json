@@ -1,17 +1,21 @@
 {
-  "jisCode": "23212",
-  "oldZipCode": "44411",
-  "zipCode": "4441151",
-  "prefectureKana": "アイチケン",
-  "cityKana": "アンジョウシ",
-  "townKana": "ムラダカチョウ",
-  "prefecture": "愛知県",
-  "city": "安城市",
-  "town": "村高町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23212",
+      "oldZipCode": "44411",
+      "zipCode": "4441151",
+      "prefectureKana": "アイチケン",
+      "cityKana": "アンジョウシ",
+      "townKana": "ムラダカチョウ",
+      "prefecture": "愛知県",
+      "city": "安城市",
+      "town": "村高町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "35203",
-  "oldZipCode": "753  ",
-  "zipCode": "7530021",
-  "prefectureKana": "ヤマグチケン",
-  "cityKana": "ヤマグチシ",
-  "townKana": "サクラバタケ",
-  "prefecture": "山口県",
-  "city": "山口市",
-  "town": "桜畠",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "35203",
+      "oldZipCode": "753  ",
+      "zipCode": "7530021",
+      "prefectureKana": "ヤマグチケン",
+      "cityKana": "ヤマグチシ",
+      "townKana": "サクラバタケ",
+      "prefecture": "山口県",
+      "city": "山口市",
+      "town": "桜畠",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

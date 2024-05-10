@@ -1,17 +1,21 @@
 {
-  "jisCode": "01220",
-  "oldZipCode": "095  ",
-  "zipCode": "0950053",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "シベツシ",
-  "townKana": "シンガクデン",
-  "prefecture": "北海道",
-  "city": "士別市",
-  "town": "新学田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01220",
+      "oldZipCode": "095  ",
+      "zipCode": "0950053",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "シベツシ",
+      "townKana": "シンガクデン",
+      "prefecture": "北海道",
+      "city": "士別市",
+      "town": "新学田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

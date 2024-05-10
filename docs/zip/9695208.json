@@ -1,17 +1,21 @@
 {
-  "jisCode": "07362",
-  "oldZipCode": "96952",
-  "zipCode": "9695208",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "ミナミアイヅグンシモゴウマチ",
-  "townKana": "オヌマザキ",
-  "prefecture": "福島県",
-  "city": "南会津郡下郷町",
-  "town": "小沼崎",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07362",
+      "oldZipCode": "96952",
+      "zipCode": "9695208",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "ミナミアイヅグンシモゴウマチ",
+      "townKana": "オヌマザキ",
+      "prefecture": "福島県",
+      "city": "南会津郡下郷町",
+      "town": "小沼崎",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "01560",
-  "oldZipCode": "09955",
-  "zipCode": "0995543",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "モンベツグンタキノウエチョウ",
-  "townKana": "シンマチ",
-  "prefecture": "北海道",
-  "city": "紋別郡滝上町",
-  "town": "新町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01560",
+      "oldZipCode": "09955",
+      "zipCode": "0995543",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "モンベツグンタキノウエチョウ",
+      "townKana": "シンマチ",
+      "prefecture": "北海道",
+      "city": "紋別郡滝上町",
+      "town": "新町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

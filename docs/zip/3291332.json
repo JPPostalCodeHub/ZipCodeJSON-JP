@@ -1,17 +1,21 @@
 {
-  "jisCode": "09214",
-  "oldZipCode": "32913",
-  "zipCode": "3291332",
-  "prefectureKana": "トチギケン",
-  "cityKana": "サクラシ",
-  "townKana": "カマスサカ",
-  "prefecture": "栃木県",
-  "city": "さくら市",
-  "town": "蒲須坂",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "09214",
+      "oldZipCode": "32913",
+      "zipCode": "3291332",
+      "prefectureKana": "トチギケン",
+      "cityKana": "サクラシ",
+      "townKana": "カマスサカ",
+      "prefecture": "栃木県",
+      "city": "さくら市",
+      "town": "蒲須坂",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

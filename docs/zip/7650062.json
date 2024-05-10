@@ -1,17 +1,21 @@
 {
-  "jisCode": "37204",
-  "oldZipCode": "765  ",
-  "zipCode": "7650062",
-  "prefectureKana": "カガワケン",
-  "cityKana": "ゼンツウジシ",
-  "townKana": "ヒドノチョウ",
-  "prefecture": "香川県",
-  "city": "善通寺市",
-  "town": "碑殿町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "37204",
+      "oldZipCode": "765  ",
+      "zipCode": "7650062",
+      "prefectureKana": "カガワケン",
+      "cityKana": "ゼンツウジシ",
+      "townKana": "ヒドノチョウ",
+      "prefecture": "香川県",
+      "city": "善通寺市",
+      "town": "碑殿町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

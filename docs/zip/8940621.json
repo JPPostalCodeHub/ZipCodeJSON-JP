@@ -1,17 +1,21 @@
 {
-  "jisCode": "46222",
-  "oldZipCode": "89406",
-  "zipCode": "8940621",
-  "prefectureKana": "カゴシマケン",
-  "cityKana": "アマミシ",
-  "townKana": "カサリチョウヨウ",
-  "prefecture": "鹿児島県",
-  "city": "奄美市",
-  "town": "笠利町用",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "46222",
+      "oldZipCode": "89406",
+      "zipCode": "8940621",
+      "prefectureKana": "カゴシマケン",
+      "cityKana": "アマミシ",
+      "townKana": "カサリチョウヨウ",
+      "prefecture": "鹿児島県",
+      "city": "奄美市",
+      "town": "笠利町用",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

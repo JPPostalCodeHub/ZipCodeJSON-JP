@@ -1,17 +1,21 @@
 {
-  "jisCode": "12463",
-  "oldZipCode": "29921",
-  "zipCode": "2992100",
-  "prefectureKana": "チバケン",
-  "cityKana": "アワグンキョナンマチ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "千葉県",
-  "city": "安房郡鋸南町",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12463",
+      "oldZipCode": "29921",
+      "zipCode": "2992100",
+      "prefectureKana": "チバケン",
+      "cityKana": "アワグンキョナンマチ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "千葉県",
+      "city": "安房郡鋸南町",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "12219",
-  "oldZipCode": "29001",
-  "zipCode": "2900179",
-  "prefectureKana": "チバケン",
-  "cityKana": "イチハラシ",
-  "townKana": "クグツ",
-  "prefecture": "千葉県",
-  "city": "市原市",
-  "town": "久々津",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12219",
+      "oldZipCode": "29001",
+      "zipCode": "2900179",
+      "prefectureKana": "チバケン",
+      "cityKana": "イチハラシ",
+      "townKana": "クグツ",
+      "prefecture": "千葉県",
+      "city": "市原市",
+      "town": "久々津",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

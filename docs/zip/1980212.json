@@ -1,17 +1,21 @@
 {
-  "jisCode": "13308",
-  "oldZipCode": "19802",
-  "zipCode": "1980212",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "ニシタマグンオクタママチ",
-  "townKana": "ヒカワ",
-  "prefecture": "東京都",
-  "city": "西多摩郡奥多摩町",
-  "town": "氷川",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13308",
+      "oldZipCode": "19802",
+      "zipCode": "1980212",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "ニシタマグンオクタママチ",
+      "townKana": "ヒカワ",
+      "prefecture": "東京都",
+      "city": "西多摩郡奥多摩町",
+      "town": "氷川",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

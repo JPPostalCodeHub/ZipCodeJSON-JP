@@ -1,17 +1,21 @@
 {
-  "jisCode": "10205",
-  "oldZipCode": "373  ",
-  "zipCode": "3730818",
-  "prefectureKana": "グンマケン",
-  "cityKana": "オオタシ",
-  "townKana": "コマイギチョウ",
-  "prefecture": "群馬県",
-  "city": "太田市",
-  "town": "小舞木町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "10205",
+      "oldZipCode": "373  ",
+      "zipCode": "3730818",
+      "prefectureKana": "グンマケン",
+      "cityKana": "オオタシ",
+      "townKana": "コマイギチョウ",
+      "prefecture": "群馬県",
+      "city": "太田市",
+      "town": "小舞木町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

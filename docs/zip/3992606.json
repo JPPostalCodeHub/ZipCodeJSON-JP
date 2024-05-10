@@ -1,17 +1,21 @@
 {
-  "jisCode": "20205",
-  "oldZipCode": "39926",
-  "zipCode": "3992606",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "イイダシ",
-  "townKana": "シモヒサカタイナバ",
-  "prefecture": "長野県",
-  "city": "飯田市",
-  "town": "下久堅稲葉",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20205",
+      "oldZipCode": "39926",
+      "zipCode": "3992606",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "イイダシ",
+      "townKana": "シモヒサカタイナバ",
+      "prefecture": "長野県",
+      "city": "飯田市",
+      "town": "下久堅稲葉",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

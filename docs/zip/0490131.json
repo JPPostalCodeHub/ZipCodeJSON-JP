@@ -1,17 +1,21 @@
 {
-  "jisCode": "01236",
-  "oldZipCode": "04901",
-  "zipCode": "0490131",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ホクトシ",
-  "townKana": "トミガワ",
-  "prefecture": "北海道",
-  "city": "北斗市",
-  "town": "富川",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01236",
+      "oldZipCode": "04901",
+      "zipCode": "0490131",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ホクトシ",
+      "townKana": "トミガワ",
+      "prefecture": "北海道",
+      "city": "北斗市",
+      "town": "富川",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

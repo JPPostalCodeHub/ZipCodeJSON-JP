@@ -1,17 +1,21 @@
 {
-  "jisCode": "20205",
-  "oldZipCode": "395  ",
-  "zipCode": "3950028",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "イイダシ",
-  "townKana": "オサヒメチョウ",
-  "prefecture": "長野県",
-  "city": "飯田市",
-  "town": "長姫町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20205",
+      "oldZipCode": "395  ",
+      "zipCode": "3950028",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "イイダシ",
+      "townKana": "オサヒメチョウ",
+      "prefecture": "長野県",
+      "city": "飯田市",
+      "town": "長姫町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

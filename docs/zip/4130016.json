@@ -1,17 +1,21 @@
 {
-  "jisCode": "22205",
-  "oldZipCode": "413  ",
-  "zipCode": "4130016",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "アタミシ",
-  "townKana": "ミナグチチョウ",
-  "prefecture": "静岡県",
-  "city": "熱海市",
-  "town": "水口町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22205",
+      "oldZipCode": "413  ",
+      "zipCode": "4130016",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "アタミシ",
+      "townKana": "ミナグチチョウ",
+      "prefecture": "静岡県",
+      "city": "熱海市",
+      "town": "水口町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

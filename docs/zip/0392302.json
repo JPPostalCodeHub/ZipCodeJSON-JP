@@ -1,17 +1,21 @@
 {
-  "jisCode": "02442",
-  "oldZipCode": "03923",
-  "zipCode": "0392302",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "サンノヘグンゴノヘマチ",
-  "townKana": "キリヤナイ（キタタノサワ）",
-  "prefecture": "青森県",
-  "city": "三戸郡五戸町",
-  "town": "切谷内（北田ノ沢）",
-  "multipleZipCodes": "1",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02442",
+      "oldZipCode": "03923",
+      "zipCode": "0392302",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "サンノヘグンゴノヘマチ",
+      "townKana": "キリヤナイ（キタタノサワ）",
+      "prefecture": "青森県",
+      "city": "三戸郡五戸町",
+      "town": "切谷内（北田ノ沢）",
+      "multipleZipCodes": "1",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

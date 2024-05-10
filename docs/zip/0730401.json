@@ -1,17 +1,21 @@
 {
-  "jisCode": "01227",
-  "oldZipCode": "07304",
-  "zipCode": "0730401",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ウタシナイシ",
-  "townKana": "カミウタ",
-  "prefecture": "北海道",
-  "city": "歌志内市",
-  "town": "上歌",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01227",
+      "oldZipCode": "07304",
+      "zipCode": "0730401",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ウタシナイシ",
+      "townKana": "カミウタ",
+      "prefecture": "北海道",
+      "city": "歌志内市",
+      "town": "上歌",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

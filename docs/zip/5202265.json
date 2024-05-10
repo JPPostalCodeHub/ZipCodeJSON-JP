@@ -1,17 +1,38 @@
 {
-  "jisCode": "25201",
-  "oldZipCode": "52022",
-  "zipCode": "5202265",
-  "prefectureKana": "シガケン",
-  "cityKana": "オオツシ",
-  "townKana": "オオイシトミカワチョウ",
-  "prefecture": "滋賀県",
-  "city": "大津市",
-  "town": "大石富川町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "25201",
+      "oldZipCode": "52022",
+      "zipCode": "5202265",
+      "prefectureKana": "シガケン",
+      "cityKana": "オオツシ",
+      "townKana": "オオイシトミカワ",
+      "prefecture": "滋賀県",
+      "city": "大津市",
+      "town": "大石富川",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "25201",
+      "oldZipCode": "52022",
+      "zipCode": "5202265",
+      "prefectureKana": "シガケン",
+      "cityKana": "オオツシ",
+      "townKana": "オオイシトミカワチョウ",
+      "prefecture": "滋賀県",
+      "city": "大津市",
+      "town": "大石富川町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

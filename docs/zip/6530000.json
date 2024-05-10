@@ -1,17 +1,21 @@
 {
-  "jisCode": "28106",
-  "oldZipCode": "653  ",
-  "zipCode": "6530000",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "コウベシナガタク",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "兵庫県",
-  "city": "神戸市長田区",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28106",
+      "oldZipCode": "653  ",
+      "zipCode": "6530000",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "コウベシナガタク",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "兵庫県",
+      "city": "神戸市長田区",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "04203",
-  "oldZipCode": "985  ",
-  "zipCode": "9850041",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "シオガマシ",
-  "townKana": "シラギクチョウ",
-  "prefecture": "宮城県",
-  "city": "塩竈市",
-  "town": "白菊町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04203",
+      "oldZipCode": "985  ",
+      "zipCode": "9850041",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "シオガマシ",
+      "townKana": "シラギクチョウ",
+      "prefecture": "宮城県",
+      "city": "塩竈市",
+      "town": "白菊町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

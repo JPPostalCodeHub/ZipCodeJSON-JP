@@ -1,17 +1,21 @@
 {
-  "jisCode": "28221",
-  "oldZipCode": "66925",
-  "zipCode": "6692535",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "タンバササヤマシ",
-  "townKana": "シモササミ",
-  "prefecture": "兵庫県",
-  "city": "丹波篠山市",
-  "town": "下筱見",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28221",
+      "oldZipCode": "66925",
+      "zipCode": "6692535",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "タンバササヤマシ",
+      "townKana": "シモササミ",
+      "prefecture": "兵庫県",
+      "city": "丹波篠山市",
+      "town": "下筱見",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

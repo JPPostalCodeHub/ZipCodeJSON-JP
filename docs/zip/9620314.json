@@ -1,17 +1,21 @@
 {
-  "jisCode": "07207",
-  "oldZipCode": "96203",
-  "zipCode": "9620314",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "スカガワシ",
-  "townKana": "フカワタリド",
-  "prefecture": "福島県",
-  "city": "須賀川市",
-  "town": "深渡戸",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07207",
+      "oldZipCode": "96203",
+      "zipCode": "9620314",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "スカガワシ",
+      "townKana": "フカワタリド",
+      "prefecture": "福島県",
+      "city": "須賀川市",
+      "town": "深渡戸",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

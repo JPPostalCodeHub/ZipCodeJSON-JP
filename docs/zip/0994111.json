@@ -1,17 +1,21 @@
 {
-  "jisCode": "01545",
-  "oldZipCode": "09941",
-  "zipCode": "0994111",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "シャリグンシャリチョウ",
-  "townKana": "マエハママチ",
-  "prefecture": "北海道",
-  "city": "斜里郡斜里町",
-  "town": "前浜町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01545",
+      "oldZipCode": "09941",
+      "zipCode": "0994111",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "シャリグンシャリチョウ",
+      "townKana": "マエハママチ",
+      "prefecture": "北海道",
+      "city": "斜里郡斜里町",
+      "town": "前浜町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "27124",
-  "oldZipCode": "538  ",
-  "zipCode": "5380034",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "オオサカシツルミク",
-  "townKana": "トクアン",
-  "prefecture": "大阪府",
-  "city": "大阪市鶴見区",
-  "town": "徳庵",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27124",
+      "oldZipCode": "538  ",
+      "zipCode": "5380034",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "オオサカシツルミク",
+      "townKana": "トクアン",
+      "prefecture": "大阪府",
+      "city": "大阪市鶴見区",
+      "town": "徳庵",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

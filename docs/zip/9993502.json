@@ -1,17 +1,21 @@
 {
-  "jisCode": "06321",
-  "oldZipCode": "99935",
-  "zipCode": "9993502",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "ニシムラヤマグンカホクチョウ",
-  "townKana": "ヨシダ",
-  "prefecture": "山形県",
-  "city": "西村山郡河北町",
-  "town": "吉田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06321",
+      "oldZipCode": "99935",
+      "zipCode": "9993502",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "ニシムラヤマグンカホクチョウ",
+      "townKana": "ヨシダ",
+      "prefecture": "山形県",
+      "city": "西村山郡河北町",
+      "town": "吉田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

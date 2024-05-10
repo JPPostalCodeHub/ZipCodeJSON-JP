@@ -1,17 +1,21 @@
 {
-  "jisCode": "01221",
-  "oldZipCode": "096  ",
-  "zipCode": "0960024",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ナヨロシ",
-  "townKana": "ニシ１４ジョウミナミ",
-  "prefecture": "北海道",
-  "city": "名寄市",
-  "town": "西十四条南",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01221",
+      "oldZipCode": "096  ",
+      "zipCode": "0960024",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ナヨロシ",
+      "townKana": "ニシ１４ジョウミナミ",
+      "prefecture": "北海道",
+      "city": "名寄市",
+      "town": "西十四条南",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

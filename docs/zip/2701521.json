@@ -1,17 +1,21 @@
 {
-  "jisCode": "12329",
-  "oldZipCode": "27015",
-  "zipCode": "2701521",
-  "prefectureKana": "チバケン",
-  "cityKana": "インバグンサカエマチ",
-  "townKana": "ワダ",
-  "prefecture": "千葉県",
-  "city": "印旛郡栄町",
-  "town": "和田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12329",
+      "oldZipCode": "27015",
+      "zipCode": "2701521",
+      "prefectureKana": "チバケン",
+      "cityKana": "インバグンサカエマチ",
+      "townKana": "ワダ",
+      "prefecture": "千葉県",
+      "city": "印旛郡栄町",
+      "town": "和田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

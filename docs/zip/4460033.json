@@ -1,17 +1,21 @@
 {
-  "jisCode": "23212",
-  "oldZipCode": "446  ",
-  "zipCode": "4460033",
-  "prefectureKana": "アイチケン",
-  "cityKana": "アンジョウシ",
-  "townKana": "ヒノデチョウ",
-  "prefecture": "愛知県",
-  "city": "安城市",
-  "town": "日の出町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23212",
+      "oldZipCode": "446  ",
+      "zipCode": "4460033",
+      "prefectureKana": "アイチケン",
+      "cityKana": "アンジョウシ",
+      "townKana": "ヒノデチョウ",
+      "prefecture": "愛知県",
+      "city": "安城市",
+      "town": "日の出町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

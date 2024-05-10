@@ -1,17 +1,21 @@
 {
-  "jisCode": "01361",
-  "oldZipCode": "043  ",
-  "zipCode": "0430011",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ヒヤマグンエサシチョウ",
-  "townKana": "ゴリンザワチョウ",
-  "prefecture": "北海道",
-  "city": "檜山郡江差町",
-  "town": "五厘沢町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01361",
+      "oldZipCode": "043  ",
+      "zipCode": "0430011",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ヒヤマグンエサシチョウ",
+      "townKana": "ゴリンザワチョウ",
+      "prefecture": "北海道",
+      "city": "檜山郡江差町",
+      "town": "五厘沢町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

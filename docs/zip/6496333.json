@@ -1,17 +1,21 @@
 {
-  "jisCode": "30201",
-  "oldZipCode": "64963",
-  "zipCode": "6496333",
-  "prefectureKana": "ワカヤマケン",
-  "cityKana": "ワカヤマシ",
-  "townKana": "ナンゴ",
-  "prefecture": "和歌山県",
-  "city": "和歌山市",
-  "town": "永穂",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "30201",
+      "oldZipCode": "64963",
+      "zipCode": "6496333",
+      "prefectureKana": "ワカヤマケン",
+      "cityKana": "ワカヤマシ",
+      "townKana": "ナンゴ",
+      "prefecture": "和歌山県",
+      "city": "和歌山市",
+      "town": "永穂",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

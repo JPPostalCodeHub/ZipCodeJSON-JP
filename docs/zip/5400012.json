@@ -1,17 +1,21 @@
 {
-  "jisCode": "27128",
-  "oldZipCode": "540  ",
-  "zipCode": "5400012",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "オオサカシチュウオウク",
-  "townKana": "タニマチ（１チョウメ−５チョウメ）",
-  "prefecture": "大阪府",
-  "city": "大阪市中央区",
-  "town": "谷町（１〜５丁目）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27128",
+      "oldZipCode": "540  ",
+      "zipCode": "5400012",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "オオサカシチュウオウク",
+      "townKana": "タニマチ（１チョウメ−５チョウメ）",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "town": "谷町（１〜５丁目）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

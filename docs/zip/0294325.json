@@ -1,17 +1,21 @@
 {
-  "jisCode": "03215",
-  "oldZipCode": "02943",
-  "zipCode": "0294325",
-  "prefectureKana": "イワテケン",
-  "cityKana": "オウシュウシ",
-  "townKana": "コロモガワコマサイタ",
-  "prefecture": "岩手県",
-  "city": "奥州市",
-  "town": "衣川小正板",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "03215",
+      "oldZipCode": "02943",
+      "zipCode": "0294325",
+      "prefectureKana": "イワテケン",
+      "cityKana": "オウシュウシ",
+      "townKana": "コロモガワコマサイタ",
+      "prefecture": "岩手県",
+      "city": "奥州市",
+      "town": "衣川小正板",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

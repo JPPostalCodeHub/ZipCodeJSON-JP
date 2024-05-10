@@ -1,17 +1,21 @@
 {
-  "jisCode": "28207",
-  "oldZipCode": "664  ",
-  "zipCode": "6640846",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "イタミシ",
-  "townKana": "イタミ",
-  "prefecture": "兵庫県",
-  "city": "伊丹市",
-  "town": "伊丹",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28207",
+      "oldZipCode": "664  ",
+      "zipCode": "6640846",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "イタミシ",
+      "townKana": "イタミ",
+      "prefecture": "兵庫県",
+      "city": "伊丹市",
+      "town": "伊丹",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

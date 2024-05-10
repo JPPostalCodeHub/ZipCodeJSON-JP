@@ -1,17 +1,21 @@
 {
-  "jisCode": "33423",
-  "oldZipCode": "70103",
-  "zipCode": "7010303",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "ツクボグンハヤシマチョウ",
-  "townKana": "マエガタ",
-  "prefecture": "岡山県",
-  "city": "都窪郡早島町",
-  "town": "前潟",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33423",
+      "oldZipCode": "70103",
+      "zipCode": "7010303",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "ツクボグンハヤシマチョウ",
+      "townKana": "マエガタ",
+      "prefecture": "岡山県",
+      "city": "都窪郡早島町",
+      "town": "前潟",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

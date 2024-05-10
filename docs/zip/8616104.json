@@ -1,17 +1,21 @@
 {
-  "jisCode": "43212",
-  "oldZipCode": "86161",
-  "zipCode": "8616104",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "カミアマクサシ",
-  "townKana": "マツシママチウチノカワウチ",
-  "prefecture": "熊本県",
-  "city": "上天草市",
-  "town": "松島町内野河内",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43212",
+      "oldZipCode": "86161",
+      "zipCode": "8616104",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "カミアマクサシ",
+      "townKana": "マツシママチウチノカワウチ",
+      "prefecture": "熊本県",
+      "city": "上天草市",
+      "town": "松島町内野河内",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

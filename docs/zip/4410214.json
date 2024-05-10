@@ -1,17 +1,21 @@
 {
-  "jisCode": "23207",
-  "oldZipCode": "44102",
-  "zipCode": "4410214",
-  "prefectureKana": "アイチケン",
-  "cityKana": "トヨカワシ",
-  "townKana": "ゴユチョウ（ヒガシヤマ）",
-  "prefecture": "愛知県",
-  "city": "豊川市",
-  "town": "御油町（東山）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23207",
+      "oldZipCode": "44102",
+      "zipCode": "4410214",
+      "prefectureKana": "アイチケン",
+      "cityKana": "トヨカワシ",
+      "townKana": "ゴユチョウ（ヒガシヤマ）",
+      "prefecture": "愛知県",
+      "city": "豊川市",
+      "town": "御油町（東山）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

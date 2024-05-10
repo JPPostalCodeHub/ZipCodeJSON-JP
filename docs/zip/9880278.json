@@ -1,17 +1,38 @@
 {
-  "jisCode": "04205",
-  "oldZipCode": "98802",
-  "zipCode": "9880278",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "ケセンヌマシ",
-  "townKana": "モトヨシチョウヤマヤ",
-  "prefecture": "宮城県",
-  "city": "気仙沼市",
-  "town": "本吉町山谷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04205",
+      "oldZipCode": "98802",
+      "zipCode": "9880278",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "ケセンヌマシ",
+      "townKana": "モトヨシチョウタカセガモリ",
+      "prefecture": "宮城県",
+      "city": "気仙沼市",
+      "town": "本吉町高瀬ヶ森",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "04205",
+      "oldZipCode": "98802",
+      "zipCode": "9880278",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "ケセンヌマシ",
+      "townKana": "モトヨシチョウヤマヤ",
+      "prefecture": "宮城県",
+      "city": "気仙沼市",
+      "town": "本吉町山谷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

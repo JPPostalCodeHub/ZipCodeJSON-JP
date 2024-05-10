@@ -1,17 +1,21 @@
 {
-  "jisCode": "29444",
-  "oldZipCode": "63802",
-  "zipCode": "6380232",
-  "prefectureKana": "ナラケン",
-  "cityKana": "ヨシノグンクロタキムラ",
-  "townKana": "カツラハラ",
-  "prefecture": "奈良県",
-  "city": "吉野郡黒滝村",
-  "town": "桂原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "29444",
+      "oldZipCode": "63802",
+      "zipCode": "6380232",
+      "prefectureKana": "ナラケン",
+      "cityKana": "ヨシノグンクロタキムラ",
+      "townKana": "カツラハラ",
+      "prefecture": "奈良県",
+      "city": "吉野郡黒滝村",
+      "town": "桂原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

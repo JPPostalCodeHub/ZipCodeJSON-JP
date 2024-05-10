@@ -1,17 +1,21 @@
 {
-  "jisCode": "13108",
-  "oldZipCode": "135  ",
-  "zipCode": "1356002",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "コウトウク",
-  "townKana": "トヨストヨスセンタービル（２カイ）",
-  "prefecture": "東京都",
-  "city": "江東区",
-  "town": "豊洲豊洲センタービル（２階）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13108",
+      "oldZipCode": "135  ",
+      "zipCode": "1356002",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "コウトウク",
+      "townKana": "トヨストヨスセンタービル（２カイ）",
+      "prefecture": "東京都",
+      "city": "江東区",
+      "town": "豊洲豊洲センタービル（２階）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "03205",
-  "oldZipCode": "025  ",
-  "zipCode": "0250063",
-  "prefectureKana": "イワテケン",
-  "cityKana": "ハナマキシ",
-  "townKana": "シモコブナト",
-  "prefecture": "岩手県",
-  "city": "花巻市",
-  "town": "下小舟渡",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "03205",
+      "oldZipCode": "025  ",
+      "zipCode": "0250063",
+      "prefectureKana": "イワテケン",
+      "cityKana": "ハナマキシ",
+      "townKana": "シモコブナト",
+      "prefecture": "岩手県",
+      "city": "花巻市",
+      "town": "下小舟渡",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

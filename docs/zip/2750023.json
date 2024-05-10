@@ -1,17 +1,21 @@
 {
-  "jisCode": "12216",
-  "oldZipCode": "275  ",
-  "zipCode": "2750023",
-  "prefectureKana": "チバケン",
-  "cityKana": "ナラシノシ",
-  "townKana": "シバゾノ",
-  "prefecture": "千葉県",
-  "city": "習志野市",
-  "town": "芝園",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12216",
+      "oldZipCode": "275  ",
+      "zipCode": "2750023",
+      "prefectureKana": "チバケン",
+      "cityKana": "ナラシノシ",
+      "townKana": "シバゾノ",
+      "prefecture": "千葉県",
+      "city": "習志野市",
+      "town": "芝園",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

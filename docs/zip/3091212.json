@@ -1,17 +1,21 @@
 {
-  "jisCode": "08231",
-  "oldZipCode": "30912",
-  "zipCode": "3091212",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "サクラガワシ",
-  "townKana": "フジミダイ",
-  "prefecture": "茨城県",
-  "city": "桜川市",
-  "town": "富士見台",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08231",
+      "oldZipCode": "30912",
+      "zipCode": "3091212",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "サクラガワシ",
+      "townKana": "フジミダイ",
+      "prefecture": "茨城県",
+      "city": "桜川市",
+      "town": "富士見台",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

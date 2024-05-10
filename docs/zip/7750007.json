@@ -1,17 +1,21 @@
 {
-  "jisCode": "36383",
-  "oldZipCode": "775  ",
-  "zipCode": "7750007",
-  "prefectureKana": "トクシマケン",
-  "cityKana": "カイフグンムギチョウ",
-  "townKana": "ウチヅマ",
-  "prefecture": "徳島県",
-  "city": "海部郡牟岐町",
-  "town": "内妻",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "36383",
+      "oldZipCode": "775  ",
+      "zipCode": "7750007",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "カイフグンムギチョウ",
+      "townKana": "ウチヅマ",
+      "prefecture": "徳島県",
+      "city": "海部郡牟岐町",
+      "town": "内妻",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

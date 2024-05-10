@@ -1,17 +1,21 @@
 {
-  "jisCode": "33207",
-  "oldZipCode": "71422",
-  "zipCode": "7142233",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "イバラシ",
-  "townKana": "ヨシイチョウヤマムラ",
-  "prefecture": "岡山県",
-  "city": "井原市",
-  "town": "芳井町山村",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33207",
+      "oldZipCode": "71422",
+      "zipCode": "7142233",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "イバラシ",
+      "townKana": "ヨシイチョウヤマムラ",
+      "prefecture": "岡山県",
+      "city": "井原市",
+      "town": "芳井町山村",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

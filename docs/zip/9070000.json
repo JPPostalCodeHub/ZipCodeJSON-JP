@@ -1,17 +1,38 @@
 {
-  "jisCode": "47381",
-  "oldZipCode": "907  ",
-  "zipCode": "9070000",
-  "prefectureKana": "オキナワケン",
-  "cityKana": "ヤエヤマグンタケトミチョウ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "沖縄県",
-  "city": "八重山郡竹富町",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "47207",
+      "oldZipCode": "907  ",
+      "zipCode": "9070000",
+      "prefectureKana": "オキナワケン",
+      "cityKana": "イシガキシ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "沖縄県",
+      "city": "石垣市",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "47381",
+      "oldZipCode": "907  ",
+      "zipCode": "9070000",
+      "prefectureKana": "オキナワケン",
+      "cityKana": "ヤエヤマグンタケトミチョウ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "沖縄県",
+      "city": "八重山郡竹富町",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

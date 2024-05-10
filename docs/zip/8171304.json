@@ -1,17 +1,21 @@
 {
-  "jisCode": "42209",
-  "oldZipCode": "81713",
-  "zipCode": "8171304",
-  "prefectureKana": "ナガサキケン",
-  "cityKana": "ツシマシ",
-  "townKana": "ミネマチオウミ",
-  "prefecture": "長崎県",
-  "city": "対馬市",
-  "town": "峰町青海",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "42209",
+      "oldZipCode": "81713",
+      "zipCode": "8171304",
+      "prefectureKana": "ナガサキケン",
+      "cityKana": "ツシマシ",
+      "townKana": "ミネマチオウミ",
+      "prefecture": "長崎県",
+      "city": "対馬市",
+      "town": "峰町青海",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

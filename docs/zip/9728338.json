@@ -1,17 +1,21 @@
 {
-  "jisCode": "07204",
-  "oldZipCode": "970  ",
-  "zipCode": "9728338",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "イワキシ",
-  "townKana": "チュウブコウギョウダンチ",
-  "prefecture": "福島県",
-  "city": "いわき市",
-  "town": "中部工業団地",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07204",
+      "oldZipCode": "970  ",
+      "zipCode": "9728338",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "イワキシ",
+      "townKana": "チュウブコウギョウダンチ",
+      "prefecture": "福島県",
+      "city": "いわき市",
+      "town": "中部工業団地",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

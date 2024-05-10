@@ -1,17 +1,21 @@
 {
-  "jisCode": "16201",
-  "oldZipCode": "93923",
-  "zipCode": "9392315",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "トヤマシ",
-  "townKana": "ヤツオマチイクリタニ",
-  "prefecture": "富山県",
-  "city": "富山市",
-  "town": "八尾町井栗谷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16201",
+      "oldZipCode": "93923",
+      "zipCode": "9392315",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "トヤマシ",
+      "townKana": "ヤツオマチイクリタニ",
+      "prefecture": "富山県",
+      "city": "富山市",
+      "town": "八尾町井栗谷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

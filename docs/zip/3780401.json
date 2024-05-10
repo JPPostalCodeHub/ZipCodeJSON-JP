@@ -1,17 +1,21 @@
 {
-  "jisCode": "10443",
-  "oldZipCode": "37804",
-  "zipCode": "3780401",
-  "prefectureKana": "グンマケン",
-  "cityKana": "トネグンカタシナムラ",
-  "townKana": "スカガワ",
-  "prefecture": "群馬県",
-  "city": "利根郡片品村",
-  "town": "須賀川",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "10443",
+      "oldZipCode": "37804",
+      "zipCode": "3780401",
+      "prefectureKana": "グンマケン",
+      "cityKana": "トネグンカタシナムラ",
+      "townKana": "スカガワ",
+      "prefecture": "群馬県",
+      "city": "利根郡片品村",
+      "town": "須賀川",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

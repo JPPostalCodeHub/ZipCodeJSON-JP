@@ -1,17 +1,21 @@
 {
-  "jisCode": "45205",
-  "oldZipCode": "88602",
-  "zipCode": "8860211",
-  "prefectureKana": "ミヤザキケン",
-  "cityKana": "コバヤシシ",
-  "townKana": "ノジリチョウカミヤ",
-  "prefecture": "宮崎県",
-  "city": "小林市",
-  "town": "野尻町紙屋",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "45205",
+      "oldZipCode": "88602",
+      "zipCode": "8860211",
+      "prefectureKana": "ミヤザキケン",
+      "cityKana": "コバヤシシ",
+      "townKana": "ノジリチョウカミヤ",
+      "prefecture": "宮崎県",
+      "city": "小林市",
+      "town": "野尻町紙屋",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

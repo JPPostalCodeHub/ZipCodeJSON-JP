@@ -1,17 +1,21 @@
 {
-  "jisCode": "26102",
-  "oldZipCode": "602  ",
-  "zipCode": "6028482",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシカミギョウク",
-  "townKana": "ダイコクチョウ",
-  "prefecture": "京都府",
-  "city": "京都市上京区",
-  "town": "大黒町（上立売通浄福寺西入、上立売通浄福寺東入、浄福寺通上立売上る、浄福寺通寺之内下る）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26102",
+      "oldZipCode": "602  ",
+      "zipCode": "6028482",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシカミギョウク",
+      "townKana": "ダイコクチョウ",
+      "prefecture": "京都府",
+      "city": "京都市上京区",
+      "town": "大黒町（上立売通浄福寺西入、上立売通浄福寺東入、浄福寺通上立売上る、浄福寺通寺之内下る）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

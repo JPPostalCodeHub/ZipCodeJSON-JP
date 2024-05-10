@@ -1,17 +1,21 @@
 {
-  "jisCode": "02206",
-  "oldZipCode": "034  ",
-  "zipCode": "0340005",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "トワダシ",
-  "townKana": "イッポンギサワ",
-  "prefecture": "青森県",
-  "city": "十和田市",
-  "town": "一本木沢",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02206",
+      "oldZipCode": "034  ",
+      "zipCode": "0340005",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "トワダシ",
+      "townKana": "イッポンギサワ",
+      "prefecture": "青森県",
+      "city": "十和田市",
+      "town": "一本木沢",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "03215",
-  "oldZipCode": "02301",
-  "zipCode": "0230102",
-  "prefectureKana": "イワテケン",
-  "cityKana": "オウシュウシ",
-  "townKana": "ミズサワハダチョウエキヒガシ",
-  "prefecture": "岩手県",
-  "city": "奥州市",
-  "town": "水沢羽田町駅東",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "03215",
+      "oldZipCode": "02301",
+      "zipCode": "0230102",
+      "prefectureKana": "イワテケン",
+      "cityKana": "オウシュウシ",
+      "townKana": "ミズサワハダチョウエキヒガシ",
+      "prefecture": "岩手県",
+      "city": "奥州市",
+      "town": "水沢羽田町駅東",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

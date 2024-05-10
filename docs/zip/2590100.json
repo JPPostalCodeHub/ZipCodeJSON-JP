@@ -1,17 +1,38 @@
 {
-  "jisCode": "14361",
-  "oldZipCode": "25901",
-  "zipCode": "2590100",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "アシガラカミグンナカイマチ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "神奈川県",
-  "city": "足柄上郡中井町",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14342",
+      "oldZipCode": "25901",
+      "zipCode": "2590100",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "ナカグンニノミヤマチ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "神奈川県",
+      "city": "中郡二宮町",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "14361",
+      "oldZipCode": "25901",
+      "zipCode": "2590100",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "アシガラカミグンナカイマチ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "神奈川県",
+      "city": "足柄上郡中井町",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "18382",
-  "oldZipCode": "91025",
-  "zipCode": "9102507",
-  "prefectureKana": "フクイケン",
-  "cityKana": "イマダテグンイケダチョウ",
-  "townKana": "シミズタニ",
-  "prefecture": "福井県",
-  "city": "今立郡池田町",
-  "town": "清水谷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18382",
+      "oldZipCode": "91025",
+      "zipCode": "9102507",
+      "prefectureKana": "フクイケン",
+      "cityKana": "イマダテグンイケダチョウ",
+      "townKana": "シミズタニ",
+      "prefecture": "福井県",
+      "city": "今立郡池田町",
+      "town": "清水谷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

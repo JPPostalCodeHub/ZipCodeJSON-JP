@@ -1,17 +1,21 @@
 {
-  "jisCode": "23115",
-  "oldZipCode": "465  ",
-  "zipCode": "4650078",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ナゴヤシメイトウク",
-  "townKana": "ニジガオカ",
-  "prefecture": "愛知県",
-  "city": "名古屋市名東区",
-  "town": "にじが丘",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23115",
+      "oldZipCode": "465  ",
+      "zipCode": "4650078",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ナゴヤシメイトウク",
+      "townKana": "ニジガオカ",
+      "prefecture": "愛知県",
+      "city": "名古屋市名東区",
+      "town": "にじが丘",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "05213",
-  "oldZipCode": "01847",
-  "zipCode": "0184741",
-  "prefectureKana": "アキタケン",
-  "cityKana": "キタアキタシ",
-  "townKana": "アニコウヤ",
-  "prefecture": "秋田県",
-  "city": "北秋田市",
-  "town": "阿仁幸屋",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05213",
+      "oldZipCode": "01847",
+      "zipCode": "0184741",
+      "prefectureKana": "アキタケン",
+      "cityKana": "キタアキタシ",
+      "townKana": "アニコウヤ",
+      "prefecture": "秋田県",
+      "city": "北秋田市",
+      "town": "阿仁幸屋",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

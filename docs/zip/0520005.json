@@ -1,17 +1,21 @@
 {
-  "jisCode": "01233",
-  "oldZipCode": "052  ",
-  "zipCode": "0520005",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ダテシ",
-  "townKana": "キヨズミチョウ",
-  "prefecture": "北海道",
-  "city": "伊達市",
-  "town": "清住町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01233",
+      "oldZipCode": "052  ",
+      "zipCode": "0520005",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ダテシ",
+      "townKana": "キヨズミチョウ",
+      "prefecture": "北海道",
+      "city": "伊達市",
+      "town": "清住町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

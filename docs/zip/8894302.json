@@ -1,17 +1,21 @@
 {
-  "jisCode": "45209",
-  "oldZipCode": "88943",
-  "zipCode": "8894302",
-  "prefectureKana": "ミヤザキケン",
-  "cityKana": "エビノシ",
-  "townKana": "スエナガ",
-  "prefecture": "宮崎県",
-  "city": "えびの市",
-  "town": "末永",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "45209",
+      "oldZipCode": "88943",
+      "zipCode": "8894302",
+      "prefectureKana": "ミヤザキケン",
+      "cityKana": "エビノシ",
+      "townKana": "スエナガ",
+      "prefecture": "宮崎県",
+      "city": "えびの市",
+      "town": "末永",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

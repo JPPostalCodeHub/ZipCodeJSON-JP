@@ -1,17 +1,21 @@
 {
-  "jisCode": "29201",
-  "oldZipCode": "631  ",
-  "zipCode": "6310806",
-  "prefectureKana": "ナラケン",
-  "cityKana": "ナラシ",
-  "townKana": "スザク",
-  "prefecture": "奈良県",
-  "city": "奈良市",
-  "town": "朱雀",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "29201",
+      "oldZipCode": "631  ",
+      "zipCode": "6310806",
+      "prefectureKana": "ナラケン",
+      "cityKana": "ナラシ",
+      "townKana": "スザク",
+      "prefecture": "奈良県",
+      "city": "奈良市",
+      "town": "朱雀",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

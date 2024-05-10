@@ -1,17 +1,21 @@
 {
-  "jisCode": "01333",
-  "oldZipCode": "04911",
-  "zipCode": "0491106",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "カミイソグンシリウチチョウ",
-  "townKana": "モトマチ",
-  "prefecture": "北海道",
-  "city": "上磯郡知内町",
-  "town": "元町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01333",
+      "oldZipCode": "04911",
+      "zipCode": "0491106",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "カミイソグンシリウチチョウ",
+      "townKana": "モトマチ",
+      "prefecture": "北海道",
+      "city": "上磯郡知内町",
+      "town": "元町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

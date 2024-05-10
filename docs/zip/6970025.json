@@ -1,17 +1,21 @@
 {
-  "jisCode": "32202",
-  "oldZipCode": "697  ",
-  "zipCode": "6970025",
-  "prefectureKana": "シマネケン",
-  "cityKana": "ハマダシ",
-  "townKana": "ビワマチ",
-  "prefecture": "島根県",
-  "city": "浜田市",
-  "town": "琵琶町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "32202",
+      "oldZipCode": "697  ",
+      "zipCode": "6970025",
+      "prefectureKana": "シマネケン",
+      "cityKana": "ハマダシ",
+      "townKana": "ビワマチ",
+      "prefecture": "島根県",
+      "city": "浜田市",
+      "town": "琵琶町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

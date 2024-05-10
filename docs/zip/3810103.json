@@ -1,17 +1,21 @@
 {
-  "jisCode": "20201",
-  "oldZipCode": "38101",
-  "zipCode": "3810103",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "ナガノシ",
-  "townKana": "ワカホカワダ",
-  "prefecture": "長野県",
-  "city": "長野市",
-  "town": "若穂川田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20201",
+      "oldZipCode": "38101",
+      "zipCode": "3810103",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "ナガノシ",
+      "townKana": "ワカホカワダ",
+      "prefecture": "長野県",
+      "city": "長野市",
+      "town": "若穂川田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

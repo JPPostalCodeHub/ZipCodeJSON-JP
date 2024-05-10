@@ -1,17 +1,21 @@
 {
-  "jisCode": "05368",
-  "oldZipCode": "01004",
-  "zipCode": "0100452",
-  "prefectureKana": "アキタケン",
-  "cityKana": "ミナミアキタグンオオガタムラ",
-  "townKana": "カタガミ",
-  "prefecture": "秋田県",
-  "city": "南秋田郡大潟村",
-  "town": "方上",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05368",
+      "oldZipCode": "01004",
+      "zipCode": "0100452",
+      "prefectureKana": "アキタケン",
+      "cityKana": "ミナミアキタグンオオガタムラ",
+      "townKana": "カタガミ",
+      "prefecture": "秋田県",
+      "city": "南秋田郡大潟村",
+      "town": "方上",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

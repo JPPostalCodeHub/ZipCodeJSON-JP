@@ -1,17 +1,21 @@
 {
-  "jisCode": "12218",
-  "oldZipCode": "29952",
-  "zipCode": "2995212",
-  "prefectureKana": "チバケン",
-  "cityKana": "カツウラシ",
-  "townKana": "カニタ",
-  "prefecture": "千葉県",
-  "city": "勝浦市",
-  "town": "蟹田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12218",
+      "oldZipCode": "29952",
+      "zipCode": "2995212",
+      "prefectureKana": "チバケン",
+      "cityKana": "カツウラシ",
+      "townKana": "カニタ",
+      "prefecture": "千葉県",
+      "city": "勝浦市",
+      "town": "蟹田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "10421",
-  "oldZipCode": "37704",
-  "zipCode": "3770434",
-  "prefectureKana": "グンマケン",
-  "cityKana": "アガツマグンナカノジョウマチ",
-  "townKana": "ヤマダ（ソノタ）",
-  "prefecture": "群馬県",
-  "city": "吾妻郡中之条町",
-  "town": "山田（その他）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "10421",
+      "oldZipCode": "37704",
+      "zipCode": "3770434",
+      "prefectureKana": "グンマケン",
+      "cityKana": "アガツマグンナカノジョウマチ",
+      "townKana": "ヤマダ（ソノタ）",
+      "prefecture": "群馬県",
+      "city": "吾妻郡中之条町",
+      "town": "山田（その他）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

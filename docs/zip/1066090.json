@@ -1,17 +1,21 @@
 {
-  "jisCode": "13103",
-  "oldZipCode": "106  ",
-  "zipCode": "1066090",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "ミナトク",
-  "townKana": "ロッポンギイズミガーデンタワー（チカイ・カイソウフメイ）",
-  "prefecture": "東京都",
-  "city": "港区",
-  "town": "六本木泉ガーデンタワー（地階・階層不明）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13103",
+      "oldZipCode": "106  ",
+      "zipCode": "1066090",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "ミナトク",
+      "townKana": "ロッポンギイズミガーデンタワー（チカイ・カイソウフメイ）",
+      "prefecture": "東京都",
+      "city": "港区",
+      "town": "六本木泉ガーデンタワー（地階・階層不明）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

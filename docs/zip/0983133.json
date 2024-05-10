@@ -1,17 +1,38 @@
 {
-  "jisCode": "01487",
-  "oldZipCode": "09831",
-  "zipCode": "0983133",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "テシオグンテシオチョウ",
-  "townKana": "オノブナイ",
-  "prefecture": "北海道",
-  "city": "天塩郡天塩町",
-  "town": "雄信内",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01487",
+      "oldZipCode": "09831",
+      "zipCode": "0983133",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "テシオグンテシオチョウ",
+      "townKana": "オヌプナイ",
+      "prefecture": "北海道",
+      "city": "天塩郡天塩町",
+      "town": "オヌプナイ",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "01487",
+      "oldZipCode": "09831",
+      "zipCode": "0983133",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "テシオグンテシオチョウ",
+      "townKana": "オノブナイ",
+      "prefecture": "北海道",
+      "city": "天塩郡天塩町",
+      "town": "雄信内",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

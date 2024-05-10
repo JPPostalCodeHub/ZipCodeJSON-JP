@@ -1,17 +1,21 @@
 {
-  "jisCode": "20452",
-  "oldZipCode": "39976",
-  "zipCode": "3997601",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "ヒガシチクマグンチクホクムラ",
-  "townKana": "サカキタ",
-  "prefecture": "長野県",
-  "city": "東筑摩郡筑北村",
-  "town": "坂北",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20452",
+      "oldZipCode": "39976",
+      "zipCode": "3997601",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "ヒガシチクマグンチクホクムラ",
+      "townKana": "サカキタ",
+      "prefecture": "長野県",
+      "city": "東筑摩郡筑北村",
+      "town": "坂北",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "12422",
-  "oldZipCode": "29944",
-  "zipCode": "2994403",
-  "prefectureKana": "チバケン",
-  "cityKana": "チョウセイグンムツザワマチ",
-  "townKana": "カミイチバ",
-  "prefecture": "千葉県",
-  "city": "長生郡睦沢町",
-  "town": "上市場",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12422",
+      "oldZipCode": "29944",
+      "zipCode": "2994403",
+      "prefectureKana": "チバケン",
+      "cityKana": "チョウセイグンムツザワマチ",
+      "townKana": "カミイチバ",
+      "prefecture": "千葉県",
+      "city": "長生郡睦沢町",
+      "town": "上市場",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "15223",
-  "oldZipCode": "95921",
-  "zipCode": "9592005",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "アガノシ",
-  "townKana": "ヤマグチチョウ",
-  "prefecture": "新潟県",
-  "city": "阿賀野市",
-  "town": "山口町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15223",
+      "oldZipCode": "95921",
+      "zipCode": "9592005",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "アガノシ",
+      "townKana": "ヤマグチチョウ",
+      "prefecture": "新潟県",
+      "city": "阿賀野市",
+      "town": "山口町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

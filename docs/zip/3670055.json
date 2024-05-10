@@ -1,17 +1,21 @@
 {
-  "jisCode": "11211",
-  "oldZipCode": "367  ",
-  "zipCode": "3670055",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "ホンジョウシ",
-  "townKana": "ワカイズミ",
-  "prefecture": "埼玉県",
-  "city": "本庄市",
-  "town": "若泉",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11211",
+      "oldZipCode": "367  ",
+      "zipCode": "3670055",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "ホンジョウシ",
+      "townKana": "ワカイズミ",
+      "prefecture": "埼玉県",
+      "city": "本庄市",
+      "town": "若泉",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

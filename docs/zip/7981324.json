@@ -1,17 +1,21 @@
 {
-  "jisCode": "38488",
-  "oldZipCode": "79813",
-  "zipCode": "7981324",
-  "prefectureKana": "エヒメケン",
-  "cityKana": "キタウワグンキホクチョウ",
-  "townKana": "コニシノノ",
-  "prefecture": "愛媛県",
-  "city": "北宇和郡鬼北町",
-  "town": "小西野々",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "38488",
+      "oldZipCode": "79813",
+      "zipCode": "7981324",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "キタウワグンキホクチョウ",
+      "townKana": "コニシノノ",
+      "prefecture": "愛媛県",
+      "city": "北宇和郡鬼北町",
+      "town": "小西野々",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

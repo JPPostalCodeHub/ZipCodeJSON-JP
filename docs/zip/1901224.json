@@ -1,17 +1,21 @@
 {
-  "jisCode": "13303",
-  "oldZipCode": "19012",
-  "zipCode": "1901224",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "ニシタマグンミズホマチ",
-  "townKana": "ミナミダイラ",
-  "prefecture": "東京都",
-  "city": "西多摩郡瑞穂町",
-  "town": "南平",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13303",
+      "oldZipCode": "19012",
+      "zipCode": "1901224",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "ニシタマグンミズホマチ",
+      "townKana": "ミナミダイラ",
+      "prefecture": "東京都",
+      "city": "西多摩郡瑞穂町",
+      "town": "南平",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "17204",
-  "oldZipCode": "928  ",
-  "zipCode": "9280067",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "ワジマシ",
-  "townKana": "ヒカリウラマチ",
-  "prefecture": "石川県",
-  "city": "輪島市",
-  "town": "光浦町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17204",
+      "oldZipCode": "928  ",
+      "zipCode": "9280067",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "ワジマシ",
+      "townKana": "ヒカリウラマチ",
+      "prefecture": "石川県",
+      "city": "輪島市",
+      "town": "光浦町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

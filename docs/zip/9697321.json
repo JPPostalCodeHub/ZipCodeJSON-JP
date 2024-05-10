@@ -1,17 +1,21 @@
 {
-  "jisCode": "07423",
-  "oldZipCode": "96973",
-  "zipCode": "9697321",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "カワヌマグンヤナイヅマチ",
-  "townKana": "スナコハラ",
-  "prefecture": "福島県",
-  "city": "河沼郡柳津町",
-  "town": "砂子原",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07423",
+      "oldZipCode": "96973",
+      "zipCode": "9697321",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "カワヌマグンヤナイヅマチ",
+      "townKana": "スナコハラ",
+      "prefecture": "福島県",
+      "city": "河沼郡柳津町",
+      "town": "砂子原",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

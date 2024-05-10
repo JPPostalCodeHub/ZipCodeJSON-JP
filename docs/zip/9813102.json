@@ -1,17 +1,21 @@
 {
-  "jisCode": "04105",
-  "oldZipCode": "98131",
-  "zipCode": "9813102",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "センダイシイズミク",
-  "townKana": "コウヨウダイ",
-  "prefecture": "宮城県",
-  "city": "仙台市泉区",
-  "town": "向陽台",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04105",
+      "oldZipCode": "98131",
+      "zipCode": "9813102",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "センダイシイズミク",
+      "townKana": "コウヨウダイ",
+      "prefecture": "宮城県",
+      "city": "仙台市泉区",
+      "town": "向陽台",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

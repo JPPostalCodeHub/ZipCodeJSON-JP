@@ -1,17 +1,21 @@
 {
-  "jisCode": "47207",
-  "oldZipCode": "907  ",
-  "zipCode": "9070004",
-  "prefectureKana": "オキナワケン",
-  "cityKana": "イシガキシ",
-  "townKana": "トノシロ",
-  "prefecture": "沖縄県",
-  "city": "石垣市",
-  "town": "登野城",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "47207",
+      "oldZipCode": "907  ",
+      "zipCode": "9070004",
+      "prefectureKana": "オキナワケン",
+      "cityKana": "イシガキシ",
+      "townKana": "トノシロ",
+      "prefecture": "沖縄県",
+      "city": "石垣市",
+      "town": "登野城",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

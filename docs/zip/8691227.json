@@ -1,17 +1,21 @@
 {
-  "jisCode": "43403",
-  "oldZipCode": "86912",
-  "zipCode": "8691227",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "キクチグンオオヅマチ",
-  "townKana": "シン",
-  "prefecture": "熊本県",
-  "city": "菊池郡大津町",
-  "town": "新",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43403",
+      "oldZipCode": "86912",
+      "zipCode": "8691227",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "キクチグンオオヅマチ",
+      "townKana": "シン",
+      "prefecture": "熊本県",
+      "city": "菊池郡大津町",
+      "town": "新",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

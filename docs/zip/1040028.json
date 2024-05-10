@@ -1,17 +1,21 @@
 {
-  "jisCode": "13102",
-  "oldZipCode": "104  ",
-  "zipCode": "1040028",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "チュウオウク",
-  "townKana": "ヤエス（２チョウメ）",
-  "prefecture": "東京都",
-  "city": "中央区",
-  "town": "八重洲（２丁目）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13102",
+      "oldZipCode": "104  ",
+      "zipCode": "1040028",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "チュウオウク",
+      "townKana": "ヤエス（２チョウメ）",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "town": "八重洲（２丁目）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

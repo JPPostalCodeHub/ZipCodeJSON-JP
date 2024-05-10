@@ -1,17 +1,21 @@
 {
-  "jisCode": "01106",
-  "oldZipCode": "005  ",
-  "zipCode": "0050861",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "サッポロシミナミク",
-  "townKana": "マコマナイ（ソノタ）",
-  "prefecture": "北海道",
-  "city": "札幌市南区",
-  "town": "真駒内（その他）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01106",
+      "oldZipCode": "005  ",
+      "zipCode": "0050861",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "サッポロシミナミク",
+      "townKana": "マコマナイ（ソノタ）",
+      "prefecture": "北海道",
+      "city": "札幌市南区",
+      "town": "真駒内（その他）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

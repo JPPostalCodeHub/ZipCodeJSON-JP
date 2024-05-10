@@ -1,17 +1,21 @@
 {
-  "jisCode": "28205",
-  "oldZipCode": "65625",
-  "zipCode": "6562541",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "スモトシ",
-  "townKana": "ユラ",
-  "prefecture": "兵庫県",
-  "city": "洲本市",
-  "town": "由良",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28205",
+      "oldZipCode": "65625",
+      "zipCode": "6562541",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "スモトシ",
+      "townKana": "ユラ",
+      "prefecture": "兵庫県",
+      "city": "洲本市",
+      "town": "由良",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

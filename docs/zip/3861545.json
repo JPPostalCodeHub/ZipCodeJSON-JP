@@ -1,17 +1,21 @@
 {
-  "jisCode": "20203",
-  "oldZipCode": "38615",
-  "zipCode": "3861545",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "ウエダシ",
-  "townKana": "コウド",
-  "prefecture": "長野県",
-  "city": "上田市",
-  "town": "越戸",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20203",
+      "oldZipCode": "38615",
+      "zipCode": "3861545",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "ウエダシ",
+      "townKana": "コウド",
+      "prefecture": "長野県",
+      "city": "上田市",
+      "town": "越戸",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

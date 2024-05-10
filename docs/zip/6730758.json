@@ -1,17 +1,21 @@
 {
-  "jisCode": "28215",
-  "oldZipCode": "67307",
-  "zipCode": "6730758",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "ミキシ",
-  "townKana": "クチヨカワチョウヒサツグ",
-  "prefecture": "兵庫県",
-  "city": "三木市",
-  "town": "口吉川町久次",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28215",
+      "oldZipCode": "67307",
+      "zipCode": "6730758",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "ミキシ",
+      "townKana": "クチヨカワチョウヒサツグ",
+      "prefecture": "兵庫県",
+      "city": "三木市",
+      "town": "口吉川町久次",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

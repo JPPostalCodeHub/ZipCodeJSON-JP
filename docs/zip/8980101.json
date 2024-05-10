@@ -1,17 +1,21 @@
 {
-  "jisCode": "46220",
-  "oldZipCode": "89801",
-  "zipCode": "8980101",
-  "prefectureKana": "カゴシマケン",
-  "cityKana": "ミナミサツマシ",
-  "townKana": "ボウノツチョウボウ",
-  "prefecture": "鹿児島県",
-  "city": "南さつま市",
-  "town": "坊津町坊",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "46220",
+      "oldZipCode": "89801",
+      "zipCode": "8980101",
+      "prefectureKana": "カゴシマケン",
+      "cityKana": "ミナミサツマシ",
+      "townKana": "ボウノツチョウボウ",
+      "prefecture": "鹿児島県",
+      "city": "南さつま市",
+      "town": "坊津町坊",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

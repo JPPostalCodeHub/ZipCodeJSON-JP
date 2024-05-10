@@ -1,17 +1,21 @@
 {
-  "jisCode": "01404",
-  "oldZipCode": "04503",
-  "zipCode": "0450303",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "フルウグンカモエナイムラ",
-  "townKana": "サンナイムラ",
-  "prefecture": "北海道",
-  "city": "古宇郡神恵内村",
-  "town": "珊内村",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01404",
+      "oldZipCode": "04503",
+      "zipCode": "0450303",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "フルウグンカモエナイムラ",
+      "townKana": "サンナイムラ",
+      "prefecture": "北海道",
+      "city": "古宇郡神恵内村",
+      "town": "珊内村",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

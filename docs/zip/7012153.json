@@ -1,17 +1,21 @@
 {
-  "jisCode": "33101",
-  "oldZipCode": "70121",
-  "zipCode": "7012153",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "オカヤマシキタク",
-  "townKana": "ハタアユ",
-  "prefecture": "岡山県",
-  "city": "岡山市北区",
-  "town": "畑鮎",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33101",
+      "oldZipCode": "70121",
+      "zipCode": "7012153",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "オカヤマシキタク",
+      "townKana": "ハタアユ",
+      "prefecture": "岡山県",
+      "city": "岡山市北区",
+      "town": "畑鮎",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

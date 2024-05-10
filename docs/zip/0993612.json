@@ -1,17 +1,21 @@
 {
-  "jisCode": "01547",
-  "oldZipCode": "09936",
-  "zipCode": "0993612",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "シャリグンコシミズチョウ",
-  "townKana": "キョウワ",
-  "prefecture": "北海道",
-  "city": "斜里郡小清水町",
-  "town": "共和",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01547",
+      "oldZipCode": "09936",
+      "zipCode": "0993612",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "シャリグンコシミズチョウ",
+      "townKana": "キョウワ",
+      "prefecture": "北海道",
+      "city": "斜里郡小清水町",
+      "town": "共和",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

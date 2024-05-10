@@ -1,17 +1,21 @@
 {
-  "jisCode": "46530",
-  "oldZipCode": "89171",
-  "zipCode": "8917101",
-  "prefectureKana": "カゴシマケン",
-  "cityKana": "オオシマグントクノシマチョウ",
-  "townKana": "カメツ",
-  "prefecture": "鹿児島県",
-  "city": "大島郡徳之島町",
-  "town": "亀津",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "46530",
+      "oldZipCode": "89171",
+      "zipCode": "8917101",
+      "prefectureKana": "カゴシマケン",
+      "cityKana": "オオシマグントクノシマチョウ",
+      "townKana": "カメツ",
+      "prefecture": "鹿児島県",
+      "city": "大島郡徳之島町",
+      "town": "亀津",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "28201",
-  "oldZipCode": "670  ",
-  "zipCode": "6700016",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "ヒメジシ",
-  "townKana": "サカモトマチ",
-  "prefecture": "兵庫県",
-  "city": "姫路市",
-  "town": "坂元町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28201",
+      "oldZipCode": "670  ",
+      "zipCode": "6700016",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "ヒメジシ",
+      "townKana": "サカモトマチ",
+      "prefecture": "兵庫県",
+      "city": "姫路市",
+      "town": "坂元町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

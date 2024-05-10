@@ -1,17 +1,21 @@
 {
-  "jisCode": "06213",
-  "oldZipCode": "99922",
-  "zipCode": "9992201",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "ナンヨウシ",
-  "townKana": "カマノハタ",
-  "prefecture": "山形県",
-  "city": "南陽市",
-  "town": "釜渡戸",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06213",
+      "oldZipCode": "99922",
+      "zipCode": "9992201",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "ナンヨウシ",
+      "townKana": "カマノハタ",
+      "prefecture": "山形県",
+      "city": "南陽市",
+      "town": "釜渡戸",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

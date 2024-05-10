@@ -1,17 +1,21 @@
 {
-  "jisCode": "01228",
-  "oldZipCode": "07411",
-  "zipCode": "0741162",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "フカガワシ",
-  "townKana": "オトエチョウ（キクオカ）",
-  "prefecture": "北海道",
-  "city": "深川市",
-  "town": "音江町（菊丘）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01228",
+      "oldZipCode": "07411",
+      "zipCode": "0741162",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "フカガワシ",
+      "townKana": "オトエチョウ（キクオカ）",
+      "prefecture": "北海道",
+      "city": "深川市",
+      "town": "音江町（菊丘）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

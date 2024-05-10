@@ -1,17 +1,21 @@
 {
-  "jisCode": "24470",
-  "oldZipCode": "51621",
-  "zipCode": "5162115",
-  "prefectureKana": "ミエケン",
-  "cityKana": "ワタライグンワタライチョウ",
-  "townKana": "ナガワラ",
-  "prefecture": "三重県",
-  "city": "度会郡度会町",
-  "town": "長原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "24470",
+      "oldZipCode": "51621",
+      "zipCode": "5162115",
+      "prefectureKana": "ミエケン",
+      "cityKana": "ワタライグンワタライチョウ",
+      "townKana": "ナガワラ",
+      "prefecture": "三重県",
+      "city": "度会郡度会町",
+      "town": "長原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

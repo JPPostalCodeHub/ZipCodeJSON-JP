@@ -1,17 +1,21 @@
 {
-  "jisCode": "07213",
-  "oldZipCode": "96006",
-  "zipCode": "9600625",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "ダテシ",
-  "townKana": "ホバラマチ２チョウメ",
-  "prefecture": "福島県",
-  "city": "伊達市",
-  "town": "保原町２丁目",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07213",
+      "oldZipCode": "96006",
+      "zipCode": "9600625",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "ダテシ",
+      "townKana": "ホバラマチ２チョウメ",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "town": "保原町２丁目",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

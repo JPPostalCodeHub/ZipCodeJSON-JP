@@ -1,17 +1,21 @@
 {
-  "jisCode": "38386",
-  "oldZipCode": "79115",
-  "zipCode": "7911513",
-  "prefectureKana": "エヒメケン",
-  "cityKana": "カミウケナグンクマコウゲンチョウ",
-  "townKana": "シデ",
-  "prefecture": "愛媛県",
-  "city": "上浮穴郡久万高原町",
-  "town": "仕出",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "38386",
+      "oldZipCode": "79115",
+      "zipCode": "7911513",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "カミウケナグンクマコウゲンチョウ",
+      "townKana": "シデ",
+      "prefecture": "愛媛県",
+      "city": "上浮穴郡久万高原町",
+      "town": "仕出",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

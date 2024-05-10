@@ -1,17 +1,21 @@
 {
-  "jisCode": "05203",
-  "oldZipCode": "01304",
-  "zipCode": "0130335",
-  "prefectureKana": "アキタケン",
-  "cityKana": "ヨコテシ",
-  "townKana": "タイユウオリハシ",
-  "prefecture": "秋田県",
-  "city": "横手市",
-  "town": "大雄折橋",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05203",
+      "oldZipCode": "01304",
+      "zipCode": "0130335",
+      "prefectureKana": "アキタケン",
+      "cityKana": "ヨコテシ",
+      "townKana": "タイユウオリハシ",
+      "prefecture": "秋田県",
+      "city": "横手市",
+      "town": "大雄折橋",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

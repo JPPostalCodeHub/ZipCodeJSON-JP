@@ -1,17 +1,21 @@
 {
-  "jisCode": "42209",
-  "oldZipCode": "81702",
-  "zipCode": "8170246",
-  "prefectureKana": "ナガサキケン",
-  "cityKana": "ツシマシ",
-  "townKana": "イヅハラマチコウツキ",
-  "prefecture": "長崎県",
-  "city": "対馬市",
-  "town": "厳原町上槻",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "42209",
+      "oldZipCode": "81702",
+      "zipCode": "8170246",
+      "prefectureKana": "ナガサキケン",
+      "cityKana": "ツシマシ",
+      "townKana": "イヅハラマチコウツキ",
+      "prefecture": "長崎県",
+      "city": "対馬市",
+      "town": "厳原町上槻",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "22209",
-  "oldZipCode": "428  ",
-  "zipCode": "4280049",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "シマダシ",
-  "townKana": "マキノハラ（２５０−３４３バンチ＜２５５、２５６、２５８、２５９、２６２、２７６、２９４−３００、３０２−３０４バンチヲノゾク＞）",
-  "prefecture": "静岡県",
-  "city": "島田市",
-  "town": "牧之原（２５０〜３４３番地「２５５、２５６、２５８、２５９、２６２、２７６、２９４〜３００、３０２〜３０４番地を除く」）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22209",
+      "oldZipCode": "428  ",
+      "zipCode": "4280049",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "シマダシ",
+      "townKana": "マキノハラ（２５０−３４３バンチ＜２５５、２５６、２５８、２５９、２６２、２７６、２９４−３００、３０２−３０４バンチヲノゾク＞）",
+      "prefecture": "静岡県",
+      "city": "島田市",
+      "town": "牧之原（２５０〜３４３番地「２５５、２５６、２５８、２５９、２６２、２７６、２９４〜３００、３０２〜３０４番地を除く」）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

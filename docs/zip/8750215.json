@@ -1,17 +1,21 @@
 {
-  "jisCode": "44206",
-  "oldZipCode": "87502",
-  "zipCode": "8750215",
-  "prefectureKana": "オオイタケン",
-  "cityKana": "ウスキシ",
-  "townKana": "ノツマチオウジ",
-  "prefecture": "大分県",
-  "city": "臼杵市",
-  "town": "野津町王子",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "44206",
+      "oldZipCode": "87502",
+      "zipCode": "8750215",
+      "prefectureKana": "オオイタケン",
+      "cityKana": "ウスキシ",
+      "townKana": "ノツマチオウジ",
+      "prefecture": "大分県",
+      "city": "臼杵市",
+      "town": "野津町王子",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "13225",
-  "oldZipCode": "206  ",
-  "zipCode": "2060812",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "イナギシ",
-  "townKana": "ヤノクチ",
-  "prefecture": "東京都",
-  "city": "稲城市",
-  "town": "矢野口",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13225",
+      "oldZipCode": "206  ",
+      "zipCode": "2060812",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "イナギシ",
+      "townKana": "ヤノクチ",
+      "prefecture": "東京都",
+      "city": "稲城市",
+      "town": "矢野口",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

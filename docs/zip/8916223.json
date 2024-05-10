@@ -1,17 +1,21 @@
 {
-  "jisCode": "46529",
-  "oldZipCode": "89162",
-  "zipCode": "8916223",
-  "prefectureKana": "カゴシマケン",
-  "cityKana": "オオシマグンキカイチョウ",
-  "townKana": "タキガワ",
-  "prefecture": "鹿児島県",
-  "city": "大島郡喜界町",
-  "town": "滝川",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "46529",
+      "oldZipCode": "89162",
+      "zipCode": "8916223",
+      "prefectureKana": "カゴシマケン",
+      "cityKana": "オオシマグンキカイチョウ",
+      "townKana": "タキガワ",
+      "prefecture": "鹿児島県",
+      "city": "大島郡喜界町",
+      "town": "滝川",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

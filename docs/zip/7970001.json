@@ -1,17 +1,21 @@
 {
-  "jisCode": "38214",
-  "oldZipCode": "797  ",
-  "zipCode": "7970001",
-  "prefectureKana": "エヒメケン",
-  "cityKana": "セイヨシ",
-  "townKana": "ウワチョウタノナカ",
-  "prefecture": "愛媛県",
-  "city": "西予市",
-  "town": "宇和町田野中",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "38214",
+      "oldZipCode": "797  ",
+      "zipCode": "7970001",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "セイヨシ",
+      "townKana": "ウワチョウタノナカ",
+      "prefecture": "愛媛県",
+      "city": "西予市",
+      "town": "宇和町田野中",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

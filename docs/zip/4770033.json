@@ -1,17 +1,21 @@
 {
-  "jisCode": "23222",
-  "oldZipCode": "477  ",
-  "zipCode": "4770033",
-  "prefectureKana": "アイチケン",
-  "cityKana": "トウカイシ",
-  "townKana": "ナカノイケ",
-  "prefecture": "愛知県",
-  "city": "東海市",
-  "town": "中ノ池",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23222",
+      "oldZipCode": "477  ",
+      "zipCode": "4770033",
+      "prefectureKana": "アイチケン",
+      "cityKana": "トウカイシ",
+      "townKana": "ナカノイケ",
+      "prefecture": "愛知県",
+      "city": "東海市",
+      "town": "中ノ池",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

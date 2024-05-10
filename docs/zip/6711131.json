@@ -1,17 +1,21 @@
 {
-  "jisCode": "28201",
-  "oldZipCode": "67111",
-  "zipCode": "6711131",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "ヒメジシ",
-  "townKana": "オオツクテンジンマチ",
-  "prefecture": "兵庫県",
-  "city": "姫路市",
-  "town": "大津区天神町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28201",
+      "oldZipCode": "67111",
+      "zipCode": "6711131",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "ヒメジシ",
+      "townKana": "オオツクテンジンマチ",
+      "prefecture": "兵庫県",
+      "city": "姫路市",
+      "town": "大津区天神町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

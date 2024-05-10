@@ -1,17 +1,21 @@
 {
-  "jisCode": "09205",
-  "oldZipCode": "32802",
-  "zipCode": "3280211",
-  "prefectureKana": "トチギケン",
-  "cityKana": "カヌマシ",
-  "townKana": "カミナガノ",
-  "prefecture": "栃木県",
-  "city": "鹿沼市",
-  "town": "上永野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "09205",
+      "oldZipCode": "32802",
+      "zipCode": "3280211",
+      "prefectureKana": "トチギケン",
+      "cityKana": "カヌマシ",
+      "townKana": "カミナガノ",
+      "prefecture": "栃木県",
+      "city": "鹿沼市",
+      "town": "上永野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

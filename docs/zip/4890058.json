@@ -1,17 +1,21 @@
 {
-  "jisCode": "23204",
-  "oldZipCode": "489  ",
-  "zipCode": "4890058",
-  "prefectureKana": "アイチケン",
-  "cityKana": "セトシ",
-  "townKana": "シントウチョウ",
-  "prefecture": "愛知県",
-  "city": "瀬戸市",
-  "town": "進陶町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23204",
+      "oldZipCode": "489  ",
+      "zipCode": "4890058",
+      "prefectureKana": "アイチケン",
+      "cityKana": "セトシ",
+      "townKana": "シントウチョウ",
+      "prefecture": "愛知県",
+      "city": "瀬戸市",
+      "town": "進陶町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

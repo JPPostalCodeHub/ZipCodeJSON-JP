@@ -1,17 +1,21 @@
 {
-  "jisCode": "02387",
-  "oldZipCode": "03703",
-  "zipCode": "0370308",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "キタツガルグンナカドマリマチ",
-  "townKana": "フコウダ",
-  "prefecture": "青森県",
-  "city": "北津軽郡中泊町",
-  "town": "深郷田",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02387",
+      "oldZipCode": "03703",
+      "zipCode": "0370308",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "キタツガルグンナカドマリマチ",
+      "townKana": "フコウダ",
+      "prefecture": "青森県",
+      "city": "北津軽郡中泊町",
+      "town": "深郷田",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

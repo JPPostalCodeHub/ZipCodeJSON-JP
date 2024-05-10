@@ -1,17 +1,21 @@
 {
-  "jisCode": "16210",
-  "oldZipCode": "93202",
-  "zipCode": "9320258",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "ナントシ",
-  "townKana": "サンキヨヒガシ",
-  "prefecture": "富山県",
-  "city": "南砺市",
-  "town": "三清東",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16210",
+      "oldZipCode": "93202",
+      "zipCode": "9320258",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "ナントシ",
+      "townKana": "サンキヨヒガシ",
+      "prefecture": "富山県",
+      "city": "南砺市",
+      "town": "三清東",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

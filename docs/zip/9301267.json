@@ -1,17 +1,21 @@
 {
-  "jisCode": "16201",
-  "oldZipCode": "93012",
-  "zipCode": "9301267",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "トヤマシ",
-  "townKana": "スナミ（イモヒラ）",
-  "prefecture": "富山県",
-  "city": "富山市",
-  "town": "砂見（芋平）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16201",
+      "oldZipCode": "93012",
+      "zipCode": "9301267",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "トヤマシ",
+      "townKana": "スナミ（イモヒラ）",
+      "prefecture": "富山県",
+      "city": "富山市",
+      "town": "砂見（芋平）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

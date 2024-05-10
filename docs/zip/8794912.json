@@ -1,17 +1,21 @@
 {
-  "jisCode": "44461",
-  "oldZipCode": "87949",
-  "zipCode": "8794912",
-  "prefectureKana": "オオイタケン",
-  "cityKana": "クスグンココノエマチ",
-  "townKana": "ユツボ",
-  "prefecture": "大分県",
-  "city": "玖珠郡九重町",
-  "town": "湯坪",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "44461",
+      "oldZipCode": "87949",
+      "zipCode": "8794912",
+      "prefectureKana": "オオイタケン",
+      "cityKana": "クスグンココノエマチ",
+      "townKana": "ユツボ",
+      "prefecture": "大分県",
+      "city": "玖珠郡九重町",
+      "town": "湯坪",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "08228",
-  "oldZipCode": "30606",
-  "zipCode": "3060605",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "バンドウシ",
-  "townKana": "マタテ",
-  "prefecture": "茨城県",
-  "city": "坂東市",
-  "town": "馬立",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08228",
+      "oldZipCode": "30606",
+      "zipCode": "3060605",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "バンドウシ",
+      "townKana": "マタテ",
+      "prefecture": "茨城県",
+      "city": "坂東市",
+      "town": "馬立",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

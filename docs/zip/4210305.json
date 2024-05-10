@@ -1,17 +1,21 @@
 {
-  "jisCode": "22424",
-  "oldZipCode": "42103",
-  "zipCode": "4210305",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "ハイバラグンヨシダチョウ",
-  "townKana": "オオハタ",
-  "prefecture": "静岡県",
-  "city": "榛原郡吉田町",
-  "town": "大幡",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22424",
+      "oldZipCode": "42103",
+      "zipCode": "4210305",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "ハイバラグンヨシダチョウ",
+      "townKana": "オオハタ",
+      "prefecture": "静岡県",
+      "city": "榛原郡吉田町",
+      "town": "大幡",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

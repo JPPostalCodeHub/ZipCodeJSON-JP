@@ -1,17 +1,21 @@
 {
-  "jisCode": "09203",
-  "oldZipCode": "328  ",
-  "zipCode": "3280074",
-  "prefectureKana": "トチギケン",
-  "cityKana": "トチギシ",
-  "townKana": "ソノベチョウ",
-  "prefecture": "栃木県",
-  "city": "栃木市",
-  "town": "薗部町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "09203",
+      "oldZipCode": "328  ",
+      "zipCode": "3280074",
+      "prefectureKana": "トチギケン",
+      "cityKana": "トチギシ",
+      "townKana": "ソノベチョウ",
+      "prefecture": "栃木県",
+      "city": "栃木市",
+      "town": "薗部町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

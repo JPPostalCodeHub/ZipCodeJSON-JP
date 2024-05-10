@@ -1,17 +1,21 @@
 {
-  "jisCode": "33606",
-  "oldZipCode": "70804",
-  "zipCode": "7080433",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "トマタグンカガミノチョウ",
-  "townKana": "クタシモノハラ",
-  "prefecture": "岡山県",
-  "city": "苫田郡鏡野町",
-  "town": "久田下原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33606",
+      "oldZipCode": "70804",
+      "zipCode": "7080433",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "トマタグンカガミノチョウ",
+      "townKana": "クタシモノハラ",
+      "prefecture": "岡山県",
+      "city": "苫田郡鏡野町",
+      "town": "久田下原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

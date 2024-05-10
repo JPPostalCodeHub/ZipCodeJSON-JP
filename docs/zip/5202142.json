@@ -1,17 +1,21 @@
 {
-  "jisCode": "25201",
-  "oldZipCode": "52021",
-  "zipCode": "5202142",
-  "prefectureKana": "シガケン",
-  "cityKana": "オオツシ",
-  "townKana": "タマノウラ",
-  "prefecture": "滋賀県",
-  "city": "大津市",
-  "town": "玉野浦",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "25201",
+      "oldZipCode": "52021",
+      "zipCode": "5202142",
+      "prefectureKana": "シガケン",
+      "cityKana": "オオツシ",
+      "townKana": "タマノウラ",
+      "prefecture": "滋賀県",
+      "city": "大津市",
+      "town": "玉野浦",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "30344",
-  "oldZipCode": "64804",
-  "zipCode": "6480401",
-  "prefectureKana": "ワカヤマケン",
-  "cityKana": "イトグンコウヤチョウ",
-  "townKana": "ニシフキ",
-  "prefecture": "和歌山県",
-  "city": "伊都郡高野町",
-  "town": "西富貴",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "30344",
+      "oldZipCode": "64804",
+      "zipCode": "6480401",
+      "prefectureKana": "ワカヤマケン",
+      "cityKana": "イトグンコウヤチョウ",
+      "townKana": "ニシフキ",
+      "prefecture": "和歌山県",
+      "city": "伊都郡高野町",
+      "town": "西富貴",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

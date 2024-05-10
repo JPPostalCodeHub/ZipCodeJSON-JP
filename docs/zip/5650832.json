@@ -1,17 +1,21 @@
 {
-  "jisCode": "27205",
-  "oldZipCode": "565  ",
-  "zipCode": "5650832",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "スイタシ",
-  "townKana": "サツキガオカミナミ",
-  "prefecture": "大阪府",
-  "city": "吹田市",
-  "town": "五月が丘南",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27205",
+      "oldZipCode": "565  ",
+      "zipCode": "5650832",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "スイタシ",
+      "townKana": "サツキガオカミナミ",
+      "prefecture": "大阪府",
+      "city": "吹田市",
+      "town": "五月が丘南",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "14214",
-  "oldZipCode": "25911",
-  "zipCode": "2591117",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "イセハラシ",
-  "townKana": "ヒガシナルセ",
-  "prefecture": "神奈川県",
-  "city": "伊勢原市",
-  "town": "東成瀬",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14214",
+      "oldZipCode": "25911",
+      "zipCode": "2591117",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "イセハラシ",
+      "townKana": "ヒガシナルセ",
+      "prefecture": "神奈川県",
+      "city": "伊勢原市",
+      "town": "東成瀬",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

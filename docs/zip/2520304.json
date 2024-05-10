@@ -1,17 +1,21 @@
 {
-  "jisCode": "14153",
-  "oldZipCode": "228  ",
-  "zipCode": "2520304",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "サガミハラシミナミク",
-  "townKana": "アサヒチョウ",
-  "prefecture": "神奈川県",
-  "city": "相模原市南区",
-  "town": "旭町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14153",
+      "oldZipCode": "228  ",
+      "zipCode": "2520304",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "サガミハラシミナミク",
+      "townKana": "アサヒチョウ",
+      "prefecture": "神奈川県",
+      "city": "相模原市南区",
+      "town": "旭町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

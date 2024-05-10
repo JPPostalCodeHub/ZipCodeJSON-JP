@@ -1,17 +1,21 @@
 {
-  "jisCode": "44322",
-  "oldZipCode": "87215",
-  "zipCode": "8721501",
-  "prefectureKana": "オオイタケン",
-  "cityKana": "ヒガシクニサキグンヒメシマムラ",
-  "townKana": "ヒメシマムライチエン",
-  "prefecture": "大分県",
-  "city": "東国東郡姫島村",
-  "town": "姫島村一円",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "44322",
+      "oldZipCode": "87215",
+      "zipCode": "8721501",
+      "prefectureKana": "オオイタケン",
+      "cityKana": "ヒガシクニサキグンヒメシマムラ",
+      "townKana": "ヒメシマムライチエン",
+      "prefecture": "大分県",
+      "city": "東国東郡姫島村",
+      "town": "姫島村一円",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

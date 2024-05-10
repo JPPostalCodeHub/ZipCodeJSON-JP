@@ -1,17 +1,21 @@
 {
-  "jisCode": "34210",
-  "oldZipCode": "727  ",
-  "zipCode": "7270012",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "ショウバラシ",
-  "townKana": "ナカホンマチ",
-  "prefecture": "広島県",
-  "city": "庄原市",
-  "town": "中本町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34210",
+      "oldZipCode": "727  ",
+      "zipCode": "7270012",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ショウバラシ",
+      "townKana": "ナカホンマチ",
+      "prefecture": "広島県",
+      "city": "庄原市",
+      "town": "中本町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

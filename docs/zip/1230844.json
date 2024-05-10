@@ -1,17 +1,21 @@
 {
-  "jisCode": "13121",
-  "oldZipCode": "123  ",
-  "zipCode": "1230844",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "アダチク",
-  "townKana": "オキノ",
-  "prefecture": "東京都",
-  "city": "足立区",
-  "town": "興野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13121",
+      "oldZipCode": "123  ",
+      "zipCode": "1230844",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "アダチク",
+      "townKana": "オキノ",
+      "prefecture": "東京都",
+      "city": "足立区",
+      "town": "興野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

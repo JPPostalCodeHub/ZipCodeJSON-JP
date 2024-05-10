@@ -1,17 +1,21 @@
 {
-  "jisCode": "32201",
-  "oldZipCode": "69012",
-  "zipCode": "6901213",
-  "prefectureKana": "シマネケン",
-  "cityKana": "マツエシ",
-  "townKana": "シマネチョウタコ",
-  "prefecture": "島根県",
-  "city": "松江市",
-  "town": "島根町多古",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "32201",
+      "oldZipCode": "69012",
+      "zipCode": "6901213",
+      "prefectureKana": "シマネケン",
+      "cityKana": "マツエシ",
+      "townKana": "シマネチョウタコ",
+      "prefecture": "島根県",
+      "city": "松江市",
+      "town": "島根町多古",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "13109",
-  "oldZipCode": "141  ",
-  "zipCode": "1416001",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "シナガワク",
-  "townKana": "オオサキシンクパークタワー（１カイ）",
-  "prefecture": "東京都",
-  "city": "品川区",
-  "town": "大崎ＴｈｉｎｋＰａｒｋＴｏｗｅｒ（１階）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13109",
+      "oldZipCode": "141  ",
+      "zipCode": "1416001",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "シナガワク",
+      "townKana": "オオサキシンクパークタワー（１カイ）",
+      "prefecture": "東京都",
+      "city": "品川区",
+      "town": "大崎ＴｈｉｎｋＰａｒｋＴｏｗｅｒ（１階）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "46525",
-  "oldZipCode": "89415",
-  "zipCode": "8941502",
-  "prefectureKana": "カゴシマケン",
-  "cityKana": "オオシマグンセトウチチョウ",
-  "townKana": "コニヤ（ミヤマエ）",
-  "prefecture": "鹿児島県",
-  "city": "大島郡瀬戸内町",
-  "town": "古仁屋（宮前）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "46525",
+      "oldZipCode": "89415",
+      "zipCode": "8941502",
+      "prefectureKana": "カゴシマケン",
+      "cityKana": "オオシマグンセトウチチョウ",
+      "townKana": "コニヤ（ミヤマエ）",
+      "prefecture": "鹿児島県",
+      "city": "大島郡瀬戸内町",
+      "town": "古仁屋（宮前）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

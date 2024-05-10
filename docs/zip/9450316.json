@@ -1,17 +1,21 @@
 {
-  "jisCode": "15504",
-  "oldZipCode": "94503",
-  "zipCode": "9450316",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "カリワグンカリワムラ",
-  "townKana": "シモタカマチ",
-  "prefecture": "新潟県",
-  "city": "刈羽郡刈羽村",
-  "town": "下高町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15504",
+      "oldZipCode": "94503",
+      "zipCode": "9450316",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "カリワグンカリワムラ",
+      "townKana": "シモタカマチ",
+      "prefecture": "新潟県",
+      "city": "刈羽郡刈羽村",
+      "town": "下高町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

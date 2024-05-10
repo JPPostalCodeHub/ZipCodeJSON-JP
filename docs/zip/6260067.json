@@ -1,17 +1,21 @@
 {
-  "jisCode": "26205",
-  "oldZipCode": "626  ",
-  "zipCode": "6260067",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "ミヤヅシ",
-  "townKana": "ヤワラ",
-  "prefecture": "京都府",
-  "city": "宮津市",
-  "town": "矢原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26205",
+      "oldZipCode": "626  ",
+      "zipCode": "6260067",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "ミヤヅシ",
+      "townKana": "ヤワラ",
+      "prefecture": "京都府",
+      "city": "宮津市",
+      "town": "矢原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

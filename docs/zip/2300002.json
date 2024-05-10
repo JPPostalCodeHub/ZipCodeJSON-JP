@@ -1,17 +1,21 @@
 {
-  "jisCode": "14101",
-  "oldZipCode": "230  ",
-  "zipCode": "2300002",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "ヨコハマシツルミク",
-  "townKana": "エガサキチョウ",
-  "prefecture": "神奈川県",
-  "city": "横浜市鶴見区",
-  "town": "江ケ崎町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14101",
+      "oldZipCode": "230  ",
+      "zipCode": "2300002",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "ヨコハマシツルミク",
+      "townKana": "エガサキチョウ",
+      "prefecture": "神奈川県",
+      "city": "横浜市鶴見区",
+      "town": "江ケ崎町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

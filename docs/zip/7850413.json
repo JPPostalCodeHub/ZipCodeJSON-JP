@@ -1,17 +1,21 @@
 {
-  "jisCode": "39411",
-  "oldZipCode": "78504",
-  "zipCode": "7850413",
-  "prefectureKana": "コウチケン",
-  "cityKana": "タカオカグンツノチョウ",
-  "townKana": "カラスデガワ",
-  "prefecture": "高知県",
-  "city": "高岡郡津野町",
-  "town": "烏出川",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "39411",
+      "oldZipCode": "78504",
+      "zipCode": "7850413",
+      "prefectureKana": "コウチケン",
+      "cityKana": "タカオカグンツノチョウ",
+      "townKana": "カラスデガワ",
+      "prefecture": "高知県",
+      "city": "高岡郡津野町",
+      "town": "烏出川",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

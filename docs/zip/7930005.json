@@ -1,17 +1,21 @@
 {
-  "jisCode": "38206",
-  "oldZipCode": "793  ",
-  "zipCode": "7930005",
-  "prefectureKana": "エヒメケン",
-  "cityKana": "サイジョウシ",
-  "townKana": "フナヤオツ",
-  "prefecture": "愛媛県",
-  "city": "西条市",
-  "town": "船屋乙",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "38206",
+      "oldZipCode": "793  ",
+      "zipCode": "7930005",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "サイジョウシ",
+      "townKana": "フナヤオツ",
+      "prefecture": "愛媛県",
+      "city": "西条市",
+      "town": "船屋乙",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

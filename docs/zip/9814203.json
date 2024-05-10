@@ -1,17 +1,21 @@
 {
-  "jisCode": "04445",
-  "oldZipCode": "98142",
-  "zipCode": "9814203",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "カミグンカミマチ",
-  "townKana": "ナギリヤ",
-  "prefecture": "宮城県",
-  "city": "加美郡加美町",
-  "town": "菜切谷",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04445",
+      "oldZipCode": "98142",
+      "zipCode": "9814203",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "カミグンカミマチ",
+      "townKana": "ナギリヤ",
+      "prefecture": "宮城県",
+      "city": "加美郡加美町",
+      "town": "菜切谷",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "23206",
-  "oldZipCode": "486  ",
-  "zipCode": "4860925",
-  "prefectureKana": "アイチケン",
-  "cityKana": "カスガイシ",
-  "townKana": "ナカギリチョウ",
-  "prefecture": "愛知県",
-  "city": "春日井市",
-  "town": "中切町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23206",
+      "oldZipCode": "486  ",
+      "zipCode": "4860925",
+      "prefectureKana": "アイチケン",
+      "cityKana": "カスガイシ",
+      "townKana": "ナカギリチョウ",
+      "prefecture": "愛知県",
+      "city": "春日井市",
+      "town": "中切町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

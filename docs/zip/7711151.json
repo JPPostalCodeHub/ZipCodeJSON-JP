@@ -1,17 +1,21 @@
 {
-  "jisCode": "36201",
-  "oldZipCode": "77111",
-  "zipCode": "7711151",
-  "prefectureKana": "トクシマケン",
-  "cityKana": "トクシマシ",
-  "townKana": "オウジンチョウフルカワ",
-  "prefecture": "徳島県",
-  "city": "徳島市",
-  "town": "応神町古川",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "36201",
+      "oldZipCode": "77111",
+      "zipCode": "7711151",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "トクシマシ",
+      "townKana": "オウジンチョウフルカワ",
+      "prefecture": "徳島県",
+      "city": "徳島市",
+      "town": "応神町古川",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

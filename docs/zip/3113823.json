@@ -1,17 +1,21 @@
 {
-  "jisCode": "08233",
-  "oldZipCode": "31138",
-  "zipCode": "3113823",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "ナメガタシ",
-  "townKana": "シラハマ",
-  "prefecture": "茨城県",
-  "city": "行方市",
-  "town": "白浜",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08233",
+      "oldZipCode": "31138",
+      "zipCode": "3113823",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "ナメガタシ",
+      "townKana": "シラハマ",
+      "prefecture": "茨城県",
+      "city": "行方市",
+      "town": "白浜",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

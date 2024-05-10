@@ -1,17 +1,21 @@
 {
-  "jisCode": "19213",
-  "oldZipCode": "40912",
-  "zipCode": "4091203",
-  "prefectureKana": "ヤマナシケン",
-  "cityKana": "コウシュウシ",
-  "townKana": "ヤマトチョウハジカノ",
-  "prefecture": "山梨県",
-  "city": "甲州市",
-  "town": "大和町初鹿野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "19213",
+      "oldZipCode": "40912",
+      "zipCode": "4091203",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "コウシュウシ",
+      "townKana": "ヤマトチョウハジカノ",
+      "prefecture": "山梨県",
+      "city": "甲州市",
+      "town": "大和町初鹿野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

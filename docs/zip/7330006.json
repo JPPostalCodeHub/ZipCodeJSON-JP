@@ -1,17 +1,21 @@
 {
-  "jisCode": "34104",
-  "oldZipCode": "733  ",
-  "zipCode": "7330006",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "ヒロシマシニシク",
-  "townKana": "ミササキタマチ",
-  "prefecture": "広島県",
-  "city": "広島市西区",
-  "town": "三篠北町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34104",
+      "oldZipCode": "733  ",
+      "zipCode": "7330006",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ヒロシマシニシク",
+      "townKana": "ミササキタマチ",
+      "prefecture": "広島県",
+      "city": "広島市西区",
+      "town": "三篠北町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "04214",
-  "oldZipCode": "98105",
-  "zipCode": "9810507",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "ヒガシマツシマシ",
-  "townKana": "ミソラ",
-  "prefecture": "宮城県",
-  "city": "東松島市",
-  "town": "みそら",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04214",
+      "oldZipCode": "98105",
+      "zipCode": "9810507",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "ヒガシマツシマシ",
+      "townKana": "ミソラ",
+      "prefecture": "宮城県",
+      "city": "東松島市",
+      "town": "みそら",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

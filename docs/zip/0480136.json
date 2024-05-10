@@ -1,17 +1,21 @@
 {
-  "jisCode": "01393",
-  "oldZipCode": "04801",
-  "zipCode": "0480136",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "スッツグンクロマツナイチョウ",
-  "townKana": "アカイカワ",
-  "prefecture": "北海道",
-  "city": "寿都郡黒松内町",
-  "town": "赤井川",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01393",
+      "oldZipCode": "04801",
+      "zipCode": "0480136",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "スッツグンクロマツナイチョウ",
+      "townKana": "アカイカワ",
+      "prefecture": "北海道",
+      "city": "寿都郡黒松内町",
+      "town": "赤井川",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

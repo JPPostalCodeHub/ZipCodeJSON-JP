@@ -1,17 +1,21 @@
 {
-  "jisCode": "13104",
-  "oldZipCode": "160  ",
-  "zipCode": "1606134",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "シンジュクク",
-  "townKana": "ニシシンジュクスミトモフドウサンシンジュクグランドタワー（３４カイ）",
-  "prefecture": "東京都",
-  "city": "新宿区",
-  "town": "西新宿住友不動産新宿グランドタワー（３４階）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13104",
+      "oldZipCode": "160  ",
+      "zipCode": "1606134",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "シンジュクク",
+      "townKana": "ニシシンジュクスミトモフドウサンシンジュクグランドタワー（３４カイ）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "town": "西新宿住友不動産新宿グランドタワー（３４階）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

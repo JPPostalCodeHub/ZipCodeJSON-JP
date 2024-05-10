@@ -1,17 +1,21 @@
 {
-  "jisCode": "20207",
-  "oldZipCode": "382  ",
-  "zipCode": "3820062",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "スザカシ",
-  "townKana": "コジママチ",
-  "prefecture": "長野県",
-  "city": "須坂市",
-  "town": "小島町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20207",
+      "oldZipCode": "382  ",
+      "zipCode": "3820062",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "スザカシ",
+      "townKana": "コジママチ",
+      "prefecture": "長野県",
+      "city": "須坂市",
+      "town": "小島町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

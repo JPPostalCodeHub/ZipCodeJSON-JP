@@ -1,17 +1,21 @@
 {
-  "jisCode": "28586",
-  "oldZipCode": "66968",
-  "zipCode": "6696831",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "ミカタグンシンオンセンチョウ",
-  "townKana": "タケダ（ソノタ）",
-  "prefecture": "兵庫県",
-  "city": "美方郡新温泉町",
-  "town": "竹田（その他）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28586",
+      "oldZipCode": "66968",
+      "zipCode": "6696831",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "ミカタグンシンオンセンチョウ",
+      "townKana": "タケダ（ソノタ）",
+      "prefecture": "兵庫県",
+      "city": "美方郡新温泉町",
+      "town": "竹田（その他）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

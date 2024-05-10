@@ -1,17 +1,21 @@
 {
-  "jisCode": "35210",
-  "oldZipCode": "743  ",
-  "zipCode": "7430043",
-  "prefectureKana": "ヤマグチケン",
-  "cityKana": "ヒカリシ",
-  "townKana": "キョウワチョウ",
-  "prefecture": "山口県",
-  "city": "光市",
-  "town": "協和町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "35210",
+      "oldZipCode": "743  ",
+      "zipCode": "7430043",
+      "prefectureKana": "ヤマグチケン",
+      "cityKana": "ヒカリシ",
+      "townKana": "キョウワチョウ",
+      "prefecture": "山口県",
+      "city": "光市",
+      "town": "協和町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

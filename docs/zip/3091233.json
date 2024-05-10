@@ -1,17 +1,21 @@
 {
-  "jisCode": "08231",
-  "oldZipCode": "30912",
-  "zipCode": "3091233",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "サクラガワシ",
-  "townKana": "ヒガシイイダ",
-  "prefecture": "茨城県",
-  "city": "桜川市",
-  "town": "東飯田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08231",
+      "oldZipCode": "30912",
+      "zipCode": "3091233",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "サクラガワシ",
+      "townKana": "ヒガシイイダ",
+      "prefecture": "茨城県",
+      "city": "桜川市",
+      "town": "東飯田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

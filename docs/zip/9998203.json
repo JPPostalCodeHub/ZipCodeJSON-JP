@@ -1,17 +1,21 @@
 {
-  "jisCode": "06204",
-  "oldZipCode": "99982",
-  "zipCode": "9998203",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "サカタシ",
-  "townKana": "アカハゲ",
-  "prefecture": "山形県",
-  "city": "酒田市",
-  "town": "赤剥",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06204",
+      "oldZipCode": "99982",
+      "zipCode": "9998203",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "サカタシ",
+      "townKana": "アカハゲ",
+      "prefecture": "山形県",
+      "city": "酒田市",
+      "town": "赤剥",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

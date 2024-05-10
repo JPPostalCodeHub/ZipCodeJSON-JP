@@ -1,17 +1,21 @@
 {
-  "jisCode": "10429",
-  "oldZipCode": "37709",
-  "zipCode": "3770932",
-  "prefectureKana": "グンマケン",
-  "cityKana": "アガツマグンヒガシアガツママチ",
-  "townKana": "ハギュウ",
-  "prefecture": "群馬県",
-  "city": "吾妻郡東吾妻町",
-  "town": "萩生",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "10429",
+      "oldZipCode": "37709",
+      "zipCode": "3770932",
+      "prefectureKana": "グンマケン",
+      "cityKana": "アガツマグンヒガシアガツママチ",
+      "townKana": "ハギュウ",
+      "prefecture": "群馬県",
+      "city": "吾妻郡東吾妻町",
+      "town": "萩生",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

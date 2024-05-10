@@ -1,17 +1,21 @@
 {
-  "jisCode": "23231",
-  "oldZipCode": "44136",
-  "zipCode": "4413601",
-  "prefectureKana": "アイチケン",
-  "cityKana": "タハラシ",
-  "townKana": "ウヅエチョウ",
-  "prefecture": "愛知県",
-  "city": "田原市",
-  "town": "宇津江町",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23231",
+      "oldZipCode": "44136",
+      "zipCode": "4413601",
+      "prefectureKana": "アイチケン",
+      "cityKana": "タハラシ",
+      "townKana": "ウヅエチョウ",
+      "prefecture": "愛知県",
+      "city": "田原市",
+      "town": "宇津江町",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

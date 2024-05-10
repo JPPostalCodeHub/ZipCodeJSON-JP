@@ -1,17 +1,21 @@
 {
-  "jisCode": "38201",
-  "oldZipCode": "790  ",
-  "zipCode": "7900856",
-  "prefectureKana": "エヒメケン",
-  "cityKana": "マツヤマシ",
-  "townKana": "ミナミマチ",
-  "prefecture": "愛媛県",
-  "city": "松山市",
-  "town": "南町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "38201",
+      "oldZipCode": "790  ",
+      "zipCode": "7900856",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "マツヤマシ",
+      "townKana": "ミナミマチ",
+      "prefecture": "愛媛県",
+      "city": "松山市",
+      "town": "南町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

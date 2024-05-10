@@ -1,17 +1,21 @@
 {
-  "jisCode": "44201",
-  "oldZipCode": "87011",
-  "zipCode": "8701146",
-  "prefectureKana": "オオイタケン",
-  "cityKana": "オオイタシ",
-  "townKana": "マガリ（６３５、６３９、６５０、６６９、６７６、６７８、６８９、６９５、７１８、７３３、１４８１、１５５５、１６１８バンチ）",
-  "prefecture": "大分県",
-  "city": "大分市",
-  "town": "曲（６３５、６３９、６５０、６６９、６７６、６７８、６８９、６９５、７１８、７３３、１４８１、１５５５、１６１８番地）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "44201",
+      "oldZipCode": "87011",
+      "zipCode": "8701146",
+      "prefectureKana": "オオイタケン",
+      "cityKana": "オオイタシ",
+      "townKana": "マガリ（６３５、６３９、６５０、６６９、６７６、６７８、６８９、６９５、７１８、７３３、１４８１、１５５５、１６１８バンチ）",
+      "prefecture": "大分県",
+      "city": "大分市",
+      "town": "曲（６３５、６３９、６５０、６６９、６７６、６７８、６８９、６９５、７１８、７３３、１４８１、１５５５、１６１８番地）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

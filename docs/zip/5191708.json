@@ -1,17 +1,21 @@
 {
-  "jisCode": "24216",
-  "oldZipCode": "51917",
-  "zipCode": "5191708",
-  "prefectureKana": "ミエケン",
-  "cityKana": "イガシ",
-  "townKana": "シマガハラ（ナカヤ）",
-  "prefecture": "三重県",
-  "city": "伊賀市",
-  "town": "島ケ原（中矢）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "24216",
+      "oldZipCode": "51917",
+      "zipCode": "5191708",
+      "prefectureKana": "ミエケン",
+      "cityKana": "イガシ",
+      "townKana": "シマガハラ（ナカヤ）",
+      "prefecture": "三重県",
+      "city": "伊賀市",
+      "town": "島ケ原（中矢）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

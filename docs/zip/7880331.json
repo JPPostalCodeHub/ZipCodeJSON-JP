@@ -1,17 +1,38 @@
 {
-  "jisCode": "39424",
-  "oldZipCode": "78803",
-  "zipCode": "7880331",
-  "prefectureKana": "コウチケン",
-  "cityKana": "ハタグンオオツキチョウ",
-  "townKana": "ヒメノイ",
-  "prefecture": "高知県",
-  "city": "幡多郡大月町",
-  "town": "姫ノ井",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "39424",
+      "oldZipCode": "78803",
+      "zipCode": "7880331",
+      "prefectureKana": "コウチケン",
+      "cityKana": "ハタグンオオツキチョウ",
+      "townKana": "クチメヅカ",
+      "prefecture": "高知県",
+      "city": "幡多郡大月町",
+      "town": "口目塚",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "39424",
+      "oldZipCode": "78803",
+      "zipCode": "7880331",
+      "prefectureKana": "コウチケン",
+      "cityKana": "ハタグンオオツキチョウ",
+      "townKana": "ヒメノイ",
+      "prefecture": "高知県",
+      "city": "幡多郡大月町",
+      "town": "姫ノ井",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

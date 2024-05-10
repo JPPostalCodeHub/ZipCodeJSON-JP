@@ -1,17 +1,21 @@
 {
-  "jisCode": "01664",
-  "oldZipCode": "08823",
-  "zipCode": "0882314",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "カワカミグンシベチャチョウ",
-  "townKana": "シベチャ",
-  "prefecture": "北海道",
-  "city": "川上郡標茶町",
-  "town": "標茶",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01664",
+      "oldZipCode": "08823",
+      "zipCode": "0882314",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "カワカミグンシベチャチョウ",
+      "townKana": "シベチャ",
+      "prefecture": "北海道",
+      "city": "川上郡標茶町",
+      "town": "標茶",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "26101",
-  "oldZipCode": "60101",
-  "zipCode": "6010145",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシキタク",
-  "townKana": "オオモリヒガシチョウ",
-  "prefecture": "京都府",
-  "city": "京都市北区",
-  "town": "大森東町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26101",
+      "oldZipCode": "60101",
+      "zipCode": "6010145",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシキタク",
+      "townKana": "オオモリヒガシチョウ",
+      "prefecture": "京都府",
+      "city": "京都市北区",
+      "town": "大森東町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

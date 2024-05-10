@@ -1,17 +1,21 @@
 {
-  "jisCode": "22211",
-  "oldZipCode": "43801",
-  "zipCode": "4380125",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "イワタシ",
-  "townKana": "マツノキジマ",
-  "prefecture": "静岡県",
-  "city": "磐田市",
-  "town": "松之木島",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22211",
+      "oldZipCode": "43801",
+      "zipCode": "4380125",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "イワタシ",
+      "townKana": "マツノキジマ",
+      "prefecture": "静岡県",
+      "city": "磐田市",
+      "town": "松之木島",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

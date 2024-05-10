@@ -1,17 +1,21 @@
 {
-  "jisCode": "45208",
-  "oldZipCode": "881  ",
-  "zipCode": "8810027",
-  "prefectureKana": "ミヤザキケン",
-  "cityKana": "サイトシ",
-  "townKana": "ミナミカタ",
-  "prefecture": "宮崎県",
-  "city": "西都市",
-  "town": "南方",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "45208",
+      "oldZipCode": "881  ",
+      "zipCode": "8810027",
+      "prefectureKana": "ミヤザキケン",
+      "cityKana": "サイトシ",
+      "townKana": "ミナミカタ",
+      "prefecture": "宮崎県",
+      "city": "西都市",
+      "town": "南方",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

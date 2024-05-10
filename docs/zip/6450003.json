@@ -1,17 +1,21 @@
 {
-  "jisCode": "30391",
-  "oldZipCode": "645  ",
-  "zipCode": "6450003",
-  "prefectureKana": "ワカヤマケン",
-  "cityKana": "ヒダカグンミナベチョウ",
-  "townKana": "サカイ",
-  "prefecture": "和歌山県",
-  "city": "日高郡みなべ町",
-  "town": "堺",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "30391",
+      "oldZipCode": "645  ",
+      "zipCode": "6450003",
+      "prefectureKana": "ワカヤマケン",
+      "cityKana": "ヒダカグンミナベチョウ",
+      "townKana": "サカイ",
+      "prefecture": "和歌山県",
+      "city": "日高郡みなべ町",
+      "town": "堺",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

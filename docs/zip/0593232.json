@@ -1,17 +1,21 @@
 {
-  "jisCode": "01610",
-  "oldZipCode": "05932",
-  "zipCode": "0593232",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ヒダカグンシンヒダカチョウ",
-  "townKana": "ミツイシミノワ",
-  "prefecture": "北海道",
-  "city": "日高郡新ひだか町",
-  "town": "三石美野和",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01610",
+      "oldZipCode": "05932",
+      "zipCode": "0593232",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ヒダカグンシンヒダカチョウ",
+      "townKana": "ミツイシミノワ",
+      "prefecture": "北海道",
+      "city": "日高郡新ひだか町",
+      "town": "三石美野和",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

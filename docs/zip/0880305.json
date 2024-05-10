@@ -1,17 +1,21 @@
 {
-  "jisCode": "01668",
-  "oldZipCode": "08803",
-  "zipCode": "0880305",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "シラヌカグンシラヌカチョウ",
-  "townKana": "サシウシ",
-  "prefecture": "北海道",
-  "city": "白糠郡白糠町",
-  "town": "刺牛",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01668",
+      "oldZipCode": "08803",
+      "zipCode": "0880305",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "シラヌカグンシラヌカチョウ",
+      "townKana": "サシウシ",
+      "prefecture": "北海道",
+      "city": "白糠郡白糠町",
+      "town": "刺牛",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

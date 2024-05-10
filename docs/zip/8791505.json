@@ -1,17 +1,21 @@
 {
-  "jisCode": "44341",
-  "oldZipCode": "87915",
-  "zipCode": "8791505",
-  "prefectureKana": "オオイタケン",
-  "cityKana": "ハヤミグンヒジマチ",
-  "townKana": "カワサキ",
-  "prefecture": "大分県",
-  "city": "速見郡日出町",
-  "town": "川崎",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "44341",
+      "oldZipCode": "87915",
+      "zipCode": "8791505",
+      "prefectureKana": "オオイタケン",
+      "cityKana": "ハヤミグンヒジマチ",
+      "townKana": "カワサキ",
+      "prefecture": "大分県",
+      "city": "速見郡日出町",
+      "town": "川崎",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "22344",
-  "oldZipCode": "41013",
-  "zipCode": "4101316",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "スントウグンオヤマチョウ",
-  "townKana": "シモフルシロ",
-  "prefecture": "静岡県",
-  "city": "駿東郡小山町",
-  "town": "下古城",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22344",
+      "oldZipCode": "41013",
+      "zipCode": "4101316",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "スントウグンオヤマチョウ",
+      "townKana": "シモフルシロ",
+      "prefecture": "静岡県",
+      "city": "駿東郡小山町",
+      "town": "下古城",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

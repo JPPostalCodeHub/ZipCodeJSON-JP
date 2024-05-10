@@ -1,17 +1,21 @@
 {
-  "jisCode": "27211",
-  "oldZipCode": "567  ",
-  "zipCode": "5670847",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "イバラキシ",
-  "townKana": "ノノミヤ",
-  "prefecture": "大阪府",
-  "city": "茨木市",
-  "town": "野々宮",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27211",
+      "oldZipCode": "567  ",
+      "zipCode": "5670847",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "イバラキシ",
+      "townKana": "ノノミヤ",
+      "prefecture": "大阪府",
+      "city": "茨木市",
+      "town": "野々宮",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

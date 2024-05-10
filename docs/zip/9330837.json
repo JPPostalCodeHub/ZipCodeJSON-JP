@@ -1,17 +1,21 @@
 {
-  "jisCode": "16202",
-  "oldZipCode": "933  ",
-  "zipCode": "9330837",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "タカオカシ",
-  "townKana": "カミキタジマ",
-  "prefecture": "富山県",
-  "city": "高岡市",
-  "town": "上北島",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16202",
+      "oldZipCode": "933  ",
+      "zipCode": "9330837",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "タカオカシ",
+      "townKana": "カミキタジマ",
+      "prefecture": "富山県",
+      "city": "高岡市",
+      "town": "上北島",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

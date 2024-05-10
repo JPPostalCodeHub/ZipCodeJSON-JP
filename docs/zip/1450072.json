@@ -1,17 +1,21 @@
 {
-  "jisCode": "13111",
-  "oldZipCode": "145  ",
-  "zipCode": "1450072",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "オオタク",
-  "townKana": "デンエンチョウフホンチョウ",
-  "prefecture": "東京都",
-  "city": "大田区",
-  "town": "田園調布本町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13111",
+      "oldZipCode": "145  ",
+      "zipCode": "1450072",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "オオタク",
+      "townKana": "デンエンチョウフホンチョウ",
+      "prefecture": "東京都",
+      "city": "大田区",
+      "town": "田園調布本町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

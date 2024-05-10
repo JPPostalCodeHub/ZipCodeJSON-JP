@@ -1,17 +1,21 @@
 {
-  "jisCode": "46203",
-  "oldZipCode": "89123",
-  "zipCode": "8912314",
-  "prefectureKana": "カゴシマケン",
-  "cityKana": "カノヤシ",
-  "townKana": "フナマチョウ",
-  "prefecture": "鹿児島県",
-  "city": "鹿屋市",
-  "town": "船間町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "46203",
+      "oldZipCode": "89123",
+      "zipCode": "8912314",
+      "prefectureKana": "カゴシマケン",
+      "cityKana": "カノヤシ",
+      "townKana": "フナマチョウ",
+      "prefecture": "鹿児島県",
+      "city": "鹿屋市",
+      "town": "船間町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

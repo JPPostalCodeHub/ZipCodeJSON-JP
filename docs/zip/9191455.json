@@ -1,17 +1,21 @@
 {
-  "jisCode": "18501",
-  "oldZipCode": "91914",
-  "zipCode": "9191455",
-  "prefectureKana": "フクイケン",
-  "cityKana": "ミカタカミナカグンワカサチョウ",
-  "townKana": "シャクシ",
-  "prefecture": "福井県",
-  "city": "三方上中郡若狭町",
-  "town": "塩坂越",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18501",
+      "oldZipCode": "91914",
+      "zipCode": "9191455",
+      "prefectureKana": "フクイケン",
+      "cityKana": "ミカタカミナカグンワカサチョウ",
+      "townKana": "シャクシ",
+      "prefecture": "福井県",
+      "city": "三方上中郡若狭町",
+      "town": "塩坂越",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

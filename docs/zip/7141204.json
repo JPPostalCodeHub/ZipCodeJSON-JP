@@ -1,17 +1,21 @@
 {
-  "jisCode": "33461",
-  "oldZipCode": "71412",
-  "zipCode": "7141204",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "オダグンヤカゲチョウ",
-  "townKana": "シモコウズエ",
-  "prefecture": "岡山県",
-  "city": "小田郡矢掛町",
-  "town": "下高末",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33461",
+      "oldZipCode": "71412",
+      "zipCode": "7141204",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "オダグンヤカゲチョウ",
+      "townKana": "シモコウズエ",
+      "prefecture": "岡山県",
+      "city": "小田郡矢掛町",
+      "town": "下高末",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

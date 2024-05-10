@@ -1,17 +1,21 @@
 {
-  "jisCode": "32343",
-  "oldZipCode": "69917",
-  "zipCode": "6991701",
-  "prefectureKana": "シマネケン",
-  "cityKana": "ニタグンオクイズモチョウ",
-  "townKana": "カメダケ",
-  "prefecture": "島根県",
-  "city": "仁多郡奥出雲町",
-  "town": "亀嵩",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "32343",
+      "oldZipCode": "69917",
+      "zipCode": "6991701",
+      "prefectureKana": "シマネケン",
+      "cityKana": "ニタグンオクイズモチョウ",
+      "townKana": "カメダケ",
+      "prefecture": "島根県",
+      "city": "仁多郡奥出雲町",
+      "town": "亀嵩",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "18206",
-  "oldZipCode": "911  ",
-  "zipCode": "9110054",
-  "prefectureKana": "フクイケン",
-  "cityKana": "カツヤマシ",
-  "townKana": "キタゴウチョウヒガシノ",
-  "prefecture": "福井県",
-  "city": "勝山市",
-  "town": "北郷町東野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18206",
+      "oldZipCode": "911  ",
+      "zipCode": "9110054",
+      "prefectureKana": "フクイケン",
+      "cityKana": "カツヤマシ",
+      "townKana": "キタゴウチョウヒガシノ",
+      "prefecture": "福井県",
+      "city": "勝山市",
+      "town": "北郷町東野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

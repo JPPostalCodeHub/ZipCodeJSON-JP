@@ -1,17 +1,21 @@
 {
-  "jisCode": "06301",
-  "oldZipCode": "99003",
-  "zipCode": "9900302",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "ヒガシムラヤマグンヤマノベマチ",
-  "townKana": "ミドリガオカ",
-  "prefecture": "山形県",
-  "city": "東村山郡山辺町",
-  "town": "緑ケ丘",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06301",
+      "oldZipCode": "99003",
+      "zipCode": "9900302",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "ヒガシムラヤマグンヤマノベマチ",
+      "townKana": "ミドリガオカ",
+      "prefecture": "山形県",
+      "city": "東村山郡山辺町",
+      "town": "緑ケ丘",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

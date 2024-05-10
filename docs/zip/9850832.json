@@ -1,17 +1,21 @@
 {
-  "jisCode": "04209",
-  "oldZipCode": "985  ",
-  "zipCode": "9850832",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "タガジョウシ",
-  "townKana": "オオシロ",
-  "prefecture": "宮城県",
-  "city": "多賀城市",
-  "town": "大代",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04209",
+      "oldZipCode": "985  ",
+      "zipCode": "9850832",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "タガジョウシ",
+      "townKana": "オオシロ",
+      "prefecture": "宮城県",
+      "city": "多賀城市",
+      "town": "大代",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

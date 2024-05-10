@@ -1,17 +1,21 @@
 {
-  "jisCode": "24201",
-  "oldZipCode": "51401",
-  "zipCode": "5140102",
-  "prefectureKana": "ミエケン",
-  "cityKana": "ツシ",
-  "townKana": "クリママチヤチョウ",
-  "prefecture": "三重県",
-  "city": "津市",
-  "town": "栗真町屋町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "24201",
+      "oldZipCode": "51401",
+      "zipCode": "5140102",
+      "prefectureKana": "ミエケン",
+      "cityKana": "ツシ",
+      "townKana": "クリママチヤチョウ",
+      "prefecture": "三重県",
+      "city": "津市",
+      "town": "栗真町屋町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

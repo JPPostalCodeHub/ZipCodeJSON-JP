@@ -1,17 +1,21 @@
 {
-  "jisCode": "20563",
-  "oldZipCode": "38925",
-  "zipCode": "3892501",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "シモタカイグンノザワオンセンムラ",
-  "townKana": "ツボヤマ",
-  "prefecture": "長野県",
-  "city": "下高井郡野沢温泉村",
-  "town": "坪山",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20563",
+      "oldZipCode": "38925",
+      "zipCode": "3892501",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "シモタカイグンノザワオンセンムラ",
+      "townKana": "ツボヤマ",
+      "prefecture": "長野県",
+      "city": "下高井郡野沢温泉村",
+      "town": "坪山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "12205",
-  "oldZipCode": "294  ",
-  "zipCode": "2940032",
-  "prefectureKana": "チバケン",
-  "cityKana": "タテヤマシ",
-  "townKana": "カサナ",
-  "prefecture": "千葉県",
-  "city": "館山市",
-  "town": "笠名",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12205",
+      "oldZipCode": "294  ",
+      "zipCode": "2940032",
+      "prefectureKana": "チバケン",
+      "cityKana": "タテヤマシ",
+      "townKana": "カサナ",
+      "prefecture": "千葉県",
+      "city": "館山市",
+      "town": "笠名",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

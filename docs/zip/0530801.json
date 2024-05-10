@@ -1,17 +1,21 @@
 {
-  "jisCode": "01213",
-  "oldZipCode": "053  ",
-  "zipCode": "0530801",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "トマコマイシ",
-  "townKana": "シロガネチョウ",
-  "prefecture": "北海道",
-  "city": "苫小牧市",
-  "town": "白金町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01213",
+      "oldZipCode": "053  ",
+      "zipCode": "0530801",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "トマコマイシ",
+      "townKana": "シロガネチョウ",
+      "prefecture": "北海道",
+      "city": "苫小牧市",
+      "town": "白金町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

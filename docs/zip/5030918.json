@@ -1,17 +1,21 @@
 {
-  "jisCode": "21202",
-  "oldZipCode": "503  ",
-  "zipCode": "5030918",
-  "prefectureKana": "ギフケン",
-  "cityKana": "オオガキシ",
-  "townKana": "ニシザキチョウ",
-  "prefecture": "岐阜県",
-  "city": "大垣市",
-  "town": "西崎町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "21202",
+      "oldZipCode": "503  ",
+      "zipCode": "5030918",
+      "prefectureKana": "ギフケン",
+      "cityKana": "オオガキシ",
+      "townKana": "ニシザキチョウ",
+      "prefecture": "岐阜県",
+      "city": "大垣市",
+      "town": "西崎町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

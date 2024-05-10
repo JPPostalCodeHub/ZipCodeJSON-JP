@@ -1,17 +1,21 @@
 {
-  "jisCode": "15212",
-  "oldZipCode": "95936",
-  "zipCode": "9593662",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ムラカミシ",
-  "townKana": "イマガワ",
-  "prefecture": "新潟県",
-  "city": "村上市",
-  "town": "今川",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15212",
+      "oldZipCode": "95936",
+      "zipCode": "9593662",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ムラカミシ",
+      "townKana": "イマガワ",
+      "prefecture": "新潟県",
+      "city": "村上市",
+      "town": "今川",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "15224",
-  "oldZipCode": "95207",
-  "zipCode": "9520702",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "サドシ",
-  "townKana": "カミカワモ",
-  "prefecture": "新潟県",
-  "city": "佐渡市",
-  "town": "上川茂",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15224",
+      "oldZipCode": "95207",
+      "zipCode": "9520702",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "サドシ",
+      "townKana": "カミカワモ",
+      "prefecture": "新潟県",
+      "city": "佐渡市",
+      "town": "上川茂",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

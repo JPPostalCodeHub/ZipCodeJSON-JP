@@ -1,17 +1,21 @@
 {
-  "jisCode": "09206",
-  "oldZipCode": "32111",
-  "zipCode": "3211102",
-  "prefectureKana": "トチギケン",
-  "cityKana": "ニッコウシ",
-  "townKana": "イタバシ",
-  "prefecture": "栃木県",
-  "city": "日光市",
-  "town": "板橋",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "09206",
+      "oldZipCode": "32111",
+      "zipCode": "3211102",
+      "prefectureKana": "トチギケン",
+      "cityKana": "ニッコウシ",
+      "townKana": "イタバシ",
+      "prefecture": "栃木県",
+      "city": "日光市",
+      "town": "板橋",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

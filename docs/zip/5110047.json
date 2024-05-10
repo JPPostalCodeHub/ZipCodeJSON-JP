@@ -1,17 +1,21 @@
 {
-  "jisCode": "24205",
-  "oldZipCode": "511  ",
-  "zipCode": "5110047",
-  "prefectureKana": "ミエケン",
-  "cityKana": "クワナシ",
-  "townKana": "カジマチ",
-  "prefecture": "三重県",
-  "city": "桑名市",
-  "town": "鍜冶町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "24205",
+      "oldZipCode": "511  ",
+      "zipCode": "5110047",
+      "prefectureKana": "ミエケン",
+      "cityKana": "クワナシ",
+      "townKana": "カジマチ",
+      "prefecture": "三重県",
+      "city": "桑名市",
+      "town": "鍜冶町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

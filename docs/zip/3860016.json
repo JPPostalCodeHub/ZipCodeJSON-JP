@@ -1,17 +1,21 @@
 {
-  "jisCode": "20203",
-  "oldZipCode": "386  ",
-  "zipCode": "3860016",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "ウエダシ",
-  "townKana": "コクブ",
-  "prefecture": "長野県",
-  "city": "上田市",
-  "town": "国分",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20203",
+      "oldZipCode": "386  ",
+      "zipCode": "3860016",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "ウエダシ",
+      "townKana": "コクブ",
+      "prefecture": "長野県",
+      "city": "上田市",
+      "town": "国分",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

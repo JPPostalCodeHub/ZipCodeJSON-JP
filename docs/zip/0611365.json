@@ -1,17 +1,21 @@
 {
-  "jisCode": "01231",
-  "oldZipCode": "06113",
-  "zipCode": "0611365",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "エニワシ",
-  "townKana": "ホエイ",
-  "prefecture": "北海道",
-  "city": "恵庭市",
-  "town": "穂栄",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01231",
+      "oldZipCode": "06113",
+      "zipCode": "0611365",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "エニワシ",
+      "townKana": "ホエイ",
+      "prefecture": "北海道",
+      "city": "恵庭市",
+      "town": "穂栄",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

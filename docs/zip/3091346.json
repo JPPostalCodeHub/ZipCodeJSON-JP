@@ -1,17 +1,21 @@
 {
-  "jisCode": "08231",
-  "oldZipCode": "30913",
-  "zipCode": "3091346",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "サクラガワシ",
-  "townKana": "ナカザト",
-  "prefecture": "茨城県",
-  "city": "桜川市",
-  "town": "中里",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08231",
+      "oldZipCode": "30913",
+      "zipCode": "3091346",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "サクラガワシ",
+      "townKana": "ナカザト",
+      "prefecture": "茨城県",
+      "city": "桜川市",
+      "town": "中里",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "15208",
-  "oldZipCode": "947  ",
-  "zipCode": "9470005",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "オヂヤシ",
-  "townKana": "アサヒチョウ",
-  "prefecture": "新潟県",
-  "city": "小千谷市",
-  "town": "旭町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15208",
+      "oldZipCode": "947  ",
+      "zipCode": "9470005",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "オヂヤシ",
+      "townKana": "アサヒチョウ",
+      "prefecture": "新潟県",
+      "city": "小千谷市",
+      "town": "旭町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

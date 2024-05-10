@@ -1,17 +1,21 @@
 {
-  "jisCode": "36202",
-  "oldZipCode": "772  ",
-  "zipCode": "7720060",
-  "prefectureKana": "トクシマケン",
-  "cityKana": "ナルトシ",
-  "townKana": "セトチョウアキノカミ（クスノキダニ、ニケンヤ、ミズクミダニ）",
-  "prefecture": "徳島県",
-  "city": "鳴門市",
-  "town": "瀬戸町明神（楠谷、弐軒家、水汲谷）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "36202",
+      "oldZipCode": "772  ",
+      "zipCode": "7720060",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "ナルトシ",
+      "townKana": "セトチョウアキノカミ（クスノキダニ、ニケンヤ、ミズクミダニ）",
+      "prefecture": "徳島県",
+      "city": "鳴門市",
+      "town": "瀬戸町明神（楠谷、弐軒家、水汲谷）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

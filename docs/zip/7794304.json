@@ -1,17 +1,21 @@
 {
-  "jisCode": "36468",
-  "oldZipCode": "77943",
-  "zipCode": "7794304",
-  "prefectureKana": "トクシマケン",
-  "cityKana": "ミマグンツルギチョウ",
-  "townKana": "イチウ（イラハラ、オオノ、クドウジュウ、コヤス、ヒサヤブ）",
-  "prefecture": "徳島県",
-  "city": "美馬郡つるぎ町",
-  "town": "一宇（伊良原、大野、九藤中、子安、久藪）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "36468",
+      "oldZipCode": "77943",
+      "zipCode": "7794304",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "ミマグンツルギチョウ",
+      "townKana": "イチウ（イラハラ、オオノ、クドウジュウ、コヤス、ヒサヤブ）",
+      "prefecture": "徳島県",
+      "city": "美馬郡つるぎ町",
+      "town": "一宇（伊良原、大野、九藤中、子安、久藪）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

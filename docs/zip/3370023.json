@@ -1,17 +1,21 @@
 {
-  "jisCode": "11104",
-  "oldZipCode": "330  ",
-  "zipCode": "3370023",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "サイタマシミヌマク",
-  "townKana": "カタヤナギヒガシ",
-  "prefecture": "埼玉県",
-  "city": "さいたま市見沼区",
-  "town": "片柳東",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11104",
+      "oldZipCode": "330  ",
+      "zipCode": "3370023",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "サイタマシミヌマク",
+      "townKana": "カタヤナギヒガシ",
+      "prefecture": "埼玉県",
+      "city": "さいたま市見沼区",
+      "town": "片柳東",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

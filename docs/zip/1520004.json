@@ -1,17 +1,21 @@
 {
-  "jisCode": "13110",
-  "oldZipCode": "152  ",
-  "zipCode": "1520004",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "メグロク",
-  "townKana": "タカバン",
-  "prefecture": "東京都",
-  "city": "目黒区",
-  "town": "鷹番",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13110",
+      "oldZipCode": "152  ",
+      "zipCode": "1520004",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "メグロク",
+      "townKana": "タカバン",
+      "prefecture": "東京都",
+      "city": "目黒区",
+      "town": "鷹番",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

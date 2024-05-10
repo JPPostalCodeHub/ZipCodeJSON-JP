@@ -1,17 +1,21 @@
 {
-  "jisCode": "23446",
-  "oldZipCode": "47024",
-  "zipCode": "4702409",
-  "prefectureKana": "アイチケン",
-  "cityKana": "チタグンミハマチョウ",
-  "townKana": "コウワ（カミマエダ）",
-  "prefecture": "愛知県",
-  "city": "知多郡美浜町",
-  "town": "河和（上前田）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23446",
+      "oldZipCode": "47024",
+      "zipCode": "4702409",
+      "prefectureKana": "アイチケン",
+      "cityKana": "チタグンミハマチョウ",
+      "townKana": "コウワ（カミマエダ）",
+      "prefecture": "愛知県",
+      "city": "知多郡美浜町",
+      "town": "河和（上前田）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

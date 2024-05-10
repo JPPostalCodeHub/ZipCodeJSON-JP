@@ -1,17 +1,21 @@
 {
-  "jisCode": "02401",
-  "oldZipCode": "03931",
-  "zipCode": "0393158",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "カミキタグンノヘジマチ",
-  "townKana": "カンノンバヤシウシロ",
-  "prefecture": "青森県",
-  "city": "上北郡野辺地町",
-  "town": "観音林後",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02401",
+      "oldZipCode": "03931",
+      "zipCode": "0393158",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "カミキタグンノヘジマチ",
+      "townKana": "カンノンバヤシウシロ",
+      "prefecture": "青森県",
+      "city": "上北郡野辺地町",
+      "town": "観音林後",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

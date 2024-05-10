@@ -1,17 +1,21 @@
 {
-  "jisCode": "29205",
-  "oldZipCode": "634  ",
-  "zipCode": "6340077",
-  "prefectureKana": "ナラケン",
-  "cityKana": "カシハラシ",
-  "townKana": "ミナミヤギチョウ",
-  "prefecture": "奈良県",
-  "city": "橿原市",
-  "town": "南八木町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "29205",
+      "oldZipCode": "634  ",
+      "zipCode": "6340077",
+      "prefectureKana": "ナラケン",
+      "cityKana": "カシハラシ",
+      "townKana": "ミナミヤギチョウ",
+      "prefecture": "奈良県",
+      "city": "橿原市",
+      "town": "南八木町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

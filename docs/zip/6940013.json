@@ -1,17 +1,21 @@
 {
-  "jisCode": "32205",
-  "oldZipCode": "694  ",
-  "zipCode": "6940013",
-  "prefectureKana": "シマネケン",
-  "cityKana": "オオダシ",
-  "townKana": "カワイチョウヨシナガ",
-  "prefecture": "島根県",
-  "city": "大田市",
-  "town": "川合町吉永",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "32205",
+      "oldZipCode": "694  ",
+      "zipCode": "6940013",
+      "prefectureKana": "シマネケン",
+      "cityKana": "オオダシ",
+      "townKana": "カワイチョウヨシナガ",
+      "prefecture": "島根県",
+      "city": "大田市",
+      "town": "川合町吉永",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

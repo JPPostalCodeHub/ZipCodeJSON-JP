@@ -1,17 +1,21 @@
 {
-  "jisCode": "01213",
-  "oldZipCode": "053  ",
-  "zipCode": "0530002",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "トマコマイシ",
-  "townKana": "ハルミチョウ（４３バンチ）",
-  "prefecture": "北海道",
-  "city": "苫小牧市",
-  "town": "晴海町（４３番地）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01213",
+      "oldZipCode": "053  ",
+      "zipCode": "0530002",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "トマコマイシ",
+      "townKana": "ハルミチョウ（４３バンチ）",
+      "prefecture": "北海道",
+      "city": "苫小牧市",
+      "town": "晴海町（４３番地）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

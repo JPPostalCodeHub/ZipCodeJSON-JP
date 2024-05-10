@@ -1,17 +1,21 @@
 {
-  "jisCode": "26103",
-  "oldZipCode": "606  ",
-  "zipCode": "6060057",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシサキョウク",
-  "townKana": "カミタカノイケノウチチョウ",
-  "prefecture": "京都府",
-  "city": "京都市左京区",
-  "town": "上高野池ノ内町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26103",
+      "oldZipCode": "606  ",
+      "zipCode": "6060057",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシサキョウク",
+      "townKana": "カミタカノイケノウチチョウ",
+      "prefecture": "京都府",
+      "city": "京都市左京区",
+      "town": "上高野池ノ内町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

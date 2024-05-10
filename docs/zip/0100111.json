@@ -1,17 +1,21 @@
 {
-  "jisCode": "05201",
-  "oldZipCode": "01001",
-  "zipCode": "0100111",
-  "prefectureKana": "アキタケン",
-  "cityKana": "アキタシ",
-  "townKana": "カナアシイワセ",
-  "prefecture": "秋田県",
-  "city": "秋田市",
-  "town": "金足岩瀬",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05201",
+      "oldZipCode": "01001",
+      "zipCode": "0100111",
+      "prefectureKana": "アキタケン",
+      "cityKana": "アキタシ",
+      "townKana": "カナアシイワセ",
+      "prefecture": "秋田県",
+      "city": "秋田市",
+      "town": "金足岩瀬",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

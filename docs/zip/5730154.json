@@ -1,17 +1,21 @@
 {
-  "jisCode": "27210",
-  "oldZipCode": "57301",
-  "zipCode": "5730154",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "ヒラカタシ",
-  "townKana": "ワニコウエン",
-  "prefecture": "大阪府",
-  "city": "枚方市",
-  "town": "王仁公園",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27210",
+      "oldZipCode": "57301",
+      "zipCode": "5730154",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "ヒラカタシ",
+      "townKana": "ワニコウエン",
+      "prefecture": "大阪府",
+      "city": "枚方市",
+      "town": "王仁公園",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

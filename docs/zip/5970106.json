@@ -1,17 +1,21 @@
 {
-  "jisCode": "27208",
-  "oldZipCode": "59701",
-  "zipCode": "5970106",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "カイヅカシ",
-  "townKana": "ハタケナカ（６３２−１、６３３、６４２−３）",
-  "prefecture": "大阪府",
-  "city": "貝塚市",
-  "town": "畠中（６３２−１、６３３、６４２−３）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27208",
+      "oldZipCode": "59701",
+      "zipCode": "5970106",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "カイヅカシ",
+      "townKana": "ハタケナカ（６３２−１、６３３、６４２−３）",
+      "prefecture": "大阪府",
+      "city": "貝塚市",
+      "town": "畠中（６３２−１、６３３、６４２−３）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "01586",
-  "oldZipCode": "054  ",
-  "zipCode": "0540031",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ユウフツグンムカワチョウ",
-  "townKana": "アオバ",
-  "prefecture": "北海道",
-  "city": "勇払郡むかわ町",
-  "town": "青葉",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01586",
+      "oldZipCode": "054  ",
+      "zipCode": "0540031",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ユウフツグンムカワチョウ",
+      "townKana": "アオバ",
+      "prefecture": "北海道",
+      "city": "勇払郡むかわ町",
+      "town": "青葉",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

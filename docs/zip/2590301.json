@@ -1,17 +1,21 @@
 {
-  "jisCode": "14384",
-  "oldZipCode": "25903",
-  "zipCode": "2590301",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "アシガラシモグンユガワラマチ",
-  "townKana": "チュウオウ",
-  "prefecture": "神奈川県",
-  "city": "足柄下郡湯河原町",
-  "town": "中央",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14384",
+      "oldZipCode": "25903",
+      "zipCode": "2590301",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "アシガラシモグンユガワラマチ",
+      "townKana": "チュウオウ",
+      "prefecture": "神奈川県",
+      "city": "足柄下郡湯河原町",
+      "town": "中央",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

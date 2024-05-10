@@ -1,17 +1,21 @@
 {
-  "jisCode": "22140",
-  "oldZipCode": "43141",
-  "zipCode": "4314101",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "ハママツシテンリュウク",
-  "townKana": "ミサクボチョウオクリョウケ",
-  "prefecture": "静岡県",
-  "city": "浜松市天竜区",
-  "town": "水窪町奥領家",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22140",
+      "oldZipCode": "43141",
+      "zipCode": "4314101",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "ハママツシテンリュウク",
+      "townKana": "ミサクボチョウオクリョウケ",
+      "prefecture": "静岡県",
+      "city": "浜松市天竜区",
+      "town": "水窪町奥領家",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "22213",
-  "oldZipCode": "436  ",
-  "zipCode": "4360032",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "カケガワシ",
-  "townKana": "ヒラノ",
-  "prefecture": "静岡県",
-  "city": "掛川市",
-  "town": "平野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22213",
+      "oldZipCode": "436  ",
+      "zipCode": "4360032",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "カケガワシ",
+      "townKana": "ヒラノ",
+      "prefecture": "静岡県",
+      "city": "掛川市",
+      "town": "平野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

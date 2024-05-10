@@ -1,17 +1,21 @@
 {
-  "jisCode": "14136",
-  "oldZipCode": "216  ",
-  "zipCode": "2160034",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "カワサキシミヤマエク",
-  "townKana": "カジガヤ",
-  "prefecture": "神奈川県",
-  "city": "川崎市宮前区",
-  "town": "梶ケ谷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14136",
+      "oldZipCode": "216  ",
+      "zipCode": "2160034",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "カワサキシミヤマエク",
+      "townKana": "カジガヤ",
+      "prefecture": "神奈川県",
+      "city": "川崎市宮前区",
+      "town": "梶ケ谷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

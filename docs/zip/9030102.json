@@ -1,17 +1,21 @@
 {
-  "jisCode": "47329",
-  "oldZipCode": "90301",
-  "zipCode": "9030102",
-  "prefectureKana": "オキナワケン",
-  "cityKana": "ナカガミグンニシハラチョウ",
-  "townKana": "カデカル",
-  "prefecture": "沖縄県",
-  "city": "中頭郡西原町",
-  "town": "嘉手苅",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "47329",
+      "oldZipCode": "90301",
+      "zipCode": "9030102",
+      "prefectureKana": "オキナワケン",
+      "cityKana": "ナカガミグンニシハラチョウ",
+      "townKana": "カデカル",
+      "prefecture": "沖縄県",
+      "city": "中頭郡西原町",
+      "town": "嘉手苅",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

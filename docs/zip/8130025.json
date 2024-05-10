@@ -1,17 +1,21 @@
 {
-  "jisCode": "40131",
-  "oldZipCode": "813  ",
-  "zipCode": "8130025",
-  "prefectureKana": "フクオカケン",
-  "cityKana": "フクオカシヒガシク",
-  "townKana": "アオバ",
-  "prefecture": "福岡県",
-  "city": "福岡市東区",
-  "town": "青葉",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "40131",
+      "oldZipCode": "813  ",
+      "zipCode": "8130025",
+      "prefectureKana": "フクオカケン",
+      "cityKana": "フクオカシヒガシク",
+      "townKana": "アオバ",
+      "prefecture": "福岡県",
+      "city": "福岡市東区",
+      "town": "青葉",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

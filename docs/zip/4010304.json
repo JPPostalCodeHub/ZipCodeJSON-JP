@@ -1,17 +1,21 @@
 {
-  "jisCode": "19430",
-  "oldZipCode": "40103",
-  "zipCode": "4010304",
-  "prefectureKana": "ヤマナシケン",
-  "cityKana": "ミナミツルグンフジカワグチコマチ",
-  "townKana": "カワグチ",
-  "prefecture": "山梨県",
-  "city": "南都留郡富士河口湖町",
-  "town": "河口",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "19430",
+      "oldZipCode": "40103",
+      "zipCode": "4010304",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "ミナミツルグンフジカワグチコマチ",
+      "townKana": "カワグチ",
+      "prefecture": "山梨県",
+      "city": "南都留郡富士河口湖町",
+      "town": "河口",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

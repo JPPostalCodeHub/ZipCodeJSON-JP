@@ -1,17 +1,21 @@
 {
-  "jisCode": "18205",
-  "oldZipCode": "912  ",
-  "zipCode": "9120085",
-  "prefectureKana": "フクイケン",
-  "cityKana": "オオノシ",
-  "townKana": "シンジョウ",
-  "prefecture": "福井県",
-  "city": "大野市",
-  "town": "新庄",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18205",
+      "oldZipCode": "912  ",
+      "zipCode": "9120085",
+      "prefectureKana": "フクイケン",
+      "cityKana": "オオノシ",
+      "townKana": "シンジョウ",
+      "prefecture": "福井県",
+      "city": "大野市",
+      "town": "新庄",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

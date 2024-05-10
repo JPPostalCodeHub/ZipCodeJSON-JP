@@ -1,17 +1,21 @@
 {
-  "jisCode": "17205",
-  "oldZipCode": "92712",
-  "zipCode": "9271225",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "スズシ",
-  "townKana": "ホウリュウマチソウゲン",
-  "prefecture": "石川県",
-  "city": "珠洲市",
-  "town": "宝立町宗玄",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17205",
+      "oldZipCode": "92712",
+      "zipCode": "9271225",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "スズシ",
+      "townKana": "ホウリュウマチソウゲン",
+      "prefecture": "石川県",
+      "city": "珠洲市",
+      "town": "宝立町宗玄",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

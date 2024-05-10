@@ -1,17 +1,21 @@
 {
-  "jisCode": "06212",
-  "oldZipCode": "99943",
-  "zipCode": "9994335",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "オバナザワシ",
-  "townKana": "ハラダ",
-  "prefecture": "山形県",
-  "city": "尾花沢市",
-  "town": "原田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06212",
+      "oldZipCode": "99943",
+      "zipCode": "9994335",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "オバナザワシ",
+      "townKana": "ハラダ",
+      "prefecture": "山形県",
+      "city": "尾花沢市",
+      "town": "原田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "27128",
-  "oldZipCode": "540  ",
-  "zipCode": "5406123",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "オオサカシチュウオウク",
-  "townKana": "シロミエムアイディタワー（２３カイ）",
-  "prefecture": "大阪府",
-  "city": "大阪市中央区",
-  "town": "城見ＭＩＤタワー（２３階）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27128",
+      "oldZipCode": "540  ",
+      "zipCode": "5406123",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "オオサカシチュウオウク",
+      "townKana": "シロミエムアイディタワー（２３カイ）",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "town": "城見ＭＩＤタワー（２３階）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

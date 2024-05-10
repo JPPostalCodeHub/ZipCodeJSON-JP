@@ -1,17 +1,21 @@
 {
-  "jisCode": "20213",
-  "oldZipCode": "38926",
-  "zipCode": "3892601",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "イイヤマシ",
-  "townKana": "テルオカ",
-  "prefecture": "長野県",
-  "city": "飯山市",
-  "town": "照岡",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20213",
+      "oldZipCode": "38926",
+      "zipCode": "3892601",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "イイヤマシ",
+      "townKana": "テルオカ",
+      "prefecture": "長野県",
+      "city": "飯山市",
+      "town": "照岡",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

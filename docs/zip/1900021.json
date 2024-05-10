@@ -1,17 +1,21 @@
 {
-  "jisCode": "13202",
-  "oldZipCode": "190  ",
-  "zipCode": "1900021",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "タチカワシ",
-  "townKana": "ハゴロモチョウ",
-  "prefecture": "東京都",
-  "city": "立川市",
-  "town": "羽衣町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13202",
+      "oldZipCode": "190  ",
+      "zipCode": "1900021",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "タチカワシ",
+      "townKana": "ハゴロモチョウ",
+      "prefecture": "東京都",
+      "city": "立川市",
+      "town": "羽衣町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

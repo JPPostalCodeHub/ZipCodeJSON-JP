@@ -1,17 +1,21 @@
 {
-  "jisCode": "19429",
-  "oldZipCode": "40103",
-  "zipCode": "4010320",
-  "prefectureKana": "ヤマナシケン",
-  "cityKana": "ミナミツルグンナルサワムラ",
-  "townKana": "ナルサワムライチエン",
-  "prefecture": "山梨県",
-  "city": "南都留郡鳴沢村",
-  "town": "鳴沢村一円",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "19429",
+      "oldZipCode": "40103",
+      "zipCode": "4010320",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "ミナミツルグンナルサワムラ",
+      "townKana": "ナルサワムライチエン",
+      "prefecture": "山梨県",
+      "city": "南都留郡鳴沢村",
+      "town": "鳴沢村一円",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

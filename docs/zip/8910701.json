@@ -1,17 +1,21 @@
 {
-  "jisCode": "46223",
-  "oldZipCode": "89107",
-  "zipCode": "8910701",
-  "prefectureKana": "カゴシマケン",
-  "cityKana": "ミナミキュウシュウシ",
-  "townKana": "エイチョウコオリ",
-  "prefecture": "鹿児島県",
-  "city": "南九州市",
-  "town": "頴娃町郡",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "46223",
+      "oldZipCode": "89107",
+      "zipCode": "8910701",
+      "prefectureKana": "カゴシマケン",
+      "cityKana": "ミナミキュウシュウシ",
+      "townKana": "エイチョウコオリ",
+      "prefecture": "鹿児島県",
+      "city": "南九州市",
+      "town": "頴娃町郡",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

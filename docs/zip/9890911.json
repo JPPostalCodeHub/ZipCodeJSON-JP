@@ -1,17 +1,21 @@
 {
-  "jisCode": "04301",
-  "oldZipCode": "98909",
-  "zipCode": "9890911",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "カッタグンザオウマチ",
-  "townKana": "トオガッタオンセンサカエチョウ",
-  "prefecture": "宮城県",
-  "city": "刈田郡蔵王町",
-  "town": "遠刈田温泉栄町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04301",
+      "oldZipCode": "98909",
+      "zipCode": "9890911",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "カッタグンザオウマチ",
+      "townKana": "トオガッタオンセンサカエチョウ",
+      "prefecture": "宮城県",
+      "city": "刈田郡蔵王町",
+      "town": "遠刈田温泉栄町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "05212",
-  "oldZipCode": "014  ",
-  "zipCode": "0140802",
-  "prefectureKana": "アキタケン",
-  "cityKana": "ダイセンシ",
-  "townKana": "ホッタ",
-  "prefecture": "秋田県",
-  "city": "大仙市",
-  "town": "払田",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05212",
+      "oldZipCode": "014  ",
+      "zipCode": "0140802",
+      "prefectureKana": "アキタケン",
+      "cityKana": "ダイセンシ",
+      "townKana": "ホッタ",
+      "prefecture": "秋田県",
+      "city": "大仙市",
+      "town": "払田",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

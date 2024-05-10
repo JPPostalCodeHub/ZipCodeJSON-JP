@@ -1,17 +1,21 @@
 {
-  "jisCode": "01230",
-  "oldZipCode": "05904",
-  "zipCode": "0590465",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ノボリベツシ",
-  "townKana": "ノボリベツホンチョウ",
-  "prefecture": "北海道",
-  "city": "登別市",
-  "town": "登別本町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01230",
+      "oldZipCode": "05904",
+      "zipCode": "0590465",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ノボリベツシ",
+      "townKana": "ノボリベツホンチョウ",
+      "prefecture": "北海道",
+      "city": "登別市",
+      "town": "登別本町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

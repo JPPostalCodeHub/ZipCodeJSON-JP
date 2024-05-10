@@ -1,17 +1,21 @@
 {
-  "jisCode": "16208",
-  "oldZipCode": "93914",
-  "zipCode": "9391429",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "トナミシ",
-  "townKana": "テラオ",
-  "prefecture": "富山県",
-  "city": "砺波市",
-  "town": "寺尾",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16208",
+      "oldZipCode": "93914",
+      "zipCode": "9391429",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "トナミシ",
+      "townKana": "テラオ",
+      "prefecture": "富山県",
+      "city": "砺波市",
+      "town": "寺尾",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

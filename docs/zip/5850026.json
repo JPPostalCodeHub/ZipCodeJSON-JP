@@ -1,17 +1,21 @@
 {
-  "jisCode": "27382",
-  "oldZipCode": "585  ",
-  "zipCode": "5850026",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "ミナミカワチグンカナンチョウ",
-  "townKana": "スズミダイ",
-  "prefecture": "大阪府",
-  "city": "南河内郡河南町",
-  "town": "鈴美台",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27382",
+      "oldZipCode": "585  ",
+      "zipCode": "5850026",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "ミナミカワチグンカナンチョウ",
+      "townKana": "スズミダイ",
+      "prefecture": "大阪府",
+      "city": "南河内郡河南町",
+      "town": "鈴美台",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

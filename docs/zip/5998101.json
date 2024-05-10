@@ -1,17 +1,21 @@
 {
-  "jisCode": "27143",
-  "oldZipCode": "591  ",
-  "zipCode": "5998101",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "サカイシヒガシク",
-  "townKana": "ヤシモチョウ",
-  "prefecture": "大阪府",
-  "city": "堺市東区",
-  "town": "八下町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27143",
+      "oldZipCode": "591  ",
+      "zipCode": "5998101",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "サカイシヒガシク",
+      "townKana": "ヤシモチョウ",
+      "prefecture": "大阪府",
+      "city": "堺市東区",
+      "town": "八下町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

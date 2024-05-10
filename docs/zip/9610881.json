@@ -1,17 +1,21 @@
 {
-  "jisCode": "07205",
-  "oldZipCode": "961  ",
-  "zipCode": "9610881",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "シラカワシ",
-  "townKana": "ヨソウゴヤ",
-  "prefecture": "福島県",
-  "city": "白河市",
-  "town": "与惣小屋",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07205",
+      "oldZipCode": "961  ",
+      "zipCode": "9610881",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "シラカワシ",
+      "townKana": "ヨソウゴヤ",
+      "prefecture": "福島県",
+      "city": "白河市",
+      "town": "与惣小屋",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "01429",
-  "oldZipCode": "06915",
-  "zipCode": "0691524",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ユウバリグンクリヤマチョウ",
-  "townKana": "カクタ",
-  "prefecture": "北海道",
-  "city": "夕張郡栗山町",
-  "town": "角田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01429",
+      "oldZipCode": "06915",
+      "zipCode": "0691524",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ユウバリグンクリヤマチョウ",
+      "townKana": "カクタ",
+      "prefecture": "北海道",
+      "city": "夕張郡栗山町",
+      "town": "角田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

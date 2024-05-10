@@ -1,17 +1,21 @@
 {
-  "jisCode": "04214",
-  "oldZipCode": "98104",
-  "zipCode": "9810416",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "ヒガシマツシマシ",
-  "townKana": "ノビルガオカ",
-  "prefecture": "宮城県",
-  "city": "東松島市",
-  "town": "野蒜ケ丘",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04214",
+      "oldZipCode": "98104",
+      "zipCode": "9810416",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "ヒガシマツシマシ",
+      "townKana": "ノビルガオカ",
+      "prefecture": "宮城県",
+      "city": "東松島市",
+      "town": "野蒜ケ丘",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "06366",
-  "oldZipCode": "99952",
-  "zipCode": "9995204",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "モガミグンサケガワムラ",
-  "townKana": "ムカイ",
-  "prefecture": "山形県",
-  "city": "最上郡鮭川村",
-  "town": "向居",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06366",
+      "oldZipCode": "99952",
+      "zipCode": "9995204",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "モガミグンサケガワムラ",
+      "townKana": "ムカイ",
+      "prefecture": "山形県",
+      "city": "最上郡鮭川村",
+      "town": "向居",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

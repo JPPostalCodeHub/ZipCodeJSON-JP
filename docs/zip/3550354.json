@@ -1,17 +1,21 @@
 {
-  "jisCode": "11349",
-  "oldZipCode": "35503",
-  "zipCode": "3550354",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "ヒキグントキガワマチ",
-  "townKana": "バンジョウ",
-  "prefecture": "埼玉県",
-  "city": "比企郡ときがわ町",
-  "town": "番匠",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11349",
+      "oldZipCode": "35503",
+      "zipCode": "3550354",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "ヒキグントキガワマチ",
+      "townKana": "バンジョウ",
+      "prefecture": "埼玉県",
+      "city": "比企郡ときがわ町",
+      "town": "番匠",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

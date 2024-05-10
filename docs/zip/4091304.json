@@ -1,17 +1,21 @@
 {
-  "jisCode": "19213",
-  "oldZipCode": "40913",
-  "zipCode": "4091304",
-  "prefectureKana": "ヤマナシケン",
-  "cityKana": "コウシュウシ",
-  "townKana": "カツヌマチョウキュウソク",
-  "prefecture": "山梨県",
-  "city": "甲州市",
-  "town": "勝沼町休息",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "19213",
+      "oldZipCode": "40913",
+      "zipCode": "4091304",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "コウシュウシ",
+      "townKana": "カツヌマチョウキュウソク",
+      "prefecture": "山梨県",
+      "city": "甲州市",
+      "town": "勝沼町休息",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

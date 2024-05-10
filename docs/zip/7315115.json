@@ -1,17 +1,21 @@
 {
-  "jisCode": "34108",
-  "oldZipCode": "73151",
-  "zipCode": "7315115",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "ヒロシマシサエキク",
-  "townKana": "ヤハタヒガシ",
-  "prefecture": "広島県",
-  "city": "広島市佐伯区",
-  "town": "八幡東",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "1",
-  "updateReason": "5"
+  "entries": [
+    {
+      "jisCode": "34108",
+      "oldZipCode": "73151",
+      "zipCode": "7315115",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ヒロシマシサエキク",
+      "townKana": "ヤハタヒガシ",
+      "prefecture": "広島県",
+      "city": "広島市佐伯区",
+      "town": "八幡東",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "1",
+      "updateReason": "5"
+    }
+  ]
 }

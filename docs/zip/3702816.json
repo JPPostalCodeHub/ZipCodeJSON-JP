@@ -1,17 +1,21 @@
 {
-  "jisCode": "10383",
-  "oldZipCode": "37028",
-  "zipCode": "3702816",
-  "prefectureKana": "グンマケン",
-  "cityKana": "カンラグンナンモクムラ",
-  "townKana": "ホシオ",
-  "prefecture": "群馬県",
-  "city": "甘楽郡南牧村",
-  "town": "星尾",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "10383",
+      "oldZipCode": "37028",
+      "zipCode": "3702816",
+      "prefectureKana": "グンマケン",
+      "cityKana": "カンラグンナンモクムラ",
+      "townKana": "ホシオ",
+      "prefecture": "群馬県",
+      "city": "甘楽郡南牧村",
+      "town": "星尾",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

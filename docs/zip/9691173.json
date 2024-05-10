@@ -1,17 +1,38 @@
 {
-  "jisCode": "07214",
-  "oldZipCode": "96911",
-  "zipCode": "9691173",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "モトミヤシ",
-  "townKana": "モトミヤナカノウシロ",
-  "prefecture": "福島県",
-  "city": "本宮市",
-  "town": "本宮中野後",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07214",
+      "oldZipCode": "96911",
+      "zipCode": "9691173",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "モトミヤシ",
+      "townKana": "モトミヤナカノ",
+      "prefecture": "福島県",
+      "city": "本宮市",
+      "town": "本宮中野",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "07214",
+      "oldZipCode": "96911",
+      "zipCode": "9691173",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "モトミヤシ",
+      "townKana": "モトミヤナカノウシロ",
+      "prefecture": "福島県",
+      "city": "本宮市",
+      "town": "本宮中野後",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

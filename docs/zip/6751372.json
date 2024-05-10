@@ -1,17 +1,21 @@
 {
-  "jisCode": "28218",
-  "oldZipCode": "67513",
-  "zipCode": "6751372",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "オノシ",
-  "townKana": "ホンマチ（ソノタ）",
-  "prefecture": "兵庫県",
-  "city": "小野市",
-  "town": "本町（その他）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28218",
+      "oldZipCode": "67513",
+      "zipCode": "6751372",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "オノシ",
+      "townKana": "ホンマチ（ソノタ）",
+      "prefecture": "兵庫県",
+      "city": "小野市",
+      "town": "本町（その他）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

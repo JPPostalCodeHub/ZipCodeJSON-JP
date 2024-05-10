@@ -1,17 +1,21 @@
 {
-  "jisCode": "45443",
-  "oldZipCode": "88212",
-  "zipCode": "8821201",
-  "prefectureKana": "ミヤザキケン",
-  "cityKana": "ニシウスキグンゴカセチョウ",
-  "townKana": "クラオカ",
-  "prefecture": "宮崎県",
-  "city": "西臼杵郡五ヶ瀬町",
-  "town": "鞍岡",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "45443",
+      "oldZipCode": "88212",
+      "zipCode": "8821201",
+      "prefectureKana": "ミヤザキケン",
+      "cityKana": "ニシウスキグンゴカセチョウ",
+      "townKana": "クラオカ",
+      "prefecture": "宮崎県",
+      "city": "西臼杵郡五ヶ瀬町",
+      "town": "鞍岡",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

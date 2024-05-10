@@ -1,17 +1,38 @@
 {
-  "jisCode": "01394",
-  "oldZipCode": "04813",
-  "zipCode": "0481307",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "イソヤグンランコシチョウ",
-  "townKana": "ナコママチ",
-  "prefecture": "北海道",
-  "city": "磯谷郡蘭越町",
-  "town": "名駒町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01394",
+      "oldZipCode": "04813",
+      "zipCode": "0481307",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "イソヤグンランコシチョウ",
+      "townKana": "トンカラ",
+      "prefecture": "北海道",
+      "city": "磯谷郡蘭越町",
+      "town": "トンカラ",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "01394",
+      "oldZipCode": "04813",
+      "zipCode": "0481307",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "イソヤグンランコシチョウ",
+      "townKana": "ナコママチ",
+      "prefecture": "北海道",
+      "city": "磯谷郡蘭越町",
+      "town": "名駒町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

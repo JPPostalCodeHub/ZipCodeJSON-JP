@@ -1,17 +1,21 @@
 {
-  "jisCode": "28214",
-  "oldZipCode": "665  ",
-  "zipCode": "6650025",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "タカラヅカシ",
-  "townKana": "ユズリハダイ",
-  "prefecture": "兵庫県",
-  "city": "宝塚市",
-  "town": "ゆずり葉台",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28214",
+      "oldZipCode": "665  ",
+      "zipCode": "6650025",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "タカラヅカシ",
+      "townKana": "ユズリハダイ",
+      "prefecture": "兵庫県",
+      "city": "宝塚市",
+      "town": "ゆずり葉台",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

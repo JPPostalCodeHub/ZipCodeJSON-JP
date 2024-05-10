@@ -1,17 +1,21 @@
 {
-  "jisCode": "47311",
-  "oldZipCode": "90404",
-  "zipCode": "9040411",
-  "prefectureKana": "オキナワケン",
-  "cityKana": "クニガミグンオンナソン",
-  "townKana": "オンナ",
-  "prefecture": "沖縄県",
-  "city": "国頭郡恩納村",
-  "town": "恩納",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "47311",
+      "oldZipCode": "90404",
+      "zipCode": "9040411",
+      "prefectureKana": "オキナワケン",
+      "cityKana": "クニガミグンオンナソン",
+      "townKana": "オンナ",
+      "prefecture": "沖縄県",
+      "city": "国頭郡恩納村",
+      "town": "恩納",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "15209",
-  "oldZipCode": "95913",
-  "zipCode": "9591312",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "カモシ",
-  "townKana": "イシカワ",
-  "prefecture": "新潟県",
-  "city": "加茂市",
-  "town": "石川",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15209",
+      "oldZipCode": "95913",
+      "zipCode": "9591312",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "カモシ",
+      "townKana": "イシカワ",
+      "prefecture": "新潟県",
+      "city": "加茂市",
+      "town": "石川",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

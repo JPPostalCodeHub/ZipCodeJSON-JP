@@ -1,17 +1,21 @@
 {
-  "jisCode": "31201",
-  "oldZipCode": "680  ",
-  "zipCode": "6800024",
-  "prefectureKana": "トットリケン",
-  "cityKana": "トットリシ",
-  "townKana": "ゲンコウチョウ",
-  "prefecture": "鳥取県",
-  "city": "鳥取市",
-  "town": "玄好町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "31201",
+      "oldZipCode": "680  ",
+      "zipCode": "6800024",
+      "prefectureKana": "トットリケン",
+      "cityKana": "トットリシ",
+      "townKana": "ゲンコウチョウ",
+      "prefecture": "鳥取県",
+      "city": "鳥取市",
+      "town": "玄好町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

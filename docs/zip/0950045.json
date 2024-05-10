@@ -1,17 +1,21 @@
 {
-  "jisCode": "01220",
-  "oldZipCode": "095  ",
-  "zipCode": "0950045",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "シベツシ",
-  "townKana": "ヒガシオカ",
-  "prefecture": "北海道",
-  "city": "士別市",
-  "town": "東丘",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01220",
+      "oldZipCode": "095  ",
+      "zipCode": "0950045",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "シベツシ",
+      "townKana": "ヒガシオカ",
+      "prefecture": "北海道",
+      "city": "士別市",
+      "town": "東丘",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

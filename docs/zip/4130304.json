@@ -1,17 +1,21 @@
 {
-  "jisCode": "22301",
-  "oldZipCode": "41303",
-  "zipCode": "4130304",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "カモグンヒガシイズチョウ",
-  "townKana": "シラタ",
-  "prefecture": "静岡県",
-  "city": "賀茂郡東伊豆町",
-  "town": "白田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22301",
+      "oldZipCode": "41303",
+      "zipCode": "4130304",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "カモグンヒガシイズチョウ",
+      "townKana": "シラタ",
+      "prefecture": "静岡県",
+      "city": "賀茂郡東伊豆町",
+      "town": "白田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

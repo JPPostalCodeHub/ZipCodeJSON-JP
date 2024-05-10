@@ -1,17 +1,21 @@
 {
-  "jisCode": "13208",
-  "oldZipCode": "182  ",
-  "zipCode": "1820026",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "チョウフシ",
-  "townKana": "コジマチョウ",
-  "prefecture": "東京都",
-  "city": "調布市",
-  "town": "小島町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13208",
+      "oldZipCode": "182  ",
+      "zipCode": "1820026",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "チョウフシ",
+      "townKana": "コジマチョウ",
+      "prefecture": "東京都",
+      "city": "調布市",
+      "town": "小島町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "22219",
-  "oldZipCode": "41307",
-  "zipCode": "4130715",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "シモダシ",
-  "townKana": "ウドガネ",
-  "prefecture": "静岡県",
-  "city": "下田市",
-  "town": "宇土金",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22219",
+      "oldZipCode": "41307",
+      "zipCode": "4130715",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "シモダシ",
+      "townKana": "ウドガネ",
+      "prefecture": "静岡県",
+      "city": "下田市",
+      "town": "宇土金",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

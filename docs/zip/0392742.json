@@ -1,17 +1,21 @@
 {
-  "jisCode": "02402",
-  "oldZipCode": "03927",
-  "zipCode": "0392742",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "カミキタグンシチノヘマチ",
-  "townKana": "フナバムカイガワクボ",
-  "prefecture": "青森県",
-  "city": "上北郡七戸町",
-  "town": "舟場向川久保",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02402",
+      "oldZipCode": "03927",
+      "zipCode": "0392742",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "カミキタグンシチノヘマチ",
+      "townKana": "フナバムカイガワクボ",
+      "prefecture": "青森県",
+      "city": "上北郡七戸町",
+      "town": "舟場向川久保",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

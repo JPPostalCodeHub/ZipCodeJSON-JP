@@ -1,17 +1,21 @@
 {
-  "jisCode": "28223",
-  "oldZipCode": "66933",
-  "zipCode": "6693308",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "タンバシ",
-  "townKana": "カイバラチョウコミナミ",
-  "prefecture": "兵庫県",
-  "city": "丹波市",
-  "town": "柏原町小南",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28223",
+      "oldZipCode": "66933",
+      "zipCode": "6693308",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "タンバシ",
+      "townKana": "カイバラチョウコミナミ",
+      "prefecture": "兵庫県",
+      "city": "丹波市",
+      "town": "柏原町小南",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

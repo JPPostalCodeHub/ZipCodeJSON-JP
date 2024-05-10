@@ -1,17 +1,21 @@
 {
-  "jisCode": "05349",
-  "oldZipCode": "01825",
-  "zipCode": "0182504",
-  "prefectureKana": "アキタケン",
-  "cityKana": "ヤマモトグンハッポウチョウ",
-  "townKana": "ミネハマイシカワ",
-  "prefecture": "秋田県",
-  "city": "山本郡八峰町",
-  "town": "峰浜石川",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05349",
+      "oldZipCode": "01825",
+      "zipCode": "0182504",
+      "prefectureKana": "アキタケン",
+      "cityKana": "ヤマモトグンハッポウチョウ",
+      "townKana": "ミネハマイシカワ",
+      "prefecture": "秋田県",
+      "city": "山本郡八峰町",
+      "town": "峰浜石川",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

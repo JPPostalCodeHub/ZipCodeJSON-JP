@@ -1,17 +1,21 @@
 {
-  "jisCode": "01396",
-  "oldZipCode": "04816",
-  "zipCode": "0481624",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "アブタグンマッカリムラ",
-  "townKana": "カミサト",
-  "prefecture": "北海道",
-  "city": "虻田郡真狩村",
-  "town": "神里",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01396",
+      "oldZipCode": "04816",
+      "zipCode": "0481624",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "アブタグンマッカリムラ",
+      "townKana": "カミサト",
+      "prefecture": "北海道",
+      "city": "虻田郡真狩村",
+      "town": "神里",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "28209",
-  "oldZipCode": "66961",
-  "zipCode": "6696124",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "トヨオカシ",
-  "townKana": "ケヒ",
-  "prefecture": "兵庫県",
-  "city": "豊岡市",
-  "town": "気比",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28209",
+      "oldZipCode": "66961",
+      "zipCode": "6696124",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "トヨオカシ",
+      "townKana": "ケヒ",
+      "prefecture": "兵庫県",
+      "city": "豊岡市",
+      "town": "気比",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

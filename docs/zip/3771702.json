@@ -1,17 +1,21 @@
 {
-  "jisCode": "10421",
-  "oldZipCode": "37717",
-  "zipCode": "3771702",
-  "prefectureKana": "グンマケン",
-  "cityKana": "アガツマグンナカノジョウマチ",
-  "townKana": "ナマス",
-  "prefecture": "群馬県",
-  "city": "吾妻郡中之条町",
-  "town": "生須",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "10421",
+      "oldZipCode": "37717",
+      "zipCode": "3771702",
+      "prefectureKana": "グンマケン",
+      "cityKana": "アガツマグンナカノジョウマチ",
+      "townKana": "ナマス",
+      "prefecture": "群馬県",
+      "city": "吾妻郡中之条町",
+      "town": "生須",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

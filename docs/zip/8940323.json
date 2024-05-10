@@ -1,17 +1,21 @@
 {
-  "jisCode": "46527",
-  "oldZipCode": "89403",
-  "zipCode": "8940323",
-  "prefectureKana": "カゴシマケン",
-  "cityKana": "オオシマグンタツゴウチョウ",
-  "townKana": "アンキヤバ",
-  "prefecture": "鹿児島県",
-  "city": "大島郡龍郷町",
-  "town": "安木屋場",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "46527",
+      "oldZipCode": "89403",
+      "zipCode": "8940323",
+      "prefectureKana": "カゴシマケン",
+      "cityKana": "オオシマグンタツゴウチョウ",
+      "townKana": "アンキヤバ",
+      "prefecture": "鹿児島県",
+      "city": "大島郡龍郷町",
+      "town": "安木屋場",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

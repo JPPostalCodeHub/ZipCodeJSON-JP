@@ -1,17 +1,21 @@
 {
-  "jisCode": "16211",
-  "oldZipCode": "93302",
-  "zipCode": "9330204",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "イミズシ",
-  "townKana": "カモチュウブ",
-  "prefecture": "富山県",
-  "city": "射水市",
-  "town": "加茂中部",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16211",
+      "oldZipCode": "93302",
+      "zipCode": "9330204",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "イミズシ",
+      "townKana": "カモチュウブ",
+      "prefecture": "富山県",
+      "city": "射水市",
+      "town": "加茂中部",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

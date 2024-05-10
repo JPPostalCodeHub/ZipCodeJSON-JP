@@ -1,17 +1,21 @@
 {
-  "jisCode": "14210",
-  "oldZipCode": "23802",
-  "zipCode": "2380234",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "ミウラシ",
-  "townKana": "スワチョウ",
-  "prefecture": "神奈川県",
-  "city": "三浦市",
-  "town": "諏訪町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14210",
+      "oldZipCode": "23802",
+      "zipCode": "2380234",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "ミウラシ",
+      "townKana": "スワチョウ",
+      "prefecture": "神奈川県",
+      "city": "三浦市",
+      "town": "諏訪町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "20202",
-  "oldZipCode": "39015",
-  "zipCode": "3901513",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "マツモトシ",
-  "townKana": "アヅミ（スズラン）",
-  "prefecture": "長野県",
-  "city": "松本市",
-  "town": "安曇（鈴蘭）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20202",
+      "oldZipCode": "39015",
+      "zipCode": "3901513",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "マツモトシ",
+      "townKana": "アヅミ（スズラン）",
+      "prefecture": "長野県",
+      "city": "松本市",
+      "town": "安曇（鈴蘭）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

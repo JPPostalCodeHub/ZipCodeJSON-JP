@@ -1,17 +1,21 @@
 {
-  "jisCode": "06206",
-  "oldZipCode": "991  ",
-  "zipCode": "9910049",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "サガエシ",
-  "townKana": "モトダテ",
-  "prefecture": "山形県",
-  "city": "寒河江市",
-  "town": "本楯",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06206",
+      "oldZipCode": "991  ",
+      "zipCode": "9910049",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "サガエシ",
+      "townKana": "モトダテ",
+      "prefecture": "山形県",
+      "city": "寒河江市",
+      "town": "本楯",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

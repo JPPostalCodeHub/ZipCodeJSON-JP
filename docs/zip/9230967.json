@@ -1,17 +1,21 @@
 {
-  "jisCode": "17203",
-  "oldZipCode": "923  ",
-  "zipCode": "9230967",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "コマツシ",
-  "townKana": "アオジチョウ",
-  "prefecture": "石川県",
-  "city": "小松市",
-  "town": "青路町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17203",
+      "oldZipCode": "923  ",
+      "zipCode": "9230967",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "コマツシ",
+      "townKana": "アオジチョウ",
+      "prefecture": "石川県",
+      "city": "小松市",
+      "town": "青路町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

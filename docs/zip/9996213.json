@@ -1,17 +1,21 @@
 {
-  "jisCode": "06362",
-  "oldZipCode": "99962",
-  "zipCode": "9996213",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "モガミグンモガミマチ",
-  "townKana": "ホウデン",
-  "prefecture": "山形県",
-  "city": "最上郡最上町",
-  "town": "法田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06362",
+      "oldZipCode": "99962",
+      "zipCode": "9996213",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "モガミグンモガミマチ",
+      "townKana": "ホウデン",
+      "prefecture": "山形県",
+      "city": "最上郡最上町",
+      "town": "法田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

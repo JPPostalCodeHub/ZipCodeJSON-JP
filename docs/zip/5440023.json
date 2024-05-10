@@ -1,17 +1,21 @@
 {
-  "jisCode": "27116",
-  "oldZipCode": "544  ",
-  "zipCode": "5440023",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "オオサカシイクノク",
-  "townKana": "ハヤシジ",
-  "prefecture": "大阪府",
-  "city": "大阪市生野区",
-  "town": "林寺",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27116",
+      "oldZipCode": "544  ",
+      "zipCode": "5440023",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "オオサカシイクノク",
+      "townKana": "ハヤシジ",
+      "prefecture": "大阪府",
+      "city": "大阪市生野区",
+      "town": "林寺",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

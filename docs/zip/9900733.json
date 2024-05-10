@@ -1,17 +1,21 @@
 {
-  "jisCode": "06322",
-  "oldZipCode": "99007",
-  "zipCode": "9900733",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "ニシムラヤマグンニシカワマチ",
-  "townKana": "ツキヤマザワ",
-  "prefecture": "山形県",
-  "city": "西村山郡西川町",
-  "town": "月山沢",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06322",
+      "oldZipCode": "99007",
+      "zipCode": "9900733",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "ニシムラヤマグンニシカワマチ",
+      "townKana": "ツキヤマザワ",
+      "prefecture": "山形県",
+      "city": "西村山郡西川町",
+      "town": "月山沢",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

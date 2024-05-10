@@ -1,17 +1,21 @@
 {
-  "jisCode": "38210",
-  "oldZipCode": "79932",
-  "zipCode": "7993202",
-  "prefectureKana": "エヒメケン",
-  "cityKana": "イヨシ",
-  "townKana": "フタミチョウカミナダ",
-  "prefecture": "愛媛県",
-  "city": "伊予市",
-  "town": "双海町上灘",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "38210",
+      "oldZipCode": "79932",
+      "zipCode": "7993202",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "イヨシ",
+      "townKana": "フタミチョウカミナダ",
+      "prefecture": "愛媛県",
+      "city": "伊予市",
+      "town": "双海町上灘",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

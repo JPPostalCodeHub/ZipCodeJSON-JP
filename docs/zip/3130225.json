@@ -1,17 +1,21 @@
 {
-  "jisCode": "08212",
-  "oldZipCode": "31302",
-  "zipCode": "3130225",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "ヒタチオオタシ",
-  "townKana": "タナヤチョウ",
-  "prefecture": "茨城県",
-  "city": "常陸太田市",
-  "town": "棚谷町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08212",
+      "oldZipCode": "31302",
+      "zipCode": "3130225",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "ヒタチオオタシ",
+      "townKana": "タナヤチョウ",
+      "prefecture": "茨城県",
+      "city": "常陸太田市",
+      "town": "棚谷町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

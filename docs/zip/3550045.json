@@ -1,17 +1,21 @@
 {
-  "jisCode": "11212",
-  "oldZipCode": "355  ",
-  "zipCode": "3550045",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "ヒガシマツヤマシ",
-  "townKana": "ミヤハナ",
-  "prefecture": "埼玉県",
-  "city": "東松山市",
-  "town": "宮鼻",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11212",
+      "oldZipCode": "355  ",
+      "zipCode": "3550045",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "ヒガシマツヤマシ",
+      "townKana": "ミヤハナ",
+      "prefecture": "埼玉県",
+      "city": "東松山市",
+      "town": "宮鼻",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

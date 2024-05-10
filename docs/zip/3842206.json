@@ -1,17 +1,21 @@
 {
-  "jisCode": "20217",
-  "oldZipCode": "38422",
-  "zipCode": "3842206",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "サクシ",
-  "townKana": "モタイ",
-  "prefecture": "長野県",
-  "city": "佐久市",
-  "town": "茂田井",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20217",
+      "oldZipCode": "38422",
+      "zipCode": "3842206",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "サクシ",
+      "townKana": "モタイ",
+      "prefecture": "長野県",
+      "city": "佐久市",
+      "town": "茂田井",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

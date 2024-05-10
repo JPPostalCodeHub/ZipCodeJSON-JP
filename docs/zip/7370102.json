@@ -1,17 +1,21 @@
 {
-  "jisCode": "34202",
-  "oldZipCode": "73701",
-  "zipCode": "7370102",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "クレシ",
-  "townKana": "ヒロトクマルチョウ",
-  "prefecture": "広島県",
-  "city": "呉市",
-  "town": "広徳丸町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34202",
+      "oldZipCode": "73701",
+      "zipCode": "7370102",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "クレシ",
+      "townKana": "ヒロトクマルチョウ",
+      "prefecture": "広島県",
+      "city": "呉市",
+      "town": "広徳丸町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

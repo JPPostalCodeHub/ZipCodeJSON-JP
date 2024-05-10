@@ -1,17 +1,21 @@
 {
-  "jisCode": "43425",
-  "oldZipCode": "86927",
-  "zipCode": "8692705",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "アソグンウブヤマムラ",
-  "townKana": "ウブヤマ",
-  "prefecture": "熊本県",
-  "city": "阿蘇郡産山村",
-  "town": "産山",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43425",
+      "oldZipCode": "86927",
+      "zipCode": "8692705",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "アソグンウブヤマムラ",
+      "townKana": "ウブヤマ",
+      "prefecture": "熊本県",
+      "city": "阿蘇郡産山村",
+      "town": "産山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

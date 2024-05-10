@@ -1,17 +1,21 @@
 {
-  "jisCode": "27144",
-  "oldZipCode": "593  ",
-  "zipCode": "5938304",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "サカイシニシク",
-  "townKana": "エバラジチョウ",
-  "prefecture": "大阪府",
-  "city": "堺市西区",
-  "town": "家原寺町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27144",
+      "oldZipCode": "593  ",
+      "zipCode": "5938304",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "サカイシニシク",
+      "townKana": "エバラジチョウ",
+      "prefecture": "大阪府",
+      "city": "堺市西区",
+      "town": "家原寺町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

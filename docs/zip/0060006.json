@@ -1,17 +1,21 @@
 {
-  "jisCode": "01109",
-  "oldZipCode": "006  ",
-  "zipCode": "0060006",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "サッポロシテイネク",
-  "townKana": "ニシミヤノサワ６ジョウ",
-  "prefecture": "北海道",
-  "city": "札幌市手稲区",
-  "town": "西宮の沢六条",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01109",
+      "oldZipCode": "006  ",
+      "zipCode": "0060006",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "サッポロシテイネク",
+      "townKana": "ニシミヤノサワ６ジョウ",
+      "prefecture": "北海道",
+      "city": "札幌市手稲区",
+      "town": "西宮の沢六条",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

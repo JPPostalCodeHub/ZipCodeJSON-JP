@@ -1,17 +1,21 @@
 {
-  "jisCode": "09343",
-  "oldZipCode": "32135",
-  "zipCode": "3213542",
-  "prefectureKana": "トチギケン",
-  "cityKana": "ハガグンモテギマチ",
-  "townKana": "サザラシ",
-  "prefecture": "栃木県",
-  "city": "芳賀郡茂木町",
-  "town": "九石",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "09343",
+      "oldZipCode": "32135",
+      "zipCode": "3213542",
+      "prefectureKana": "トチギケン",
+      "cityKana": "ハガグンモテギマチ",
+      "townKana": "サザラシ",
+      "prefecture": "栃木県",
+      "city": "芳賀郡茂木町",
+      "town": "九石",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "15217",
-  "oldZipCode": "944  ",
-  "zipCode": "9440044",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ミョウコウシ",
-  "townKana": "サカエチョウ",
-  "prefecture": "新潟県",
-  "city": "妙高市",
-  "town": "栄町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15217",
+      "oldZipCode": "944  ",
+      "zipCode": "9440044",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ミョウコウシ",
+      "townKana": "サカエチョウ",
+      "prefecture": "新潟県",
+      "city": "妙高市",
+      "town": "栄町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,38 @@
 {
-  "jisCode": "18206",
-  "oldZipCode": "911  ",
-  "zipCode": "9110017",
-  "prefectureKana": "フクイケン",
-  "cityKana": "カツヤマシ",
-  "townKana": "ノムキチョウヨコクラ",
-  "prefecture": "福井県",
-  "city": "勝山市",
-  "town": "野向町横倉",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18206",
+      "oldZipCode": "911  ",
+      "zipCode": "9110017",
+      "prefectureKana": "フクイケン",
+      "cityKana": "カツヤマシ",
+      "townKana": "ノムキチョウキタノツマタ",
+      "prefecture": "福井県",
+      "city": "勝山市",
+      "town": "野向町北野津又",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "18206",
+      "oldZipCode": "911  ",
+      "zipCode": "9110017",
+      "prefectureKana": "フクイケン",
+      "cityKana": "カツヤマシ",
+      "townKana": "ノムキチョウヨコクラ",
+      "prefecture": "福井県",
+      "city": "勝山市",
+      "town": "野向町横倉",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

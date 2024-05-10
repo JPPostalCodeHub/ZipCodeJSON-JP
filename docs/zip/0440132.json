@@ -1,17 +1,21 @@
 {
-  "jisCode": "01399",
-  "oldZipCode": "04401",
-  "zipCode": "0440132",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "アブタグンキョウゴクチョウ",
-  "townKana": "コウシン",
-  "prefecture": "北海道",
-  "city": "虻田郡京極町",
-  "town": "更進",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01399",
+      "oldZipCode": "04401",
+      "zipCode": "0440132",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "アブタグンキョウゴクチョウ",
+      "townKana": "コウシン",
+      "prefecture": "北海道",
+      "city": "虻田郡京極町",
+      "town": "更進",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

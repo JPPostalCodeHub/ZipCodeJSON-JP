@@ -1,17 +1,21 @@
 {
-  "jisCode": "22103",
-  "oldZipCode": "424  ",
-  "zipCode": "4240801",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "シズオカシシミズク",
-  "townKana": "アキヨシチョウ",
-  "prefecture": "静岡県",
-  "city": "静岡市清水区",
-  "town": "秋吉町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22103",
+      "oldZipCode": "424  ",
+      "zipCode": "4240801",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "シズオカシシミズク",
+      "townKana": "アキヨシチョウ",
+      "prefecture": "静岡県",
+      "city": "静岡市清水区",
+      "town": "秋吉町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

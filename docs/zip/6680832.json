@@ -1,17 +1,21 @@
 {
-  "jisCode": "28209",
-  "oldZipCode": "668  ",
-  "zipCode": "6680832",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "トヨオカシ",
-  "townKana": "クラミ",
-  "prefecture": "兵庫県",
-  "city": "豊岡市",
-  "town": "倉見",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28209",
+      "oldZipCode": "668  ",
+      "zipCode": "6680832",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "トヨオカシ",
+      "townKana": "クラミ",
+      "prefecture": "兵庫県",
+      "city": "豊岡市",
+      "town": "倉見",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

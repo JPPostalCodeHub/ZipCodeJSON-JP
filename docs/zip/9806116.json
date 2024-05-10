@@ -1,17 +1,21 @@
 {
-  "jisCode": "04101",
-  "oldZipCode": "980  ",
-  "zipCode": "9806116",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "センダイシアオバク",
-  "townKana": "チュウオウアエル（１６カイ）",
-  "prefecture": "宮城県",
-  "city": "仙台市青葉区",
-  "town": "中央アエル（１６階）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04101",
+      "oldZipCode": "980  ",
+      "zipCode": "9806116",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "センダイシアオバク",
+      "townKana": "チュウオウアエル（１６カイ）",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "town": "中央アエル（１６階）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

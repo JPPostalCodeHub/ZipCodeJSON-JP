@@ -1,17 +1,21 @@
 {
-  "jisCode": "42308",
-  "oldZipCode": "85121",
-  "zipCode": "8512106",
-  "prefectureKana": "ナガサキケン",
-  "cityKana": "ニシソノギグントギツチョウ",
-  "townKana": "サソコゴウ",
-  "prefecture": "長崎県",
-  "city": "西彼杵郡時津町",
-  "town": "左底郷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "42308",
+      "oldZipCode": "85121",
+      "zipCode": "8512106",
+      "prefectureKana": "ナガサキケン",
+      "cityKana": "ニシソノギグントギツチョウ",
+      "townKana": "サソコゴウ",
+      "prefecture": "長崎県",
+      "city": "西彼杵郡時津町",
+      "town": "左底郷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

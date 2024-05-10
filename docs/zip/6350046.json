@@ -1,17 +1,21 @@
 {
-  "jisCode": "29202",
-  "oldZipCode": "635  ",
-  "zipCode": "6350046",
-  "prefectureKana": "ナラケン",
-  "cityKana": "ヤマトタカダシ",
-  "townKana": "ニシミクラドウ",
-  "prefecture": "奈良県",
-  "city": "大和高田市",
-  "town": "西三倉堂",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "29202",
+      "oldZipCode": "635  ",
+      "zipCode": "6350046",
+      "prefectureKana": "ナラケン",
+      "cityKana": "ヤマトタカダシ",
+      "townKana": "ニシミクラドウ",
+      "prefecture": "奈良県",
+      "city": "大和高田市",
+      "town": "西三倉堂",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

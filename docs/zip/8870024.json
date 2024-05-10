@@ -1,17 +1,21 @@
 {
-  "jisCode": "45204",
-  "oldZipCode": "887  ",
-  "zipCode": "8870024",
-  "prefectureKana": "ミヤザキケン",
-  "cityKana": "ニチナンシ",
-  "townKana": "ニシベンブン",
-  "prefecture": "宮崎県",
-  "city": "日南市",
-  "town": "西弁分",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "45204",
+      "oldZipCode": "887  ",
+      "zipCode": "8870024",
+      "prefectureKana": "ミヤザキケン",
+      "cityKana": "ニチナンシ",
+      "townKana": "ニシベンブン",
+      "prefecture": "宮崎県",
+      "city": "日南市",
+      "town": "西弁分",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

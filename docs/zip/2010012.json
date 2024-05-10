@@ -1,17 +1,21 @@
 {
-  "jisCode": "13219",
-  "oldZipCode": "201  ",
-  "zipCode": "2010012",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "コマエシ",
-  "townKana": "ナカイズミ",
-  "prefecture": "東京都",
-  "city": "狛江市",
-  "town": "中和泉",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13219",
+      "oldZipCode": "201  ",
+      "zipCode": "2010012",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "コマエシ",
+      "townKana": "ナカイズミ",
+      "prefecture": "東京都",
+      "city": "狛江市",
+      "town": "中和泉",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

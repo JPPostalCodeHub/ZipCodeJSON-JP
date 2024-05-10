@@ -1,17 +1,21 @@
 {
-  "jisCode": "20201",
-  "oldZipCode": "380  ",
-  "zipCode": "3800912",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "ナガノシ",
-  "townKana": "イナバヒヅメ",
-  "prefecture": "長野県",
-  "city": "長野市",
-  "town": "稲葉日詰",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20201",
+      "oldZipCode": "380  ",
+      "zipCode": "3800912",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "ナガノシ",
+      "townKana": "イナバヒヅメ",
+      "prefecture": "長野県",
+      "city": "長野市",
+      "town": "稲葉日詰",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

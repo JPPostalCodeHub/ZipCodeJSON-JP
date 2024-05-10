@@ -1,17 +1,21 @@
 {
-  "jisCode": "22209",
-  "oldZipCode": "42701",
-  "zipCode": "4270104",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "シマダシ",
-  "townKana": "イグチ",
-  "prefecture": "静岡県",
-  "city": "島田市",
-  "town": "井口",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22209",
+      "oldZipCode": "42701",
+      "zipCode": "4270104",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "シマダシ",
+      "townKana": "イグチ",
+      "prefecture": "静岡県",
+      "city": "島田市",
+      "town": "井口",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

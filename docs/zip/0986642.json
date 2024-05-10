@@ -1,17 +1,38 @@
 {
-  "jisCode": "01214",
-  "oldZipCode": "09866",
-  "zipCode": "0986642",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ワッカナイシ",
-  "townKana": "コエトイムラ（コエトイ）",
-  "prefecture": "北海道",
-  "city": "稚内市",
-  "town": "声問村（声問）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01214",
+      "oldZipCode": "09865",
+      "zipCode": "0986642",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ワッカナイシ",
+      "townKana": "コエトイ（１−５チョウメ）",
+      "prefecture": "北海道",
+      "city": "稚内市",
+      "town": "声問（１〜５丁目）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "01214",
+      "oldZipCode": "09866",
+      "zipCode": "0986642",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ワッカナイシ",
+      "townKana": "コエトイムラ（コエトイ）",
+      "prefecture": "北海道",
+      "city": "稚内市",
+      "town": "声問村（声問）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

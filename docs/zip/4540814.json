@@ -1,17 +1,21 @@
 {
-  "jisCode": "23110",
-  "oldZipCode": "454  ",
-  "zipCode": "4540814",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ナゴヤシナカガワク",
-  "townKana": "サツキミナミトオリ",
-  "prefecture": "愛知県",
-  "city": "名古屋市中川区",
-  "town": "五月南通",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23110",
+      "oldZipCode": "454  ",
+      "zipCode": "4540814",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ナゴヤシナカガワク",
+      "townKana": "サツキミナミトオリ",
+      "prefecture": "愛知県",
+      "city": "名古屋市中川区",
+      "town": "五月南通",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

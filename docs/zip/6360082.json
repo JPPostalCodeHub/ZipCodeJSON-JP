@@ -1,17 +1,21 @@
 {
-  "jisCode": "29427",
-  "oldZipCode": "636  ",
-  "zipCode": "6360082",
-  "prefectureKana": "ナラケン",
-  "cityKana": "キタカツラギグンカワイチョウ",
-  "townKana": "クスリイ",
-  "prefecture": "奈良県",
-  "city": "北葛城郡河合町",
-  "town": "薬井",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "29427",
+      "oldZipCode": "636  ",
+      "zipCode": "6360082",
+      "prefectureKana": "ナラケン",
+      "cityKana": "キタカツラギグンカワイチョウ",
+      "townKana": "クスリイ",
+      "prefecture": "奈良県",
+      "city": "北葛城郡河合町",
+      "town": "薬井",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

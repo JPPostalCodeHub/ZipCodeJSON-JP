@@ -1,17 +1,21 @@
 {
-  "jisCode": "01217",
-  "oldZipCode": "069  ",
-  "zipCode": "0690821",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "エベツシ",
-  "townKana": "ヒガシノッポロチョウ",
-  "prefecture": "北海道",
-  "city": "江別市",
-  "town": "東野幌町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01217",
+      "oldZipCode": "069  ",
+      "zipCode": "0690821",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "エベツシ",
+      "townKana": "ヒガシノッポロチョウ",
+      "prefecture": "北海道",
+      "city": "江別市",
+      "town": "東野幌町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

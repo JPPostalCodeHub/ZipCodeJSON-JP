@@ -1,17 +1,21 @@
 {
-  "jisCode": "38386",
-  "oldZipCode": "79112",
-  "zipCode": "7911222",
-  "prefectureKana": "エヒメケン",
-  "cityKana": "カミウケナグンクマコウゲンチョウ",
-  "townKana": "ニミョウ",
-  "prefecture": "愛媛県",
-  "city": "上浮穴郡久万高原町",
-  "town": "二名",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "38386",
+      "oldZipCode": "79112",
+      "zipCode": "7911222",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "カミウケナグンクマコウゲンチョウ",
+      "townKana": "ニミョウ",
+      "prefecture": "愛媛県",
+      "city": "上浮穴郡久万高原町",
+      "town": "二名",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

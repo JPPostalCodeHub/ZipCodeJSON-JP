@@ -1,17 +1,21 @@
 {
-  "jisCode": "13227",
-  "oldZipCode": "205  ",
-  "zipCode": "2050000",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "ハムラシ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "東京都",
-  "city": "羽村市",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13227",
+      "oldZipCode": "205  ",
+      "zipCode": "2050000",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "ハムラシ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "東京都",
+      "city": "羽村市",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

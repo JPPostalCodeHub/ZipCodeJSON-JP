@@ -1,17 +1,21 @@
 {
-  "jisCode": "05210",
-  "oldZipCode": "015  ",
-  "zipCode": "0150079",
-  "prefectureKana": "アキタケン",
-  "cityKana": "ユリホンジョウシ",
-  "townKana": "アカヌマシタミチ",
-  "prefecture": "秋田県",
-  "city": "由利本荘市",
-  "town": "赤沼下道",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05210",
+      "oldZipCode": "015  ",
+      "zipCode": "0150079",
+      "prefectureKana": "アキタケン",
+      "cityKana": "ユリホンジョウシ",
+      "townKana": "アカヌマシタミチ",
+      "prefecture": "秋田県",
+      "city": "由利本荘市",
+      "town": "赤沼下道",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

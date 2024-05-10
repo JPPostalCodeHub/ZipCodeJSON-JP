@@ -1,17 +1,21 @@
 {
-  "jisCode": "02362",
-  "oldZipCode": "03802",
-  "zipCode": "0380223",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "ミナミツガルグンオオワニマチ",
-  "townKana": "シマダ",
-  "prefecture": "青森県",
-  "city": "南津軽郡大鰐町",
-  "town": "島田",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02362",
+      "oldZipCode": "03802",
+      "zipCode": "0380223",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "ミナミツガルグンオオワニマチ",
+      "townKana": "シマダ",
+      "prefecture": "青森県",
+      "city": "南津軽郡大鰐町",
+      "town": "島田",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

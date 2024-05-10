@@ -1,17 +1,38 @@
 {
-  "jisCode": "17204",
-  "oldZipCode": "928  ",
-  "zipCode": "9280072",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "ワジマシ",
-  "townKana": "アママチ（ヘグラジマ）",
-  "prefecture": "石川県",
-  "city": "輪島市",
-  "town": "海士町（舳倉島）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17204",
+      "oldZipCode": "928  ",
+      "zipCode": "9280072",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "ワジマシ",
+      "townKana": "アママチ",
+      "prefecture": "石川県",
+      "city": "輪島市",
+      "town": "海士町",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "17204",
+      "oldZipCode": "928  ",
+      "zipCode": "9280072",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "ワジマシ",
+      "townKana": "アママチ（ヘグラジマ）",
+      "prefecture": "石川県",
+      "city": "輪島市",
+      "town": "海士町（舳倉島）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

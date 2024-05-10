@@ -1,17 +1,21 @@
 {
-  "jisCode": "26106",
-  "oldZipCode": "600  ",
-  "zipCode": "6008464",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシシモギョウク",
-  "townKana": "キクヤチョウ",
-  "prefecture": "京都府",
-  "city": "京都市下京区",
-  "town": "菊屋町（高辻通新町西入下る、高辻通西洞院東入下る、若宮通高辻下る、若宮通松原上る）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26106",
+      "oldZipCode": "600  ",
+      "zipCode": "6008464",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシシモギョウク",
+      "townKana": "キクヤチョウ",
+      "prefecture": "京都府",
+      "city": "京都市下京区",
+      "town": "菊屋町（高辻通新町西入下る、高辻通西洞院東入下る、若宮通高辻下る、若宮通松原上る）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

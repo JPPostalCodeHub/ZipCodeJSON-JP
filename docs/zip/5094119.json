@@ -1,17 +1,21 @@
 {
-  "jisCode": "21203",
-  "oldZipCode": "50941",
-  "zipCode": "5094119",
-  "prefectureKana": "ギフケン",
-  "cityKana": "タカヤマシ",
-  "townKana": "コクフチョウヒロセマチ（サクラノ）",
-  "prefecture": "岐阜県",
-  "city": "高山市",
-  "town": "国府町広瀬町（桜野）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "21203",
+      "oldZipCode": "50941",
+      "zipCode": "5094119",
+      "prefectureKana": "ギフケン",
+      "cityKana": "タカヤマシ",
+      "townKana": "コクフチョウヒロセマチ（サクラノ）",
+      "prefecture": "岐阜県",
+      "city": "高山市",
+      "town": "国府町広瀬町（桜野）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

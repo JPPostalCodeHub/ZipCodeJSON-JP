@@ -1,17 +1,21 @@
 {
-  "jisCode": "23234",
-  "oldZipCode": "481  ",
-  "zipCode": "4810033",
-  "prefectureKana": "アイチケン",
-  "cityKana": "キタナゴヤシ",
-  "townKana": "ニシノホウ",
-  "prefecture": "愛知県",
-  "city": "北名古屋市",
-  "town": "西之保",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23234",
+      "oldZipCode": "481  ",
+      "zipCode": "4810033",
+      "prefectureKana": "アイチケン",
+      "cityKana": "キタナゴヤシ",
+      "townKana": "ニシノホウ",
+      "prefecture": "愛知県",
+      "city": "北名古屋市",
+      "town": "西之保",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

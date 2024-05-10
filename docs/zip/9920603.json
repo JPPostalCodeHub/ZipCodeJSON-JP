@@ -1,17 +1,21 @@
 {
-  "jisCode": "06382",
-  "oldZipCode": "99206",
-  "zipCode": "9920603",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "ヒガシオキタマグンカワニシマチ",
-  "townKana": "ヒガシオオツカ",
-  "prefecture": "山形県",
-  "city": "東置賜郡川西町",
-  "town": "東大塚",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06382",
+      "oldZipCode": "99206",
+      "zipCode": "9920603",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "ヒガシオキタマグンカワニシマチ",
+      "townKana": "ヒガシオオツカ",
+      "prefecture": "山形県",
+      "city": "東置賜郡川西町",
+      "town": "東大塚",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "13113",
-  "oldZipCode": "151  ",
-  "zipCode": "1510066",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "シブヤク",
-  "townKana": "ニシハラ",
-  "prefecture": "東京都",
-  "city": "渋谷区",
-  "town": "西原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13113",
+      "oldZipCode": "151  ",
+      "zipCode": "1510066",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "シブヤク",
+      "townKana": "ニシハラ",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "town": "西原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

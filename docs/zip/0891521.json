@@ -1,17 +1,21 @@
 {
-  "jisCode": "01639",
-  "oldZipCode": "08915",
-  "zipCode": "0891521",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "カサイグンサラベツムラ",
-  "townKana": "ニシキマチ",
-  "prefecture": "北海道",
-  "city": "河西郡更別村",
-  "town": "錦町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01639",
+      "oldZipCode": "08915",
+      "zipCode": "0891521",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "カサイグンサラベツムラ",
+      "townKana": "ニシキマチ",
+      "prefecture": "北海道",
+      "city": "河西郡更別村",
+      "town": "錦町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

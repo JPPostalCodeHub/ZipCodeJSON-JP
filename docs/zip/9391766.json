@@ -1,17 +1,38 @@
 {
-  "jisCode": "16210",
-  "oldZipCode": "93916",
-  "zipCode": "9391766",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "ナントシ",
-  "townKana": "トウリ",
-  "prefecture": "富山県",
-  "city": "南砺市",
-  "town": "刀利",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16210",
+      "oldZipCode": "93916",
+      "zipCode": "9391766",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "ナントシ",
+      "townKana": "タテノワキ",
+      "prefecture": "富山県",
+      "city": "南砺市",
+      "town": "立野脇",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "16210",
+      "oldZipCode": "93916",
+      "zipCode": "9391766",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "ナントシ",
+      "townKana": "トウリ",
+      "prefecture": "富山県",
+      "city": "南砺市",
+      "town": "刀利",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

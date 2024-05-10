@@ -1,17 +1,21 @@
 {
-  "jisCode": "13361",
-  "oldZipCode": "10001",
-  "zipCode": "1000103",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "オオシママチ",
-  "townKana": "センヅ",
-  "prefecture": "東京都",
-  "city": "大島町",
-  "town": "泉津",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13361",
+      "oldZipCode": "10001",
+      "zipCode": "1000103",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "オオシママチ",
+      "townKana": "センヅ",
+      "prefecture": "東京都",
+      "city": "大島町",
+      "town": "泉津",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

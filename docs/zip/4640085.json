@@ -1,17 +1,21 @@
 {
-  "jisCode": "23101",
-  "oldZipCode": "464  ",
-  "zipCode": "4640085",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ナゴヤシチクサク",
-  "townKana": "コデキ",
-  "prefecture": "愛知県",
-  "city": "名古屋市千種区",
-  "town": "古出来",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23101",
+      "oldZipCode": "464  ",
+      "zipCode": "4640085",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ナゴヤシチクサク",
+      "townKana": "コデキ",
+      "prefecture": "愛知県",
+      "city": "名古屋市千種区",
+      "town": "古出来",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

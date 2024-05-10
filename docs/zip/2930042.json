@@ -1,17 +1,21 @@
 {
-  "jisCode": "12226",
-  "oldZipCode": "293  ",
-  "zipCode": "2930042",
-  "prefectureKana": "チバケン",
-  "cityKana": "フッツシ",
-  "townKana": "コクボ",
-  "prefecture": "千葉県",
-  "city": "富津市",
-  "town": "小久保",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12226",
+      "oldZipCode": "293  ",
+      "zipCode": "2930042",
+      "prefectureKana": "チバケン",
+      "cityKana": "フッツシ",
+      "townKana": "コクボ",
+      "prefecture": "千葉県",
+      "city": "富津市",
+      "town": "小久保",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

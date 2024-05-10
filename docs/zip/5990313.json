@@ -1,17 +1,21 @@
 {
-  "jisCode": "27366",
-  "oldZipCode": "59903",
-  "zipCode": "5990313",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "センナングンミサキチョウ",
-  "townKana": "タナガワニシバタ",
-  "prefecture": "大阪府",
-  "city": "泉南郡岬町",
-  "town": "多奈川西畑",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27366",
+      "oldZipCode": "59903",
+      "zipCode": "5990313",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "センナングンミサキチョウ",
+      "townKana": "タナガワニシバタ",
+      "prefecture": "大阪府",
+      "city": "泉南郡岬町",
+      "town": "多奈川西畑",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "08207",
-  "oldZipCode": "307  ",
-  "zipCode": "3070036",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "ユウキシ",
-  "townKana": "ホクナンモロ",
-  "prefecture": "茨城県",
-  "city": "結城市",
-  "town": "北南茂呂",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08207",
+      "oldZipCode": "307  ",
+      "zipCode": "3070036",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "ユウキシ",
+      "townKana": "ホクナンモロ",
+      "prefecture": "茨城県",
+      "city": "結城市",
+      "town": "北南茂呂",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

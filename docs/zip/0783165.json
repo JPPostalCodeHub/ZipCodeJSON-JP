@@ -1,17 +1,38 @@
 {
-  "jisCode": "01212",
-  "oldZipCode": "07831",
-  "zipCode": "0783165",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ルモイシ",
-  "townKana": "ルモイゲンヤ（ソノタ）",
-  "prefecture": "北海道",
-  "city": "留萌市",
-  "town": "留萌原野（その他）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01212",
+      "oldZipCode": "07831",
+      "zipCode": "0783165",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ルモイシ",
+      "townKana": "フジヤマチョウ",
+      "prefecture": "北海道",
+      "city": "留萌市",
+      "town": "藤山町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "01212",
+      "oldZipCode": "07831",
+      "zipCode": "0783165",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ルモイシ",
+      "townKana": "ルモイゲンヤ（ソノタ）",
+      "prefecture": "北海道",
+      "city": "留萌市",
+      "town": "留萌原野（その他）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

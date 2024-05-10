@@ -1,17 +1,21 @@
 {
-  "jisCode": "36208",
-  "oldZipCode": "778  ",
-  "zipCode": "7780020",
-  "prefectureKana": "トクシマケン",
-  "cityKana": "ミヨシシ",
-  "townKana": "イケダチョウシュウヅ",
-  "prefecture": "徳島県",
-  "city": "三好市",
-  "town": "池田町州津",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "36208",
+      "oldZipCode": "778  ",
+      "zipCode": "7780020",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "ミヨシシ",
+      "townKana": "イケダチョウシュウヅ",
+      "prefecture": "徳島県",
+      "city": "三好市",
+      "town": "池田町州津",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

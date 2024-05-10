@@ -1,17 +1,21 @@
 {
-  "jisCode": "43531",
-  "oldZipCode": "86325",
-  "zipCode": "8632503",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "アマクサグンレイホクマチ",
-  "townKana": "シキ",
-  "prefecture": "熊本県",
-  "city": "天草郡苓北町",
-  "town": "志岐",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43531",
+      "oldZipCode": "86325",
+      "zipCode": "8632503",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "アマクサグンレイホクマチ",
+      "townKana": "シキ",
+      "prefecture": "熊本県",
+      "city": "天草郡苓北町",
+      "town": "志岐",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "33202",
-  "oldZipCode": "712  ",
-  "zipCode": "7128001",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "クラシキシ",
-  "townKana": "ツラジマチョウニシノウラ",
-  "prefecture": "岡山県",
-  "city": "倉敷市",
-  "town": "連島町西之浦",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33202",
+      "oldZipCode": "712  ",
+      "zipCode": "7128001",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "クラシキシ",
+      "townKana": "ツラジマチョウニシノウラ",
+      "prefecture": "岡山県",
+      "city": "倉敷市",
+      "town": "連島町西之浦",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

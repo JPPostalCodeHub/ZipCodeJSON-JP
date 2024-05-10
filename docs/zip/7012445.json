@@ -1,17 +1,21 @@
 {
-  "jisCode": "33213",
-  "oldZipCode": "70124",
-  "zipCode": "7012445",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "アカイワシ",
-  "townKana": "イシカミ",
-  "prefecture": "岡山県",
-  "city": "赤磐市",
-  "town": "石上",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33213",
+      "oldZipCode": "70124",
+      "zipCode": "7012445",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "アカイワシ",
+      "townKana": "イシカミ",
+      "prefecture": "岡山県",
+      "city": "赤磐市",
+      "town": "石上",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "13222",
-  "oldZipCode": "203  ",
-  "zipCode": "2030022",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "ヒガシクルメシ",
-  "townKana": "ヒバリガオカダンチ",
-  "prefecture": "東京都",
-  "city": "東久留米市",
-  "town": "ひばりが丘団地",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13222",
+      "oldZipCode": "203  ",
+      "zipCode": "2030022",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "ヒガシクルメシ",
+      "townKana": "ヒバリガオカダンチ",
+      "prefecture": "東京都",
+      "city": "東久留米市",
+      "town": "ひばりが丘団地",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "07203",
-  "oldZipCode": "963  ",
-  "zipCode": "9638012",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "コオリヤマシ",
-  "townKana": "サクタ",
-  "prefecture": "福島県",
-  "city": "郡山市",
-  "town": "咲田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07203",
+      "oldZipCode": "963  ",
+      "zipCode": "9638012",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "コオリヤマシ",
+      "townKana": "サクタ",
+      "prefecture": "福島県",
+      "city": "郡山市",
+      "town": "咲田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

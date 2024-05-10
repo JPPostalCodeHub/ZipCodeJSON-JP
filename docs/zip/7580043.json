@@ -1,17 +1,38 @@
 {
-  "jisCode": "35204",
-  "oldZipCode": "758  ",
-  "zipCode": "7580043",
-  "prefectureKana": "ヤマグチケン",
-  "cityKana": "ハギシ",
-  "townKana": "シモゴケンマチ",
-  "prefecture": "山口県",
-  "city": "萩市",
-  "town": "下五間町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "35204",
+      "oldZipCode": "758  ",
+      "zipCode": "7580043",
+      "prefectureKana": "ヤマグチケン",
+      "cityKana": "ハギシ",
+      "townKana": "カミゴケンマチ",
+      "prefecture": "山口県",
+      "city": "萩市",
+      "town": "上五間町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "35204",
+      "oldZipCode": "758  ",
+      "zipCode": "7580043",
+      "prefectureKana": "ヤマグチケン",
+      "cityKana": "ハギシ",
+      "townKana": "シモゴケンマチ",
+      "prefecture": "山口県",
+      "city": "萩市",
+      "town": "下五間町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

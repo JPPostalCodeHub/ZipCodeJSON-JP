@@ -1,17 +1,21 @@
 {
-  "jisCode": "07483",
-  "oldZipCode": "96354",
-  "zipCode": "9635404",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "ヒガシシラカワグンハナワマチ",
-  "townKana": "タケノウチ",
-  "prefecture": "福島県",
-  "city": "東白川郡塙町",
-  "town": "竹之内",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07483",
+      "oldZipCode": "96354",
+      "zipCode": "9635404",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "ヒガシシラカワグンハナワマチ",
+      "townKana": "タケノウチ",
+      "prefecture": "福島県",
+      "city": "東白川郡塙町",
+      "town": "竹之内",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

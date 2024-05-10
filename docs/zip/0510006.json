@@ -1,17 +1,21 @@
 {
-  "jisCode": "01205",
-  "oldZipCode": "051  ",
-  "zipCode": "0510006",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ムロランシ",
-  "townKana": "チャツチョウ",
-  "prefecture": "北海道",
-  "city": "室蘭市",
-  "town": "茶津町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01205",
+      "oldZipCode": "051  ",
+      "zipCode": "0510006",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ムロランシ",
+      "townKana": "チャツチョウ",
+      "prefecture": "北海道",
+      "city": "室蘭市",
+      "town": "茶津町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

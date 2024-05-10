@@ -1,17 +1,21 @@
 {
-  "jisCode": "15224",
-  "oldZipCode": "95202",
-  "zipCode": "9520214",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "サドシ",
-  "townKana": "オオクボ",
-  "prefecture": "新潟県",
-  "city": "佐渡市",
-  "town": "大久保",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15224",
+      "oldZipCode": "95202",
+      "zipCode": "9520214",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "サドシ",
+      "townKana": "オオクボ",
+      "prefecture": "新潟県",
+      "city": "佐渡市",
+      "town": "大久保",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

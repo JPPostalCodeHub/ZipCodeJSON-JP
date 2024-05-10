@@ -1,17 +1,21 @@
 {
-  "jisCode": "22214",
-  "oldZipCode": "426  ",
-  "zipCode": "4260008",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "フジエダシ",
-  "townKana": "オニジマ",
-  "prefecture": "静岡県",
-  "city": "藤枝市",
-  "town": "鬼島",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22214",
+      "oldZipCode": "426  ",
+      "zipCode": "4260008",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "フジエダシ",
+      "townKana": "オニジマ",
+      "prefecture": "静岡県",
+      "city": "藤枝市",
+      "town": "鬼島",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

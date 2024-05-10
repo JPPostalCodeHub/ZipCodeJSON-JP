@@ -1,17 +1,21 @@
 {
-  "jisCode": "26214",
-  "oldZipCode": "61902",
-  "zipCode": "6190212",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キヅガワシ",
-  "townKana": "ウメダニ",
-  "prefecture": "京都府",
-  "city": "木津川市",
-  "town": "梅谷",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26214",
+      "oldZipCode": "61902",
+      "zipCode": "6190212",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キヅガワシ",
+      "townKana": "ウメダニ",
+      "prefecture": "京都府",
+      "city": "木津川市",
+      "town": "梅谷",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

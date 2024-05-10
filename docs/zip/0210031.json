@@ -1,17 +1,21 @@
 {
-  "jisCode": "03209",
-  "oldZipCode": "021  ",
-  "zipCode": "0210031",
-  "prefectureKana": "イワテケン",
-  "cityKana": "イチノセキシ",
-  "townKana": "アオバ",
-  "prefecture": "岩手県",
-  "city": "一関市",
-  "town": "青葉",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "03209",
+      "oldZipCode": "021  ",
+      "zipCode": "0210031",
+      "prefectureKana": "イワテケン",
+      "cityKana": "イチノセキシ",
+      "townKana": "アオバ",
+      "prefecture": "岩手県",
+      "city": "一関市",
+      "town": "青葉",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

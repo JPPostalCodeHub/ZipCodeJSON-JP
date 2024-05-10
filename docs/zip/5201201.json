@@ -1,17 +1,21 @@
 {
-  "jisCode": "25212",
-  "oldZipCode": "52012",
-  "zipCode": "5201201",
-  "prefectureKana": "シガケン",
-  "cityKana": "タカシマシ",
-  "townKana": "アドガワチョウカミコガ",
-  "prefecture": "滋賀県",
-  "city": "高島市",
-  "town": "安曇川町上古賀",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "25212",
+      "oldZipCode": "52012",
+      "zipCode": "5201201",
+      "prefectureKana": "シガケン",
+      "cityKana": "タカシマシ",
+      "townKana": "アドガワチョウカミコガ",
+      "prefecture": "滋賀県",
+      "city": "高島市",
+      "town": "安曇川町上古賀",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

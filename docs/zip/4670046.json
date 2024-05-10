@@ -1,17 +1,21 @@
 {
-  "jisCode": "23108",
-  "oldZipCode": "467  ",
-  "zipCode": "4670046",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ナゴヤシミズホク",
-  "townKana": "タマミズチョウ",
-  "prefecture": "愛知県",
-  "city": "名古屋市瑞穂区",
-  "town": "玉水町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23108",
+      "oldZipCode": "467  ",
+      "zipCode": "4670046",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ナゴヤシミズホク",
+      "townKana": "タマミズチョウ",
+      "prefecture": "愛知県",
+      "city": "名古屋市瑞穂区",
+      "town": "玉水町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

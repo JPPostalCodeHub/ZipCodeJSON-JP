@@ -1,17 +1,38 @@
 {
-  "jisCode": "43215",
-  "oldZipCode": "86328",
-  "zipCode": "8632801",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "アマクサシ",
-  "townKana": "アマクサマチオオエイクサガウラ",
-  "prefecture": "熊本県",
-  "city": "天草市",
-  "town": "天草町大江軍浦",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43215",
+      "oldZipCode": "86328",
+      "zipCode": "8632801",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "アマクサシ",
+      "townKana": "アマクサマチオオエ",
+      "prefecture": "熊本県",
+      "city": "天草市",
+      "town": "天草町大江",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "43215",
+      "oldZipCode": "86328",
+      "zipCode": "8632801",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "アマクサシ",
+      "townKana": "アマクサマチオオエイクサガウラ",
+      "prefecture": "熊本県",
+      "city": "天草市",
+      "town": "天草町大江軍浦",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

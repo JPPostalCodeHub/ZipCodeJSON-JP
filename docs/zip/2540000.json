@@ -1,17 +1,21 @@
 {
-  "jisCode": "14203",
-  "oldZipCode": "254  ",
-  "zipCode": "2540000",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "ヒラツカシ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "神奈川県",
-  "city": "平塚市",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14203",
+      "oldZipCode": "254  ",
+      "zipCode": "2540000",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "ヒラツカシ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "神奈川県",
+      "city": "平塚市",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

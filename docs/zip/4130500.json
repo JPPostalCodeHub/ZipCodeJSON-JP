@@ -1,17 +1,21 @@
 {
-  "jisCode": "22302",
-  "oldZipCode": "413  ",
-  "zipCode": "4130500",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "カモグンカワヅチョウ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "静岡県",
-  "city": "賀茂郡河津町",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22302",
+      "oldZipCode": "413  ",
+      "zipCode": "4130500",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "カモグンカワヅチョウ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "静岡県",
+      "city": "賀茂郡河津町",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

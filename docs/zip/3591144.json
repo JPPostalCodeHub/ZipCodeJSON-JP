@@ -1,17 +1,21 @@
 {
-  "jisCode": "11208",
-  "oldZipCode": "359  ",
-  "zipCode": "3591144",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "トコロザワシ",
-  "townKana": "ニシトコロザワ",
-  "prefecture": "埼玉県",
-  "city": "所沢市",
-  "town": "西所沢",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11208",
+      "oldZipCode": "359  ",
+      "zipCode": "3591144",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "トコロザワシ",
+      "townKana": "ニシトコロザワ",
+      "prefecture": "埼玉県",
+      "city": "所沢市",
+      "town": "西所沢",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

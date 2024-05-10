@@ -1,17 +1,21 @@
 {
-  "jisCode": "28216",
-  "oldZipCode": "676  ",
-  "zipCode": "6760013",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "タカサゴシ",
-  "townKana": "アライチョウハスイケ",
-  "prefecture": "兵庫県",
-  "city": "高砂市",
-  "town": "荒井町蓮池",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28216",
+      "oldZipCode": "676  ",
+      "zipCode": "6760013",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "タカサゴシ",
+      "townKana": "アライチョウハスイケ",
+      "prefecture": "兵庫県",
+      "city": "高砂市",
+      "town": "荒井町蓮池",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

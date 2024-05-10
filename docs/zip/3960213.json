@@ -1,17 +1,21 @@
 {
-  "jisCode": "20209",
-  "oldZipCode": "39602",
-  "zipCode": "3960213",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "イナシ",
-  "townKana": "タカトオマチヒガシタカトオ",
-  "prefecture": "長野県",
-  "city": "伊那市",
-  "town": "高遠町東高遠",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20209",
+      "oldZipCode": "39602",
+      "zipCode": "3960213",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "イナシ",
+      "townKana": "タカトオマチヒガシタカトオ",
+      "prefecture": "長野県",
+      "city": "伊那市",
+      "town": "高遠町東高遠",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

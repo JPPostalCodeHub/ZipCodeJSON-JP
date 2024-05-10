@@ -1,17 +1,21 @@
 {
-  "jisCode": "13103",
-  "oldZipCode": "108  ",
-  "zipCode": "1086302",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "ミナトク",
-  "townKana": "ミタスミトモフドウサンミタツインビルニシカン（２カイ）",
-  "prefecture": "東京都",
-  "city": "港区",
-  "town": "三田住友不動産三田ツインビル西館（２階）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13103",
+      "oldZipCode": "108  ",
+      "zipCode": "1086302",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "ミナトク",
+      "townKana": "ミタスミトモフドウサンミタツインビルニシカン（２カイ）",
+      "prefecture": "東京都",
+      "city": "港区",
+      "town": "三田住友不動産三田ツインビル西館（２階）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

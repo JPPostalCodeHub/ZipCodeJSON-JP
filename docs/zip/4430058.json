@@ -1,17 +1,21 @@
 {
-  "jisCode": "23214",
-  "oldZipCode": "443  ",
-  "zipCode": "4430058",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ガマゴオリシ",
-  "townKana": "ウエホンマチ",
-  "prefecture": "愛知県",
-  "city": "蒲郡市",
-  "town": "上本町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23214",
+      "oldZipCode": "443  ",
+      "zipCode": "4430058",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ガマゴオリシ",
+      "townKana": "ウエホンマチ",
+      "prefecture": "愛知県",
+      "city": "蒲郡市",
+      "town": "上本町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

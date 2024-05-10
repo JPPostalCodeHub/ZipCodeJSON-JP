@@ -1,17 +1,21 @@
 {
-  "jisCode": "34212",
-  "oldZipCode": "72402",
-  "zipCode": "7392303",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "ヒガシヒロシマシ",
-  "townKana": "フクトミチョウクバ",
-  "prefecture": "広島県",
-  "city": "東広島市",
-  "town": "福富町久芳",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34212",
+      "oldZipCode": "72402",
+      "zipCode": "7392303",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ヒガシヒロシマシ",
+      "townKana": "フクトミチョウクバ",
+      "prefecture": "広島県",
+      "city": "東広島市",
+      "town": "福富町久芳",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

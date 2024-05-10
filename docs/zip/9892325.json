@@ -1,17 +1,21 @@
 {
-  "jisCode": "04361",
-  "oldZipCode": "98923",
-  "zipCode": "9892325",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "ワタリグンワタリチョウ",
-  "townKana": "ハナイチゴ",
-  "prefecture": "宮城県",
-  "city": "亘理郡亘理町",
-  "town": "花苺",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04361",
+      "oldZipCode": "98923",
+      "zipCode": "9892325",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "ワタリグンワタリチョウ",
+      "townKana": "ハナイチゴ",
+      "prefecture": "宮城県",
+      "city": "亘理郡亘理町",
+      "town": "花苺",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

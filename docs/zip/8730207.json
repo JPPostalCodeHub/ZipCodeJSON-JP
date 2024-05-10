@@ -1,17 +1,21 @@
 {
-  "jisCode": "44214",
-  "oldZipCode": "87302",
-  "zipCode": "8730207",
-  "prefectureKana": "オオイタケン",
-  "cityKana": "クニサキシ",
-  "townKana": "アキマチユルギ",
-  "prefecture": "大分県",
-  "city": "国東市",
-  "town": "安岐町油留木",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "44214",
+      "oldZipCode": "87302",
+      "zipCode": "8730207",
+      "prefectureKana": "オオイタケン",
+      "cityKana": "クニサキシ",
+      "townKana": "アキマチユルギ",
+      "prefecture": "大分県",
+      "city": "国東市",
+      "town": "安岐町油留木",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "17202",
-  "oldZipCode": "926  ",
-  "zipCode": "9260855",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "ナナオシ",
-  "townKana": "コマルヤマダイ",
-  "prefecture": "石川県",
-  "city": "七尾市",
-  "town": "小丸山台",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17202",
+      "oldZipCode": "926  ",
+      "zipCode": "9260855",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "ナナオシ",
+      "townKana": "コマルヤマダイ",
+      "prefecture": "石川県",
+      "city": "七尾市",
+      "town": "小丸山台",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

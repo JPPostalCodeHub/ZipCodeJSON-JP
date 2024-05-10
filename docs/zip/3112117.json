@@ -1,17 +1,21 @@
 {
-  "jisCode": "08234",
-  "oldZipCode": "31121",
-  "zipCode": "3112117",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "ホコタシ",
-  "townKana": "オオクラ",
-  "prefecture": "茨城県",
-  "city": "鉾田市",
-  "town": "大蔵",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08234",
+      "oldZipCode": "31121",
+      "zipCode": "3112117",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "ホコタシ",
+      "townKana": "オオクラ",
+      "prefecture": "茨城県",
+      "city": "鉾田市",
+      "town": "大蔵",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

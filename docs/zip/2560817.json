@@ -1,17 +1,21 @@
 {
-  "jisCode": "14206",
-  "oldZipCode": "256  ",
-  "zipCode": "2560817",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "オダワラシ",
-  "townKana": "ニシサカワ",
-  "prefecture": "神奈川県",
-  "city": "小田原市",
-  "town": "西酒匂",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14206",
+      "oldZipCode": "256  ",
+      "zipCode": "2560817",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "オダワラシ",
+      "townKana": "ニシサカワ",
+      "prefecture": "神奈川県",
+      "city": "小田原市",
+      "town": "西酒匂",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

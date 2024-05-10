@@ -1,17 +1,21 @@
 {
-  "jisCode": "39206",
-  "oldZipCode": "785  ",
-  "zipCode": "7850022",
-  "prefectureKana": "コウチケン",
-  "cityKana": "スサキシ",
-  "townKana": "シモブンコウ",
-  "prefecture": "高知県",
-  "city": "須崎市",
-  "town": "下分甲",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "39206",
+      "oldZipCode": "785  ",
+      "zipCode": "7850022",
+      "prefectureKana": "コウチケン",
+      "cityKana": "スサキシ",
+      "townKana": "シモブンコウ",
+      "prefecture": "高知県",
+      "city": "須崎市",
+      "town": "下分甲",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

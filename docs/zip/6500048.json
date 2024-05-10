@@ -1,17 +1,21 @@
 {
-  "jisCode": "28110",
-  "oldZipCode": "650  ",
-  "zipCode": "6500048",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "コウベシチュウオウク",
-  "townKana": "コウベクウコウ",
-  "prefecture": "兵庫県",
-  "city": "神戸市中央区",
-  "town": "神戸空港",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28110",
+      "oldZipCode": "650  ",
+      "zipCode": "6500048",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "コウベシチュウオウク",
+      "townKana": "コウベクウコウ",
+      "prefecture": "兵庫県",
+      "city": "神戸市中央区",
+      "town": "神戸空港",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

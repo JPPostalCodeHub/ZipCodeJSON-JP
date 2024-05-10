@@ -1,17 +1,21 @@
 {
-  "jisCode": "34214",
-  "oldZipCode": "73918",
-  "zipCode": "7391806",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "アキタカタシ",
-  "townKana": "タカミヤチョウクルメギ",
-  "prefecture": "広島県",
-  "city": "安芸高田市",
-  "town": "高宮町来女木",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34214",
+      "oldZipCode": "73918",
+      "zipCode": "7391806",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "アキタカタシ",
+      "townKana": "タカミヤチョウクルメギ",
+      "prefecture": "広島県",
+      "city": "安芸高田市",
+      "town": "高宮町来女木",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

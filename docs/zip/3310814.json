@@ -1,17 +1,21 @@
 {
-  "jisCode": "11102",
-  "oldZipCode": "330  ",
-  "zipCode": "3310814",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "サイタマシキタク",
-  "townKana": "ヒガシオオナリチョウ",
-  "prefecture": "埼玉県",
-  "city": "さいたま市北区",
-  "town": "東大成町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11102",
+      "oldZipCode": "330  ",
+      "zipCode": "3310814",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "サイタマシキタク",
+      "townKana": "ヒガシオオナリチョウ",
+      "prefecture": "埼玉県",
+      "city": "さいたま市北区",
+      "town": "東大成町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

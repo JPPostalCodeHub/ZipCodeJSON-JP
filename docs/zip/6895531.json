@@ -1,17 +1,21 @@
 {
-  "jisCode": "31401",
-  "oldZipCode": "68955",
-  "zipCode": "6895531",
-  "prefectureKana": "トットリケン",
-  "cityKana": "ヒノグンニチナンチョウ",
-  "townKana": "インガ",
-  "prefecture": "鳥取県",
-  "city": "日野郡日南町",
-  "town": "印賀",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "31401",
+      "oldZipCode": "68955",
+      "zipCode": "6895531",
+      "prefectureKana": "トットリケン",
+      "cityKana": "ヒノグンニチナンチョウ",
+      "townKana": "インガ",
+      "prefecture": "鳥取県",
+      "city": "日野郡日南町",
+      "town": "印賀",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "20388",
-  "oldZipCode": "39943",
-  "zipCode": "3994301",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "カミイナグンミヤダムラ",
-  "townKana": "ミヤダムライチエン",
-  "prefecture": "長野県",
-  "city": "上伊那郡宮田村",
-  "town": "宮田村一円",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20388",
+      "oldZipCode": "39943",
+      "zipCode": "3994301",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "カミイナグンミヤダムラ",
+      "townKana": "ミヤダムライチエン",
+      "prefecture": "長野県",
+      "city": "上伊那郡宮田村",
+      "town": "宮田村一円",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

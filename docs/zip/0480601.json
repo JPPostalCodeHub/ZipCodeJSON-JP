@@ -1,17 +1,21 @@
 {
-  "jisCode": "01391",
-  "oldZipCode": "04806",
-  "zipCode": "0480601",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "シママキグンシママキムラ",
-  "townKana": "トミウラ",
-  "prefecture": "北海道",
-  "city": "島牧郡島牧村",
-  "town": "富浦",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01391",
+      "oldZipCode": "04806",
+      "zipCode": "0480601",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "シママキグンシママキムラ",
+      "townKana": "トミウラ",
+      "prefecture": "北海道",
+      "city": "島牧郡島牧村",
+      "town": "富浦",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

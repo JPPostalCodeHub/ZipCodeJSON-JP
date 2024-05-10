@@ -1,17 +1,21 @@
 {
-  "jisCode": "10522",
-  "oldZipCode": "37007",
-  "zipCode": "3700701",
-  "prefectureKana": "グンマケン",
-  "cityKana": "オウラグンメイワマチ",
-  "townKana": "ミナミオオシマ",
-  "prefecture": "群馬県",
-  "city": "邑楽郡明和町",
-  "town": "南大島",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "10522",
+      "oldZipCode": "37007",
+      "zipCode": "3700701",
+      "prefectureKana": "グンマケン",
+      "cityKana": "オウラグンメイワマチ",
+      "townKana": "ミナミオオシマ",
+      "prefecture": "群馬県",
+      "city": "邑楽郡明和町",
+      "town": "南大島",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

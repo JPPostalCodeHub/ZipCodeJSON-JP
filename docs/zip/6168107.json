@@ -1,17 +1,21 @@
 {
-  "jisCode": "26108",
-  "oldZipCode": "616  ",
-  "zipCode": "6168107",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシウキョウク",
-  "townKana": "ウズマサイチノイチョウ",
-  "prefecture": "京都府",
-  "city": "京都市右京区",
-  "town": "太秦一ノ井町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26108",
+      "oldZipCode": "616  ",
+      "zipCode": "6168107",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシウキョウク",
+      "townKana": "ウズマサイチノイチョウ",
+      "prefecture": "京都府",
+      "city": "京都市右京区",
+      "town": "太秦一ノ井町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

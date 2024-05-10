@@ -1,17 +1,21 @@
 {
-  "jisCode": "08221",
-  "oldZipCode": "312  ",
-  "zipCode": "3120051",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "ヒタチナカシ",
-  "townKana": "ドウハタ",
-  "prefecture": "茨城県",
-  "city": "ひたちなか市",
-  "town": "堂端",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08221",
+      "oldZipCode": "312  ",
+      "zipCode": "3120051",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "ヒタチナカシ",
+      "townKana": "ドウハタ",
+      "prefecture": "茨城県",
+      "city": "ひたちなか市",
+      "town": "堂端",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

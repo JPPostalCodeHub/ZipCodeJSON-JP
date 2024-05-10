@@ -1,17 +1,21 @@
 {
-  "jisCode": "23104",
-  "oldZipCode": "451  ",
-  "zipCode": "4516035",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ナゴヤシニシク",
-  "townKana": "ウシジマチョウナゴヤルーセントタワー（３５カイ）",
-  "prefecture": "愛知県",
-  "city": "名古屋市西区",
-  "town": "牛島町名古屋ルーセントタワー（３５階）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23104",
+      "oldZipCode": "451  ",
+      "zipCode": "4516035",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ナゴヤシニシク",
+      "townKana": "ウシジマチョウナゴヤルーセントタワー（３５カイ）",
+      "prefecture": "愛知県",
+      "city": "名古屋市西区",
+      "town": "牛島町名古屋ルーセントタワー（３５階）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

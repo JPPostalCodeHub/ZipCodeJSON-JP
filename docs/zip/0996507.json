@@ -1,17 +1,21 @@
 {
-  "jisCode": "01559",
-  "oldZipCode": "09965",
-  "zipCode": "0996507",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "モンベツグンユウベツチョウ",
-  "townKana": "ミナミヘイソンサンク",
-  "prefecture": "北海道",
-  "city": "紋別郡湧別町",
-  "town": "南兵村三区",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01559",
+      "oldZipCode": "09965",
+      "zipCode": "0996507",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "モンベツグンユウベツチョウ",
+      "townKana": "ミナミヘイソンサンク",
+      "prefecture": "北海道",
+      "city": "紋別郡湧別町",
+      "town": "南兵村三区",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

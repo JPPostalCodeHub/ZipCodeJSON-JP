@@ -1,17 +1,21 @@
 {
-  "jisCode": "47326",
-  "oldZipCode": "90401",
-  "zipCode": "9040103",
-  "prefectureKana": "オキナワケン",
-  "cityKana": "ナカガミグンチャタンチョウ",
-  "townKana": "クワエ",
-  "prefecture": "沖縄県",
-  "city": "中頭郡北谷町",
-  "town": "桑江",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "47326",
+      "oldZipCode": "90401",
+      "zipCode": "9040103",
+      "prefectureKana": "オキナワケン",
+      "cityKana": "ナカガミグンチャタンチョウ",
+      "townKana": "クワエ",
+      "prefecture": "沖縄県",
+      "city": "中頭郡北谷町",
+      "town": "桑江",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

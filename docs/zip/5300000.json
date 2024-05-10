@@ -1,17 +1,21 @@
 {
-  "jisCode": "27127",
-  "oldZipCode": "530  ",
-  "zipCode": "5300000",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "オオサカシキタク",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "大阪府",
-  "city": "大阪市北区",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27127",
+      "oldZipCode": "530  ",
+      "zipCode": "5300000",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "オオサカシキタク",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

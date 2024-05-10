@@ -1,17 +1,21 @@
 {
-  "jisCode": "28102",
-  "oldZipCode": "657  ",
-  "zipCode": "6570021",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "コウベシナダク",
-  "townKana": "サクラガオカチョウ",
-  "prefecture": "兵庫県",
-  "city": "神戸市灘区",
-  "town": "桜ケ丘町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28102",
+      "oldZipCode": "657  ",
+      "zipCode": "6570021",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "コウベシナダク",
+      "townKana": "サクラガオカチョウ",
+      "prefecture": "兵庫県",
+      "city": "神戸市灘区",
+      "town": "桜ケ丘町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

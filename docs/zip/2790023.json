@@ -1,17 +1,21 @@
 {
-  "jisCode": "12227",
-  "oldZipCode": "279  ",
-  "zipCode": "2790023",
-  "prefectureKana": "チバケン",
-  "cityKana": "ウラヤスシ",
-  "townKana": "タカス",
-  "prefecture": "千葉県",
-  "city": "浦安市",
-  "town": "高洲",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12227",
+      "oldZipCode": "279  ",
+      "zipCode": "2790023",
+      "prefectureKana": "チバケン",
+      "cityKana": "ウラヤスシ",
+      "townKana": "タカス",
+      "prefecture": "千葉県",
+      "city": "浦安市",
+      "town": "高洲",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

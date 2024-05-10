@@ -1,17 +1,21 @@
 {
-  "jisCode": "01219",
-  "oldZipCode": "094  ",
-  "zipCode": "0940006",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "モンベツシ",
-  "townKana": "シオミチョウ",
-  "prefecture": "北海道",
-  "city": "紋別市",
-  "town": "潮見町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01219",
+      "oldZipCode": "094  ",
+      "zipCode": "0940006",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "モンベツシ",
+      "townKana": "シオミチョウ",
+      "prefecture": "北海道",
+      "city": "紋別市",
+      "town": "潮見町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

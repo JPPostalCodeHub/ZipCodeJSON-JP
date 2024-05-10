@@ -1,17 +1,21 @@
 {
-  "jisCode": "20413",
-  "oldZipCode": "39912",
-  "zipCode": "3991203",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "シモイナグンテンリュウムラ",
-  "townKana": "ナガシマ",
-  "prefecture": "長野県",
-  "city": "下伊那郡天龍村",
-  "town": "長島",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20413",
+      "oldZipCode": "39912",
+      "zipCode": "3991203",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "シモイナグンテンリュウムラ",
+      "townKana": "ナガシマ",
+      "prefecture": "長野県",
+      "city": "下伊那郡天龍村",
+      "town": "長島",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

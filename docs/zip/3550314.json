@@ -1,17 +1,21 @@
 {
-  "jisCode": "11343",
-  "oldZipCode": "35503",
-  "zipCode": "3550314",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "ヒキグンオガワマチ",
-  "townKana": "ナカツメ",
-  "prefecture": "埼玉県",
-  "city": "比企郡小川町",
-  "town": "中爪",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11343",
+      "oldZipCode": "35503",
+      "zipCode": "3550314",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "ヒキグンオガワマチ",
+      "townKana": "ナカツメ",
+      "prefecture": "埼玉県",
+      "city": "比企郡小川町",
+      "town": "中爪",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

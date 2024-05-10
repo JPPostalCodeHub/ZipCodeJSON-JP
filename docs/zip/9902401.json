@@ -1,17 +1,21 @@
 {
-  "jisCode": "06201",
-  "oldZipCode": "990  ",
-  "zipCode": "9902401",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "ヤマガタシ",
-  "townKana": "ヒラシミズ",
-  "prefecture": "山形県",
-  "city": "山形市",
-  "town": "平清水",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06201",
+      "oldZipCode": "990  ",
+      "zipCode": "9902401",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "ヤマガタシ",
+      "townKana": "ヒラシミズ",
+      "prefecture": "山形県",
+      "city": "山形市",
+      "town": "平清水",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

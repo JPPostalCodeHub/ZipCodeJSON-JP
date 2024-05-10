@@ -1,17 +1,21 @@
 {
-  "jisCode": "23232",
-  "oldZipCode": "496  ",
-  "zipCode": "4960939",
-  "prefectureKana": "アイチケン",
-  "cityKana": "アイサイシ",
-  "townKana": "ヒツエチョウ",
-  "prefecture": "愛知県",
-  "city": "愛西市",
-  "town": "後江町",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23232",
+      "oldZipCode": "496  ",
+      "zipCode": "4960939",
+      "prefectureKana": "アイチケン",
+      "cityKana": "アイサイシ",
+      "townKana": "ヒツエチョウ",
+      "prefecture": "愛知県",
+      "city": "愛西市",
+      "town": "後江町",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

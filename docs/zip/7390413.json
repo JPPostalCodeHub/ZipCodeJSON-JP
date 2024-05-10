@@ -1,17 +1,21 @@
 {
-  "jisCode": "34213",
-  "oldZipCode": "73904",
-  "zipCode": "7390413",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "ハツカイチシ",
-  "townKana": "ミヤジマグチウエ",
-  "prefecture": "広島県",
-  "city": "廿日市市",
-  "town": "宮島口上",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34213",
+      "oldZipCode": "73904",
+      "zipCode": "7390413",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ハツカイチシ",
+      "townKana": "ミヤジマグチウエ",
+      "prefecture": "広島県",
+      "city": "廿日市市",
+      "town": "宮島口上",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

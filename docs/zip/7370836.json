@@ -1,17 +1,21 @@
 {
-  "jisCode": "34202",
-  "oldZipCode": "737  ",
-  "zipCode": "7370836",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "クレシ",
-  "townKana": "キタシオヤチョウ",
-  "prefecture": "広島県",
-  "city": "呉市",
-  "town": "北塩屋町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34202",
+      "oldZipCode": "737  ",
+      "zipCode": "7370836",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "クレシ",
+      "townKana": "キタシオヤチョウ",
+      "prefecture": "広島県",
+      "city": "呉市",
+      "town": "北塩屋町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

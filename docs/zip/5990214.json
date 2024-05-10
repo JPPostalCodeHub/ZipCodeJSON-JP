@@ -1,17 +1,21 @@
 {
-  "jisCode": "27232",
-  "oldZipCode": "59902",
-  "zipCode": "5990214",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "ハンナンシ",
-  "townKana": "ヤマナカダニ",
-  "prefecture": "大阪府",
-  "city": "阪南市",
-  "town": "山中渓",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27232",
+      "oldZipCode": "59902",
+      "zipCode": "5990214",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "ハンナンシ",
+      "townKana": "ヤマナカダニ",
+      "prefecture": "大阪府",
+      "city": "阪南市",
+      "town": "山中渓",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

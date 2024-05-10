@@ -1,17 +1,21 @@
 {
-  "jisCode": "01632",
-  "oldZipCode": "08012",
-  "zipCode": "0801285",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "カトウグンシホロチョウ",
-  "townKana": "シモオリベ",
-  "prefecture": "北海道",
-  "city": "河東郡士幌町",
-  "town": "下居辺",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01632",
+      "oldZipCode": "08012",
+      "zipCode": "0801285",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "カトウグンシホロチョウ",
+      "townKana": "シモオリベ",
+      "prefecture": "北海道",
+      "city": "河東郡士幌町",
+      "town": "下居辺",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

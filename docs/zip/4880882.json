@@ -1,17 +1,21 @@
 {
-  "jisCode": "23226",
-  "oldZipCode": "488  ",
-  "zipCode": "4880882",
-  "prefectureKana": "アイチケン",
-  "cityKana": "オワリアサヒシ",
-  "townKana": "シロヤマチョウムコウガオカ",
-  "prefecture": "愛知県",
-  "city": "尾張旭市",
-  "town": "城山町向ケ丘",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23226",
+      "oldZipCode": "488  ",
+      "zipCode": "4880882",
+      "prefectureKana": "アイチケン",
+      "cityKana": "オワリアサヒシ",
+      "townKana": "シロヤマチョウムコウガオカ",
+      "prefecture": "愛知県",
+      "city": "尾張旭市",
+      "town": "城山町向ケ丘",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

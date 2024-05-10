@@ -1,17 +1,21 @@
 {
-  "jisCode": "27230",
-  "oldZipCode": "576  ",
-  "zipCode": "5760064",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "カタノシ",
-  "townKana": "テラミナミノ",
-  "prefecture": "大阪府",
-  "city": "交野市",
-  "town": "寺南野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27230",
+      "oldZipCode": "576  ",
+      "zipCode": "5760064",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "カタノシ",
+      "townKana": "テラミナミノ",
+      "prefecture": "大阪府",
+      "city": "交野市",
+      "town": "寺南野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

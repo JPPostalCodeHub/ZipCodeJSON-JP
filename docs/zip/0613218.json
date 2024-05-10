@@ -1,17 +1,21 @@
 {
-  "jisCode": "01235",
-  "oldZipCode": "06132",
-  "zipCode": "0613218",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "イシカリシ",
-  "townKana": "バンナグロ（ソノタ）",
-  "prefecture": "北海道",
-  "city": "石狩市",
-  "town": "花畔（その他）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01235",
+      "oldZipCode": "06132",
+      "zipCode": "0613218",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "イシカリシ",
+      "townKana": "バンナグロ（ソノタ）",
+      "prefecture": "北海道",
+      "city": "石狩市",
+      "town": "花畔（その他）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

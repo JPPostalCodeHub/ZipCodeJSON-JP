@@ -1,17 +1,21 @@
 {
-  "jisCode": "01217",
-  "oldZipCode": "067  ",
-  "zipCode": "0670017",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "エベツシ",
-  "townKana": "７ジョウ",
-  "prefecture": "北海道",
-  "city": "江別市",
-  "town": "７条",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01217",
+      "oldZipCode": "067  ",
+      "zipCode": "0670017",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "エベツシ",
+      "townKana": "７ジョウ",
+      "prefecture": "北海道",
+      "city": "江別市",
+      "town": "７条",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

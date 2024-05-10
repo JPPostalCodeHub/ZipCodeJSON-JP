@@ -1,17 +1,21 @@
 {
-  "jisCode": "37205",
-  "oldZipCode": "768  ",
-  "zipCode": "7680074",
-  "prefectureKana": "カガワケン",
-  "cityKana": "カンオンジシ",
-  "townKana": "サイワイチョウ",
-  "prefecture": "香川県",
-  "city": "観音寺市",
-  "town": "幸町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "37205",
+      "oldZipCode": "768  ",
+      "zipCode": "7680074",
+      "prefectureKana": "カガワケン",
+      "cityKana": "カンオンジシ",
+      "townKana": "サイワイチョウ",
+      "prefecture": "香川県",
+      "city": "観音寺市",
+      "town": "幸町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

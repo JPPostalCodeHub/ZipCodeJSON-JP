@@ -1,17 +1,21 @@
 {
-  "jisCode": "01484",
-  "oldZipCode": "07839",
-  "zipCode": "0783952",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "トママエグンハボロチョウ",
-  "townKana": "テウリ（トミイソ）",
-  "prefecture": "北海道",
-  "city": "苫前郡羽幌町",
-  "town": "天売（富磯）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01484",
+      "oldZipCode": "07839",
+      "zipCode": "0783952",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "トママエグンハボロチョウ",
+      "townKana": "テウリ（トミイソ）",
+      "prefecture": "北海道",
+      "city": "苫前郡羽幌町",
+      "town": "天売（富磯）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

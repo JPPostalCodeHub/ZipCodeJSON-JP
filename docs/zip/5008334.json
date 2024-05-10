@@ -1,17 +1,21 @@
 {
-  "jisCode": "21201",
-  "oldZipCode": "500  ",
-  "zipCode": "5008334",
-  "prefectureKana": "ギフケン",
-  "cityKana": "ギフシ",
-  "townKana": "ヨシチョウ",
-  "prefecture": "岐阜県",
-  "city": "岐阜市",
-  "town": "葭町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "21201",
+      "oldZipCode": "500  ",
+      "zipCode": "5008334",
+      "prefectureKana": "ギフケン",
+      "cityKana": "ギフシ",
+      "townKana": "ヨシチョウ",
+      "prefecture": "岐阜県",
+      "city": "岐阜市",
+      "town": "葭町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

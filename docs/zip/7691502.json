@@ -1,17 +1,21 @@
 {
-  "jisCode": "37208",
-  "oldZipCode": "76915",
-  "zipCode": "7691502",
-  "prefectureKana": "カガワケン",
-  "cityKana": "ミトヨシ",
-  "townKana": "トヨナカチョウカサダカサオカ",
-  "prefecture": "香川県",
-  "city": "三豊市",
-  "town": "豊中町笠田笠岡",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "37208",
+      "oldZipCode": "76915",
+      "zipCode": "7691502",
+      "prefectureKana": "カガワケン",
+      "cityKana": "ミトヨシ",
+      "townKana": "トヨナカチョウカサダカサオカ",
+      "prefecture": "香川県",
+      "city": "三豊市",
+      "town": "豊中町笠田笠岡",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

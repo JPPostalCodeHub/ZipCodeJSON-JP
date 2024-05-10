@@ -1,17 +1,21 @@
 {
-  "jisCode": "23213",
-  "oldZipCode": "445  ",
-  "zipCode": "4450805",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ニシオシ",
-  "townKana": "ツルシロチョウ",
-  "prefecture": "愛知県",
-  "city": "西尾市",
-  "town": "鶴城町",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23213",
+      "oldZipCode": "445  ",
+      "zipCode": "4450805",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ニシオシ",
+      "townKana": "ツルシロチョウ",
+      "prefecture": "愛知県",
+      "city": "西尾市",
+      "town": "鶴城町",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

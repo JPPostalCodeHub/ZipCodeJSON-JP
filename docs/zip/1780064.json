@@ -1,17 +1,21 @@
 {
-  "jisCode": "13120",
-  "oldZipCode": "178  ",
-  "zipCode": "1780064",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "ネリマク",
-  "townKana": "ミナミオオイズミ",
-  "prefecture": "東京都",
-  "city": "練馬区",
-  "town": "南大泉",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13120",
+      "oldZipCode": "178  ",
+      "zipCode": "1780064",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "ネリマク",
+      "townKana": "ミナミオオイズミ",
+      "prefecture": "東京都",
+      "city": "練馬区",
+      "town": "南大泉",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

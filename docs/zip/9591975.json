@@ -1,17 +1,38 @@
 {
-  "jisCode": "15223",
-  "oldZipCode": "95921",
-  "zipCode": "9591975",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "アガノシ",
-  "townKana": "カミイイヅカ",
-  "prefecture": "新潟県",
-  "city": "阿賀野市",
-  "town": "上飯塚",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15223",
+      "oldZipCode": "95921",
+      "zipCode": "9591975",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "アガノシ",
+      "townKana": "オギシマ",
+      "prefecture": "新潟県",
+      "city": "阿賀野市",
+      "town": "荻島",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "15223",
+      "oldZipCode": "95921",
+      "zipCode": "9591975",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "アガノシ",
+      "townKana": "カミイイヅカ",
+      "prefecture": "新潟県",
+      "city": "阿賀野市",
+      "town": "上飯塚",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

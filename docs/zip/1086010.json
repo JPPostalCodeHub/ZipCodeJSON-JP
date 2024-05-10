@@ -1,17 +1,21 @@
 {
-  "jisCode": "13103",
-  "oldZipCode": "108  ",
-  "zipCode": "1086010",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "ミナトク",
-  "townKana": "コウナンシナガワインターシティＡトウ（１０カイ）",
-  "prefecture": "東京都",
-  "city": "港区",
-  "town": "港南品川インターシティＡ棟（１０階）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13103",
+      "oldZipCode": "108  ",
+      "zipCode": "1086010",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "ミナトク",
+      "townKana": "コウナンシナガワインターシティＡトウ（１０カイ）",
+      "prefecture": "東京都",
+      "city": "港区",
+      "town": "港南品川インターシティＡ棟（１０階）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "06301",
-  "oldZipCode": "99003",
-  "zipCode": "9900331",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "ヒガシムラヤマグンヤマノベマチ",
-  "townKana": "オオテラ",
-  "prefecture": "山形県",
-  "city": "東村山郡山辺町",
-  "town": "大寺",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06301",
+      "oldZipCode": "99003",
+      "zipCode": "9900331",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "ヒガシムラヤマグンヤマノベマチ",
+      "townKana": "オオテラ",
+      "prefecture": "山形県",
+      "city": "東村山郡山辺町",
+      "town": "大寺",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

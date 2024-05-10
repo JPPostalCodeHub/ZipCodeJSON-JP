@@ -1,17 +1,21 @@
 {
-  "jisCode": "02411",
-  "oldZipCode": "03932",
-  "zipCode": "0393213",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "カミキタグンロッカショムラ",
-  "townKana": "タカホコ",
-  "prefecture": "青森県",
-  "city": "上北郡六ヶ所村",
-  "town": "鷹架",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02411",
+      "oldZipCode": "03932",
+      "zipCode": "0393213",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "カミキタグンロッカショムラ",
+      "townKana": "タカホコ",
+      "prefecture": "青森県",
+      "city": "上北郡六ヶ所村",
+      "town": "鷹架",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

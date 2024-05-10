@@ -1,17 +1,21 @@
 {
-  "jisCode": "15210",
-  "oldZipCode": "94803",
-  "zipCode": "9480306",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "トオカマチシ",
-  "townKana": "コジラクラ",
-  "prefecture": "新潟県",
-  "city": "十日町市",
-  "town": "小白倉",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15210",
+      "oldZipCode": "94803",
+      "zipCode": "9480306",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "トオカマチシ",
+      "townKana": "コジラクラ",
+      "prefecture": "新潟県",
+      "city": "十日町市",
+      "town": "小白倉",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

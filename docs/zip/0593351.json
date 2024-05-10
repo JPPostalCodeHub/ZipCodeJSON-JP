@@ -1,17 +1,21 @@
 {
-  "jisCode": "01610",
-  "oldZipCode": "05933",
-  "zipCode": "0593351",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ヒダカグンシンヒダカチョウ",
-  "townKana": "ミツイシウタフエ",
-  "prefecture": "北海道",
-  "city": "日高郡新ひだか町",
-  "town": "三石歌笛",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01610",
+      "oldZipCode": "05933",
+      "zipCode": "0593351",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ヒダカグンシンヒダカチョウ",
+      "townKana": "ミツイシウタフエ",
+      "prefecture": "北海道",
+      "city": "日高郡新ひだか町",
+      "town": "三石歌笛",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "23111",
-  "oldZipCode": "455  ",
-  "zipCode": "4550007",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ナゴヤシミナトク",
-  "townKana": "ミナミ１０バンチョウ",
-  "prefecture": "愛知県",
-  "city": "名古屋市港区",
-  "town": "南十番町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23111",
+      "oldZipCode": "455  ",
+      "zipCode": "4550007",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ナゴヤシミナトク",
+      "townKana": "ミナミ１０バンチョウ",
+      "prefecture": "愛知県",
+      "city": "名古屋市港区",
+      "town": "南十番町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "15202",
-  "oldZipCode": "95401",
-  "zipCode": "9540155",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ナガオカシ",
-  "townKana": "シマダ",
-  "prefecture": "新潟県",
-  "city": "長岡市",
-  "town": "島田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15202",
+      "oldZipCode": "95401",
+      "zipCode": "9540155",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ナガオカシ",
+      "townKana": "シマダ",
+      "prefecture": "新潟県",
+      "city": "長岡市",
+      "town": "島田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

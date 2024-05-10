@@ -1,17 +1,21 @@
 {
-  "jisCode": "38201",
-  "oldZipCode": "79111",
-  "zipCode": "7911105",
-  "prefectureKana": "エヒメケン",
-  "cityKana": "マツヤマシ",
-  "townKana": "キタイド",
-  "prefecture": "愛媛県",
-  "city": "松山市",
-  "town": "北井門",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "38201",
+      "oldZipCode": "79111",
+      "zipCode": "7911105",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "マツヤマシ",
+      "townKana": "キタイド",
+      "prefecture": "愛媛県",
+      "city": "松山市",
+      "town": "北井門",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

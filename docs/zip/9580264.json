@@ -1,17 +1,21 @@
 {
-  "jisCode": "15212",
-  "oldZipCode": "95802",
-  "zipCode": "9580264",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ムラカミシ",
-  "townKana": "ウノトロ",
-  "prefecture": "新潟県",
-  "city": "村上市",
-  "town": "鵜渡路",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15212",
+      "oldZipCode": "95802",
+      "zipCode": "9580264",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ムラカミシ",
+      "townKana": "ウノトロ",
+      "prefecture": "新潟県",
+      "city": "村上市",
+      "town": "鵜渡路",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

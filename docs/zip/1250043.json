@@ -1,17 +1,21 @@
 {
-  "jisCode": "13122",
-  "oldZipCode": "125  ",
-  "zipCode": "1250043",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "カツシカク",
-  "townKana": "カナマチジョウスイジョウ",
-  "prefecture": "東京都",
-  "city": "葛飾区",
-  "town": "金町浄水場",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13122",
+      "oldZipCode": "125  ",
+      "zipCode": "1250043",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "カツシカク",
+      "townKana": "カナマチジョウスイジョウ",
+      "prefecture": "東京都",
+      "city": "葛飾区",
+      "town": "金町浄水場",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

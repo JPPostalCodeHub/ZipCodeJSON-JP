@@ -1,17 +1,21 @@
 {
-  "jisCode": "26110",
-  "oldZipCode": "607  ",
-  "zipCode": "6078407",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシヤマシナク",
-  "townKana": "ミササギアンショウジチョウ",
-  "prefecture": "京都府",
-  "city": "京都市山科区",
-  "town": "御陵安祥寺町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26110",
+      "oldZipCode": "607  ",
+      "zipCode": "6078407",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシヤマシナク",
+      "townKana": "ミササギアンショウジチョウ",
+      "prefecture": "京都府",
+      "city": "京都市山科区",
+      "town": "御陵安祥寺町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

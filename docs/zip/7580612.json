@@ -1,17 +1,21 @@
 {
-  "jisCode": "35502",
-  "oldZipCode": "75806",
-  "zipCode": "7580612",
-  "prefectureKana": "ヤマグチケン",
-  "cityKana": "アブグンアブチョウ",
-  "townKana": "フクダカミ",
-  "prefecture": "山口県",
-  "city": "阿武郡阿武町",
-  "town": "福田上",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "35502",
+      "oldZipCode": "75806",
+      "zipCode": "7580612",
+      "prefectureKana": "ヤマグチケン",
+      "cityKana": "アブグンアブチョウ",
+      "townKana": "フクダカミ",
+      "prefecture": "山口県",
+      "city": "阿武郡阿武町",
+      "town": "福田上",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

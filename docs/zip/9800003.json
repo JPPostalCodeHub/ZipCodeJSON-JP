@@ -1,17 +1,21 @@
 {
-  "jisCode": "04101",
-  "oldZipCode": "980  ",
-  "zipCode": "9800003",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "センダイシアオバク",
-  "townKana": "オダワラ（４チョウメ−８チョウメ）",
-  "prefecture": "宮城県",
-  "city": "仙台市青葉区",
-  "town": "小田原（４〜８丁目）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04101",
+      "oldZipCode": "980  ",
+      "zipCode": "9800003",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "センダイシアオバク",
+      "townKana": "オダワラ（４チョウメ−８チョウメ）",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "town": "小田原（４〜８丁目）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "35343",
-  "oldZipCode": "74215",
-  "zipCode": "7421515",
-  "prefectureKana": "ヤマグチケン",
-  "cityKana": "クマゲグンタブセチョウ",
-  "townKana": "カミタブセ",
-  "prefecture": "山口県",
-  "city": "熊毛郡田布施町",
-  "town": "上田布施",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "35343",
+      "oldZipCode": "74215",
+      "zipCode": "7421515",
+      "prefectureKana": "ヤマグチケン",
+      "cityKana": "クマゲグンタブセチョウ",
+      "townKana": "カミタブセ",
+      "prefecture": "山口県",
+      "city": "熊毛郡田布施町",
+      "town": "上田布施",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

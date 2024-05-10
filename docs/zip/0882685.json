@@ -1,17 +1,21 @@
 {
-  "jisCode": "01692",
-  "oldZipCode": "08826",
-  "zipCode": "0882685",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "シベツグンナカシベツチョウ",
-  "townKana": "ニシタケ",
-  "prefecture": "北海道",
-  "city": "標津郡中標津町",
-  "town": "西竹",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01692",
+      "oldZipCode": "08826",
+      "zipCode": "0882685",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "シベツグンナカシベツチョウ",
+      "townKana": "ニシタケ",
+      "prefecture": "北海道",
+      "city": "標津郡中標津町",
+      "town": "西竹",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

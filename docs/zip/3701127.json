@@ -1,17 +1,21 @@
 {
-  "jisCode": "10464",
-  "oldZipCode": "37011",
-  "zipCode": "3701127",
-  "prefectureKana": "グンマケン",
-  "cityKana": "サワグンタマムラマチ",
-  "townKana": "カミノテ",
-  "prefecture": "群馬県",
-  "city": "佐波郡玉村町",
-  "town": "上之手",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "10464",
+      "oldZipCode": "37011",
+      "zipCode": "3701127",
+      "prefectureKana": "グンマケン",
+      "cityKana": "サワグンタマムラマチ",
+      "townKana": "カミノテ",
+      "prefecture": "群馬県",
+      "city": "佐波郡玉村町",
+      "town": "上之手",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

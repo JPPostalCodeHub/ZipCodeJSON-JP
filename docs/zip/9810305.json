@@ -1,17 +1,21 @@
 {
-  "jisCode": "04214",
-  "oldZipCode": "98103",
-  "zipCode": "9810305",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "ヒガシマツシマシ",
-  "townKana": "ジョウゲツツミ",
-  "prefecture": "宮城県",
-  "city": "東松島市",
-  "town": "上下堤",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04214",
+      "oldZipCode": "98103",
+      "zipCode": "9810305",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "ヒガシマツシマシ",
+      "townKana": "ジョウゲツツミ",
+      "prefecture": "宮城県",
+      "city": "東松島市",
+      "town": "上下堤",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "36207",
-  "oldZipCode": "77936",
-  "zipCode": "7793603",
-  "prefectureKana": "トクシマケン",
-  "cityKana": "ミマシ",
-  "townKana": "ワキマチイノシリ（ショウ、ドイ、ニシウエノ）",
-  "prefecture": "徳島県",
-  "city": "美馬市",
-  "town": "脇町猪尻（庄、土井、西上野）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "36207",
+      "oldZipCode": "77936",
+      "zipCode": "7793603",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "ミマシ",
+      "townKana": "ワキマチイノシリ（ショウ、ドイ、ニシウエノ）",
+      "prefecture": "徳島県",
+      "city": "美馬市",
+      "town": "脇町猪尻（庄、土井、西上野）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

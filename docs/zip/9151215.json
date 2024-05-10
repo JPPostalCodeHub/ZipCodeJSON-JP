@@ -1,17 +1,21 @@
 {
-  "jisCode": "18209",
-  "oldZipCode": "91512",
-  "zipCode": "9151215",
-  "prefectureKana": "フクイケン",
-  "cityKana": "エチゼンシ",
-  "townKana": "コノチョウ",
-  "prefecture": "福井県",
-  "city": "越前市",
-  "town": "小野町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18209",
+      "oldZipCode": "91512",
+      "zipCode": "9151215",
+      "prefectureKana": "フクイケン",
+      "cityKana": "エチゼンシ",
+      "townKana": "コノチョウ",
+      "prefecture": "福井県",
+      "city": "越前市",
+      "town": "小野町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

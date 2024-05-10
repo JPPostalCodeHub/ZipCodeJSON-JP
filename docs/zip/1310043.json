@@ -1,17 +1,21 @@
 {
-  "jisCode": "13107",
-  "oldZipCode": "131  ",
-  "zipCode": "1310043",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "スミダク",
-  "townKana": "タチバナ",
-  "prefecture": "東京都",
-  "city": "墨田区",
-  "town": "立花",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13107",
+      "oldZipCode": "131  ",
+      "zipCode": "1310043",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "スミダク",
+      "townKana": "タチバナ",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "town": "立花",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

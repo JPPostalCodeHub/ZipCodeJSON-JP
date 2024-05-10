@@ -1,17 +1,21 @@
 {
-  "jisCode": "43213",
-  "oldZipCode": "86906",
-  "zipCode": "8690623",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "ウキシ",
-  "townKana": "オガワマチカワジリ",
-  "prefecture": "熊本県",
-  "city": "宇城市",
-  "town": "小川町川尻",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43213",
+      "oldZipCode": "86906",
+      "zipCode": "8690623",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "ウキシ",
+      "townKana": "オガワマチカワジリ",
+      "prefecture": "熊本県",
+      "city": "宇城市",
+      "town": "小川町川尻",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

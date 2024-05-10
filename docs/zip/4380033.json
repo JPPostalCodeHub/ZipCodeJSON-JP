@@ -1,17 +1,21 @@
 {
-  "jisCode": "22211",
-  "oldZipCode": "438  ",
-  "zipCode": "4380033",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "イワタシ",
-  "townKana": "シンデ",
-  "prefecture": "静岡県",
-  "city": "磐田市",
-  "town": "新出",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22211",
+      "oldZipCode": "438  ",
+      "zipCode": "4380033",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "イワタシ",
+      "townKana": "シンデ",
+      "prefecture": "静岡県",
+      "city": "磐田市",
+      "town": "新出",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

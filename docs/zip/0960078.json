@@ -1,17 +1,21 @@
 {
-  "jisCode": "01221",
-  "oldZipCode": "096  ",
-  "zipCode": "0960078",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ナヨロシ",
-  "townKana": "ナイブチ",
-  "prefecture": "北海道",
-  "city": "名寄市",
-  "town": "内淵",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01221",
+      "oldZipCode": "096  ",
+      "zipCode": "0960078",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ナヨロシ",
+      "townKana": "ナイブチ",
+      "prefecture": "北海道",
+      "city": "名寄市",
+      "town": "内淵",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

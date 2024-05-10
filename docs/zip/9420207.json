@@ -1,17 +1,21 @@
 {
-  "jisCode": "15222",
-  "oldZipCode": "94202",
-  "zipCode": "9420207",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ジョウエツシ",
-  "townKana": "クビキクテシマ",
-  "prefecture": "新潟県",
-  "city": "上越市",
-  "town": "頸城区手島",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15222",
+      "oldZipCode": "94202",
+      "zipCode": "9420207",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ジョウエツシ",
+      "townKana": "クビキクテシマ",
+      "prefecture": "新潟県",
+      "city": "上越市",
+      "town": "頸城区手島",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "13120",
-  "oldZipCode": "176  ",
-  "zipCode": "1760013",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "ネリマク",
-  "townKana": "トヨタマナカ",
-  "prefecture": "東京都",
-  "city": "練馬区",
-  "town": "豊玉中",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13120",
+      "oldZipCode": "176  ",
+      "zipCode": "1760013",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "ネリマク",
+      "townKana": "トヨタマナカ",
+      "prefecture": "東京都",
+      "city": "練馬区",
+      "town": "豊玉中",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

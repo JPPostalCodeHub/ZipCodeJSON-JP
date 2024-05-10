@@ -1,17 +1,21 @@
 {
-  "jisCode": "32202",
-  "oldZipCode": "69711",
-  "zipCode": "6971123",
-  "prefectureKana": "シマネケン",
-  "cityKana": "ハマダシ",
-  "townKana": "ヤサカチョウタノハラ",
-  "prefecture": "島根県",
-  "city": "浜田市",
-  "town": "弥栄町田野原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "32202",
+      "oldZipCode": "69711",
+      "zipCode": "6971123",
+      "prefectureKana": "シマネケン",
+      "cityKana": "ハマダシ",
+      "townKana": "ヤサカチョウタノハラ",
+      "prefecture": "島根県",
+      "city": "浜田市",
+      "town": "弥栄町田野原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

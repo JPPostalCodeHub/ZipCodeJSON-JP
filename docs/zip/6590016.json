@@ -1,17 +1,21 @@
 {
-  "jisCode": "28206",
-  "oldZipCode": "659  ",
-  "zipCode": "6590016",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "アシヤシ",
-  "townKana": "シンノウヅカチョウ",
-  "prefecture": "兵庫県",
-  "city": "芦屋市",
-  "town": "親王塚町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28206",
+      "oldZipCode": "659  ",
+      "zipCode": "6590016",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "アシヤシ",
+      "townKana": "シンノウヅカチョウ",
+      "prefecture": "兵庫県",
+      "city": "芦屋市",
+      "town": "親王塚町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

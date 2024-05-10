@@ -1,17 +1,21 @@
 {
-  "jisCode": "43202",
-  "oldZipCode": "86961",
-  "zipCode": "8696113",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "ヤツシロシ",
-  "townKana": "サカモトマチナカツミチ",
-  "prefecture": "熊本県",
-  "city": "八代市",
-  "town": "坂本町中津道",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43202",
+      "oldZipCode": "86961",
+      "zipCode": "8696113",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "ヤツシロシ",
+      "townKana": "サカモトマチナカツミチ",
+      "prefecture": "熊本県",
+      "city": "八代市",
+      "town": "坂本町中津道",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

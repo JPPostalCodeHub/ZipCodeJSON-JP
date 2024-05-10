@@ -1,17 +1,21 @@
 {
-  "jisCode": "13227",
-  "oldZipCode": "205  ",
-  "zipCode": "2050003",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "ハムラシ",
-  "townKana": "ミドリガオカ",
-  "prefecture": "東京都",
-  "city": "羽村市",
-  "town": "緑ケ丘",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13227",
+      "oldZipCode": "205  ",
+      "zipCode": "2050003",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "ハムラシ",
+      "townKana": "ミドリガオカ",
+      "prefecture": "東京都",
+      "city": "羽村市",
+      "town": "緑ケ丘",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

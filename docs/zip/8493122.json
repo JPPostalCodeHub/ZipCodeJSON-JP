@@ -1,17 +1,21 @@
 {
-  "jisCode": "41202",
-  "oldZipCode": "84931",
-  "zipCode": "8493122",
-  "prefectureKana": "サガケン",
-  "cityKana": "カラツシ",
-  "townKana": "キュウラギマチナミセ",
-  "prefecture": "佐賀県",
-  "city": "唐津市",
-  "town": "厳木町浪瀬",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "41202",
+      "oldZipCode": "84931",
+      "zipCode": "8493122",
+      "prefectureKana": "サガケン",
+      "cityKana": "カラツシ",
+      "townKana": "キュウラギマチナミセ",
+      "prefecture": "佐賀県",
+      "city": "唐津市",
+      "town": "厳木町浪瀬",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

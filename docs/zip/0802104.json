@@ -1,17 +1,21 @@
 {
-  "jisCode": "01207",
-  "oldZipCode": "08021",
-  "zipCode": "0802104",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "オビヒロシ",
-  "townKana": "キヨカワチョウヒガシ",
-  "prefecture": "北海道",
-  "city": "帯広市",
-  "town": "清川町東",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01207",
+      "oldZipCode": "08021",
+      "zipCode": "0802104",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "オビヒロシ",
+      "townKana": "キヨカワチョウヒガシ",
+      "prefecture": "北海道",
+      "city": "帯広市",
+      "town": "清川町東",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

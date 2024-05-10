@@ -1,17 +1,21 @@
 {
-  "jisCode": "04202",
-  "oldZipCode": "98613",
-  "zipCode": "9861334",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "イシノマキシ",
-  "townKana": "オガツチョウイセハタ",
-  "prefecture": "宮城県",
-  "city": "石巻市",
-  "town": "雄勝町伊勢畑",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04202",
+      "oldZipCode": "98613",
+      "zipCode": "9861334",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "イシノマキシ",
+      "townKana": "オガツチョウイセハタ",
+      "prefecture": "宮城県",
+      "city": "石巻市",
+      "town": "雄勝町伊勢畑",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

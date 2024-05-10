@@ -1,17 +1,21 @@
 {
-  "jisCode": "37205",
-  "oldZipCode": "768  ",
-  "zipCode": "7680040",
-  "prefectureKana": "カガワケン",
-  "cityKana": "カンオンジシ",
-  "townKana": "クニタチョウ",
-  "prefecture": "香川県",
-  "city": "観音寺市",
-  "town": "柞田町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "37205",
+      "oldZipCode": "768  ",
+      "zipCode": "7680040",
+      "prefectureKana": "カガワケン",
+      "cityKana": "カンオンジシ",
+      "townKana": "クニタチョウ",
+      "prefecture": "香川県",
+      "city": "観音寺市",
+      "town": "柞田町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

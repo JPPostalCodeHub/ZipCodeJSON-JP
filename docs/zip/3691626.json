@@ -1,17 +1,21 @@
 {
-  "jisCode": "11362",
-  "oldZipCode": "36916",
-  "zipCode": "3691626",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "チチブグンミナノマチ",
-  "townKana": "カミヒノザワ",
-  "prefecture": "埼玉県",
-  "city": "秩父郡皆野町",
-  "town": "上日野沢",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11362",
+      "oldZipCode": "36916",
+      "zipCode": "3691626",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "チチブグンミナノマチ",
+      "townKana": "カミヒノザワ",
+      "prefecture": "埼玉県",
+      "city": "秩父郡皆野町",
+      "town": "上日野沢",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

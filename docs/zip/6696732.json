@@ -1,17 +1,21 @@
 {
-  "jisCode": "28586",
-  "oldZipCode": "66967",
-  "zipCode": "6696732",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "ミカタグンシンオンセンチョウ",
-  "townKana": "フクトミ",
-  "prefecture": "兵庫県",
-  "city": "美方郡新温泉町",
-  "town": "福富",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28586",
+      "oldZipCode": "66967",
+      "zipCode": "6696732",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "ミカタグンシンオンセンチョウ",
+      "townKana": "フクトミ",
+      "prefecture": "兵庫県",
+      "city": "美方郡新温泉町",
+      "town": "福富",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

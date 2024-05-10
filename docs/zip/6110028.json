@@ -1,17 +1,21 @@
 {
-  "jisCode": "26204",
-  "oldZipCode": "611  ",
-  "zipCode": "6110028",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "ウジシ",
-  "townKana": "ナンリョウチョウ",
-  "prefecture": "京都府",
-  "city": "宇治市",
-  "town": "南陵町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26204",
+      "oldZipCode": "611  ",
+      "zipCode": "6110028",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "ウジシ",
+      "townKana": "ナンリョウチョウ",
+      "prefecture": "京都府",
+      "city": "宇治市",
+      "town": "南陵町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

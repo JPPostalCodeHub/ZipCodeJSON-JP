@@ -1,17 +1,38 @@
 {
-  "jisCode": "24201",
-  "oldZipCode": "51525",
-  "zipCode": "5152515",
-  "prefectureKana": "ミエケン",
-  "cityKana": "ツシ",
-  "townKana": "イチシチョウハタ（ソノタ）",
-  "prefecture": "三重県",
-  "city": "津市",
-  "town": "一志町八太（その他）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "24201",
+      "oldZipCode": "51525",
+      "zipCode": "5152515",
+      "prefectureKana": "ミエケン",
+      "cityKana": "ツシ",
+      "townKana": "イチシチョウハタ（イチシダンチ）",
+      "prefecture": "三重県",
+      "city": "津市",
+      "town": "一志町八太（一志団地）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "24201",
+      "oldZipCode": "51525",
+      "zipCode": "5152515",
+      "prefectureKana": "ミエケン",
+      "cityKana": "ツシ",
+      "townKana": "イチシチョウハタ（ソノタ）",
+      "prefecture": "三重県",
+      "city": "津市",
+      "town": "一志町八太（その他）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

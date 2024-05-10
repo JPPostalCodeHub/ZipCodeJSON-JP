@@ -1,17 +1,21 @@
 {
-  "jisCode": "43215",
-  "oldZipCode": "86173",
-  "zipCode": "8617311",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "アマクサシ",
-  "townKana": "アリアケマチコウツウラ",
-  "prefecture": "熊本県",
-  "city": "天草市",
-  "town": "有明町上津浦",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43215",
+      "oldZipCode": "86173",
+      "zipCode": "8617311",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "アマクサシ",
+      "townKana": "アリアケマチコウツウラ",
+      "prefecture": "熊本県",
+      "city": "天草市",
+      "town": "有明町上津浦",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

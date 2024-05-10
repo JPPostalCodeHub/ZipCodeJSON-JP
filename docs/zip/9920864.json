@@ -1,17 +1,21 @@
 {
-  "jisCode": "06402",
-  "oldZipCode": "99208",
-  "zipCode": "9920864",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "ニシオキタマグンシラタカマチ",
-  "townKana": "サノハラ",
-  "prefecture": "山形県",
-  "city": "西置賜郡白鷹町",
-  "town": "佐野原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06402",
+      "oldZipCode": "99208",
+      "zipCode": "9920864",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "ニシオキタマグンシラタカマチ",
+      "townKana": "サノハラ",
+      "prefecture": "山形県",
+      "city": "西置賜郡白鷹町",
+      "town": "佐野原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

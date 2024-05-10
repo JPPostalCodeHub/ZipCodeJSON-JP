@@ -1,17 +1,21 @@
 {
-  "jisCode": "34103",
-  "oldZipCode": "732  ",
-  "zipCode": "7320811",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "ヒロシマシミナミク",
-  "townKana": "ダンバラ",
-  "prefecture": "広島県",
-  "city": "広島市南区",
-  "town": "段原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34103",
+      "oldZipCode": "732  ",
+      "zipCode": "7320811",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ヒロシマシミナミク",
+      "townKana": "ダンバラ",
+      "prefecture": "広島県",
+      "city": "広島市南区",
+      "town": "段原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

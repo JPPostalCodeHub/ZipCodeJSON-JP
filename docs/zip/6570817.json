@@ -1,17 +1,21 @@
 {
-  "jisCode": "28102",
-  "oldZipCode": "657  ",
-  "zipCode": "6570817",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "コウベシナダク",
-  "townKana": "ウエノドオリ",
-  "prefecture": "兵庫県",
-  "city": "神戸市灘区",
-  "town": "上野通",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28102",
+      "oldZipCode": "657  ",
+      "zipCode": "6570817",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "コウベシナダク",
+      "townKana": "ウエノドオリ",
+      "prefecture": "兵庫県",
+      "city": "神戸市灘区",
+      "town": "上野通",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

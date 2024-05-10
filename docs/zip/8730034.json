@@ -1,17 +1,21 @@
 {
-  "jisCode": "44210",
-  "oldZipCode": "873  ",
-  "zipCode": "8730034",
-  "prefectureKana": "オオイタケン",
-  "cityKana": "キツキシ",
-  "townKana": "ヨコギ",
-  "prefecture": "大分県",
-  "city": "杵築市",
-  "town": "横城",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "44210",
+      "oldZipCode": "873  ",
+      "zipCode": "8730034",
+      "prefectureKana": "オオイタケン",
+      "cityKana": "キツキシ",
+      "townKana": "ヨコギ",
+      "prefecture": "大分県",
+      "city": "杵築市",
+      "town": "横城",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

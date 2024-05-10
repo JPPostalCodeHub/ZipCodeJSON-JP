@@ -1,17 +1,21 @@
 {
-  "jisCode": "01216",
-  "oldZipCode": "07913",
-  "zipCode": "0791371",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "アシベツシ",
-  "townKana": "カミアシベツチョウ",
-  "prefecture": "北海道",
-  "city": "芦別市",
-  "town": "上芦別町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01216",
+      "oldZipCode": "07913",
+      "zipCode": "0791371",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "アシベツシ",
+      "townKana": "カミアシベツチョウ",
+      "prefecture": "北海道",
+      "city": "芦別市",
+      "town": "上芦別町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

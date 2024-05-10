@@ -1,17 +1,21 @@
 {
-  "jisCode": "44211",
-  "oldZipCode": "87901",
-  "zipCode": "8790151",
-  "prefectureKana": "オオイタケン",
-  "cityKana": "ウサシ",
-  "townKana": "ミヤグマ",
-  "prefecture": "大分県",
-  "city": "宇佐市",
-  "town": "宮熊",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "44211",
+      "oldZipCode": "87901",
+      "zipCode": "8790151",
+      "prefectureKana": "オオイタケン",
+      "cityKana": "ウサシ",
+      "townKana": "ミヤグマ",
+      "prefecture": "大分県",
+      "city": "宇佐市",
+      "town": "宮熊",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

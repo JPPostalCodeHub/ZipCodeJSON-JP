@@ -1,17 +1,21 @@
 {
-  "jisCode": "40343",
-  "oldZipCode": "81122",
-  "zipCode": "8112246",
-  "prefectureKana": "フクオカケン",
-  "cityKana": "カスヤグンシメマチ",
-  "townKana": "カタミネチュウオウ",
-  "prefecture": "福岡県",
-  "city": "糟屋郡志免町",
-  "town": "片峰中央",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "40343",
+      "oldZipCode": "81122",
+      "zipCode": "8112246",
+      "prefectureKana": "フクオカケン",
+      "cityKana": "カスヤグンシメマチ",
+      "townKana": "カタミネチュウオウ",
+      "prefecture": "福岡県",
+      "city": "糟屋郡志免町",
+      "town": "片峰中央",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

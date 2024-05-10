@@ -1,17 +1,21 @@
 {
-  "jisCode": "30207",
-  "oldZipCode": "64712",
-  "zipCode": "6471201",
-  "prefectureKana": "ワカヤマケン",
-  "cityKana": "シングウシ",
-  "townKana": "クマノガワチョウカミナガイ",
-  "prefecture": "和歌山県",
-  "city": "新宮市",
-  "town": "熊野川町上長井",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "30207",
+      "oldZipCode": "64712",
+      "zipCode": "6471201",
+      "prefectureKana": "ワカヤマケン",
+      "cityKana": "シングウシ",
+      "townKana": "クマノガワチョウカミナガイ",
+      "prefecture": "和歌山県",
+      "city": "新宮市",
+      "town": "熊野川町上長井",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

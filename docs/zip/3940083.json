@@ -1,17 +1,21 @@
 {
-  "jisCode": "20204",
-  "oldZipCode": "394  ",
-  "zipCode": "3940083",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "オカヤシ",
-  "townKana": "オサチシバミヤ",
-  "prefecture": "長野県",
-  "city": "岡谷市",
-  "town": "長地柴宮",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20204",
+      "oldZipCode": "394  ",
+      "zipCode": "3940083",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "オカヤシ",
+      "townKana": "オサチシバミヤ",
+      "prefecture": "長野県",
+      "city": "岡谷市",
+      "town": "長地柴宮",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

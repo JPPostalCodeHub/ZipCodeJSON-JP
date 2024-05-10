@@ -1,17 +1,21 @@
 {
-  "jisCode": "31201",
-  "oldZipCode": "68014",
-  "zipCode": "6801422",
-  "prefectureKana": "トットリケン",
-  "cityKana": "トットリシ",
-  "townKana": "ウエバラ",
-  "prefecture": "鳥取県",
-  "city": "鳥取市",
-  "town": "上原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "31201",
+      "oldZipCode": "68014",
+      "zipCode": "6801422",
+      "prefectureKana": "トットリケン",
+      "cityKana": "トットリシ",
+      "townKana": "ウエバラ",
+      "prefecture": "鳥取県",
+      "city": "鳥取市",
+      "town": "上原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

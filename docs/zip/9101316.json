@@ -1,17 +1,21 @@
 {
-  "jisCode": "18322",
-  "oldZipCode": "91013",
-  "zipCode": "9101316",
-  "prefectureKana": "フクイケン",
-  "cityKana": "ヨシダグンエイヘイジチョウ",
-  "townKana": "イチウエモンジマ",
-  "prefecture": "福井県",
-  "city": "吉田郡永平寺町",
-  "town": "市右エ門島",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18322",
+      "oldZipCode": "91013",
+      "zipCode": "9101316",
+      "prefectureKana": "フクイケン",
+      "cityKana": "ヨシダグンエイヘイジチョウ",
+      "townKana": "イチウエモンジマ",
+      "prefecture": "福井県",
+      "city": "吉田郡永平寺町",
+      "town": "市右エ門島",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

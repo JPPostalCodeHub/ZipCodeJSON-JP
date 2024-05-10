@@ -1,17 +1,21 @@
 {
-  "jisCode": "01485",
-  "oldZipCode": "07844",
-  "zipCode": "0784411",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "トママエグンショサンベツムラ",
-  "townKana": "アリアケ",
-  "prefecture": "北海道",
-  "city": "苫前郡初山別村",
-  "town": "有明",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01485",
+      "oldZipCode": "07844",
+      "zipCode": "0784411",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "トママエグンショサンベツムラ",
+      "townKana": "アリアケ",
+      "prefecture": "北海道",
+      "city": "苫前郡初山別村",
+      "town": "有明",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

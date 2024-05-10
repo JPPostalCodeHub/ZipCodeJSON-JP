@@ -1,17 +1,21 @@
 {
-  "jisCode": "11109",
-  "oldZipCode": "336  ",
-  "zipCode": "3360924",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "サイタマシミドリク",
-  "townKana": "ハスミシンデン",
-  "prefecture": "埼玉県",
-  "city": "さいたま市緑区",
-  "town": "蓮見新田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11109",
+      "oldZipCode": "336  ",
+      "zipCode": "3360924",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "サイタマシミドリク",
+      "townKana": "ハスミシンデン",
+      "prefecture": "埼玉県",
+      "city": "さいたま市緑区",
+      "town": "蓮見新田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

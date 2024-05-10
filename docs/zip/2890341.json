@@ -1,17 +1,21 @@
 {
-  "jisCode": "12236",
-  "oldZipCode": "28903",
-  "zipCode": "2890341",
-  "prefectureKana": "チバケン",
-  "cityKana": "カトリシ",
-  "townKana": "ムシハタ",
-  "prefecture": "千葉県",
-  "city": "香取市",
-  "town": "虫幡",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12236",
+      "oldZipCode": "28903",
+      "zipCode": "2890341",
+      "prefectureKana": "チバケン",
+      "cityKana": "カトリシ",
+      "townKana": "ムシハタ",
+      "prefecture": "千葉県",
+      "city": "香取市",
+      "town": "虫幡",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

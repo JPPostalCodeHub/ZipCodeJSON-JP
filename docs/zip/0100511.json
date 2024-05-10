@@ -1,17 +1,21 @@
 {
-  "jisCode": "05206",
-  "oldZipCode": "01005",
-  "zipCode": "0100511",
-  "prefectureKana": "アキタケン",
-  "cityKana": "オガシ",
-  "townKana": "フナガワミナトフナガワ",
-  "prefecture": "秋田県",
-  "city": "男鹿市",
-  "town": "船川港船川",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05206",
+      "oldZipCode": "01005",
+      "zipCode": "0100511",
+      "prefectureKana": "アキタケン",
+      "cityKana": "オガシ",
+      "townKana": "フナガワミナトフナガワ",
+      "prefecture": "秋田県",
+      "city": "男鹿市",
+      "town": "船川港船川",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "19422",
-  "oldZipCode": "40202",
-  "zipCode": "4020201",
-  "prefectureKana": "ヤマナシケン",
-  "cityKana": "ミナミツルグンドウシムラ",
-  "townKana": "ツキヨノ",
-  "prefecture": "山梨県",
-  "city": "南都留郡道志村",
-  "town": "月夜野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "19422",
+      "oldZipCode": "40202",
+      "zipCode": "4020201",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "ミナミツルグンドウシムラ",
+      "townKana": "ツキヨノ",
+      "prefecture": "山梨県",
+      "city": "南都留郡道志村",
+      "town": "月夜野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

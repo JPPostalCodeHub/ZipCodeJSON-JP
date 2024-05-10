@@ -1,17 +1,21 @@
 {
-  "jisCode": "16211",
-  "oldZipCode": "93302",
-  "zipCode": "9330228",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "イミズシ",
-  "townKana": "ホリオカミョウジンシン",
-  "prefecture": "富山県",
-  "city": "射水市",
-  "town": "堀岡明神新",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16211",
+      "oldZipCode": "93302",
+      "zipCode": "9330228",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "イミズシ",
+      "townKana": "ホリオカミョウジンシン",
+      "prefecture": "富山県",
+      "city": "射水市",
+      "town": "堀岡明神新",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

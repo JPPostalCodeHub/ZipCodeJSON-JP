@@ -1,17 +1,21 @@
 {
-  "jisCode": "04104",
-  "oldZipCode": "982  ",
-  "zipCode": "9820802",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "センダイシタイハクク",
-  "townKana": "ヤギヤマヒガシ",
-  "prefecture": "宮城県",
-  "city": "仙台市太白区",
-  "town": "八木山東",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04104",
+      "oldZipCode": "982  ",
+      "zipCode": "9820802",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "センダイシタイハクク",
+      "townKana": "ヤギヤマヒガシ",
+      "prefecture": "宮城県",
+      "city": "仙台市太白区",
+      "town": "八木山東",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

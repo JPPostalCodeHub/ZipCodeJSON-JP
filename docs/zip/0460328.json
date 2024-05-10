@@ -1,17 +1,21 @@
 {
-  "jisCode": "01405",
-  "oldZipCode": "04603",
-  "zipCode": "0460328",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "シャコタングンシャコタンチョウ",
-  "townKana": "ホロムイチョウ",
-  "prefecture": "北海道",
-  "city": "積丹郡積丹町",
-  "town": "幌武意町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01405",
+      "oldZipCode": "04603",
+      "zipCode": "0460328",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "シャコタングンシャコタンチョウ",
+      "townKana": "ホロムイチョウ",
+      "prefecture": "北海道",
+      "city": "積丹郡積丹町",
+      "town": "幌武意町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

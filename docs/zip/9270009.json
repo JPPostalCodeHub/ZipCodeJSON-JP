@@ -1,17 +1,21 @@
 {
-  "jisCode": "17461",
-  "oldZipCode": "927  ",
-  "zipCode": "9270009",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "ホウスグンアナミズマチ",
-  "townKana": "ビラ",
-  "prefecture": "石川県",
-  "city": "鳳珠郡穴水町",
-  "town": "比良",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17461",
+      "oldZipCode": "927  ",
+      "zipCode": "9270009",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "ホウスグンアナミズマチ",
+      "townKana": "ビラ",
+      "prefecture": "石川県",
+      "city": "鳳珠郡穴水町",
+      "town": "比良",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

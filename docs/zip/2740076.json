@@ -1,17 +1,21 @@
 {
-  "jisCode": "12204",
-  "oldZipCode": "274  ",
-  "zipCode": "2740076",
-  "prefectureKana": "チバケン",
-  "cityKana": "フナバシシ",
-  "townKana": "ヤクエンダイチョウ",
-  "prefecture": "千葉県",
-  "city": "船橋市",
-  "town": "薬園台町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12204",
+      "oldZipCode": "274  ",
+      "zipCode": "2740076",
+      "prefectureKana": "チバケン",
+      "cityKana": "フナバシシ",
+      "townKana": "ヤクエンダイチョウ",
+      "prefecture": "千葉県",
+      "city": "船橋市",
+      "town": "薬園台町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

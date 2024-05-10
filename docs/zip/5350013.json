@@ -1,17 +1,21 @@
 {
-  "jisCode": "27117",
-  "oldZipCode": "535  ",
-  "zipCode": "5350013",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "オオサカシアサヒク",
-  "townKana": "モリショウジ",
-  "prefecture": "大阪府",
-  "city": "大阪市旭区",
-  "town": "森小路",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27117",
+      "oldZipCode": "535  ",
+      "zipCode": "5350013",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "オオサカシアサヒク",
+      "townKana": "モリショウジ",
+      "prefecture": "大阪府",
+      "city": "大阪市旭区",
+      "town": "森小路",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

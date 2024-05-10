@@ -1,17 +1,21 @@
 {
-  "jisCode": "11214",
-  "oldZipCode": "34401",
-  "zipCode": "3440106",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "カスカベシ",
-  "townKana": "キサキ",
-  "prefecture": "埼玉県",
-  "city": "春日部市",
-  "town": "木崎",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11214",
+      "oldZipCode": "34401",
+      "zipCode": "3440106",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "カスカベシ",
+      "townKana": "キサキ",
+      "prefecture": "埼玉県",
+      "city": "春日部市",
+      "town": "木崎",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

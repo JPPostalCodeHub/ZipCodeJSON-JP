@@ -1,17 +1,21 @@
 {
-  "jisCode": "05464",
-  "oldZipCode": "01908",
-  "zipCode": "0190803",
-  "prefectureKana": "アキタケン",
-  "cityKana": "オガチグンヒガシナルセムラ",
-  "townKana": "ツバキカワ",
-  "prefecture": "秋田県",
-  "city": "雄勝郡東成瀬村",
-  "town": "椿川",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05464",
+      "oldZipCode": "01908",
+      "zipCode": "0190803",
+      "prefectureKana": "アキタケン",
+      "cityKana": "オガチグンヒガシナルセムラ",
+      "townKana": "ツバキカワ",
+      "prefecture": "秋田県",
+      "city": "雄勝郡東成瀬村",
+      "town": "椿川",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "20207",
-  "oldZipCode": "382  ",
-  "zipCode": "3820087",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "スザカシ",
-  "townKana": "ヒガシヨコマチ",
-  "prefecture": "長野県",
-  "city": "須坂市",
-  "town": "東横町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20207",
+      "oldZipCode": "382  ",
+      "zipCode": "3820087",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "スザカシ",
+      "townKana": "ヒガシヨコマチ",
+      "prefecture": "長野県",
+      "city": "須坂市",
+      "town": "東横町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

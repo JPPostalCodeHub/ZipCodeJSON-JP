@@ -1,17 +1,21 @@
 {
-  "jisCode": "20349",
-  "oldZipCode": "38616",
-  "zipCode": "3861600",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "チイサガタグンアオキムラ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "長野県",
-  "city": "小県郡青木村",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20349",
+      "oldZipCode": "38616",
+      "zipCode": "3861600",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "チイサガタグンアオキムラ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "長野県",
+      "city": "小県郡青木村",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

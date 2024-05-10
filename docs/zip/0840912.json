@@ -1,17 +1,21 @@
 {
-  "jisCode": "01206",
-  "oldZipCode": "084  ",
-  "zipCode": "0840912",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "クシロシ",
-  "townKana": "ホシガウラオオドオリ",
-  "prefecture": "北海道",
-  "city": "釧路市",
-  "town": "星が浦大通",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01206",
+      "oldZipCode": "084  ",
+      "zipCode": "0840912",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "クシロシ",
+      "townKana": "ホシガウラオオドオリ",
+      "prefecture": "北海道",
+      "city": "釧路市",
+      "town": "星が浦大通",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

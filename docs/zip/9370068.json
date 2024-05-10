@@ -1,17 +1,38 @@
 {
-  "jisCode": "16204",
-  "oldZipCode": "937  ",
-  "zipCode": "9370068",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "ウオヅシ",
-  "townKana": "モトシンマチ",
-  "prefecture": "富山県",
-  "city": "魚津市",
-  "town": "本新町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16204",
+      "oldZipCode": "937  ",
+      "zipCode": "9370068",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "ウオヅシ",
+      "townKana": "モトシン",
+      "prefecture": "富山県",
+      "city": "魚津市",
+      "town": "本新",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "16204",
+      "oldZipCode": "937  ",
+      "zipCode": "9370068",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "ウオヅシ",
+      "townKana": "モトシンマチ",
+      "prefecture": "富山県",
+      "city": "魚津市",
+      "town": "本新町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

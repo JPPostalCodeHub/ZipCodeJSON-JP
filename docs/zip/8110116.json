@@ -1,17 +1,21 @@
 {
-  "jisCode": "40345",
-  "oldZipCode": "81101",
-  "zipCode": "8110116",
-  "prefectureKana": "フクオカケン",
-  "cityKana": "カスヤグンシングウマチ",
-  "townKana": "ミナト",
-  "prefecture": "福岡県",
-  "city": "糟屋郡新宮町",
-  "town": "湊",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "40345",
+      "oldZipCode": "81101",
+      "zipCode": "8110116",
+      "prefectureKana": "フクオカケン",
+      "cityKana": "カスヤグンシングウマチ",
+      "townKana": "ミナト",
+      "prefecture": "福岡県",
+      "city": "糟屋郡新宮町",
+      "town": "湊",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

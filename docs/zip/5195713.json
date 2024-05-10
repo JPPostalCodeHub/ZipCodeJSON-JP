@@ -1,17 +1,21 @@
 {
-  "jisCode": "24562",
-  "oldZipCode": "51957",
-  "zipCode": "5195713",
-  "prefectureKana": "ミエケン",
-  "cityKana": "ミナミムログンキホウチョウ",
-  "townKana": "ナルカワ",
-  "prefecture": "三重県",
-  "city": "南牟婁郡紀宝町",
-  "town": "成川",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "24562",
+      "oldZipCode": "51957",
+      "zipCode": "5195713",
+      "prefectureKana": "ミエケン",
+      "cityKana": "ミナミムログンキホウチョウ",
+      "townKana": "ナルカワ",
+      "prefecture": "三重県",
+      "city": "南牟婁郡紀宝町",
+      "town": "成川",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "03214",
-  "oldZipCode": "02873",
-  "zipCode": "0287304",
-  "prefectureKana": "イワテケン",
-  "cityKana": "ハチマンタイシ",
-  "townKana": "ミドリガオカ",
-  "prefecture": "岩手県",
-  "city": "八幡平市",
-  "town": "緑ガ丘",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "03214",
+      "oldZipCode": "02873",
+      "zipCode": "0287304",
+      "prefectureKana": "イワテケン",
+      "cityKana": "ハチマンタイシ",
+      "townKana": "ミドリガオカ",
+      "prefecture": "岩手県",
+      "city": "八幡平市",
+      "town": "緑ガ丘",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

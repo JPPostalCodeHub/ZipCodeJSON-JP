@@ -1,17 +1,21 @@
 {
-  "jisCode": "42213",
-  "oldZipCode": "85913",
-  "zipCode": "8591303",
-  "prefectureKana": "ナガサキケン",
-  "cityKana": "ウンゼンシ",
-  "townKana": "クニミチョウコウジロヘイ",
-  "prefecture": "長崎県",
-  "city": "雲仙市",
-  "town": "国見町神代丙",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "42213",
+      "oldZipCode": "85913",
+      "zipCode": "8591303",
+      "prefectureKana": "ナガサキケン",
+      "cityKana": "ウンゼンシ",
+      "townKana": "クニミチョウコウジロヘイ",
+      "prefecture": "長崎県",
+      "city": "雲仙市",
+      "town": "国見町神代丙",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

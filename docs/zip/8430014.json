@@ -1,17 +1,21 @@
 {
-  "jisCode": "41206",
-  "oldZipCode": "843  ",
-  "zipCode": "8430014",
-  "prefectureKana": "サガケン",
-  "cityKana": "タケオシ",
-  "townKana": "タチバナチョウナガシマ",
-  "prefecture": "佐賀県",
-  "city": "武雄市",
-  "town": "橘町永島",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "41206",
+      "oldZipCode": "843  ",
+      "zipCode": "8430014",
+      "prefectureKana": "サガケン",
+      "cityKana": "タケオシ",
+      "townKana": "タチバナチョウナガシマ",
+      "prefecture": "佐賀県",
+      "city": "武雄市",
+      "town": "橘町永島",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "12213",
-  "oldZipCode": "283  ",
-  "zipCode": "2830803",
-  "prefectureKana": "チバケン",
-  "cityKana": "トウガネシ",
-  "townKana": "ヒヨシダイ",
-  "prefecture": "千葉県",
-  "city": "東金市",
-  "town": "日吉台",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12213",
+      "oldZipCode": "283  ",
+      "zipCode": "2830803",
+      "prefectureKana": "チバケン",
+      "cityKana": "トウガネシ",
+      "townKana": "ヒヨシダイ",
+      "prefecture": "千葉県",
+      "city": "東金市",
+      "town": "日吉台",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

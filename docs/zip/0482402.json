@@ -1,17 +1,21 @@
 {
-  "jisCode": "01407",
-  "oldZipCode": "04824",
-  "zipCode": "0482402",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ヨイチグンニキチョウ",
-  "townKana": "オオエ（１チョウメ、２チョウメ＜６５１、６６２、６６８バンチ＞イガイ、３チョウメ５、１３−４、２０、６７８、６８７バンチ）",
-  "prefecture": "北海道",
-  "city": "余市郡仁木町",
-  "town": "大江（１丁目、２丁目「６５１、６６２、６６８番地」以外、３丁目５、１３−４、２０、６７８、６８７番地）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01407",
+      "oldZipCode": "04824",
+      "zipCode": "0482402",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ヨイチグンニキチョウ",
+      "townKana": "オオエ（１チョウメ、２チョウメ＜６５１、６６２、６６８バンチ＞イガイ、３チョウメ５、１３−４、２０、６７８、６８７バンチ）",
+      "prefecture": "北海道",
+      "city": "余市郡仁木町",
+      "town": "大江（１丁目、２丁目「６５１、６６２、６６８番地」以外、３丁目５、１３−４、２０、６７８、６８７番地）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "06204",
-  "oldZipCode": "99981",
-  "zipCode": "9998142",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "サカタシ",
-  "townKana": "キノワ",
-  "prefecture": "山形県",
-  "city": "酒田市",
-  "town": "城輪",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06204",
+      "oldZipCode": "99981",
+      "zipCode": "9998142",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "サカタシ",
+      "townKana": "キノワ",
+      "prefecture": "山形県",
+      "city": "酒田市",
+      "town": "城輪",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

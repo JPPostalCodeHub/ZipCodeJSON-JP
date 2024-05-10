@@ -1,17 +1,21 @@
 {
-  "jisCode": "47201",
-  "oldZipCode": "902  ",
-  "zipCode": "9020065",
-  "prefectureKana": "オキナワケン",
-  "cityKana": "ナハシ",
-  "townKana": "ツボヤ",
-  "prefecture": "沖縄県",
-  "city": "那覇市",
-  "town": "壺屋",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "47201",
+      "oldZipCode": "902  ",
+      "zipCode": "9020065",
+      "prefectureKana": "オキナワケン",
+      "cityKana": "ナハシ",
+      "townKana": "ツボヤ",
+      "prefecture": "沖縄県",
+      "city": "那覇市",
+      "town": "壺屋",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "22211",
-  "oldZipCode": "438  ",
-  "zipCode": "4380039",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "イワタシ",
-  "townKana": "トウシンチョウ",
-  "prefecture": "静岡県",
-  "city": "磐田市",
-  "town": "東新町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22211",
+      "oldZipCode": "438  ",
+      "zipCode": "4380039",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "イワタシ",
+      "townKana": "トウシンチョウ",
+      "prefecture": "静岡県",
+      "city": "磐田市",
+      "town": "東新町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

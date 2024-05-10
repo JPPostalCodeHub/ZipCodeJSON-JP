@@ -1,17 +1,21 @@
 {
-  "jisCode": "15206",
-  "oldZipCode": "95923",
-  "zipCode": "9592325",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "シバタシ",
-  "townKana": "テンノウ",
-  "prefecture": "新潟県",
-  "city": "新発田市",
-  "town": "天王",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15206",
+      "oldZipCode": "95923",
+      "zipCode": "9592325",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "シバタシ",
+      "townKana": "テンノウ",
+      "prefecture": "新潟県",
+      "city": "新発田市",
+      "town": "天王",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

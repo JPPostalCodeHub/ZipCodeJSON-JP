@@ -1,17 +1,21 @@
 {
-  "jisCode": "23207",
-  "oldZipCode": "44112",
-  "zipCode": "4411212",
-  "prefectureKana": "アイチケン",
-  "cityKana": "トヨカワシ",
-  "townKana": "カナザワチョウ",
-  "prefecture": "愛知県",
-  "city": "豊川市",
-  "town": "金沢町",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23207",
+      "oldZipCode": "44112",
+      "zipCode": "4411212",
+      "prefectureKana": "アイチケン",
+      "cityKana": "トヨカワシ",
+      "townKana": "カナザワチョウ",
+      "prefecture": "愛知県",
+      "city": "豊川市",
+      "town": "金沢町",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

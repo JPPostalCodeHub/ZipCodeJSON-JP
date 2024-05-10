@@ -1,17 +1,21 @@
 {
-  "jisCode": "12235",
-  "oldZipCode": "28921",
-  "zipCode": "2892155",
-  "prefectureKana": "チバケン",
-  "cityKana": "ソウサシ",
-  "townKana": "ヤッペ",
-  "prefecture": "千葉県",
-  "city": "匝瑳市",
-  "town": "八辺",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12235",
+      "oldZipCode": "28921",
+      "zipCode": "2892155",
+      "prefectureKana": "チバケン",
+      "cityKana": "ソウサシ",
+      "townKana": "ヤッペ",
+      "prefecture": "千葉県",
+      "city": "匝瑳市",
+      "town": "八辺",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "15223",
-  "oldZipCode": "95921",
-  "zipCode": "9592035",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "アガノシ",
-  "townKana": "イナリチョウ",
-  "prefecture": "新潟県",
-  "city": "阿賀野市",
-  "town": "稲荷町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15223",
+      "oldZipCode": "95921",
+      "zipCode": "9592035",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "アガノシ",
+      "townKana": "イナリチョウ",
+      "prefecture": "新潟県",
+      "city": "阿賀野市",
+      "town": "稲荷町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

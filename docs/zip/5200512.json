@@ -1,17 +1,21 @@
 {
-  "jisCode": "25201",
-  "oldZipCode": "52005",
-  "zipCode": "5200512",
-  "prefectureKana": "シガケン",
-  "cityKana": "オオツシ",
-  "townKana": "ダイモツ",
-  "prefecture": "滋賀県",
-  "city": "大津市",
-  "town": "大物",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "25201",
+      "oldZipCode": "52005",
+      "zipCode": "5200512",
+      "prefectureKana": "シガケン",
+      "cityKana": "オオツシ",
+      "townKana": "ダイモツ",
+      "prefecture": "滋賀県",
+      "city": "大津市",
+      "town": "大物",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

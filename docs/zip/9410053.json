@@ -1,17 +1,21 @@
 {
-  "jisCode": "15216",
-  "oldZipCode": "941  ",
-  "zipCode": "9410053",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "イトイガワシ",
-  "townKana": "ヒガシテラマチ",
-  "prefecture": "新潟県",
-  "city": "糸魚川市",
-  "town": "東寺町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15216",
+      "oldZipCode": "941  ",
+      "zipCode": "9410053",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "イトイガワシ",
+      "townKana": "ヒガシテラマチ",
+      "prefecture": "新潟県",
+      "city": "糸魚川市",
+      "town": "東寺町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

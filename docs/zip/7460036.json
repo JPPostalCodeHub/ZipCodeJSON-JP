@@ -1,17 +1,21 @@
 {
-  "jisCode": "35215",
-  "oldZipCode": "746  ",
-  "zipCode": "7460036",
-  "prefectureKana": "ヤマグチケン",
-  "cityKana": "シュウナンシ",
-  "townKana": "オンダ",
-  "prefecture": "山口県",
-  "city": "周南市",
-  "town": "温田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "35215",
+      "oldZipCode": "746  ",
+      "zipCode": "7460036",
+      "prefectureKana": "ヤマグチケン",
+      "cityKana": "シュウナンシ",
+      "townKana": "オンダ",
+      "prefecture": "山口県",
+      "city": "周南市",
+      "town": "温田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

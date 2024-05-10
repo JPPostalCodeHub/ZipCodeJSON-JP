@@ -1,17 +1,21 @@
 {
-  "jisCode": "15210",
-  "oldZipCode": "948  ",
-  "zipCode": "9480034",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "トオカマチシ",
-  "townKana": "フタツヤ",
-  "prefecture": "新潟県",
-  "city": "十日町市",
-  "town": "二ツ屋",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15210",
+      "oldZipCode": "948  ",
+      "zipCode": "9480034",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "トオカマチシ",
+      "townKana": "フタツヤ",
+      "prefecture": "新潟県",
+      "city": "十日町市",
+      "town": "二ツ屋",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

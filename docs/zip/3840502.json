@@ -1,17 +1,21 @@
 {
-  "jisCode": "20309",
-  "oldZipCode": "38405",
-  "zipCode": "3840502",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "ミナミサクグンサクホマチ",
-  "townKana": "オオヒナタ",
-  "prefecture": "長野県",
-  "city": "南佐久郡佐久穂町",
-  "town": "大日向",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20309",
+      "oldZipCode": "38405",
+      "zipCode": "3840502",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "ミナミサクグンサクホマチ",
+      "townKana": "オオヒナタ",
+      "prefecture": "長野県",
+      "city": "南佐久郡佐久穂町",
+      "town": "大日向",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

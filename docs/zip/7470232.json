@@ -1,17 +1,21 @@
 {
-  "jisCode": "35203",
-  "oldZipCode": "74702",
-  "zipCode": "7470232",
-  "prefectureKana": "ヤマグチケン",
-  "cityKana": "ヤマグチシ",
-  "townKana": "トクヂイカジ",
-  "prefecture": "山口県",
-  "city": "山口市",
-  "town": "徳地伊賀地",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "35203",
+      "oldZipCode": "74702",
+      "zipCode": "7470232",
+      "prefectureKana": "ヤマグチケン",
+      "cityKana": "ヤマグチシ",
+      "townKana": "トクヂイカジ",
+      "prefecture": "山口県",
+      "city": "山口市",
+      "town": "徳地伊賀地",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "47313",
-  "oldZipCode": "90413",
-  "zipCode": "9041304",
-  "prefectureKana": "オキナワケン",
-  "cityKana": "クニガミグンギノザソン",
-  "townKana": "カンナ",
-  "prefecture": "沖縄県",
-  "city": "国頭郡宜野座村",
-  "town": "漢那",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "47313",
+      "oldZipCode": "90413",
+      "zipCode": "9041304",
+      "prefectureKana": "オキナワケン",
+      "cityKana": "クニガミグンギノザソン",
+      "townKana": "カンナ",
+      "prefecture": "沖縄県",
+      "city": "国頭郡宜野座村",
+      "town": "漢那",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

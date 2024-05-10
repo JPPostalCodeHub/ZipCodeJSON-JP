@@ -1,17 +1,21 @@
 {
-  "jisCode": "33210",
-  "oldZipCode": "71926",
-  "zipCode": "7192643",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "ニイミシ",
-  "townKana": "ツチハシ（ソノタ）",
-  "prefecture": "岡山県",
-  "city": "新見市",
-  "town": "土橋（その他）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33210",
+      "oldZipCode": "71926",
+      "zipCode": "7192643",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "ニイミシ",
+      "townKana": "ツチハシ（ソノタ）",
+      "prefecture": "岡山県",
+      "city": "新見市",
+      "town": "土橋（その他）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

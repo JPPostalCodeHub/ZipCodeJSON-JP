@@ -1,17 +1,21 @@
 {
-  "jisCode": "04505",
-  "oldZipCode": "98942",
-  "zipCode": "9894203",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "トオダグンミサトマチ",
-  "townKana": "ネリウシ",
-  "prefecture": "宮城県",
-  "city": "遠田郡美里町",
-  "town": "練牛",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04505",
+      "oldZipCode": "98942",
+      "zipCode": "9894203",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "トオダグンミサトマチ",
+      "townKana": "ネリウシ",
+      "prefecture": "宮城県",
+      "city": "遠田郡美里町",
+      "town": "練牛",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "30304",
-  "oldZipCode": "64011",
-  "zipCode": "6401102",
-  "prefectureKana": "ワカヤマケン",
-  "cityKana": "カイソウグンキミノチョウ",
-  "townKana": "シバメ",
-  "prefecture": "和歌山県",
-  "city": "海草郡紀美野町",
-  "town": "柴目",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "30304",
+      "oldZipCode": "64011",
+      "zipCode": "6401102",
+      "prefectureKana": "ワカヤマケン",
+      "cityKana": "カイソウグンキミノチョウ",
+      "townKana": "シバメ",
+      "prefecture": "和歌山県",
+      "city": "海草郡紀美野町",
+      "town": "柴目",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

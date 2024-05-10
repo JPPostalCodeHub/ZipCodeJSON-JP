@@ -1,17 +1,21 @@
 {
-  "jisCode": "30381",
-  "oldZipCode": "644  ",
-  "zipCode": "6440042",
-  "prefectureKana": "ワカヤマケン",
-  "cityKana": "ヒダカグンミハマチョウ",
-  "townKana": "ハマノセ",
-  "prefecture": "和歌山県",
-  "city": "日高郡美浜町",
-  "town": "浜ノ瀬",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "30381",
+      "oldZipCode": "644  ",
+      "zipCode": "6440042",
+      "prefectureKana": "ワカヤマケン",
+      "cityKana": "ヒダカグンミハマチョウ",
+      "townKana": "ハマノセ",
+      "prefecture": "和歌山県",
+      "city": "日高郡美浜町",
+      "town": "浜ノ瀬",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

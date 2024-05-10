@@ -1,17 +1,21 @@
 {
-  "jisCode": "34215",
-  "oldZipCode": "73722",
-  "zipCode": "7372211",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "エタジマシ",
-  "townKana": "オオガキチョウカキウラ",
-  "prefecture": "広島県",
-  "city": "江田島市",
-  "town": "大柿町柿浦",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34215",
+      "oldZipCode": "73722",
+      "zipCode": "7372211",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "エタジマシ",
+      "townKana": "オオガキチョウカキウラ",
+      "prefecture": "広島県",
+      "city": "江田島市",
+      "town": "大柿町柿浦",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

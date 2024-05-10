@@ -1,17 +1,21 @@
 {
-  "jisCode": "46215",
-  "oldZipCode": "89616",
-  "zipCode": "8961602",
-  "prefectureKana": "カゴシマケン",
-  "cityKana": "サツマセンダイシ",
-  "townKana": "シモコシキチョウカタノウラ",
-  "prefecture": "鹿児島県",
-  "city": "薩摩川内市",
-  "town": "下甑町片野浦",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "46215",
+      "oldZipCode": "89616",
+      "zipCode": "8961602",
+      "prefectureKana": "カゴシマケン",
+      "cityKana": "サツマセンダイシ",
+      "townKana": "シモコシキチョウカタノウラ",
+      "prefecture": "鹿児島県",
+      "city": "薩摩川内市",
+      "town": "下甑町片野浦",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

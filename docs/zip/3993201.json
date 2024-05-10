@@ -1,17 +1,21 @@
 {
-  "jisCode": "20416",
-  "oldZipCode": "39932",
-  "zipCode": "3993201",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "シモイナグントヨオカムラ",
-  "townKana": "カワノ（ソノタ）",
-  "prefecture": "長野県",
-  "city": "下伊那郡豊丘村",
-  "town": "河野（その他）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20416",
+      "oldZipCode": "39932",
+      "zipCode": "3993201",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "シモイナグントヨオカムラ",
+      "townKana": "カワノ（ソノタ）",
+      "prefecture": "長野県",
+      "city": "下伊那郡豊丘村",
+      "town": "河野（その他）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

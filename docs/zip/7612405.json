@@ -1,17 +1,21 @@
 {
-  "jisCode": "37202",
-  "oldZipCode": "76124",
-  "zipCode": "7612405",
-  "prefectureKana": "カガワケン",
-  "cityKana": "マルガメシ",
-  "townKana": "アヤウタチョウクリクマニシ",
-  "prefecture": "香川県",
-  "city": "丸亀市",
-  "town": "綾歌町栗熊西",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "37202",
+      "oldZipCode": "76124",
+      "zipCode": "7612405",
+      "prefectureKana": "カガワケン",
+      "cityKana": "マルガメシ",
+      "townKana": "アヤウタチョウクリクマニシ",
+      "prefecture": "香川県",
+      "city": "丸亀市",
+      "town": "綾歌町栗熊西",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

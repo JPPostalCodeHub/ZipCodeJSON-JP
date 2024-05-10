@@ -1,17 +1,21 @@
 {
-  "jisCode": "34204",
-  "oldZipCode": "72903",
-  "zipCode": "7290324",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "ミハラシ",
-  "townKana": "イトサキ",
-  "prefecture": "広島県",
-  "city": "三原市",
-  "town": "糸崎",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34204",
+      "oldZipCode": "72903",
+      "zipCode": "7290324",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ミハラシ",
+      "townKana": "イトサキ",
+      "prefecture": "広島県",
+      "city": "三原市",
+      "town": "糸崎",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

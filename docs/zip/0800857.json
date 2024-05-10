@@ -1,17 +1,21 @@
 {
-  "jisCode": "01207",
-  "oldZipCode": "080  ",
-  "zipCode": "0800857",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "オビヒロシ",
-  "townKana": "ミナミマチ",
-  "prefecture": "北海道",
-  "city": "帯広市",
-  "town": "南町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01207",
+      "oldZipCode": "080  ",
+      "zipCode": "0800857",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "オビヒロシ",
+      "townKana": "ミナミマチ",
+      "prefecture": "北海道",
+      "city": "帯広市",
+      "town": "南町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

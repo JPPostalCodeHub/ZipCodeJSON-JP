@@ -1,17 +1,21 @@
 {
-  "jisCode": "15222",
-  "oldZipCode": "943  ",
-  "zipCode": "9430823",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ジョウエツシ",
-  "townKana": "コウドチョウ",
-  "prefecture": "新潟県",
-  "city": "上越市",
-  "town": "高土町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15222",
+      "oldZipCode": "943  ",
+      "zipCode": "9430823",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ジョウエツシ",
+      "townKana": "コウドチョウ",
+      "prefecture": "新潟県",
+      "city": "上越市",
+      "town": "高土町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

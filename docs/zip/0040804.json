@@ -1,17 +1,21 @@
 {
-  "jisCode": "01110",
-  "oldZipCode": "004  ",
-  "zipCode": "0040804",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "サッポロシキヨタク",
-  "townKana": "サトヅカ４ジョウ",
-  "prefecture": "北海道",
-  "city": "札幌市清田区",
-  "town": "里塚四条",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01110",
+      "oldZipCode": "004  ",
+      "zipCode": "0040804",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "サッポロシキヨタク",
+      "townKana": "サトヅカ４ジョウ",
+      "prefecture": "北海道",
+      "city": "札幌市清田区",
+      "town": "里塚四条",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

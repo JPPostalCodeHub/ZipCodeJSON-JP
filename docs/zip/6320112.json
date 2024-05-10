@@ -1,17 +1,21 @@
 {
-  "jisCode": "29201",
-  "oldZipCode": "63201",
-  "zipCode": "6320112",
-  "prefectureKana": "ナラケン",
-  "cityKana": "ナラシ",
-  "townKana": "ハリガベッショチョウ",
-  "prefecture": "奈良県",
-  "city": "奈良市",
-  "town": "針ヶ別所町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "29201",
+      "oldZipCode": "63201",
+      "zipCode": "6320112",
+      "prefectureKana": "ナラケン",
+      "cityKana": "ナラシ",
+      "townKana": "ハリガベッショチョウ",
+      "prefecture": "奈良県",
+      "city": "奈良市",
+      "town": "針ヶ別所町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "24201",
-  "oldZipCode": "51423",
-  "zipCode": "5142326",
-  "prefectureKana": "ミエケン",
-  "cityKana": "ツシ",
-  "townKana": "アノウチョウトウカンオンジ",
-  "prefecture": "三重県",
-  "city": "津市",
-  "town": "安濃町東観音寺",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "24201",
+      "oldZipCode": "51423",
+      "zipCode": "5142326",
+      "prefectureKana": "ミエケン",
+      "cityKana": "ツシ",
+      "townKana": "アノウチョウトウカンオンジ",
+      "prefecture": "三重県",
+      "city": "津市",
+      "town": "安濃町東観音寺",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

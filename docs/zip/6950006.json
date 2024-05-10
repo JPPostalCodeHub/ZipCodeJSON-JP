@@ -1,17 +1,21 @@
 {
-  "jisCode": "32207",
-  "oldZipCode": "695  ",
-  "zipCode": "6950006",
-  "prefectureKana": "シマネケン",
-  "cityKana": "ゴウツシ",
-  "townKana": "マツカワチョウヤカミ",
-  "prefecture": "島根県",
-  "city": "江津市",
-  "town": "松川町八神",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "32207",
+      "oldZipCode": "695  ",
+      "zipCode": "6950006",
+      "prefectureKana": "シマネケン",
+      "cityKana": "ゴウツシ",
+      "townKana": "マツカワチョウヤカミ",
+      "prefecture": "島根県",
+      "city": "江津市",
+      "town": "松川町八神",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

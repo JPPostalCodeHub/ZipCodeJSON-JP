@@ -1,17 +1,21 @@
 {
-  "jisCode": "15202",
-  "oldZipCode": "94021",
-  "zipCode": "9402111",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ナガオカシ",
-  "townKana": "ミツゴウヤ",
-  "prefecture": "新潟県",
-  "city": "長岡市",
-  "town": "三ツ郷屋",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15202",
+      "oldZipCode": "94021",
+      "zipCode": "9402111",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ナガオカシ",
+      "townKana": "ミツゴウヤ",
+      "prefecture": "新潟県",
+      "city": "長岡市",
+      "town": "三ツ郷屋",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,38 @@
 {
-  "jisCode": "01337",
-  "oldZipCode": "04111",
-  "zipCode": "0411112",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "カメダグンナナエチョウ",
-  "townKana": "ナルカワチョウ",
-  "prefecture": "北海道",
-  "city": "亀田郡七飯町",
-  "town": "鳴川町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01337",
+      "oldZipCode": "04111",
+      "zipCode": "0411112",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "カメダグンナナエチョウ",
+      "townKana": "ナルカワ",
+      "prefecture": "北海道",
+      "city": "亀田郡七飯町",
+      "town": "鳴川",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "01337",
+      "oldZipCode": "04111",
+      "zipCode": "0411112",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "カメダグンナナエチョウ",
+      "townKana": "ナルカワチョウ",
+      "prefecture": "北海道",
+      "city": "亀田郡七飯町",
+      "town": "鳴川町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

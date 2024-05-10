@@ -1,17 +1,21 @@
 {
-  "jisCode": "31364",
-  "oldZipCode": "68203",
-  "zipCode": "6820303",
-  "prefectureKana": "トットリケン",
-  "cityKana": "トウハクグンミササチョウ",
-  "townKana": "アナガモ",
-  "prefecture": "鳥取県",
-  "city": "東伯郡三朝町",
-  "town": "穴鴨",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "31364",
+      "oldZipCode": "68203",
+      "zipCode": "6820303",
+      "prefectureKana": "トットリケン",
+      "cityKana": "トウハクグンミササチョウ",
+      "townKana": "アナガモ",
+      "prefecture": "鳥取県",
+      "city": "東伯郡三朝町",
+      "town": "穴鴨",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

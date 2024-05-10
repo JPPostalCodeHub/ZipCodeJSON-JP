@@ -1,17 +1,21 @@
 {
-  "jisCode": "01226",
-  "oldZipCode": "07301",
-  "zipCode": "0730167",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "スナガワシ",
-  "townKana": "ニシ７ジョウキタ",
-  "prefecture": "北海道",
-  "city": "砂川市",
-  "town": "西七条北",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01226",
+      "oldZipCode": "07301",
+      "zipCode": "0730167",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "スナガワシ",
+      "townKana": "ニシ７ジョウキタ",
+      "prefecture": "北海道",
+      "city": "砂川市",
+      "town": "西七条北",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

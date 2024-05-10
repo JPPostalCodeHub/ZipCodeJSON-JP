@@ -1,17 +1,21 @@
 {
-  "jisCode": "08230",
-  "oldZipCode": "30001",
-  "zipCode": "3000131",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "カスミガウラシ",
-  "townKana": "シモオオヅツミ",
-  "prefecture": "茨城県",
-  "city": "かすみがうら市",
-  "town": "下大堤",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08230",
+      "oldZipCode": "30001",
+      "zipCode": "3000131",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "カスミガウラシ",
+      "townKana": "シモオオヅツミ",
+      "prefecture": "茨城県",
+      "city": "かすみがうら市",
+      "town": "下大堤",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

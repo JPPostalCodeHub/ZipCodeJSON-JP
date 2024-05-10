@@ -1,17 +1,21 @@
 {
-  "jisCode": "33215",
-  "oldZipCode": "70942",
-  "zipCode": "7094201",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "ミマサカシ",
-  "townKana": "オブサ",
-  "prefecture": "岡山県",
-  "city": "美作市",
-  "town": "小房",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33215",
+      "oldZipCode": "70942",
+      "zipCode": "7094201",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "ミマサカシ",
+      "townKana": "オブサ",
+      "prefecture": "岡山県",
+      "city": "美作市",
+      "town": "小房",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

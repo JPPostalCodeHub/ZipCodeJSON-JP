@@ -1,17 +1,21 @@
 {
-  "jisCode": "27141",
-  "oldZipCode": "590  ",
-  "zipCode": "5900974",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "サカイシサカイク",
-  "townKana": "オオハマキタマチ",
-  "prefecture": "大阪府",
-  "city": "堺市堺区",
-  "town": "大浜北町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27141",
+      "oldZipCode": "590  ",
+      "zipCode": "5900974",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "サカイシサカイク",
+      "townKana": "オオハマキタマチ",
+      "prefecture": "大阪府",
+      "city": "堺市堺区",
+      "town": "大浜北町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "07464",
-  "oldZipCode": "96901",
-  "zipCode": "9690106",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "ニシシラカワグンイズミザキムラ",
-  "townKana": "セキワグ（ヤグモジンジャ）",
-  "prefecture": "福島県",
-  "city": "西白河郡泉崎村",
-  "town": "関和久（八雲神社）",
-  "multipleZipCodes": "1",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07464",
+      "oldZipCode": "96901",
+      "zipCode": "9690106",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "ニシシラカワグンイズミザキムラ",
+      "townKana": "セキワグ（ヤグモジンジャ）",
+      "prefecture": "福島県",
+      "city": "西白河郡泉崎村",
+      "town": "関和久（八雲神社）",
+      "multipleZipCodes": "1",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

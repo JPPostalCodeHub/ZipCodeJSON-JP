@@ -1,17 +1,21 @@
 {
-  "jisCode": "29425",
-  "oldZipCode": "636  ",
-  "zipCode": "6360002",
-  "prefectureKana": "ナラケン",
-  "cityKana": "キタカツラギグンオウジチョウ",
-  "townKana": "オウジ",
-  "prefecture": "奈良県",
-  "city": "北葛城郡王寺町",
-  "town": "王寺",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "29425",
+      "oldZipCode": "636  ",
+      "zipCode": "6360002",
+      "prefectureKana": "ナラケン",
+      "cityKana": "キタカツラギグンオウジチョウ",
+      "townKana": "オウジ",
+      "prefecture": "奈良県",
+      "city": "北葛城郡王寺町",
+      "town": "王寺",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

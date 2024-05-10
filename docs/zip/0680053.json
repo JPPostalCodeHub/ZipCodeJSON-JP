@@ -1,17 +1,21 @@
 {
-  "jisCode": "01210",
-  "oldZipCode": "068  ",
-  "zipCode": "0680053",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "イワミザワシ",
-  "townKana": "キタホンチョウニシ",
-  "prefecture": "北海道",
-  "city": "岩見沢市",
-  "town": "北本町西",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01210",
+      "oldZipCode": "068  ",
+      "zipCode": "0680053",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "イワミザワシ",
+      "townKana": "キタホンチョウニシ",
+      "prefecture": "北海道",
+      "city": "岩見沢市",
+      "town": "北本町西",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

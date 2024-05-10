@@ -1,17 +1,21 @@
 {
-  "jisCode": "11383",
-  "oldZipCode": "36702",
-  "zipCode": "3670241",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "コダマグンカミカワマチ",
-  "townKana": "モトハラ",
-  "prefecture": "埼玉県",
-  "city": "児玉郡神川町",
-  "town": "元原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11383",
+      "oldZipCode": "36702",
+      "zipCode": "3670241",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "コダマグンカミカワマチ",
+      "townKana": "モトハラ",
+      "prefecture": "埼玉県",
+      "city": "児玉郡神川町",
+      "town": "元原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "30341",
-  "oldZipCode": "64971",
-  "zipCode": "6497114",
-  "prefectureKana": "ワカヤマケン",
-  "cityKana": "イトグンカツラギチョウ",
-  "townKana": "ニシイブリ",
-  "prefecture": "和歌山県",
-  "city": "伊都郡かつらぎ町",
-  "town": "西飯降",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "30341",
+      "oldZipCode": "64971",
+      "zipCode": "6497114",
+      "prefectureKana": "ワカヤマケン",
+      "cityKana": "イトグンカツラギチョウ",
+      "townKana": "ニシイブリ",
+      "prefecture": "和歌山県",
+      "city": "伊都郡かつらぎ町",
+      "town": "西飯降",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "11231",
-  "oldZipCode": "363  ",
-  "zipCode": "3630026",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "オケガワシ",
-  "townKana": "カミヒデヤ",
-  "prefecture": "埼玉県",
-  "city": "桶川市",
-  "town": "上日出谷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11231",
+      "oldZipCode": "363  ",
+      "zipCode": "3630026",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "オケガワシ",
+      "townKana": "カミヒデヤ",
+      "prefecture": "埼玉県",
+      "city": "桶川市",
+      "town": "上日出谷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

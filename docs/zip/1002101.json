@@ -1,17 +1,21 @@
 {
-  "jisCode": "13421",
-  "oldZipCode": "10021",
-  "zipCode": "1002101",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "オガサワラムラ",
-  "townKana": "チチジマ",
-  "prefecture": "東京都",
-  "city": "小笠原村",
-  "town": "父島",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13421",
+      "oldZipCode": "10021",
+      "zipCode": "1002101",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "オガサワラムラ",
+      "townKana": "チチジマ",
+      "prefecture": "東京都",
+      "city": "小笠原村",
+      "town": "父島",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

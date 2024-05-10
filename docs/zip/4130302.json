@@ -1,17 +1,38 @@
 {
-  "jisCode": "22301",
-  "oldZipCode": "41303",
-  "zipCode": "4130302",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "カモグンヒガシイズチョウ",
-  "townKana": "ホツカワ",
-  "prefecture": "静岡県",
-  "city": "賀茂郡東伊豆町",
-  "town": "北川",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22301",
+      "oldZipCode": "41303",
+      "zipCode": "4130302",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "カモグンヒガシイズチョウ",
+      "townKana": "ナラモト",
+      "prefecture": "静岡県",
+      "city": "賀茂郡東伊豆町",
+      "town": "奈良本",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "22301",
+      "oldZipCode": "41303",
+      "zipCode": "4130302",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "カモグンヒガシイズチョウ",
+      "townKana": "ホツカワ",
+      "prefecture": "静岡県",
+      "city": "賀茂郡東伊豆町",
+      "town": "北川",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

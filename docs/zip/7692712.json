@@ -1,17 +1,21 @@
 {
-  "jisCode": "37207",
-  "oldZipCode": "76927",
-  "zipCode": "7692712",
-  "prefectureKana": "カガワケン",
-  "cityKana": "ヒガシカガワシ",
-  "townKana": "ニシヤマ",
-  "prefecture": "香川県",
-  "city": "東かがわ市",
-  "town": "西山",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "37207",
+      "oldZipCode": "76927",
+      "zipCode": "7692712",
+      "prefectureKana": "カガワケン",
+      "cityKana": "ヒガシカガワシ",
+      "townKana": "ニシヤマ",
+      "prefecture": "香川県",
+      "city": "東かがわ市",
+      "town": "西山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "08233",
-  "oldZipCode": "31138",
-  "zipCode": "3113812",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "ナメガタシ",
-  "townKana": "スギダイラ",
-  "prefecture": "茨城県",
-  "city": "行方市",
-  "town": "杉平",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08233",
+      "oldZipCode": "31138",
+      "zipCode": "3113812",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "ナメガタシ",
+      "townKana": "スギダイラ",
+      "prefecture": "茨城県",
+      "city": "行方市",
+      "town": "杉平",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "28213",
-  "oldZipCode": "677  ",
-  "zipCode": "6770025",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "ニシワキシ",
-  "townKana": "オオノ",
-  "prefecture": "兵庫県",
-  "city": "西脇市",
-  "town": "大野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28213",
+      "oldZipCode": "677  ",
+      "zipCode": "6770025",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "ニシワキシ",
+      "townKana": "オオノ",
+      "prefecture": "兵庫県",
+      "city": "西脇市",
+      "town": "大野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

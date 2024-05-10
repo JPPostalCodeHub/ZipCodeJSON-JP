@@ -1,17 +1,21 @@
 {
-  "jisCode": "45201",
-  "oldZipCode": "88002",
-  "zipCode": "8800212",
-  "prefectureKana": "ミヤザキケン",
-  "cityKana": "ミヤザキシ",
-  "townKana": "サドワラチョウシモナカ",
-  "prefecture": "宮崎県",
-  "city": "宮崎市",
-  "town": "佐土原町下那珂",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "45201",
+      "oldZipCode": "88002",
+      "zipCode": "8800212",
+      "prefectureKana": "ミヤザキケン",
+      "cityKana": "ミヤザキシ",
+      "townKana": "サドワラチョウシモナカ",
+      "prefecture": "宮崎県",
+      "city": "宮崎市",
+      "town": "佐土原町下那珂",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

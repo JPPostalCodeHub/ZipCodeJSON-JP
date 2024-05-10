@@ -1,17 +1,21 @@
 {
-  "jisCode": "28223",
-  "oldZipCode": "66943",
-  "zipCode": "6694345",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "タンバシ",
-  "townKana": "イチジマチョウトクオ",
-  "prefecture": "兵庫県",
-  "city": "丹波市",
-  "town": "市島町徳尾",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28223",
+      "oldZipCode": "66943",
+      "zipCode": "6694345",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "タンバシ",
+      "townKana": "イチジマチョウトクオ",
+      "prefecture": "兵庫県",
+      "city": "丹波市",
+      "town": "市島町徳尾",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

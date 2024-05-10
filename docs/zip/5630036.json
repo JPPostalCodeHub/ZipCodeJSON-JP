@@ -1,17 +1,21 @@
 {
-  "jisCode": "27204",
-  "oldZipCode": "563  ",
-  "zipCode": "5630036",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "イケダシ",
-  "townKana": "トヨシマキタ",
-  "prefecture": "大阪府",
-  "city": "池田市",
-  "town": "豊島北",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27204",
+      "oldZipCode": "563  ",
+      "zipCode": "5630036",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "イケダシ",
+      "townKana": "トヨシマキタ",
+      "prefecture": "大阪府",
+      "city": "池田市",
+      "town": "豊島北",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

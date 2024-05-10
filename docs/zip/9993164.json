@@ -1,17 +1,21 @@
 {
-  "jisCode": "06207",
-  "oldZipCode": "99931",
-  "zipCode": "9993164",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "カミノヤマシ",
-  "townKana": "アサヒダイ",
-  "prefecture": "山形県",
-  "city": "上山市",
-  "town": "朝日台",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06207",
+      "oldZipCode": "99931",
+      "zipCode": "9993164",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "カミノヤマシ",
+      "townKana": "アサヒダイ",
+      "prefecture": "山形県",
+      "city": "上山市",
+      "town": "朝日台",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

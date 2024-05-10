@@ -1,17 +1,21 @@
 {
-  "jisCode": "22208",
-  "oldZipCode": "414  ",
-  "zipCode": "4140002",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "イトウシ",
-  "townKana": "ユカワ",
-  "prefecture": "静岡県",
-  "city": "伊東市",
-  "town": "湯川",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22208",
+      "oldZipCode": "414  ",
+      "zipCode": "4140002",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "イトウシ",
+      "townKana": "ユカワ",
+      "prefecture": "静岡県",
+      "city": "伊東市",
+      "town": "湯川",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

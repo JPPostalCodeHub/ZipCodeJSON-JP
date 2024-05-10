@@ -1,17 +1,21 @@
 {
-  "jisCode": "16208",
-  "oldZipCode": "93913",
-  "zipCode": "9391303",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "トナミシ",
-  "townKana": "オオクボ",
-  "prefecture": "富山県",
-  "city": "砺波市",
-  "town": "大窪",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16208",
+      "oldZipCode": "93913",
+      "zipCode": "9391303",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "トナミシ",
+      "townKana": "オオクボ",
+      "prefecture": "富山県",
+      "city": "砺波市",
+      "town": "大窪",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

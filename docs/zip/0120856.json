@@ -1,17 +1,21 @@
 {
-  "jisCode": "05207",
-  "oldZipCode": "012  ",
-  "zipCode": "0120856",
-  "prefectureKana": "アキタケン",
-  "cityKana": "ユザワシ",
-  "townKana": "オカチマチ",
-  "prefecture": "秋田県",
-  "city": "湯沢市",
-  "town": "御囲地町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05207",
+      "oldZipCode": "012  ",
+      "zipCode": "0120856",
+      "prefectureKana": "アキタケン",
+      "cityKana": "ユザワシ",
+      "townKana": "オカチマチ",
+      "prefecture": "秋田県",
+      "city": "湯沢市",
+      "town": "御囲地町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

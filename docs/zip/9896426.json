@@ -1,17 +1,21 @@
 {
-  "jisCode": "04215",
-  "oldZipCode": "98964",
-  "zipCode": "9896426",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "オオサキシ",
-  "townKana": "イワデヤマヒガシオナカケ",
-  "prefecture": "宮城県",
-  "city": "大崎市",
-  "town": "岩出山東御名掛",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04215",
+      "oldZipCode": "98964",
+      "zipCode": "9896426",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "オオサキシ",
+      "townKana": "イワデヤマヒガシオナカケ",
+      "prefecture": "宮城県",
+      "city": "大崎市",
+      "town": "岩出山東御名掛",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "24443",
-  "oldZipCode": "51925",
-  "zipCode": "5192516",
-  "prefectureKana": "ミエケン",
-  "cityKana": "タキグンオオダイチョウ",
-  "townKana": "カラト",
-  "prefecture": "三重県",
-  "city": "多気郡大台町",
-  "town": "唐櫃",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "24443",
+      "oldZipCode": "51925",
+      "zipCode": "5192516",
+      "prefectureKana": "ミエケン",
+      "cityKana": "タキグンオオダイチョウ",
+      "townKana": "カラト",
+      "prefecture": "三重県",
+      "city": "多気郡大台町",
+      "town": "唐櫃",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

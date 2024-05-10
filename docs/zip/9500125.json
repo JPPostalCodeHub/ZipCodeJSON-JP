@@ -1,17 +1,21 @@
 {
-  "jisCode": "15104",
-  "oldZipCode": "95001",
-  "zipCode": "9500125",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ニイガタシコウナンク",
-  "townKana": "カメダシンメイチョウ",
-  "prefecture": "新潟県",
-  "city": "新潟市江南区",
-  "town": "亀田新明町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15104",
+      "oldZipCode": "95001",
+      "zipCode": "9500125",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ニイガタシコウナンク",
+      "townKana": "カメダシンメイチョウ",
+      "prefecture": "新潟県",
+      "city": "新潟市江南区",
+      "town": "亀田新明町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

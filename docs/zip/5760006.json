@@ -1,17 +1,21 @@
 {
-  "jisCode": "27230",
-  "oldZipCode": "576  ",
-  "zipCode": "5760006",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "カタノシ",
-  "townKana": "テラ（バンチ）",
-  "prefecture": "大阪府",
-  "city": "交野市",
-  "town": "寺（番地）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27230",
+      "oldZipCode": "576  ",
+      "zipCode": "5760006",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "カタノシ",
+      "townKana": "テラ（バンチ）",
+      "prefecture": "大阪府",
+      "city": "交野市",
+      "town": "寺（番地）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

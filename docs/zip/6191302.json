@@ -1,17 +1,21 @@
 {
-  "jisCode": "26364",
-  "oldZipCode": "61913",
-  "zipCode": "6191302",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "ソウラクグンカサギチョウ",
-  "townKana": "アスカジ",
-  "prefecture": "京都府",
-  "city": "相楽郡笠置町",
-  "town": "飛鳥路",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26364",
+      "oldZipCode": "61913",
+      "zipCode": "6191302",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "ソウラクグンカサギチョウ",
+      "townKana": "アスカジ",
+      "prefecture": "京都府",
+      "city": "相楽郡笠置町",
+      "town": "飛鳥路",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

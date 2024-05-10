@@ -1,17 +1,21 @@
 {
-  "jisCode": "04205",
-  "oldZipCode": "98802",
-  "zipCode": "9880236",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "ケセンヌマシ",
-  "townKana": "ナガイソニホンマツ",
-  "prefecture": "宮城県",
-  "city": "気仙沼市",
-  "town": "長磯二本松",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04205",
+      "oldZipCode": "98802",
+      "zipCode": "9880236",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "ケセンヌマシ",
+      "townKana": "ナガイソニホンマツ",
+      "prefecture": "宮城県",
+      "city": "気仙沼市",
+      "town": "長磯二本松",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,38 @@
 {
-  "jisCode": "23232",
-  "oldZipCode": "496  ",
-  "zipCode": "4960908",
-  "prefectureKana": "アイチケン",
-  "cityKana": "アイサイシ",
-  "townKana": "カムライチョウ",
-  "prefecture": "愛知県",
-  "city": "愛西市",
-  "town": "甘村井町",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23232",
+      "oldZipCode": "496  ",
+      "zipCode": "4960908",
+      "prefectureKana": "アイチケン",
+      "cityKana": "アイサイシ",
+      "townKana": "カナボウチョウ",
+      "prefecture": "愛知県",
+      "city": "愛西市",
+      "town": "金棒町",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "23232",
+      "oldZipCode": "496  ",
+      "zipCode": "4960908",
+      "prefectureKana": "アイチケン",
+      "cityKana": "アイサイシ",
+      "townKana": "カムライチョウ",
+      "prefecture": "愛知県",
+      "city": "愛西市",
+      "town": "甘村井町",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "27227",
-  "oldZipCode": "577  ",
-  "zipCode": "5770825",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "ヒガシオオサカシ",
-  "townKana": "オオハスミナミ",
-  "prefecture": "大阪府",
-  "city": "東大阪市",
-  "town": "大蓮南",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27227",
+      "oldZipCode": "577  ",
+      "zipCode": "5770825",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "ヒガシオオサカシ",
+      "townKana": "オオハスミナミ",
+      "prefecture": "大阪府",
+      "city": "東大阪市",
+      "town": "大蓮南",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

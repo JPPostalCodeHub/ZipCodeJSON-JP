@@ -1,17 +1,21 @@
 {
-  "jisCode": "32528",
-  "oldZipCode": "68504",
-  "zipCode": "6850435",
-  "prefectureKana": "シマネケン",
-  "cityKana": "オキグンオキノシマチョウ",
-  "townKana": "ガンヤ",
-  "prefecture": "島根県",
-  "city": "隠岐郡隠岐の島町",
-  "town": "元屋",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "32528",
+      "oldZipCode": "68504",
+      "zipCode": "6850435",
+      "prefectureKana": "シマネケン",
+      "cityKana": "オキグンオキノシマチョウ",
+      "townKana": "ガンヤ",
+      "prefecture": "島根県",
+      "city": "隠岐郡隠岐の島町",
+      "town": "元屋",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

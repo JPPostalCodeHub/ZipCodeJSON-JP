@@ -1,17 +1,38 @@
 {
-  "jisCode": "35203",
-  "oldZipCode": "753  ",
-  "zipCode": "7530036",
-  "prefectureKana": "ヤマグチケン",
-  "cityKana": "ヤマグチシ",
-  "townKana": "エンセイジチョウ",
-  "prefecture": "山口県",
-  "city": "山口市",
-  "town": "円政寺町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "35203",
+      "oldZipCode": "753  ",
+      "zipCode": "7530036",
+      "prefectureKana": "ヤマグチケン",
+      "cityKana": "ヤマグチシ",
+      "townKana": "エンセイジ",
+      "prefecture": "山口県",
+      "city": "山口市",
+      "town": "円政寺",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "35203",
+      "oldZipCode": "753  ",
+      "zipCode": "7530036",
+      "prefectureKana": "ヤマグチケン",
+      "cityKana": "ヤマグチシ",
+      "townKana": "エンセイジチョウ",
+      "prefecture": "山口県",
+      "city": "山口市",
+      "town": "円政寺町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

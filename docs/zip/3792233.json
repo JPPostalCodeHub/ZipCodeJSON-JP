@@ -1,17 +1,21 @@
 {
-  "jisCode": "10204",
-  "oldZipCode": "37922",
-  "zipCode": "3792233",
-  "prefectureKana": "グンマケン",
-  "cityKana": "イセサキシ",
-  "townKana": "ヒライチョウ",
-  "prefecture": "群馬県",
-  "city": "伊勢崎市",
-  "town": "平井町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "10204",
+      "oldZipCode": "37922",
+      "zipCode": "3792233",
+      "prefectureKana": "グンマケン",
+      "cityKana": "イセサキシ",
+      "townKana": "ヒライチョウ",
+      "prefecture": "群馬県",
+      "city": "伊勢崎市",
+      "town": "平井町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

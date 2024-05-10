@@ -1,17 +1,21 @@
 {
-  "jisCode": "14132",
-  "oldZipCode": "210  ",
-  "zipCode": "2120012",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "カワサキシサイワイク",
-  "townKana": "ナカサイワイチョウ",
-  "prefecture": "神奈川県",
-  "city": "川崎市幸区",
-  "town": "中幸町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14132",
+      "oldZipCode": "210  ",
+      "zipCode": "2120012",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "カワサキシサイワイク",
+      "townKana": "ナカサイワイチョウ",
+      "prefecture": "神奈川県",
+      "city": "川崎市幸区",
+      "town": "中幸町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

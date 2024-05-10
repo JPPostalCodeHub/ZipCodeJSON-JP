@@ -1,17 +1,21 @@
 {
-  "jisCode": "15204",
-  "oldZipCode": "955  ",
-  "zipCode": "9550036",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "サンジョウシ",
-  "townKana": "カゴバ",
-  "prefecture": "新潟県",
-  "city": "三条市",
-  "town": "篭場",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15204",
+      "oldZipCode": "955  ",
+      "zipCode": "9550036",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "サンジョウシ",
+      "townKana": "カゴバ",
+      "prefecture": "新潟県",
+      "city": "三条市",
+      "town": "篭場",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "20210",
-  "oldZipCode": "39941",
-  "zipCode": "3994111",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "コマガネシ",
-  "townKana": "キタマチ",
-  "prefecture": "長野県",
-  "city": "駒ヶ根市",
-  "town": "北町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20210",
+      "oldZipCode": "39941",
+      "zipCode": "3994111",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "コマガネシ",
+      "townKana": "キタマチ",
+      "prefecture": "長野県",
+      "city": "駒ヶ根市",
+      "town": "北町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

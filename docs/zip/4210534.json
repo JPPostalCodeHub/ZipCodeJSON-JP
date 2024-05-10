@@ -1,17 +1,21 @@
 {
-  "jisCode": "22226",
-  "oldZipCode": "42105",
-  "zipCode": "4210534",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "マキノハラシ",
-  "townKana": "ホリノシンデン",
-  "prefecture": "静岡県",
-  "city": "牧之原市",
-  "town": "堀野新田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22226",
+      "oldZipCode": "42105",
+      "zipCode": "4210534",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "マキノハラシ",
+      "townKana": "ホリノシンデン",
+      "prefecture": "静岡県",
+      "city": "牧之原市",
+      "town": "堀野新田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

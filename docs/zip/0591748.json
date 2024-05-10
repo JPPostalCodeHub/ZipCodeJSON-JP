@@ -1,17 +1,21 @@
 {
-  "jisCode": "01581",
-  "oldZipCode": "05917",
-  "zipCode": "0591748",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ユウフツグンアツマチョウ",
-  "townKana": "コウワ",
-  "prefecture": "北海道",
-  "city": "勇払郡厚真町",
-  "town": "厚和",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01581",
+      "oldZipCode": "05917",
+      "zipCode": "0591748",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ユウフツグンアツマチョウ",
+      "townKana": "コウワ",
+      "prefecture": "北海道",
+      "city": "勇払郡厚真町",
+      "town": "厚和",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

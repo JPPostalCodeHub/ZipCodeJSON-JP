@@ -1,17 +1,38 @@
 {
-  "jisCode": "15104",
-  "oldZipCode": "950  ",
-  "zipCode": "9500932",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ニイガタシコウナンク",
-  "townKana": "ナガタ（バンチ）",
-  "prefecture": "新潟県",
-  "city": "新潟市江南区",
-  "town": "長潟（番地）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15103",
+      "oldZipCode": "950  ",
+      "zipCode": "9500932",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ニイガタシチュウオウク",
+      "townKana": "ナガタ",
+      "prefecture": "新潟県",
+      "city": "新潟市中央区",
+      "town": "長潟",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "15104",
+      "oldZipCode": "950  ",
+      "zipCode": "9500932",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ニイガタシコウナンク",
+      "townKana": "ナガタ（バンチ）",
+      "prefecture": "新潟県",
+      "city": "新潟市江南区",
+      "town": "長潟（番地）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

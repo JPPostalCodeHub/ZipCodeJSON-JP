@@ -1,17 +1,21 @@
 {
-  "jisCode": "06401",
-  "oldZipCode": "99914",
-  "zipCode": "9991434",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "ニシオキタマグンオグニマチ",
-  "townKana": "アラサワ",
-  "prefecture": "山形県",
-  "city": "西置賜郡小国町",
-  "town": "荒沢",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06401",
+      "oldZipCode": "99914",
+      "zipCode": "9991434",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "ニシオキタマグンオグニマチ",
+      "townKana": "アラサワ",
+      "prefecture": "山形県",
+      "city": "西置賜郡小国町",
+      "town": "荒沢",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

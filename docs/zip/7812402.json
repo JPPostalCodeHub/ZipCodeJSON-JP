@@ -1,17 +1,21 @@
 {
-  "jisCode": "39386",
-  "oldZipCode": "78124",
-  "zipCode": "7812402",
-  "prefectureKana": "コウチケン",
-  "cityKana": "アガワグンイノチョウ",
-  "townKana": "カミヤカワヘイ（カキヤブ、コサルダ、ツガノタニ、テラノ、フルエ、レンギョウ）",
-  "prefecture": "高知県",
-  "city": "吾川郡いの町",
-  "town": "上八川丙（柿薮、小申田、津賀谷、寺野、古江、連行）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "39386",
+      "oldZipCode": "78124",
+      "zipCode": "7812402",
+      "prefectureKana": "コウチケン",
+      "cityKana": "アガワグンイノチョウ",
+      "townKana": "カミヤカワヘイ（カキヤブ、コサルダ、ツガノタニ、テラノ、フルエ、レンギョウ）",
+      "prefecture": "高知県",
+      "city": "吾川郡いの町",
+      "town": "上八川丙（柿薮、小申田、津賀谷、寺野、古江、連行）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

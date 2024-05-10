@@ -1,17 +1,21 @@
 {
-  "jisCode": "43441",
-  "oldZipCode": "86134",
-  "zipCode": "8613421",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "カミマシキグンミフネマチ",
-  "townKana": "ナナタキ（マツノハエ）",
-  "prefecture": "熊本県",
-  "city": "上益城郡御船町",
-  "town": "七滝（松ノ生）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43441",
+      "oldZipCode": "86134",
+      "zipCode": "8613421",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "カミマシキグンミフネマチ",
+      "townKana": "ナナタキ（マツノハエ）",
+      "prefecture": "熊本県",
+      "city": "上益城郡御船町",
+      "town": "七滝（松ノ生）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

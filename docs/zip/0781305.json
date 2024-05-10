@@ -1,17 +1,21 @@
 {
-  "jisCode": "01454",
-  "oldZipCode": "07813",
-  "zipCode": "0781305",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "カミカワグントウマチョウ",
-  "townKana": "５ジョウニシ",
-  "prefecture": "北海道",
-  "city": "上川郡当麻町",
-  "town": "五条西",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01454",
+      "oldZipCode": "07813",
+      "zipCode": "0781305",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "カミカワグントウマチョウ",
+      "townKana": "５ジョウニシ",
+      "prefecture": "北海道",
+      "city": "上川郡当麻町",
+      "town": "五条西",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

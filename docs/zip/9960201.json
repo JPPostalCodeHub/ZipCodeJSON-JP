@@ -1,17 +1,21 @@
 {
-  "jisCode": "06365",
-  "oldZipCode": "99603",
-  "zipCode": "9960201",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "モガミグンオオクラムラ",
-  "townKana": "ミナミヤマ（ソノタ）",
-  "prefecture": "山形県",
-  "city": "最上郡大蔵村",
-  "town": "南山（その他）",
-  "multipleZipCodes": "1",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06365",
+      "oldZipCode": "99603",
+      "zipCode": "9960201",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "モガミグンオオクラムラ",
+      "townKana": "ミナミヤマ（ソノタ）",
+      "prefecture": "山形県",
+      "city": "最上郡大蔵村",
+      "town": "南山（その他）",
+      "multipleZipCodes": "1",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

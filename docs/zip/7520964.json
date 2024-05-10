@@ -1,17 +1,21 @@
 {
-  "jisCode": "35201",
-  "oldZipCode": "752  ",
-  "zipCode": "7520964",
-  "prefectureKana": "ヤマグチケン",
-  "cityKana": "シモノセキシ",
-  "townKana": "チョウフナカドイホンマチ",
-  "prefecture": "山口県",
-  "city": "下関市",
-  "town": "長府中土居本町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "35201",
+      "oldZipCode": "752  ",
+      "zipCode": "7520964",
+      "prefectureKana": "ヤマグチケン",
+      "cityKana": "シモノセキシ",
+      "townKana": "チョウフナカドイホンマチ",
+      "prefecture": "山口県",
+      "city": "下関市",
+      "town": "長府中土居本町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

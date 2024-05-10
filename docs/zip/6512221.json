@@ -1,17 +1,21 @@
 {
-  "jisCode": "28111",
-  "oldZipCode": "65122",
-  "zipCode": "6512221",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "コウベシニシク",
-  "townKana": "オシベダニチョウコバタ",
-  "prefecture": "兵庫県",
-  "city": "神戸市西区",
-  "town": "押部谷町木幡",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28111",
+      "oldZipCode": "65122",
+      "zipCode": "6512221",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "コウベシニシク",
+      "townKana": "オシベダニチョウコバタ",
+      "prefecture": "兵庫県",
+      "city": "神戸市西区",
+      "town": "押部谷町木幡",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "15222",
-  "oldZipCode": "943  ",
-  "zipCode": "9430802",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ジョウエツシ",
-  "townKana": "ダイズ（ソノタ）",
-  "prefecture": "新潟県",
-  "city": "上越市",
-  "town": "大豆（その他）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15222",
+      "oldZipCode": "943  ",
+      "zipCode": "9430802",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ジョウエツシ",
+      "townKana": "ダイズ（ソノタ）",
+      "prefecture": "新潟県",
+      "city": "上越市",
+      "town": "大豆（その他）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

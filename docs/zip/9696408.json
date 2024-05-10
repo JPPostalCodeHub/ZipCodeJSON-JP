@@ -1,17 +1,21 @@
 {
-  "jisCode": "07447",
-  "oldZipCode": "96964",
-  "zipCode": "9696408",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "オオヌマグンアイヅミサトマチ",
-  "townKana": "ヌマタ",
-  "prefecture": "福島県",
-  "city": "大沼郡会津美里町",
-  "town": "沼田",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07447",
+      "oldZipCode": "96964",
+      "zipCode": "9696408",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "オオヌマグンアイヅミサトマチ",
+      "townKana": "ヌマタ",
+      "prefecture": "福島県",
+      "city": "大沼郡会津美里町",
+      "town": "沼田",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

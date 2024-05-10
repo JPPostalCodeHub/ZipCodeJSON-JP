@@ -1,17 +1,21 @@
 {
-  "jisCode": "40207",
-  "oldZipCode": "832  ",
-  "zipCode": "8320046",
-  "prefectureKana": "フクオカケン",
-  "cityKana": "ヤナガワシ",
-  "townKana": "オウシュウマチ",
-  "prefecture": "福岡県",
-  "city": "柳川市",
-  "town": "奥州町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "40207",
+      "oldZipCode": "832  ",
+      "zipCode": "8320046",
+      "prefectureKana": "フクオカケン",
+      "cityKana": "ヤナガワシ",
+      "townKana": "オウシュウマチ",
+      "prefecture": "福岡県",
+      "city": "柳川市",
+      "town": "奥州町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "03202",
-  "oldZipCode": "02703",
-  "zipCode": "0270381",
-  "prefectureKana": "イワテケン",
-  "cityKana": "ミヤコシ",
-  "townKana": "タロウホシヤマ",
-  "prefecture": "岩手県",
-  "city": "宮古市",
-  "town": "田老星山",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "03202",
+      "oldZipCode": "02703",
+      "zipCode": "0270381",
+      "prefectureKana": "イワテケン",
+      "cityKana": "ミヤコシ",
+      "townKana": "タロウホシヤマ",
+      "prefecture": "岩手県",
+      "city": "宮古市",
+      "town": "田老星山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

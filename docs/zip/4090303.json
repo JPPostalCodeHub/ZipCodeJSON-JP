@@ -1,17 +1,21 @@
 {
-  "jisCode": "19443",
-  "oldZipCode": "40903",
-  "zipCode": "4090303",
-  "prefectureKana": "ヤマナシケン",
-  "cityKana": "キタツルグンタバヤマムラ",
-  "townKana": "ナカグミ",
-  "prefecture": "山梨県",
-  "city": "北都留郡丹波山村",
-  "town": "中組",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "19443",
+      "oldZipCode": "40903",
+      "zipCode": "4090303",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "キタツルグンタバヤマムラ",
+      "townKana": "ナカグミ",
+      "prefecture": "山梨県",
+      "city": "北都留郡丹波山村",
+      "town": "中組",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "23302",
-  "oldZipCode": "47001",
-  "zipCode": "4700164",
-  "prefectureKana": "アイチケン",
-  "cityKana": "アイチグントウゴウチョウ",
-  "townKana": "ミツイケ",
-  "prefecture": "愛知県",
-  "city": "愛知郡東郷町",
-  "town": "三ツ池",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23302",
+      "oldZipCode": "47001",
+      "zipCode": "4700164",
+      "prefectureKana": "アイチケン",
+      "cityKana": "アイチグントウゴウチョウ",
+      "townKana": "ミツイケ",
+      "prefecture": "愛知県",
+      "city": "愛知郡東郷町",
+      "town": "三ツ池",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "01204",
-  "oldZipCode": "07101",
-  "zipCode": "0788383",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "アサヒカワシ",
-  "townKana": "ニシカグラ３セン",
-  "prefecture": "北海道",
-  "city": "旭川市",
-  "town": "西神楽３線",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01204",
+      "oldZipCode": "07101",
+      "zipCode": "0788383",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "アサヒカワシ",
+      "townKana": "ニシカグラ３セン",
+      "prefecture": "北海道",
+      "city": "旭川市",
+      "town": "西神楽３線",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

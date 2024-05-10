@@ -1,17 +1,21 @@
 {
-  "jisCode": "10202",
-  "oldZipCode": "37031",
-  "zipCode": "3703104",
-  "prefectureKana": "グンマケン",
-  "cityKana": "タカサキシ",
-  "townKana": "ミサトマチカミシバ",
-  "prefecture": "群馬県",
-  "city": "高崎市",
-  "town": "箕郷町上芝",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "10202",
+      "oldZipCode": "37031",
+      "zipCode": "3703104",
+      "prefectureKana": "グンマケン",
+      "cityKana": "タカサキシ",
+      "townKana": "ミサトマチカミシバ",
+      "prefecture": "群馬県",
+      "city": "高崎市",
+      "town": "箕郷町上芝",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

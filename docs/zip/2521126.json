@@ -1,17 +1,21 @@
 {
-  "jisCode": "14218",
-  "oldZipCode": "252  ",
-  "zipCode": "2521126",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "アヤセシ",
-  "townKana": "リョウセイ",
-  "prefecture": "神奈川県",
-  "city": "綾瀬市",
-  "town": "綾西",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14218",
+      "oldZipCode": "252  ",
+      "zipCode": "2521126",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "アヤセシ",
+      "townKana": "リョウセイ",
+      "prefecture": "神奈川県",
+      "city": "綾瀬市",
+      "town": "綾西",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

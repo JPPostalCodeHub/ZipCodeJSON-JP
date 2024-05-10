@@ -1,17 +1,38 @@
 {
-  "jisCode": "21303",
-  "oldZipCode": "50161",
-  "zipCode": "5016100",
-  "prefectureKana": "ギフケン",
-  "cityKana": "ハシマグンカサマツチョウ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "岐阜県",
-  "city": "羽島郡笠松町",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "21302",
+      "oldZipCode": "50161",
+      "zipCode": "5016100",
+      "prefectureKana": "ギフケン",
+      "cityKana": "ハシマグンギナンチョウ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "岐阜県",
+      "city": "羽島郡岐南町",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "21303",
+      "oldZipCode": "50161",
+      "zipCode": "5016100",
+      "prefectureKana": "ギフケン",
+      "cityKana": "ハシマグンカサマツチョウ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "岐阜県",
+      "city": "羽島郡笠松町",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

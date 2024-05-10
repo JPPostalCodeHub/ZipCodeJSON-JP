@@ -1,17 +1,21 @@
 {
-  "jisCode": "35203",
-  "oldZipCode": "754  ",
-  "zipCode": "7540032",
-  "prefectureKana": "ヤマグチケン",
-  "cityKana": "ヤマグチシ",
-  "townKana": "オゴオリミライマチ",
-  "prefecture": "山口県",
-  "city": "山口市",
-  "town": "小郡みらい町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "35203",
+      "oldZipCode": "754  ",
+      "zipCode": "7540032",
+      "prefectureKana": "ヤマグチケン",
+      "cityKana": "ヤマグチシ",
+      "townKana": "オゴオリミライマチ",
+      "prefecture": "山口県",
+      "city": "山口市",
+      "town": "小郡みらい町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

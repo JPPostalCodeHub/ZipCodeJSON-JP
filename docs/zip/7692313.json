@@ -1,17 +1,21 @@
 {
-  "jisCode": "37206",
-  "oldZipCode": "76923",
-  "zipCode": "7692313",
-  "prefectureKana": "カガワケン",
-  "cityKana": "サヌキシ",
-  "townKana": "ゾウタノマダ",
-  "prefecture": "香川県",
-  "city": "さぬき市",
-  "town": "造田野間田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "37206",
+      "oldZipCode": "76923",
+      "zipCode": "7692313",
+      "prefectureKana": "カガワケン",
+      "cityKana": "サヌキシ",
+      "townKana": "ゾウタノマダ",
+      "prefecture": "香川県",
+      "city": "さぬき市",
+      "town": "造田野間田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

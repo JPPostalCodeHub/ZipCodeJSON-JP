@@ -1,17 +1,21 @@
 {
-  "jisCode": "12222",
-  "oldZipCode": "27011",
-  "zipCode": "2701144",
-  "prefectureKana": "チバケン",
-  "cityKana": "アビコシ",
-  "townKana": "ヒガシアビコ",
-  "prefecture": "千葉県",
-  "city": "我孫子市",
-  "town": "東我孫子",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12222",
+      "oldZipCode": "27011",
+      "zipCode": "2701144",
+      "prefectureKana": "チバケン",
+      "cityKana": "アビコシ",
+      "townKana": "ヒガシアビコ",
+      "prefecture": "千葉県",
+      "city": "我孫子市",
+      "town": "東我孫子",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

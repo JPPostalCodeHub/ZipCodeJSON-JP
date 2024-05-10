@@ -1,17 +1,21 @@
 {
-  "jisCode": "07201",
-  "oldZipCode": "960  ",
-  "zipCode": "9608136",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "フクシマシ",
-  "townKana": "ヤシマチョウ",
-  "prefecture": "福島県",
-  "city": "福島市",
-  "town": "八島町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07201",
+      "oldZipCode": "960  ",
+      "zipCode": "9608136",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "フクシマシ",
+      "townKana": "ヤシマチョウ",
+      "prefecture": "福島県",
+      "city": "福島市",
+      "town": "八島町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "13114",
-  "oldZipCode": "165  ",
-  "zipCode": "1650024",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "ナカノク",
-  "townKana": "マツガオカ",
-  "prefecture": "東京都",
-  "city": "中野区",
-  "town": "松が丘",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13114",
+      "oldZipCode": "165  ",
+      "zipCode": "1650024",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "ナカノク",
+      "townKana": "マツガオカ",
+      "prefecture": "東京都",
+      "city": "中野区",
+      "town": "松が丘",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

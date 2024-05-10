@@ -1,17 +1,38 @@
 {
-  "jisCode": "07301",
-  "oldZipCode": "96916",
-  "zipCode": "9691635",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "ダテグンコオリマチ",
-  "townKana": "ヒガシヤクシ",
-  "prefecture": "福島県",
-  "city": "伊達郡桑折町",
-  "town": "東八串",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07301",
+      "oldZipCode": "96916",
+      "zipCode": "9691635",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "ダテグンコオリマチ",
+      "townKana": "キツネザキ",
+      "prefecture": "福島県",
+      "city": "伊達郡桑折町",
+      "town": "狐崎",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "07301",
+      "oldZipCode": "96916",
+      "zipCode": "9691635",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "ダテグンコオリマチ",
+      "townKana": "ヒガシヤクシ",
+      "prefecture": "福島県",
+      "city": "伊達郡桑折町",
+      "town": "東八串",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

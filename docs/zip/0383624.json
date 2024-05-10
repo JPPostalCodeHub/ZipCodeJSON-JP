@@ -1,17 +1,21 @@
 {
-  "jisCode": "02381",
-  "oldZipCode": "03836",
-  "zipCode": "0383624",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "キタツガルグンイタヤナギマチ",
-  "townKana": "タキイ",
-  "prefecture": "青森県",
-  "city": "北津軽郡板柳町",
-  "town": "滝井",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02381",
+      "oldZipCode": "03836",
+      "zipCode": "0383624",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "キタツガルグンイタヤナギマチ",
+      "townKana": "タキイ",
+      "prefecture": "青森県",
+      "city": "北津軽郡板柳町",
+      "town": "滝井",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

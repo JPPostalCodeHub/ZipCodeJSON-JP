@@ -1,17 +1,21 @@
 {
-  "jisCode": "13111",
-  "oldZipCode": "144  ",
-  "zipCode": "1440042",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "オオタク",
-  "townKana": "ハネダアサヒチョウ",
-  "prefecture": "東京都",
-  "city": "大田区",
-  "town": "羽田旭町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13111",
+      "oldZipCode": "144  ",
+      "zipCode": "1440042",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "オオタク",
+      "townKana": "ハネダアサヒチョウ",
+      "prefecture": "東京都",
+      "city": "大田区",
+      "town": "羽田旭町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

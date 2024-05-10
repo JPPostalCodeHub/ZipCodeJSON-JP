@@ -1,17 +1,21 @@
 {
-  "jisCode": "31203",
-  "oldZipCode": "682  ",
-  "zipCode": "6820943",
-  "prefectureKana": "トットリケン",
-  "cityKana": "クラヨシシ",
-  "townKana": "コクブンジ",
-  "prefecture": "鳥取県",
-  "city": "倉吉市",
-  "town": "国分寺",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "31203",
+      "oldZipCode": "682  ",
+      "zipCode": "6820943",
+      "prefectureKana": "トットリケン",
+      "cityKana": "クラヨシシ",
+      "townKana": "コクブンジ",
+      "prefecture": "鳥取県",
+      "city": "倉吉市",
+      "town": "国分寺",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

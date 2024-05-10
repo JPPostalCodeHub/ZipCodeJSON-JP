@@ -1,17 +1,21 @@
 {
-  "jisCode": "27144",
-  "oldZipCode": "593  ",
-  "zipCode": "5938317",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "サカイシニシク",
-  "townKana": "ハラダ",
-  "prefecture": "大阪府",
-  "city": "堺市西区",
-  "town": "原田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27144",
+      "oldZipCode": "593  ",
+      "zipCode": "5938317",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "サカイシニシク",
+      "townKana": "ハラダ",
+      "prefecture": "大阪府",
+      "city": "堺市西区",
+      "town": "原田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

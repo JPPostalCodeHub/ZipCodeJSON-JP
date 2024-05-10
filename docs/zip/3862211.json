@@ -1,17 +1,21 @@
 {
-  "jisCode": "20207",
-  "oldZipCode": "38622",
-  "zipCode": "3862211",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "スザカシ",
-  "townKana": "ニレイマチ（３１５３−１−３１５３−１１００＜ミネノハラ＞）",
-  "prefecture": "長野県",
-  "city": "須坂市",
-  "town": "仁礼町（３１５３−１〜３１５３−１１００「峰の原」）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20207",
+      "oldZipCode": "38622",
+      "zipCode": "3862211",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "スザカシ",
+      "townKana": "ニレイマチ（３１５３−１−３１５３−１１００＜ミネノハラ＞）",
+      "prefecture": "長野県",
+      "city": "須坂市",
+      "town": "仁礼町（３１５３−１〜３１５３−１１００「峰の原」）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "40231",
-  "oldZipCode": "81112",
-  "zipCode": "8111204",
-  "prefectureKana": "フクオカケン",
-  "cityKana": "ナカガワシ",
-  "townKana": "カタナワヒガシ",
-  "prefecture": "福岡県",
-  "city": "那珂川市",
-  "town": "片縄東",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "40231",
+      "oldZipCode": "81112",
+      "zipCode": "8111204",
+      "prefectureKana": "フクオカケン",
+      "cityKana": "ナカガワシ",
+      "townKana": "カタナワヒガシ",
+      "prefecture": "福岡県",
+      "city": "那珂川市",
+      "town": "片縄東",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

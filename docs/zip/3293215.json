@@ -1,17 +1,21 @@
 {
-  "jisCode": "09407",
-  "oldZipCode": "32932",
-  "zipCode": "3293215",
-  "prefectureKana": "トチギケン",
-  "cityKana": "ナスグンナスマチ",
-  "townKana": "テラコオツ（ソノタ）",
-  "prefecture": "栃木県",
-  "city": "那須郡那須町",
-  "town": "寺子乙（その他）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "09407",
+      "oldZipCode": "32932",
+      "zipCode": "3293215",
+      "prefectureKana": "トチギケン",
+      "cityKana": "ナスグンナスマチ",
+      "townKana": "テラコオツ（ソノタ）",
+      "prefecture": "栃木県",
+      "city": "那須郡那須町",
+      "town": "寺子乙（その他）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "34101",
-  "oldZipCode": "730  ",
-  "zipCode": "7300834",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "ヒロシマシナカク",
-  "townKana": "エバニホンマツ",
-  "prefecture": "広島県",
-  "city": "広島市中区",
-  "town": "江波二本松",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34101",
+      "oldZipCode": "730  ",
+      "zipCode": "7300834",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ヒロシマシナカク",
+      "townKana": "エバニホンマツ",
+      "prefecture": "広島県",
+      "city": "広島市中区",
+      "town": "江波二本松",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

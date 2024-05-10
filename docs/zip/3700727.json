@@ -1,17 +1,21 @@
 {
-  "jisCode": "10523",
-  "oldZipCode": "37007",
-  "zipCode": "3700727",
-  "prefectureKana": "グンマケン",
-  "cityKana": "オウラグンチヨダマチ",
-  "townKana": "セドイ",
-  "prefecture": "群馬県",
-  "city": "邑楽郡千代田町",
-  "town": "瀬戸井",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "10523",
+      "oldZipCode": "37007",
+      "zipCode": "3700727",
+      "prefectureKana": "グンマケン",
+      "cityKana": "オウラグンチヨダマチ",
+      "townKana": "セドイ",
+      "prefecture": "群馬県",
+      "city": "邑楽郡千代田町",
+      "town": "瀬戸井",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

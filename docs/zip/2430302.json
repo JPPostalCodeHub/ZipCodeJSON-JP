@@ -1,17 +1,21 @@
 {
-  "jisCode": "14401",
-  "oldZipCode": "24303",
-  "zipCode": "2430302",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "アイコウグンアイカワマチ",
-  "townKana": "カスガダイ",
-  "prefecture": "神奈川県",
-  "city": "愛甲郡愛川町",
-  "town": "春日台",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14401",
+      "oldZipCode": "24303",
+      "zipCode": "2430302",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "アイコウグンアイカワマチ",
+      "townKana": "カスガダイ",
+      "prefecture": "神奈川県",
+      "city": "愛甲郡愛川町",
+      "town": "春日台",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

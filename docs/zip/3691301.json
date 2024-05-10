@@ -1,17 +1,21 @@
 {
-  "jisCode": "11363",
-  "oldZipCode": "36913",
-  "zipCode": "3691301",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "チチブグンナガトロマチ",
-  "townKana": "ヤナセ",
-  "prefecture": "埼玉県",
-  "city": "秩父郡長瀞町",
-  "town": "矢那瀬",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11363",
+      "oldZipCode": "36913",
+      "zipCode": "3691301",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "チチブグンナガトロマチ",
+      "townKana": "ヤナセ",
+      "prefecture": "埼玉県",
+      "city": "秩父郡長瀞町",
+      "town": "矢那瀬",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

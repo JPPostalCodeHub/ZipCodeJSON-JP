@@ -1,17 +1,21 @@
 {
-  "jisCode": "07204",
-  "oldZipCode": "97401",
-  "zipCode": "9740153",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "イワキシ",
-  "townKana": "タビトマチミナミオオダイラ",
-  "prefecture": "福島県",
-  "city": "いわき市",
-  "town": "田人町南大平",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07204",
+      "oldZipCode": "97401",
+      "zipCode": "9740153",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "イワキシ",
+      "townKana": "タビトマチミナミオオダイラ",
+      "prefecture": "福島県",
+      "city": "いわき市",
+      "town": "田人町南大平",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

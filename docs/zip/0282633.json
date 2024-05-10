@@ -1,17 +1,21 @@
 {
-  "jisCode": "03202",
-  "oldZipCode": "02826",
-  "zipCode": "0282633",
-  "prefectureKana": "イワテケン",
-  "cityKana": "ミヤコシ",
-  "townKana": "ヒラツト",
-  "prefecture": "岩手県",
-  "city": "宮古市",
-  "town": "平津戸",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "03202",
+      "oldZipCode": "02826",
+      "zipCode": "0282633",
+      "prefectureKana": "イワテケン",
+      "cityKana": "ミヤコシ",
+      "townKana": "ヒラツト",
+      "prefecture": "岩手県",
+      "city": "宮古市",
+      "town": "平津戸",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

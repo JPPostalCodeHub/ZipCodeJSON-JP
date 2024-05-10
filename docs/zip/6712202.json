@@ -1,17 +1,21 @@
 {
-  "jisCode": "28201",
-  "oldZipCode": "67122",
-  "zipCode": "6712202",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "ヒメジシ",
-  "townKana": "キタユメサキダイ（１チョウメ１−７７バンチ）",
-  "prefecture": "兵庫県",
-  "city": "姫路市",
-  "town": "北夢前台（１丁目１〜７７番地）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28201",
+      "oldZipCode": "67122",
+      "zipCode": "6712202",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "ヒメジシ",
+      "townKana": "キタユメサキダイ（１チョウメ１−７７バンチ）",
+      "prefecture": "兵庫県",
+      "city": "姫路市",
+      "town": "北夢前台（１丁目１〜７７番地）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

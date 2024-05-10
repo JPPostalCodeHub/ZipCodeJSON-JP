@@ -1,17 +1,21 @@
 {
-  "jisCode": "44201",
-  "oldZipCode": "87012",
-  "zipCode": "8701202",
-  "prefectureKana": "オオイタケン",
-  "cityKana": "オオイタシ",
-  "townKana": "イリクラ",
-  "prefecture": "大分県",
-  "city": "大分市",
-  "town": "入蔵",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "44201",
+      "oldZipCode": "87012",
+      "zipCode": "8701202",
+      "prefectureKana": "オオイタケン",
+      "cityKana": "オオイタシ",
+      "townKana": "イリクラ",
+      "prefecture": "大分県",
+      "city": "大分市",
+      "town": "入蔵",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

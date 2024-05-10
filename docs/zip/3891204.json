@@ -1,17 +1,21 @@
 {
-  "jisCode": "20590",
-  "oldZipCode": "38912",
-  "zipCode": "3891204",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "カミミノチグンイイヅナマチ",
-  "townKana": "クライ",
-  "prefecture": "長野県",
-  "city": "上水内郡飯綱町",
-  "town": "倉井",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20590",
+      "oldZipCode": "38912",
+      "zipCode": "3891204",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "カミミノチグンイイヅナマチ",
+      "townKana": "クライ",
+      "prefecture": "長野県",
+      "city": "上水内郡飯綱町",
+      "town": "倉井",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

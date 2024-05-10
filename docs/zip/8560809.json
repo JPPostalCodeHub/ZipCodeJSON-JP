@@ -1,17 +1,21 @@
 {
-  "jisCode": "42205",
-  "oldZipCode": "856  ",
-  "zipCode": "8560809",
-  "prefectureKana": "ナガサキケン",
-  "cityKana": "オオムラシ",
-  "townKana": "オキタマチ",
-  "prefecture": "長崎県",
-  "city": "大村市",
-  "town": "沖田町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "42205",
+      "oldZipCode": "856  ",
+      "zipCode": "8560809",
+      "prefectureKana": "ナガサキケン",
+      "cityKana": "オオムラシ",
+      "townKana": "オキタマチ",
+      "prefecture": "長崎県",
+      "city": "大村市",
+      "town": "沖田町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

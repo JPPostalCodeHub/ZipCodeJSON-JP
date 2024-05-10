@@ -1,17 +1,21 @@
 {
-  "jisCode": "26102",
-  "oldZipCode": "602  ",
-  "zipCode": "6020856",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシカミギョウク",
-  "townKana": "コウジンチョウ",
-  "prefecture": "京都府",
-  "city": "京都市上京区",
-  "town": "荒神町（河原町通荒神口上る、荒神口通河原町西入、荒神口通河原町東入、荒神口通寺町東入、寺町通荒神口上る）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26102",
+      "oldZipCode": "602  ",
+      "zipCode": "6020856",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシカミギョウク",
+      "townKana": "コウジンチョウ",
+      "prefecture": "京都府",
+      "city": "京都市上京区",
+      "town": "荒神町（河原町通荒神口上る、荒神口通河原町西入、荒神口通河原町東入、荒神口通寺町東入、寺町通荒神口上る）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "28218",
-  "oldZipCode": "67513",
-  "zipCode": "6751304",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "オノシ",
-  "townKana": "ナカタニチョウ",
-  "prefecture": "兵庫県",
-  "city": "小野市",
-  "town": "中谷町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28218",
+      "oldZipCode": "67513",
+      "zipCode": "6751304",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "オノシ",
+      "townKana": "ナカタニチョウ",
+      "prefecture": "兵庫県",
+      "city": "小野市",
+      "town": "中谷町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,38 @@
 {
-  "jisCode": "07208",
-  "oldZipCode": "966  ",
-  "zipCode": "9660862",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "キタカタシ",
-  "townKana": "マエダ",
-  "prefecture": "福島県",
-  "city": "喜多方市",
-  "town": "前田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07208",
+      "oldZipCode": "966  ",
+      "zipCode": "9660862",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "キタカタシ",
+      "townKana": "トキワチョウ",
+      "prefecture": "福島県",
+      "city": "喜多方市",
+      "town": "常盤町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "07208",
+      "oldZipCode": "966  ",
+      "zipCode": "9660862",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "キタカタシ",
+      "townKana": "マエダ",
+      "prefecture": "福島県",
+      "city": "喜多方市",
+      "town": "前田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

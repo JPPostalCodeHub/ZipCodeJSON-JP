@@ -1,17 +1,21 @@
 {
-  "jisCode": "24201",
-  "oldZipCode": "514  ",
-  "zipCode": "5140000",
-  "prefectureKana": "ミエケン",
-  "cityKana": "ツシ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "三重県",
-  "city": "津市",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "24201",
+      "oldZipCode": "514  ",
+      "zipCode": "5140000",
+      "prefectureKana": "ミエケン",
+      "cityKana": "ツシ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "三重県",
+      "city": "津市",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

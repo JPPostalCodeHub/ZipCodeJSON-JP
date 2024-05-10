@@ -1,17 +1,21 @@
 {
-  "jisCode": "07466",
-  "oldZipCode": "96902",
-  "zipCode": "9690256",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "ニシシラカワグンヤブキマチ",
-  "townKana": "ナベウチ",
-  "prefecture": "福島県",
-  "city": "西白河郡矢吹町",
-  "town": "鍋内",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07466",
+      "oldZipCode": "96902",
+      "zipCode": "9690256",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "ニシシラカワグンヤブキマチ",
+      "townKana": "ナベウチ",
+      "prefecture": "福島県",
+      "city": "西白河郡矢吹町",
+      "town": "鍋内",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

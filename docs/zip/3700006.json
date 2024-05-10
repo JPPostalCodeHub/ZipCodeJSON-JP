@@ -1,17 +1,21 @@
 {
-  "jisCode": "10202",
-  "oldZipCode": "370  ",
-  "zipCode": "3700006",
-  "prefectureKana": "グンマケン",
-  "cityKana": "タカサキシ",
-  "townKana": "トンヤマチ",
-  "prefecture": "群馬県",
-  "city": "高崎市",
-  "town": "問屋町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "10202",
+      "oldZipCode": "370  ",
+      "zipCode": "3700006",
+      "prefectureKana": "グンマケン",
+      "cityKana": "タカサキシ",
+      "townKana": "トンヤマチ",
+      "prefecture": "群馬県",
+      "city": "高崎市",
+      "town": "問屋町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

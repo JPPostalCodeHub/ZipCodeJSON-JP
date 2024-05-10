@@ -1,17 +1,21 @@
 {
-  "jisCode": "26213",
-  "oldZipCode": "622  ",
-  "zipCode": "6220016",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "ナンタンシ",
-  "townKana": "ソノベチョウカワラマチ",
-  "prefecture": "京都府",
-  "city": "南丹市",
-  "town": "園部町河原町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26213",
+      "oldZipCode": "622  ",
+      "zipCode": "6220016",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "ナンタンシ",
+      "townKana": "ソノベチョウカワラマチ",
+      "prefecture": "京都府",
+      "city": "南丹市",
+      "town": "園部町河原町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

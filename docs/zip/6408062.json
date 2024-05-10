@@ -1,17 +1,21 @@
 {
-  "jisCode": "30201",
-  "oldZipCode": "640  ",
-  "zipCode": "6408062",
-  "prefectureKana": "ワカヤマケン",
-  "cityKana": "ワカヤマシ",
-  "townKana": "キタクギヌキチョウ",
-  "prefecture": "和歌山県",
-  "city": "和歌山市",
-  "town": "北釘貫丁",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "30201",
+      "oldZipCode": "640  ",
+      "zipCode": "6408062",
+      "prefectureKana": "ワカヤマケン",
+      "cityKana": "ワカヤマシ",
+      "townKana": "キタクギヌキチョウ",
+      "prefecture": "和歌山県",
+      "city": "和歌山市",
+      "town": "北釘貫丁",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

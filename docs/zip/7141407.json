@@ -1,17 +1,21 @@
 {
-  "jisCode": "33207",
-  "oldZipCode": "71414",
-  "zipCode": "7141407",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "イバラシ",
-  "townKana": "ビセイチョウクロタダ",
-  "prefecture": "岡山県",
-  "city": "井原市",
-  "town": "美星町黒忠",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33207",
+      "oldZipCode": "71414",
+      "zipCode": "7141407",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "イバラシ",
+      "townKana": "ビセイチョウクロタダ",
+      "prefecture": "岡山県",
+      "city": "井原市",
+      "town": "美星町黒忠",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

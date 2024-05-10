@@ -1,17 +1,38 @@
 {
-  "jisCode": "01219",
-  "oldZipCode": "09961",
-  "zipCode": "0996131",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "モンベツシ",
-  "townKana": "ヤソシ",
-  "prefecture": "北海道",
-  "city": "紋別市",
-  "town": "八十士",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01219",
+      "oldZipCode": "09961",
+      "zipCode": "0996131",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "モンベツシ",
+      "townKana": "イッポンマツ",
+      "prefecture": "北海道",
+      "city": "紋別市",
+      "town": "一本松",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "01219",
+      "oldZipCode": "09961",
+      "zipCode": "0996131",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "モンベツシ",
+      "townKana": "ヤソシ",
+      "prefecture": "北海道",
+      "city": "紋別市",
+      "town": "八十士",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

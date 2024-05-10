@@ -1,17 +1,21 @@
 {
-  "jisCode": "16201",
-  "oldZipCode": "93022",
-  "zipCode": "9302239",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "トヤマシ",
-  "townKana": "ツバメノ",
-  "prefecture": "富山県",
-  "city": "富山市",
-  "town": "つばめ野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16201",
+      "oldZipCode": "93022",
+      "zipCode": "9302239",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "トヤマシ",
+      "townKana": "ツバメノ",
+      "prefecture": "富山県",
+      "city": "富山市",
+      "town": "つばめ野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

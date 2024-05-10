@@ -1,17 +1,21 @@
 {
-  "jisCode": "12225",
-  "oldZipCode": "29205",
-  "zipCode": "2920536",
-  "prefectureKana": "チバケン",
-  "cityKana": "キミツシ",
-  "townKana": "クラダマ",
-  "prefecture": "千葉県",
-  "city": "君津市",
-  "town": "蔵玉",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12225",
+      "oldZipCode": "29205",
+      "zipCode": "2920536",
+      "prefectureKana": "チバケン",
+      "cityKana": "キミツシ",
+      "townKana": "クラダマ",
+      "prefecture": "千葉県",
+      "city": "君津市",
+      "town": "蔵玉",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

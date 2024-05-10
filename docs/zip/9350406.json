@@ -1,17 +1,21 @@
 {
-  "jisCode": "16205",
-  "oldZipCode": "93504",
-  "zipCode": "9350406",
-  "prefectureKana": "トヤマケン",
-  "cityKana": "ヒミシ",
-  "townKana": "ダイラ",
-  "prefecture": "富山県",
-  "city": "氷見市",
-  "town": "平",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "16205",
+      "oldZipCode": "93504",
+      "zipCode": "9350406",
+      "prefectureKana": "トヤマケン",
+      "cityKana": "ヒミシ",
+      "townKana": "ダイラ",
+      "prefecture": "富山県",
+      "city": "氷見市",
+      "town": "平",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

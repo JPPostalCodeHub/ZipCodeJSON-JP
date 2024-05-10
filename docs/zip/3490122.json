@@ -1,17 +1,21 @@
 {
-  "jisCode": "11238",
-  "oldZipCode": "34901",
-  "zipCode": "3490122",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "ハスダシ",
-  "townKana": "カミ",
-  "prefecture": "埼玉県",
-  "city": "蓮田市",
-  "town": "上",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11238",
+      "oldZipCode": "34901",
+      "zipCode": "3490122",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "ハスダシ",
+      "townKana": "カミ",
+      "prefecture": "埼玉県",
+      "city": "蓮田市",
+      "town": "上",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

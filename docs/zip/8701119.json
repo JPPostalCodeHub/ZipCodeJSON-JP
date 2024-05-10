@@ -1,17 +1,21 @@
 {
-  "jisCode": "44201",
-  "oldZipCode": "87011",
-  "zipCode": "8701119",
-  "prefectureKana": "オオイタケン",
-  "cityKana": "オオイタシ",
-  "townKana": "タカエキタ",
-  "prefecture": "大分県",
-  "city": "大分市",
-  "town": "高江北",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "44201",
+      "oldZipCode": "87011",
+      "zipCode": "8701119",
+      "prefectureKana": "オオイタケン",
+      "cityKana": "オオイタシ",
+      "townKana": "タカエキタ",
+      "prefecture": "大分県",
+      "city": "大分市",
+      "town": "高江北",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

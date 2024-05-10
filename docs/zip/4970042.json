@@ -1,17 +1,21 @@
 {
-  "jisCode": "23425",
-  "oldZipCode": "497  ",
-  "zipCode": "4970042",
-  "prefectureKana": "アイチケン",
-  "cityKana": "アマグンカニエチョウ",
-  "townKana": "ナベブタシンデン",
-  "prefecture": "愛知県",
-  "city": "海部郡蟹江町",
-  "town": "鍋蓋新田",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23425",
+      "oldZipCode": "497  ",
+      "zipCode": "4970042",
+      "prefectureKana": "アイチケン",
+      "cityKana": "アマグンカニエチョウ",
+      "townKana": "ナベブタシンデン",
+      "prefecture": "愛知県",
+      "city": "海部郡蟹江町",
+      "town": "鍋蓋新田",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

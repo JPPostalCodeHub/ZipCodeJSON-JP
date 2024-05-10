@@ -1,17 +1,21 @@
 {
-  "jisCode": "43102",
-  "oldZipCode": "862  ",
-  "zipCode": "8620944",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "クマモトシヒガシク",
-  "townKana": "エズマチカミムタ",
-  "prefecture": "熊本県",
-  "city": "熊本市東区",
-  "town": "画図町上無田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43102",
+      "oldZipCode": "862  ",
+      "zipCode": "8620944",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "クマモトシヒガシク",
+      "townKana": "エズマチカミムタ",
+      "prefecture": "熊本県",
+      "city": "熊本市東区",
+      "town": "画図町上無田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "30382",
-  "oldZipCode": "64912",
-  "zipCode": "6491213",
-  "prefectureKana": "ワカヤマケン",
-  "cityKana": "ヒダカグンヒダカチョウ",
-  "townKana": "タイエ",
-  "prefecture": "和歌山県",
-  "city": "日高郡日高町",
-  "town": "高家",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "30382",
+      "oldZipCode": "64912",
+      "zipCode": "6491213",
+      "prefectureKana": "ワカヤマケン",
+      "cityKana": "ヒダカグンヒダカチョウ",
+      "townKana": "タイエ",
+      "prefecture": "和歌山県",
+      "city": "日高郡日高町",
+      "town": "高家",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

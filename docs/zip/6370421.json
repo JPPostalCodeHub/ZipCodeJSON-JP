@@ -1,17 +1,21 @@
 {
-  "jisCode": "29447",
-  "oldZipCode": "63704",
-  "zipCode": "6370421",
-  "prefectureKana": "ナラケン",
-  "cityKana": "ヨシノグンノセガワムラ",
-  "townKana": "イマイ",
-  "prefecture": "奈良県",
-  "city": "吉野郡野迫川村",
-  "town": "今井",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "29447",
+      "oldZipCode": "63704",
+      "zipCode": "6370421",
+      "prefectureKana": "ナラケン",
+      "cityKana": "ヨシノグンノセガワムラ",
+      "townKana": "イマイ",
+      "prefecture": "奈良県",
+      "city": "吉野郡野迫川村",
+      "town": "今井",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

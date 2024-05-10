@@ -1,17 +1,21 @@
 {
-  "jisCode": "39427",
-  "oldZipCode": "78708",
-  "zipCode": "7870805",
-  "prefectureKana": "コウチケン",
-  "cityKana": "ハタグンミハラムラ",
-  "townKana": "カミナガタニ",
-  "prefecture": "高知県",
-  "city": "幡多郡三原村",
-  "town": "上長谷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "39427",
+      "oldZipCode": "78708",
+      "zipCode": "7870805",
+      "prefectureKana": "コウチケン",
+      "cityKana": "ハタグンミハラムラ",
+      "townKana": "カミナガタニ",
+      "prefecture": "高知県",
+      "city": "幡多郡三原村",
+      "town": "上長谷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

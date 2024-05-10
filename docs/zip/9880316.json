@@ -1,17 +1,21 @@
 {
-  "jisCode": "04205",
-  "oldZipCode": "98803",
-  "zipCode": "9880316",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "ケセンヌマシ",
-  "townKana": "モトヨシチョウシンキタアケド",
-  "prefecture": "宮城県",
-  "city": "気仙沼市",
-  "town": "本吉町新北明戸",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04205",
+      "oldZipCode": "98803",
+      "zipCode": "9880316",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "ケセンヌマシ",
+      "townKana": "モトヨシチョウシンキタアケド",
+      "prefecture": "宮城県",
+      "city": "気仙沼市",
+      "town": "本吉町新北明戸",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

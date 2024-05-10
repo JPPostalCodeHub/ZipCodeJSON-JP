@@ -1,17 +1,21 @@
 {
-  "jisCode": "34211",
-  "oldZipCode": "73906",
-  "zipCode": "7390622",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "オオタケシ",
-  "townKana": "ハルミ",
-  "prefecture": "広島県",
-  "city": "大竹市",
-  "town": "晴海",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34211",
+      "oldZipCode": "73906",
+      "zipCode": "7390622",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "オオタケシ",
+      "townKana": "ハルミ",
+      "prefecture": "広島県",
+      "city": "大竹市",
+      "town": "晴海",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

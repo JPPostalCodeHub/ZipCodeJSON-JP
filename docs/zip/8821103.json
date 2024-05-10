@@ -1,17 +1,21 @@
 {
-  "jisCode": "45441",
-  "oldZipCode": "88211",
-  "zipCode": "8821103",
-  "prefectureKana": "ミヤザキケン",
-  "cityKana": "ニシウスキグンタカチホチョウ",
-  "townKana": "ムコウヤマ",
-  "prefecture": "宮崎県",
-  "city": "西臼杵郡高千穂町",
-  "town": "向山",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "45441",
+      "oldZipCode": "88211",
+      "zipCode": "8821103",
+      "prefectureKana": "ミヤザキケン",
+      "cityKana": "ニシウスキグンタカチホチョウ",
+      "townKana": "ムコウヤマ",
+      "prefecture": "宮崎県",
+      "city": "西臼杵郡高千穂町",
+      "town": "向山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

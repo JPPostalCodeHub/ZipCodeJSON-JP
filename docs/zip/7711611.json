@@ -1,17 +1,21 @@
 {
-  "jisCode": "36206",
-  "oldZipCode": "77116",
-  "zipCode": "7711611",
-  "prefectureKana": "トクシマケン",
-  "cityKana": "アワシ",
-  "townKana": "イチバチョウカガミ（キタカガミ）",
-  "prefecture": "徳島県",
-  "city": "阿波市",
-  "town": "市場町香美（北香美）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "36206",
+      "oldZipCode": "77116",
+      "zipCode": "7711611",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "アワシ",
+      "townKana": "イチバチョウカガミ（キタカガミ）",
+      "prefecture": "徳島県",
+      "city": "阿波市",
+      "town": "市場町香美（北香美）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

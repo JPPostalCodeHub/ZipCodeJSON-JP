@@ -1,17 +1,21 @@
 {
-  "jisCode": "04212",
-  "oldZipCode": "98704",
-  "zipCode": "9870447",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "トメシ",
-  "townKana": "ミナミカタマチシンナガネシタ",
-  "prefecture": "宮城県",
-  "city": "登米市",
-  "town": "南方町新長根下",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04212",
+      "oldZipCode": "98704",
+      "zipCode": "9870447",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "トメシ",
+      "townKana": "ミナミカタマチシンナガネシタ",
+      "prefecture": "宮城県",
+      "city": "登米市",
+      "town": "南方町新長根下",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

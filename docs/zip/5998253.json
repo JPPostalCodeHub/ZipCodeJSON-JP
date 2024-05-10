@@ -1,17 +1,21 @@
 {
-  "jisCode": "27142",
-  "oldZipCode": "588  ",
-  "zipCode": "5998253",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "サカイシナカク",
-  "townKana": "フカサカ",
-  "prefecture": "大阪府",
-  "city": "堺市中区",
-  "town": "深阪",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27142",
+      "oldZipCode": "588  ",
+      "zipCode": "5998253",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "サカイシナカク",
+      "townKana": "フカサカ",
+      "prefecture": "大阪府",
+      "city": "堺市中区",
+      "town": "深阪",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

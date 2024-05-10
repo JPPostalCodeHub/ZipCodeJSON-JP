@@ -1,17 +1,21 @@
 {
-  "jisCode": "13218",
-  "oldZipCode": "197  ",
-  "zipCode": "1970002",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "フッサシ",
-  "townKana": "クマガワニノミヤ",
-  "prefecture": "東京都",
-  "city": "福生市",
-  "town": "熊川二宮",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13218",
+      "oldZipCode": "197  ",
+      "zipCode": "1970002",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "フッサシ",
+      "townKana": "クマガワニノミヤ",
+      "prefecture": "東京都",
+      "city": "福生市",
+      "town": "熊川二宮",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

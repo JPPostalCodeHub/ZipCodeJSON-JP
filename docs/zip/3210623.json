@@ -1,17 +1,21 @@
 {
-  "jisCode": "09215",
-  "oldZipCode": "32106",
-  "zipCode": "3210623",
-  "prefectureKana": "トチギケン",
-  "cityKana": "ナスカラスヤマシ",
-  "townKana": "オモテ",
-  "prefecture": "栃木県",
-  "city": "那須烏山市",
-  "town": "表",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "09215",
+      "oldZipCode": "32106",
+      "zipCode": "3210623",
+      "prefectureKana": "トチギケン",
+      "cityKana": "ナスカラスヤマシ",
+      "townKana": "オモテ",
+      "prefecture": "栃木県",
+      "city": "那須烏山市",
+      "town": "表",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

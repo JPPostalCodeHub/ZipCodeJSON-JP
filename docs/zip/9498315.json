@@ -1,17 +1,21 @@
 {
-  "jisCode": "15482",
-  "oldZipCode": "94983",
-  "zipCode": "9498315",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ナカウオヌマグンツナンマチ",
-  "townKana": "ケットウ",
-  "prefecture": "新潟県",
-  "city": "中魚沼郡津南町",
-  "town": "穴藤",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15482",
+      "oldZipCode": "94983",
+      "zipCode": "9498315",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ナカウオヌマグンツナンマチ",
+      "townKana": "ケットウ",
+      "prefecture": "新潟県",
+      "city": "中魚沼郡津南町",
+      "town": "穴藤",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

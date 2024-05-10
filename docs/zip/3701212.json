@@ -1,17 +1,21 @@
 {
-  "jisCode": "10202",
-  "oldZipCode": "37012",
-  "zipCode": "3701212",
-  "prefectureKana": "グンマケン",
-  "cityKana": "タカサキシ",
-  "townKana": "キベマチ",
-  "prefecture": "群馬県",
-  "city": "高崎市",
-  "town": "木部町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "10202",
+      "oldZipCode": "37012",
+      "zipCode": "3701212",
+      "prefectureKana": "グンマケン",
+      "cityKana": "タカサキシ",
+      "townKana": "キベマチ",
+      "prefecture": "群馬県",
+      "city": "高崎市",
+      "town": "木部町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

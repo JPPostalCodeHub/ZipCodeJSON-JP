@@ -1,17 +1,21 @@
 {
-  "jisCode": "07344",
-  "oldZipCode": "96205",
-  "zipCode": "9620500",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "イワセグンテンエイムラ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "福島県",
-  "city": "岩瀬郡天栄村",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07344",
+      "oldZipCode": "96205",
+      "zipCode": "9620500",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "イワセグンテンエイムラ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "福島県",
+      "city": "岩瀬郡天栄村",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

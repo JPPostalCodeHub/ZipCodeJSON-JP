@@ -1,17 +1,21 @@
 {
-  "jisCode": "14215",
-  "oldZipCode": "24304",
-  "zipCode": "2430419",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "エビナシ",
-  "townKana": "オオヤキタ",
-  "prefecture": "神奈川県",
-  "city": "海老名市",
-  "town": "大谷北",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14215",
+      "oldZipCode": "24304",
+      "zipCode": "2430419",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "エビナシ",
+      "townKana": "オオヤキタ",
+      "prefecture": "神奈川県",
+      "city": "海老名市",
+      "town": "大谷北",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

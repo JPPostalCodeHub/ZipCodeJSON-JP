@@ -1,17 +1,21 @@
 {
-  "jisCode": "35216",
-  "oldZipCode": "756  ",
-  "zipCode": "7560047",
-  "prefectureKana": "ヤマグチケン",
-  "cityKana": "サンヨウオノダシ",
-  "townKana": "タカハマ",
-  "prefecture": "山口県",
-  "city": "山陽小野田市",
-  "town": "高浜",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "35216",
+      "oldZipCode": "756  ",
+      "zipCode": "7560047",
+      "prefectureKana": "ヤマグチケン",
+      "cityKana": "サンヨウオノダシ",
+      "townKana": "タカハマ",
+      "prefecture": "山口県",
+      "city": "山陽小野田市",
+      "town": "高浜",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

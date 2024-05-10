@@ -1,17 +1,21 @@
 {
-  "jisCode": "12225",
-  "oldZipCode": "29911",
-  "zipCode": "2991122",
-  "prefectureKana": "チバケン",
-  "cityKana": "キミツシ",
-  "townKana": "ハマゴ",
-  "prefecture": "千葉県",
-  "city": "君津市",
-  "town": "浜子",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12225",
+      "oldZipCode": "29911",
+      "zipCode": "2991122",
+      "prefectureKana": "チバケン",
+      "cityKana": "キミツシ",
+      "townKana": "ハマゴ",
+      "prefecture": "千葉県",
+      "city": "君津市",
+      "town": "浜子",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

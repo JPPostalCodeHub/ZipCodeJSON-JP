@@ -1,17 +1,21 @@
 {
-  "jisCode": "13119",
-  "oldZipCode": "173  ",
-  "zipCode": "1730013",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "イタバシク",
-  "townKana": "ヒカワチョウ",
-  "prefecture": "東京都",
-  "city": "板橋区",
-  "town": "氷川町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13119",
+      "oldZipCode": "173  ",
+      "zipCode": "1730013",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "イタバシク",
+      "townKana": "ヒカワチョウ",
+      "prefecture": "東京都",
+      "city": "板橋区",
+      "town": "氷川町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

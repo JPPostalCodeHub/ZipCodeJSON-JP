@@ -1,17 +1,38 @@
 {
-  "jisCode": "04213",
-  "oldZipCode": "98722",
-  "zipCode": "9872274",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "クリハラシ",
-  "townKana": "ツキダテナリタ",
-  "prefecture": "宮城県",
-  "city": "栗原市",
-  "town": "築館成田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04213",
+      "oldZipCode": "98722",
+      "zipCode": "9872274",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "クリハラシ",
+      "townKana": "ツキダテシンナリタニシ",
+      "prefecture": "宮城県",
+      "city": "栗原市",
+      "town": "築館新成田西",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "04213",
+      "oldZipCode": "98722",
+      "zipCode": "9872274",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "クリハラシ",
+      "townKana": "ツキダテナリタ",
+      "prefecture": "宮城県",
+      "city": "栗原市",
+      "town": "築館成田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

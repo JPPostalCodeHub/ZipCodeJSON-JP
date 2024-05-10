@@ -1,17 +1,21 @@
 {
-  "jisCode": "14118",
-  "oldZipCode": "224  ",
-  "zipCode": "2240006",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "ヨコハマシツヅキク",
-  "townKana": "エダヒガシ",
-  "prefecture": "神奈川県",
-  "city": "横浜市都筑区",
-  "town": "荏田東",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14118",
+      "oldZipCode": "224  ",
+      "zipCode": "2240006",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "ヨコハマシツヅキク",
+      "townKana": "エダヒガシ",
+      "prefecture": "神奈川県",
+      "city": "横浜市都筑区",
+      "town": "荏田東",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

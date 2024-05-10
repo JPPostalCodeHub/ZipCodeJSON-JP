@@ -1,17 +1,21 @@
 {
-  "jisCode": "38201",
-  "oldZipCode": "791  ",
-  "zipCode": "7918011",
-  "prefectureKana": "エヒメケン",
-  "cityKana": "マツヤマシ",
-  "townKana": "ヨシフジ",
-  "prefecture": "愛媛県",
-  "city": "松山市",
-  "town": "吉藤",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "38201",
+      "oldZipCode": "791  ",
+      "zipCode": "7918011",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "マツヤマシ",
+      "townKana": "ヨシフジ",
+      "prefecture": "愛媛県",
+      "city": "松山市",
+      "town": "吉藤",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

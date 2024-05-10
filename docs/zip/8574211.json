@@ -1,17 +1,21 @@
 {
-  "jisCode": "42411",
-  "oldZipCode": "85323",
-  "zipCode": "8574211",
-  "prefectureKana": "ナガサキケン",
-  "cityKana": "ミナミマツウラグンシンカミゴトウチョウ",
-  "townKana": "アリカワゴウ",
-  "prefecture": "長崎県",
-  "city": "南松浦郡新上五島町",
-  "town": "有川郷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "42411",
+      "oldZipCode": "85323",
+      "zipCode": "8574211",
+      "prefectureKana": "ナガサキケン",
+      "cityKana": "ミナミマツウラグンシンカミゴトウチョウ",
+      "townKana": "アリカワゴウ",
+      "prefecture": "長崎県",
+      "city": "南松浦郡新上五島町",
+      "town": "有川郷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

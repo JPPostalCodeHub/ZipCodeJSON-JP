@@ -1,17 +1,21 @@
 {
-  "jisCode": "31389",
-  "oldZipCode": "68303",
-  "zipCode": "6830366",
-  "prefectureKana": "トットリケン",
-  "cityKana": "サイハクグンナンブチョウ",
-  "townKana": "ヨイチダニ",
-  "prefecture": "鳥取県",
-  "city": "西伯郡南部町",
-  "town": "与一谷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "31389",
+      "oldZipCode": "68303",
+      "zipCode": "6830366",
+      "prefectureKana": "トットリケン",
+      "cityKana": "サイハクグンナンブチョウ",
+      "townKana": "ヨイチダニ",
+      "prefecture": "鳥取県",
+      "city": "西伯郡南部町",
+      "town": "与一谷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "12237",
-  "oldZipCode": "28913",
-  "zipCode": "2891306",
-  "prefectureKana": "チバケン",
-  "cityKana": "サンムシ",
-  "townKana": "シラハタ",
-  "prefecture": "千葉県",
-  "city": "山武市",
-  "town": "白幡",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12237",
+      "oldZipCode": "28913",
+      "zipCode": "2891306",
+      "prefectureKana": "チバケン",
+      "cityKana": "サンムシ",
+      "townKana": "シラハタ",
+      "prefecture": "千葉県",
+      "city": "山武市",
+      "town": "白幡",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

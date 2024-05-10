@@ -1,17 +1,21 @@
 {
-  "jisCode": "26108",
-  "oldZipCode": "616  ",
-  "zipCode": "6168426",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシウキョウク",
-  "townKana": "サガニソンインモンゼンオウジョウインチョウ",
-  "prefecture": "京都府",
-  "city": "京都市右京区",
-  "town": "嵯峨二尊院門前往生院町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26108",
+      "oldZipCode": "616  ",
+      "zipCode": "6168426",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシウキョウク",
+      "townKana": "サガニソンインモンゼンオウジョウインチョウ",
+      "prefecture": "京都府",
+      "city": "京都市右京区",
+      "town": "嵯峨二尊院門前往生院町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

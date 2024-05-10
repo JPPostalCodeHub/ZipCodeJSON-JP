@@ -1,17 +1,21 @@
 {
-  "jisCode": "26209",
-  "oldZipCode": "617  ",
-  "zipCode": "6170838",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "ナガオカキョウシ",
-  "townKana": "ミドリガオカ",
-  "prefecture": "京都府",
-  "city": "長岡京市",
-  "town": "緑が丘",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26209",
+      "oldZipCode": "617  ",
+      "zipCode": "6170838",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "ナガオカキョウシ",
+      "townKana": "ミドリガオカ",
+      "prefecture": "京都府",
+      "city": "長岡京市",
+      "town": "緑が丘",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

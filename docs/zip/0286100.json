@@ -1,17 +1,21 @@
 {
-  "jisCode": "03213",
-  "oldZipCode": "02861",
-  "zipCode": "0286100",
-  "prefectureKana": "イワテケン",
-  "cityKana": "ニノヘシ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "岩手県",
-  "city": "二戸市",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "03213",
+      "oldZipCode": "02861",
+      "zipCode": "0286100",
+      "prefectureKana": "イワテケン",
+      "cityKana": "ニノヘシ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "岩手県",
+      "city": "二戸市",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

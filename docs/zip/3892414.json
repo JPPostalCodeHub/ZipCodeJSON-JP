@@ -1,17 +1,21 @@
 {
-  "jisCode": "20213",
-  "oldZipCode": "38924",
-  "zipCode": "3892414",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "イイヤマシ",
-  "townKana": "トキワ",
-  "prefecture": "長野県",
-  "city": "飯山市",
-  "town": "常盤",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20213",
+      "oldZipCode": "38924",
+      "zipCode": "3892414",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "イイヤマシ",
+      "townKana": "トキワ",
+      "prefecture": "長野県",
+      "city": "飯山市",
+      "town": "常盤",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "20218",
-  "oldZipCode": "387  ",
-  "zipCode": "3870012",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "チクマシ",
-  "townKana": "サクラドウ",
-  "prefecture": "長野県",
-  "city": "千曲市",
-  "town": "桜堂",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20218",
+      "oldZipCode": "387  ",
+      "zipCode": "3870012",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "チクマシ",
+      "townKana": "サクラドウ",
+      "prefecture": "長野県",
+      "city": "千曲市",
+      "town": "桜堂",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

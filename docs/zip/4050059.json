@@ -1,17 +1,21 @@
 {
-  "jisCode": "19211",
-  "oldZipCode": "405  ",
-  "zipCode": "4050059",
-  "prefectureKana": "ヤマナシケン",
-  "cityKana": "フエフキシ",
-  "townKana": "イチノミヤチョウカミヤハギ",
-  "prefecture": "山梨県",
-  "city": "笛吹市",
-  "town": "一宮町上矢作",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "19211",
+      "oldZipCode": "405  ",
+      "zipCode": "4050059",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "フエフキシ",
+      "townKana": "イチノミヤチョウカミヤハギ",
+      "prefecture": "山梨県",
+      "city": "笛吹市",
+      "town": "一宮町上矢作",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

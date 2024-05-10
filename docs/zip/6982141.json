@@ -1,17 +1,21 @@
 {
-  "jisCode": "32204",
-  "oldZipCode": "69821",
-  "zipCode": "6982141",
-  "prefectureKana": "シマネケン",
-  "cityKana": "マスダシ",
-  "townKana": "シラカミチョウ",
-  "prefecture": "島根県",
-  "city": "益田市",
-  "town": "白上町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "32204",
+      "oldZipCode": "69821",
+      "zipCode": "6982141",
+      "prefectureKana": "シマネケン",
+      "cityKana": "マスダシ",
+      "townKana": "シラカミチョウ",
+      "prefecture": "島根県",
+      "city": "益田市",
+      "town": "白上町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

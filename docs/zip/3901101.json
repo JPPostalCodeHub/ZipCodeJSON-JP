@@ -1,17 +1,21 @@
 {
-  "jisCode": "20451",
-  "oldZipCode": "39011",
-  "zipCode": "3901101",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "ヒガシチクマグンアサヒムラ",
-  "townKana": "ニシセバ",
-  "prefecture": "長野県",
-  "city": "東筑摩郡朝日村",
-  "town": "西洗馬",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20451",
+      "oldZipCode": "39011",
+      "zipCode": "3901101",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "ヒガシチクマグンアサヒムラ",
+      "townKana": "ニシセバ",
+      "prefecture": "長野県",
+      "city": "東筑摩郡朝日村",
+      "town": "西洗馬",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

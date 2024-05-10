@@ -1,17 +1,21 @@
 {
-  "jisCode": "20485",
-  "oldZipCode": "39993",
-  "zipCode": "3999301",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "キタアヅミグンハクバムラ",
-  "townKana": "ホクジョウ",
-  "prefecture": "長野県",
-  "city": "北安曇郡白馬村",
-  "town": "北城",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20485",
+      "oldZipCode": "39993",
+      "zipCode": "3999301",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "キタアヅミグンハクバムラ",
+      "townKana": "ホクジョウ",
+      "prefecture": "長野県",
+      "city": "北安曇郡白馬村",
+      "town": "北城",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

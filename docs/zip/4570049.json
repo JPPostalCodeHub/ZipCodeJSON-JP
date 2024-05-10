@@ -1,17 +1,21 @@
 {
-  "jisCode": "23112",
-  "oldZipCode": "457  ",
-  "zipCode": "4570049",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ナゴヤシミナミク",
-  "townKana": "キタウチチョウ",
-  "prefecture": "愛知県",
-  "city": "名古屋市南区",
-  "town": "北内町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23112",
+      "oldZipCode": "457  ",
+      "zipCode": "4570049",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ナゴヤシミナミク",
+      "townKana": "キタウチチョウ",
+      "prefecture": "愛知県",
+      "city": "名古屋市南区",
+      "town": "北内町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

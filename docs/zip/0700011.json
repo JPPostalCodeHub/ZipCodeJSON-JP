@@ -1,17 +1,21 @@
 {
-  "jisCode": "01204",
-  "oldZipCode": "070  ",
-  "zipCode": "0700011",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "アサヒカワシ",
-  "townKana": "パルプチョウ１ジョウ",
-  "prefecture": "北海道",
-  "city": "旭川市",
-  "town": "パルプ町１条",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01204",
+      "oldZipCode": "070  ",
+      "zipCode": "0700011",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "アサヒカワシ",
+      "townKana": "パルプチョウ１ジョウ",
+      "prefecture": "北海道",
+      "city": "旭川市",
+      "town": "パルプ町１条",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

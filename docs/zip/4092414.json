@@ -1,17 +1,21 @@
 {
-  "jisCode": "19365",
-  "oldZipCode": "40924",
-  "zipCode": "4092414",
-  "prefectureKana": "ヤマナシケン",
-  "cityKana": "ミナミコマグンミノブチョウ",
-  "townKana": "ヒノウエ",
-  "prefecture": "山梨県",
-  "city": "南巨摩郡身延町",
-  "town": "樋之上",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "19365",
+      "oldZipCode": "40924",
+      "zipCode": "4092414",
+      "prefectureKana": "ヤマナシケン",
+      "cityKana": "ミナミコマグンミノブチョウ",
+      "townKana": "ヒノウエ",
+      "prefecture": "山梨県",
+      "city": "南巨摩郡身延町",
+      "town": "樋之上",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

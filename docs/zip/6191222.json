@@ -1,17 +1,21 @@
 {
-  "jisCode": "26365",
-  "oldZipCode": "61912",
-  "zipCode": "6191222",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "ソウラクグンワヅカチョウ",
-  "townKana": "シラス",
-  "prefecture": "京都府",
-  "city": "相楽郡和束町",
-  "town": "白栖",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26365",
+      "oldZipCode": "61912",
+      "zipCode": "6191222",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "ソウラクグンワヅカチョウ",
+      "townKana": "シラス",
+      "prefecture": "京都府",
+      "city": "相楽郡和束町",
+      "town": "白栖",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

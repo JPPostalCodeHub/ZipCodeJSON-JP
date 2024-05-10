@@ -1,17 +1,21 @@
 {
-  "jisCode": "01663",
-  "oldZipCode": "08816",
-  "zipCode": "0881648",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "アッケシグンハマナカチョウ",
-  "townKana": "アネベツキタ",
-  "prefecture": "北海道",
-  "city": "厚岸郡浜中町",
-  "town": "姉別北",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01663",
+      "oldZipCode": "08816",
+      "zipCode": "0881648",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "アッケシグンハマナカチョウ",
+      "townKana": "アネベツキタ",
+      "prefecture": "北海道",
+      "city": "厚岸郡浜中町",
+      "town": "姉別北",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,38 @@
 {
-  "jisCode": "36402",
-  "oldZipCode": "77102",
-  "zipCode": "7710200",
-  "prefectureKana": "トクシマケン",
-  "cityKana": "イタノグンキタジマチョウ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "徳島県",
-  "city": "板野郡北島町",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "36401",
+      "oldZipCode": "77102",
+      "zipCode": "7710200",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "イタノグンマツシゲチョウ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "徳島県",
+      "city": "板野郡松茂町",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "36402",
+      "oldZipCode": "77102",
+      "zipCode": "7710200",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "イタノグンキタジマチョウ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "徳島県",
+      "city": "板野郡北島町",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

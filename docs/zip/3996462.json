@@ -1,17 +1,21 @@
 {
-  "jisCode": "20215",
-  "oldZipCode": "39964",
-  "zipCode": "3996462",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "シオジリシ",
-  "townKana": "セバ",
-  "prefecture": "長野県",
-  "city": "塩尻市",
-  "town": "洗馬",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20215",
+      "oldZipCode": "39964",
+      "zipCode": "3996462",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "シオジリシ",
+      "townKana": "セバ",
+      "prefecture": "長野県",
+      "city": "塩尻市",
+      "town": "洗馬",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

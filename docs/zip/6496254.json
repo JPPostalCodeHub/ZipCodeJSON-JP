@@ -1,17 +1,21 @@
 {
-  "jisCode": "30209",
-  "oldZipCode": "64962",
-  "zipCode": "6496254",
-  "prefectureKana": "ワカヤマケン",
-  "cityKana": "イワデシ",
-  "townKana": "ハラ",
-  "prefecture": "和歌山県",
-  "city": "岩出市",
-  "town": "原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "30209",
+      "oldZipCode": "64962",
+      "zipCode": "6496254",
+      "prefectureKana": "ワカヤマケン",
+      "cityKana": "イワデシ",
+      "townKana": "ハラ",
+      "prefecture": "和歌山県",
+      "city": "岩出市",
+      "town": "原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

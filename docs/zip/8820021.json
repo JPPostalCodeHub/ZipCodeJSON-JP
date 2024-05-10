@@ -1,17 +1,21 @@
 {
-  "jisCode": "45203",
-  "oldZipCode": "882  ",
-  "zipCode": "8820021",
-  "prefectureKana": "ミヤザキケン",
-  "cityKana": "ノベオカシ",
-  "townKana": "ムシカマチ",
-  "prefecture": "宮崎県",
-  "city": "延岡市",
-  "town": "無鹿町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "45203",
+      "oldZipCode": "882  ",
+      "zipCode": "8820021",
+      "prefectureKana": "ミヤザキケン",
+      "cityKana": "ノベオカシ",
+      "townKana": "ムシカマチ",
+      "prefecture": "宮崎県",
+      "city": "延岡市",
+      "town": "無鹿町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,38 @@
 {
-  "jisCode": "07466",
-  "oldZipCode": "96902",
-  "zipCode": "9690246",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "ニシシラカワグンヤブキマチ",
-  "townKana": "シモミヤザキ",
-  "prefecture": "福島県",
-  "city": "西白河郡矢吹町",
-  "town": "下宮崎",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07466",
+      "oldZipCode": "96902",
+      "zipCode": "9690246",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "ニシシラカワグンヤブキマチ",
+      "townKana": "カミミヤザキ",
+      "prefecture": "福島県",
+      "city": "西白河郡矢吹町",
+      "town": "上宮崎",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "07466",
+      "oldZipCode": "96902",
+      "zipCode": "9690246",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "ニシシラカワグンヤブキマチ",
+      "townKana": "シモミヤザキ",
+      "prefecture": "福島県",
+      "city": "西白河郡矢吹町",
+      "town": "下宮崎",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "28225",
-  "oldZipCode": "66952",
-  "zipCode": "6695232",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "アサゴシ",
-  "townKana": "ワダヤマチョウテラウチ",
-  "prefecture": "兵庫県",
-  "city": "朝来市",
-  "town": "和田山町寺内",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28225",
+      "oldZipCode": "66952",
+      "zipCode": "6695232",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "アサゴシ",
+      "townKana": "ワダヤマチョウテラウチ",
+      "prefecture": "兵庫県",
+      "city": "朝来市",
+      "town": "和田山町寺内",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

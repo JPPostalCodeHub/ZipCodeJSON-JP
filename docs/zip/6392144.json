@@ -1,17 +1,21 @@
 {
-  "jisCode": "29211",
-  "oldZipCode": "63921",
-  "zipCode": "6392144",
-  "prefectureKana": "ナラケン",
-  "cityKana": "カツラギシ",
-  "townKana": "カツラギ",
-  "prefecture": "奈良県",
-  "city": "葛城市",
-  "town": "葛木",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "29211",
+      "oldZipCode": "63921",
+      "zipCode": "6392144",
+      "prefectureKana": "ナラケン",
+      "cityKana": "カツラギシ",
+      "townKana": "カツラギ",
+      "prefecture": "奈良県",
+      "city": "葛城市",
+      "town": "葛木",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

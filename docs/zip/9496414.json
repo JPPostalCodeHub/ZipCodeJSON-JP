@@ -1,17 +1,21 @@
 {
-  "jisCode": "15226",
-  "oldZipCode": "94964",
-  "zipCode": "9496414",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ミナミウオヌマシ",
-  "townKana": "ハチリュウシンデン",
-  "prefecture": "新潟県",
-  "city": "南魚沼市",
-  "town": "八竜新田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15226",
+      "oldZipCode": "94964",
+      "zipCode": "9496414",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ミナミウオヌマシ",
+      "townKana": "ハチリュウシンデン",
+      "prefecture": "新潟県",
+      "city": "南魚沼市",
+      "town": "八竜新田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

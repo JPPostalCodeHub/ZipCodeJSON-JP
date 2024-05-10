@@ -1,17 +1,21 @@
 {
-  "jisCode": "23233",
-  "oldZipCode": "452  ",
-  "zipCode": "4520008",
-  "prefectureKana": "アイチケン",
-  "cityKana": "キヨスシ",
-  "townKana": "ニシビワジマチョウチリョウ",
-  "prefecture": "愛知県",
-  "city": "清須市",
-  "town": "西枇杷島町地領",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23233",
+      "oldZipCode": "452  ",
+      "zipCode": "4520008",
+      "prefectureKana": "アイチケン",
+      "cityKana": "キヨスシ",
+      "townKana": "ニシビワジマチョウチリョウ",
+      "prefecture": "愛知県",
+      "city": "清須市",
+      "town": "西枇杷島町地領",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "15206",
-  "oldZipCode": "95924",
-  "zipCode": "9592437",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "シバタシ",
-  "townKana": "コウサンジ",
-  "prefecture": "新潟県",
-  "city": "新発田市",
-  "town": "高山寺",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15206",
+      "oldZipCode": "95924",
+      "zipCode": "9592437",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "シバタシ",
+      "townKana": "コウサンジ",
+      "prefecture": "新潟県",
+      "city": "新発田市",
+      "town": "高山寺",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

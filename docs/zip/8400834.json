@@ -1,17 +1,21 @@
 {
-  "jisCode": "41201",
-  "oldZipCode": "840  ",
-  "zipCode": "8400834",
-  "prefectureKana": "サガケン",
-  "cityKana": "サガシ",
-  "townKana": "ハチマンコウジ",
-  "prefecture": "佐賀県",
-  "city": "佐賀市",
-  "town": "八幡小路",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "41201",
+      "oldZipCode": "840  ",
+      "zipCode": "8400834",
+      "prefectureKana": "サガケン",
+      "cityKana": "サガシ",
+      "townKana": "ハチマンコウジ",
+      "prefecture": "佐賀県",
+      "city": "佐賀市",
+      "town": "八幡小路",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

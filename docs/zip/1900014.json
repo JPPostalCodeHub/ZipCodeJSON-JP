@@ -1,17 +1,21 @@
 {
-  "jisCode": "13202",
-  "oldZipCode": "190  ",
-  "zipCode": "1900014",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "タチカワシ",
-  "townKana": "ミドリチョウ",
-  "prefecture": "東京都",
-  "city": "立川市",
-  "town": "緑町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13202",
+      "oldZipCode": "190  ",
+      "zipCode": "1900014",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "タチカワシ",
+      "townKana": "ミドリチョウ",
+      "prefecture": "東京都",
+      "city": "立川市",
+      "town": "緑町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

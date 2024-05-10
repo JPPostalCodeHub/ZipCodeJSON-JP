@@ -1,17 +1,21 @@
 {
-  "jisCode": "17210",
-  "oldZipCode": "924  ",
-  "zipCode": "9240878",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "ハクサンシ",
-  "townKana": "スエヒロ",
-  "prefecture": "石川県",
-  "city": "白山市",
-  "town": "末広",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17210",
+      "oldZipCode": "924  ",
+      "zipCode": "9240878",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "ハクサンシ",
+      "townKana": "スエヒロ",
+      "prefecture": "石川県",
+      "city": "白山市",
+      "town": "末広",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

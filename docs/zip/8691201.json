@@ -1,17 +1,21 @@
 {
-  "jisCode": "43210",
-  "oldZipCode": "86912",
-  "zipCode": "8691201",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "キクチシ",
-  "townKana": "キョクシベンリ",
-  "prefecture": "熊本県",
-  "city": "菊池市",
-  "town": "旭志弁利",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43210",
+      "oldZipCode": "86912",
+      "zipCode": "8691201",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "キクチシ",
+      "townKana": "キョクシベンリ",
+      "prefecture": "熊本県",
+      "city": "菊池市",
+      "town": "旭志弁利",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "23221",
-  "oldZipCode": "44119",
-  "zipCode": "4411951",
-  "prefectureKana": "アイチケン",
-  "cityKana": "シンシロシ",
-  "townKana": "アイゴウ",
-  "prefecture": "愛知県",
-  "city": "新城市",
-  "town": "愛郷",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23221",
+      "oldZipCode": "44119",
+      "zipCode": "4411951",
+      "prefectureKana": "アイチケン",
+      "cityKana": "シンシロシ",
+      "townKana": "アイゴウ",
+      "prefecture": "愛知県",
+      "city": "新城市",
+      "town": "愛郷",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

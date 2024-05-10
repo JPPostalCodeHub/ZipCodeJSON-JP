@@ -1,17 +1,21 @@
 {
-  "jisCode": "26201",
-  "oldZipCode": "62014",
-  "zipCode": "6201421",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "フクチヤマシ",
-  "townKana": "ミワチョウオオミ",
-  "prefecture": "京都府",
-  "city": "福知山市",
-  "town": "三和町大身",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26201",
+      "oldZipCode": "62014",
+      "zipCode": "6201421",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "フクチヤマシ",
+      "townKana": "ミワチョウオオミ",
+      "prefecture": "京都府",
+      "city": "福知山市",
+      "town": "三和町大身",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

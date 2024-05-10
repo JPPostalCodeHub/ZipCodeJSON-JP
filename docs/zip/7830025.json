@@ -1,17 +1,21 @@
 {
-  "jisCode": "39204",
-  "oldZipCode": "783  ",
-  "zipCode": "7830025",
-  "prefectureKana": "コウチケン",
-  "cityKana": "ナンコクシ",
-  "townKana": "シモスエマツ",
-  "prefecture": "高知県",
-  "city": "南国市",
-  "town": "下末松",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "39204",
+      "oldZipCode": "783  ",
+      "zipCode": "7830025",
+      "prefectureKana": "コウチケン",
+      "cityKana": "ナンコクシ",
+      "townKana": "シモスエマツ",
+      "prefecture": "高知県",
+      "city": "南国市",
+      "town": "下末松",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "37341",
-  "oldZipCode": "76108",
-  "zipCode": "7610822",
-  "prefectureKana": "カガワケン",
-  "cityKana": "キタグンミキチョウ",
-  "townKana": "オクヤマ",
-  "prefecture": "香川県",
-  "city": "木田郡三木町",
-  "town": "奥山",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "37341",
+      "oldZipCode": "76108",
+      "zipCode": "7610822",
+      "prefectureKana": "カガワケン",
+      "cityKana": "キタグンミキチョウ",
+      "townKana": "オクヤマ",
+      "prefecture": "香川県",
+      "city": "木田郡三木町",
+      "town": "奥山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

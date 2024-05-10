@@ -1,17 +1,21 @@
 {
-  "jisCode": "20209",
-  "oldZipCode": "39604",
-  "zipCode": "3960404",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "イナシ",
-  "townKana": "ハセナカオ",
-  "prefecture": "長野県",
-  "city": "伊那市",
-  "town": "長谷中尾",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20209",
+      "oldZipCode": "39604",
+      "zipCode": "3960404",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "イナシ",
+      "townKana": "ハセナカオ",
+      "prefecture": "長野県",
+      "city": "伊那市",
+      "town": "長谷中尾",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

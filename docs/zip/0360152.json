@@ -1,17 +1,21 @@
 {
-  "jisCode": "02210",
-  "oldZipCode": "03601",
-  "zipCode": "0360152",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "ヒラカワシ",
-  "townKana": "イシハタケオカモト",
-  "prefecture": "青森県",
-  "city": "平川市",
-  "town": "石畑岡元",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02210",
+      "oldZipCode": "03601",
+      "zipCode": "0360152",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "ヒラカワシ",
+      "townKana": "イシハタケオカモト",
+      "prefecture": "青森県",
+      "city": "平川市",
+      "town": "石畑岡元",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

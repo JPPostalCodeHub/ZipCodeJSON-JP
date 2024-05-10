@@ -1,17 +1,21 @@
 {
-  "jisCode": "13229",
-  "oldZipCode": "202  ",
-  "zipCode": "2020023",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "ニシトウキョウシ",
-  "townKana": "シンマチ",
-  "prefecture": "東京都",
-  "city": "西東京市",
-  "town": "新町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13229",
+      "oldZipCode": "202  ",
+      "zipCode": "2020023",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "ニシトウキョウシ",
+      "townKana": "シンマチ",
+      "prefecture": "東京都",
+      "city": "西東京市",
+      "town": "新町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

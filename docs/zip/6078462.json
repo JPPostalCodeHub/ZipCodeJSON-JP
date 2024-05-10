@@ -1,17 +1,21 @@
 {
-  "jisCode": "26110",
-  "oldZipCode": "607  ",
-  "zipCode": "6078462",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシヤマシナク",
-  "townKana": "カミカザンハナノオカチョウ",
-  "prefecture": "京都府",
-  "city": "京都市山科区",
-  "town": "上花山花ノ岡町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26110",
+      "oldZipCode": "607  ",
+      "zipCode": "6078462",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシヤマシナク",
+      "townKana": "カミカザンハナノオカチョウ",
+      "prefecture": "京都府",
+      "city": "京都市山科区",
+      "town": "上花山花ノ岡町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

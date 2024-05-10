@@ -1,17 +1,21 @@
 {
-  "jisCode": "26101",
-  "oldZipCode": "603  ",
-  "zipCode": "6038335",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシキタク",
-  "townKana": "タイショウグンサカタチョウ",
-  "prefecture": "京都府",
-  "city": "京都市北区",
-  "town": "大将軍坂田町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26101",
+      "oldZipCode": "603  ",
+      "zipCode": "6038335",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシキタク",
+      "townKana": "タイショウグンサカタチョウ",
+      "prefecture": "京都府",
+      "city": "京都市北区",
+      "town": "大将軍坂田町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

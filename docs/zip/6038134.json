@@ -1,17 +1,21 @@
 {
-  "jisCode": "26101",
-  "oldZipCode": "603  ",
-  "zipCode": "6038134",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシキタク",
-  "townKana": "イズモジタテモトチョウ",
-  "prefecture": "京都府",
-  "city": "京都市北区",
-  "town": "出雲路立テ本町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26101",
+      "oldZipCode": "603  ",
+      "zipCode": "6038134",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシキタク",
+      "townKana": "イズモジタテモトチョウ",
+      "prefecture": "京都府",
+      "city": "京都市北区",
+      "town": "出雲路立テ本町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

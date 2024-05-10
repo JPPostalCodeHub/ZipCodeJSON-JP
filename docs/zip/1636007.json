@@ -1,17 +1,21 @@
 {
-  "jisCode": "13104",
-  "oldZipCode": "163  ",
-  "zipCode": "1636007",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "シンジュクク",
-  "townKana": "ニシシンジュクスミトモフドウサンシンジュクオークタワー（７カイ）",
-  "prefecture": "東京都",
-  "city": "新宿区",
-  "town": "西新宿住友不動産新宿オークタワー（７階）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13104",
+      "oldZipCode": "163  ",
+      "zipCode": "1636007",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "シンジュクク",
+      "townKana": "ニシシンジュクスミトモフドウサンシンジュクオークタワー（７カイ）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "town": "西新宿住友不動産新宿オークタワー（７階）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

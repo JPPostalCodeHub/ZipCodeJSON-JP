@@ -1,17 +1,21 @@
 {
-  "jisCode": "38206",
-  "oldZipCode": "79913",
-  "zipCode": "7991324",
-  "prefectureKana": "エヒメケン",
-  "cityKana": "サイジョウシ",
-  "townKana": "タカタ（ショウホウジ）",
-  "prefecture": "愛媛県",
-  "city": "西条市",
-  "town": "高田（正法寺）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "38206",
+      "oldZipCode": "79913",
+      "zipCode": "7991324",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "サイジョウシ",
+      "townKana": "タカタ（ショウホウジ）",
+      "prefecture": "愛媛県",
+      "city": "西条市",
+      "town": "高田（正法寺）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

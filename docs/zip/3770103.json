@@ -1,17 +1,21 @@
 {
-  "jisCode": "10208",
-  "oldZipCode": "37701",
-  "zipCode": "3770103",
-  "prefectureKana": "グンマケン",
-  "cityKana": "シブカワシ",
-  "townKana": "イカホマチミズサワ",
-  "prefecture": "群馬県",
-  "city": "渋川市",
-  "town": "伊香保町水沢",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "10208",
+      "oldZipCode": "37701",
+      "zipCode": "3770103",
+      "prefectureKana": "グンマケン",
+      "cityKana": "シブカワシ",
+      "townKana": "イカホマチミズサワ",
+      "prefecture": "群馬県",
+      "city": "渋川市",
+      "town": "伊香保町水沢",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

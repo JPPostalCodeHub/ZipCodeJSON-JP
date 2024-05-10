@@ -1,17 +1,21 @@
 {
-  "jisCode": "23116",
-  "oldZipCode": "468  ",
-  "zipCode": "4680034",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ナゴヤシテンパクク",
-  "townKana": "ヒサカタ",
-  "prefecture": "愛知県",
-  "city": "名古屋市天白区",
-  "town": "久方",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23116",
+      "oldZipCode": "468  ",
+      "zipCode": "4680034",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ナゴヤシテンパクク",
+      "townKana": "ヒサカタ",
+      "prefecture": "愛知県",
+      "city": "名古屋市天白区",
+      "town": "久方",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

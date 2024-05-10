@@ -1,17 +1,21 @@
 {
-  "jisCode": "01367",
-  "oldZipCode": "04314",
-  "zipCode": "0431405",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "オクシリグンオクシリチョウ",
-  "townKana": "イナホ",
-  "prefecture": "北海道",
-  "city": "奥尻郡奥尻町",
-  "town": "稲穂",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01367",
+      "oldZipCode": "04314",
+      "zipCode": "0431405",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "オクシリグンオクシリチョウ",
+      "townKana": "イナホ",
+      "prefecture": "北海道",
+      "city": "奥尻郡奥尻町",
+      "town": "稲穂",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

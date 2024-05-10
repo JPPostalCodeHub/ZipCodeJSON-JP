@@ -1,17 +1,21 @@
 {
-  "jisCode": "13211",
-  "oldZipCode": "187  ",
-  "zipCode": "1870004",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "コダイラシ",
-  "townKana": "テンジンチョウ",
-  "prefecture": "東京都",
-  "city": "小平市",
-  "town": "天神町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13211",
+      "oldZipCode": "187  ",
+      "zipCode": "1870004",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "コダイラシ",
+      "townKana": "テンジンチョウ",
+      "prefecture": "東京都",
+      "city": "小平市",
+      "town": "天神町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

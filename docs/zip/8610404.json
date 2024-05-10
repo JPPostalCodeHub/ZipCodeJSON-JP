@@ -1,17 +1,21 @@
 {
-  "jisCode": "43208",
-  "oldZipCode": "86104",
-  "zipCode": "8610404",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "ヤマガシ",
-  "townKana": "キクカマチカミナガノ",
-  "prefecture": "熊本県",
-  "city": "山鹿市",
-  "town": "菊鹿町上永野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43208",
+      "oldZipCode": "86104",
+      "zipCode": "8610404",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "ヤマガシ",
+      "townKana": "キクカマチカミナガノ",
+      "prefecture": "熊本県",
+      "city": "山鹿市",
+      "town": "菊鹿町上永野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

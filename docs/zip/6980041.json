@@ -1,17 +1,38 @@
 {
-  "jisCode": "32204",
-  "oldZipCode": "698  ",
-  "zipCode": "6980041",
-  "prefectureKana": "シマネケン",
-  "cityKana": "マスダシ",
-  "townKana": "タカツチョウ",
-  "prefecture": "島根県",
-  "city": "益田市",
-  "town": "高津町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "32204",
+      "oldZipCode": "698  ",
+      "zipCode": "6980041",
+      "prefectureKana": "シマネケン",
+      "cityKana": "マスダシ",
+      "townKana": "タカツ",
+      "prefecture": "島根県",
+      "city": "益田市",
+      "town": "高津",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "32204",
+      "oldZipCode": "698  ",
+      "zipCode": "6980041",
+      "prefectureKana": "シマネケン",
+      "cityKana": "マスダシ",
+      "townKana": "タカツチョウ",
+      "prefecture": "島根県",
+      "city": "益田市",
+      "town": "高津町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

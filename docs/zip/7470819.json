@@ -1,17 +1,21 @@
 {
-  "jisCode": "35206",
-  "oldZipCode": "747  ",
-  "zipCode": "7470819",
-  "prefectureKana": "ヤマグチケン",
-  "cityKana": "ホウフシ",
-  "townKana": "オチャヤマチ",
-  "prefecture": "山口県",
-  "city": "防府市",
-  "town": "お茶屋町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "35206",
+      "oldZipCode": "747  ",
+      "zipCode": "7470819",
+      "prefectureKana": "ヤマグチケン",
+      "cityKana": "ホウフシ",
+      "townKana": "オチャヤマチ",
+      "prefecture": "山口県",
+      "city": "防府市",
+      "town": "お茶屋町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

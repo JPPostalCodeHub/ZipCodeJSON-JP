@@ -1,17 +1,38 @@
 {
-  "jisCode": "07447",
-  "oldZipCode": "96961",
-  "zipCode": "9696105",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "オオヌマグンアイヅミサトマチ",
-  "townKana": "カミムラミナミ",
-  "prefecture": "福島県",
-  "city": "大沼郡会津美里町",
-  "town": "上村南",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07447",
+      "oldZipCode": "96961",
+      "zipCode": "9696105",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "オオヌマグンアイヅミサトマチ",
+      "townKana": "カミムラヒガシ",
+      "prefecture": "福島県",
+      "city": "大沼郡会津美里町",
+      "town": "上村東",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "07447",
+      "oldZipCode": "96961",
+      "zipCode": "9696105",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "オオヌマグンアイヅミサトマチ",
+      "townKana": "カミムラミナミ",
+      "prefecture": "福島県",
+      "city": "大沼郡会津美里町",
+      "town": "上村南",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

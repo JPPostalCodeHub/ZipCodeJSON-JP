@@ -1,17 +1,21 @@
 {
-  "jisCode": "08204",
-  "oldZipCode": "30601",
-  "zipCode": "3060107",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "コガシ",
-  "townKana": "ヒガシマナカバシ",
-  "prefecture": "茨城県",
-  "city": "古河市",
-  "town": "東間中橋",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08204",
+      "oldZipCode": "30601",
+      "zipCode": "3060107",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "コガシ",
+      "townKana": "ヒガシマナカバシ",
+      "prefecture": "茨城県",
+      "city": "古河市",
+      "town": "東間中橋",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

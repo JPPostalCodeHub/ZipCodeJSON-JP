@@ -1,17 +1,21 @@
 {
-  "jisCode": "17206",
-  "oldZipCode": "922  ",
-  "zipCode": "9220856",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "カガシ",
-  "townKana": "オクノヤマチ",
-  "prefecture": "石川県",
-  "city": "加賀市",
-  "town": "奥谷町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17206",
+      "oldZipCode": "922  ",
+      "zipCode": "9220856",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "カガシ",
+      "townKana": "オクノヤマチ",
+      "prefecture": "石川県",
+      "city": "加賀市",
+      "town": "奥谷町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

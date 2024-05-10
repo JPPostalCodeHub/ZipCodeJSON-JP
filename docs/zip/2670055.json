@@ -1,17 +1,21 @@
 {
-  "jisCode": "12105",
-  "oldZipCode": "267  ",
-  "zipCode": "2670055",
-  "prefectureKana": "チバケン",
-  "cityKana": "チバシミドリク",
-  "townKana": "オチチョウ",
-  "prefecture": "千葉県",
-  "city": "千葉市緑区",
-  "town": "越智町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12105",
+      "oldZipCode": "267  ",
+      "zipCode": "2670055",
+      "prefectureKana": "チバケン",
+      "cityKana": "チバシミドリク",
+      "townKana": "オチチョウ",
+      "prefecture": "千葉県",
+      "city": "千葉市緑区",
+      "town": "越智町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

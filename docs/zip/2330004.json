@@ -1,17 +1,21 @@
 {
-  "jisCode": "14111",
-  "oldZipCode": "233  ",
-  "zipCode": "2330004",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "ヨコハマシコウナンク",
-  "townKana": "コウナンチュウオウドオリ",
-  "prefecture": "神奈川県",
-  "city": "横浜市港南区",
-  "town": "港南中央通",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14111",
+      "oldZipCode": "233  ",
+      "zipCode": "2330004",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "ヨコハマシコウナンク",
+      "townKana": "コウナンチュウオウドオリ",
+      "prefecture": "神奈川県",
+      "city": "横浜市港南区",
+      "town": "港南中央通",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

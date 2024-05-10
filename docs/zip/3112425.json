@@ -1,17 +1,21 @@
 {
-  "jisCode": "08223",
-  "oldZipCode": "31124",
-  "zipCode": "3112425",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "イタコシ",
-  "townKana": "アヤメ",
-  "prefecture": "茨城県",
-  "city": "潮来市",
-  "town": "あやめ",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08223",
+      "oldZipCode": "31124",
+      "zipCode": "3112425",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "イタコシ",
+      "townKana": "アヤメ",
+      "prefecture": "茨城県",
+      "city": "潮来市",
+      "town": "あやめ",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

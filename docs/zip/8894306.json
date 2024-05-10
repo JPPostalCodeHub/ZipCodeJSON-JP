@@ -1,17 +1,21 @@
 {
-  "jisCode": "45209",
-  "oldZipCode": "88943",
-  "zipCode": "8894306",
-  "prefectureKana": "ミヤザキケン",
-  "cityKana": "エビノシ",
-  "townKana": "イマニシ",
-  "prefecture": "宮崎県",
-  "city": "えびの市",
-  "town": "今西",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "45209",
+      "oldZipCode": "88943",
+      "zipCode": "8894306",
+      "prefectureKana": "ミヤザキケン",
+      "cityKana": "エビノシ",
+      "townKana": "イマニシ",
+      "prefecture": "宮崎県",
+      "city": "えびの市",
+      "town": "今西",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

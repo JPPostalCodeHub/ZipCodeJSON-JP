@@ -1,17 +1,21 @@
 {
-  "jisCode": "05202",
-  "oldZipCode": "01831",
-  "zipCode": "0183152",
-  "prefectureKana": "アキタケン",
-  "cityKana": "ノシロシ",
-  "townKana": "フタツイマチシモノイエウシロ",
-  "prefecture": "秋田県",
-  "city": "能代市",
-  "town": "二ツ井町下野家後",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05202",
+      "oldZipCode": "01831",
+      "zipCode": "0183152",
+      "prefectureKana": "アキタケン",
+      "cityKana": "ノシロシ",
+      "townKana": "フタツイマチシモノイエウシロ",
+      "prefecture": "秋田県",
+      "city": "能代市",
+      "town": "二ツ井町下野家後",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

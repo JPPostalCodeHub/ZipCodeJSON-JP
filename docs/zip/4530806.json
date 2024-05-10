@@ -1,17 +1,21 @@
 {
-  "jisCode": "23105",
-  "oldZipCode": "453  ",
-  "zipCode": "4530806",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ナゴヤシナカムラク",
-  "townKana": "タイショウチョウ",
-  "prefecture": "愛知県",
-  "city": "名古屋市中村区",
-  "town": "大正町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23105",
+      "oldZipCode": "453  ",
+      "zipCode": "4530806",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ナゴヤシナカムラク",
+      "townKana": "タイショウチョウ",
+      "prefecture": "愛知県",
+      "city": "名古屋市中村区",
+      "town": "大正町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

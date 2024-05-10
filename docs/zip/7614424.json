@@ -1,17 +1,21 @@
 {
-  "jisCode": "37324",
-  "oldZipCode": "76144",
-  "zipCode": "7614424",
-  "prefectureKana": "カガワケン",
-  "cityKana": "ショウズグンショウドシマチョウ",
-  "townKana": "タノウラ",
-  "prefecture": "香川県",
-  "city": "小豆郡小豆島町",
-  "town": "田浦",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "37324",
+      "oldZipCode": "76144",
+      "zipCode": "7614424",
+      "prefectureKana": "カガワケン",
+      "cityKana": "ショウズグンショウドシマチョウ",
+      "townKana": "タノウラ",
+      "prefecture": "香川県",
+      "city": "小豆郡小豆島町",
+      "town": "田浦",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

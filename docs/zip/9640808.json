@@ -1,17 +1,21 @@
 {
-  "jisCode": "07210",
-  "oldZipCode": "964  ",
-  "zipCode": "9640808",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "ニホンマツシ",
-  "townKana": "キトウジロウウチ",
-  "prefecture": "福島県",
-  "city": "二本松市",
-  "town": "木藤次郎内",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07210",
+      "oldZipCode": "964  ",
+      "zipCode": "9640808",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "ニホンマツシ",
+      "townKana": "キトウジロウウチ",
+      "prefecture": "福島県",
+      "city": "二本松市",
+      "town": "木藤次郎内",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

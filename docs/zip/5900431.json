@@ -1,17 +1,21 @@
 {
-  "jisCode": "27361",
-  "oldZipCode": "59004",
-  "zipCode": "5900431",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "センナングンクマトリチョウ",
-  "townKana": "オダニ",
-  "prefecture": "大阪府",
-  "city": "泉南郡熊取町",
-  "town": "小谷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27361",
+      "oldZipCode": "59004",
+      "zipCode": "5900431",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "センナングンクマトリチョウ",
+      "townKana": "オダニ",
+      "prefecture": "大阪府",
+      "city": "泉南郡熊取町",
+      "town": "小谷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

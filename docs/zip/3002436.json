@@ -1,17 +1,21 @@
 {
-  "jisCode": "08235",
-  "oldZipCode": "30024",
-  "zipCode": "3002436",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "ツクバミライシ",
-  "townKana": "キヌノダイ",
-  "prefecture": "茨城県",
-  "city": "つくばみらい市",
-  "town": "絹の台",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08235",
+      "oldZipCode": "30024",
+      "zipCode": "3002436",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "ツクバミライシ",
+      "townKana": "キヌノダイ",
+      "prefecture": "茨城県",
+      "city": "つくばみらい市",
+      "town": "絹の台",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "11209",
-  "oldZipCode": "357  ",
-  "zipCode": "3570041",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "ハンノウシ",
-  "townKana": "ミスギダイ",
-  "prefecture": "埼玉県",
-  "city": "飯能市",
-  "town": "美杉台",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11209",
+      "oldZipCode": "357  ",
+      "zipCode": "3570041",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "ハンノウシ",
+      "townKana": "ミスギダイ",
+      "prefecture": "埼玉県",
+      "city": "飯能市",
+      "town": "美杉台",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

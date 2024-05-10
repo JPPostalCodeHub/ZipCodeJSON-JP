@@ -1,17 +1,21 @@
 {
-  "jisCode": "26108",
-  "oldZipCode": "616  ",
-  "zipCode": "6168212",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシウキョウク",
-  "townKana": "トキワヤマシタチョウ",
-  "prefecture": "京都府",
-  "city": "京都市右京区",
-  "town": "常盤山下町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26108",
+      "oldZipCode": "616  ",
+      "zipCode": "6168212",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシウキョウク",
+      "townKana": "トキワヤマシタチョウ",
+      "prefecture": "京都府",
+      "city": "京都市右京区",
+      "town": "常盤山下町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

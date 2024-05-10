@@ -1,17 +1,21 @@
 {
-  "jisCode": "13103",
-  "oldZipCode": "106  ",
-  "zipCode": "1060047",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "ミナトク",
-  "townKana": "ミナミアザブ",
-  "prefecture": "東京都",
-  "city": "港区",
-  "town": "南麻布",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13103",
+      "oldZipCode": "106  ",
+      "zipCode": "1060047",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "ミナトク",
+      "townKana": "ミナミアザブ",
+      "prefecture": "東京都",
+      "city": "港区",
+      "town": "南麻布",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

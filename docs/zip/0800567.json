@@ -1,17 +1,38 @@
 {
-  "jisCode": "01631",
-  "oldZipCode": "08005",
-  "zipCode": "0800567",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "カトウグンオトフケチョウ",
-  "townKana": "コマバミナミ４ジョウドオリ",
-  "prefecture": "北海道",
-  "city": "河東郡音更町",
-  "town": "駒場南４条通",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01631",
+      "oldZipCode": "08005",
+      "zipCode": "0800567",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "カトウグンオトフケチョウ",
+      "townKana": "コマバミナミ３ジョウドオリ",
+      "prefecture": "北海道",
+      "city": "河東郡音更町",
+      "town": "駒場南３条通",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "01631",
+      "oldZipCode": "08005",
+      "zipCode": "0800567",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "カトウグンオトフケチョウ",
+      "townKana": "コマバミナミ４ジョウドオリ",
+      "prefecture": "北海道",
+      "city": "河東郡音更町",
+      "town": "駒場南４条通",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

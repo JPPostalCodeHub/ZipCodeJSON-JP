@@ -1,17 +1,21 @@
 {
-  "jisCode": "29441",
-  "oldZipCode": "63931",
-  "zipCode": "6393113",
-  "prefectureKana": "ナラケン",
-  "cityKana": "ヨシノグンヨシノチョウ",
-  "townKana": "イイガイ",
-  "prefecture": "奈良県",
-  "city": "吉野郡吉野町",
-  "town": "飯貝",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "29441",
+      "oldZipCode": "63931",
+      "zipCode": "6393113",
+      "prefectureKana": "ナラケン",
+      "cityKana": "ヨシノグンヨシノチョウ",
+      "townKana": "イイガイ",
+      "prefecture": "奈良県",
+      "city": "吉野郡吉野町",
+      "town": "飯貝",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

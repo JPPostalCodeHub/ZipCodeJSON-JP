@@ -1,17 +1,21 @@
 {
-  "jisCode": "12322",
-  "oldZipCode": "285  ",
-  "zipCode": "2850923",
-  "prefectureKana": "チバケン",
-  "cityKana": "インバグンシスイマチ",
-  "townKana": "ヒガシシスイ",
-  "prefecture": "千葉県",
-  "city": "印旛郡酒々井町",
-  "town": "東酒々井",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12322",
+      "oldZipCode": "285  ",
+      "zipCode": "2850923",
+      "prefectureKana": "チバケン",
+      "cityKana": "インバグンシスイマチ",
+      "townKana": "ヒガシシスイ",
+      "prefecture": "千葉県",
+      "city": "印旛郡酒々井町",
+      "town": "東酒々井",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

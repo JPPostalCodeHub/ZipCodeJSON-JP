@@ -1,17 +1,21 @@
 {
-  "jisCode": "36208",
-  "oldZipCode": "778  ",
-  "zipCode": "7780000",
-  "prefectureKana": "トクシマケン",
-  "cityKana": "ミヨシシ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "徳島県",
-  "city": "三好市",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "36208",
+      "oldZipCode": "778  ",
+      "zipCode": "7780000",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "ミヨシシ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "徳島県",
+      "city": "三好市",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

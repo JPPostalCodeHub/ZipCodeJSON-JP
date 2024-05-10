@@ -1,17 +1,21 @@
 {
-  "jisCode": "12238",
-  "oldZipCode": "29946",
-  "zipCode": "2994623",
-  "prefectureKana": "チバケン",
-  "cityKana": "イスミシ",
-  "townKana": "ミサキチョウナカダキ",
-  "prefecture": "千葉県",
-  "city": "いすみ市",
-  "town": "岬町中滝",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12238",
+      "oldZipCode": "29946",
+      "zipCode": "2994623",
+      "prefectureKana": "チバケン",
+      "cityKana": "イスミシ",
+      "townKana": "ミサキチョウナカダキ",
+      "prefecture": "千葉県",
+      "city": "いすみ市",
+      "town": "岬町中滝",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

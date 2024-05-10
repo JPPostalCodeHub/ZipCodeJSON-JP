@@ -1,17 +1,21 @@
 {
-  "jisCode": "11216",
-  "oldZipCode": "348  ",
-  "zipCode": "3480057",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "ハニュウシ",
-  "townKana": "キタ",
-  "prefecture": "埼玉県",
-  "city": "羽生市",
-  "town": "北",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11216",
+      "oldZipCode": "348  ",
+      "zipCode": "3480057",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "ハニュウシ",
+      "townKana": "キタ",
+      "prefecture": "埼玉県",
+      "city": "羽生市",
+      "town": "北",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

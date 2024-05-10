@@ -1,17 +1,21 @@
 {
-  "jisCode": "42204",
-  "oldZipCode": "85901",
-  "zipCode": "8590106",
-  "prefectureKana": "ナガサキケン",
-  "cityKana": "イサハヤシ",
-  "townKana": "タカキチョウフジト",
-  "prefecture": "長崎県",
-  "city": "諫早市",
-  "town": "高来町冨地戸",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "42204",
+      "oldZipCode": "85901",
+      "zipCode": "8590106",
+      "prefectureKana": "ナガサキケン",
+      "cityKana": "イサハヤシ",
+      "townKana": "タカキチョウフジト",
+      "prefecture": "長崎県",
+      "city": "諫早市",
+      "town": "高来町冨地戸",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "30206",
-  "oldZipCode": "646  ",
-  "zipCode": "6460036",
-  "prefectureKana": "ワカヤマケン",
-  "cityKana": "タナベシ",
-  "townKana": "カミヤシキ",
-  "prefecture": "和歌山県",
-  "city": "田辺市",
-  "town": "上屋敷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "30206",
+      "oldZipCode": "646  ",
+      "zipCode": "6460036",
+      "prefectureKana": "ワカヤマケン",
+      "cityKana": "タナベシ",
+      "townKana": "カミヤシキ",
+      "prefecture": "和歌山県",
+      "city": "田辺市",
+      "town": "上屋敷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

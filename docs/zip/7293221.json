@@ -1,17 +1,21 @@
 {
-  "jisCode": "34208",
-  "oldZipCode": "72932",
-  "zipCode": "7293221",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "フチュウシ",
-  "townKana": "カワサチョウ",
-  "prefecture": "広島県",
-  "city": "府中市",
-  "town": "河佐町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34208",
+      "oldZipCode": "72932",
+      "zipCode": "7293221",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "フチュウシ",
+      "townKana": "カワサチョウ",
+      "prefecture": "広島県",
+      "city": "府中市",
+      "town": "河佐町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

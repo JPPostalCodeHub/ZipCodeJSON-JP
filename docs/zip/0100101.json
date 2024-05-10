@@ -1,17 +1,21 @@
 {
-  "jisCode": "05211",
-  "oldZipCode": "01001",
-  "zipCode": "0100101",
-  "prefectureKana": "アキタケン",
-  "cityKana": "カタガミシ",
-  "townKana": "テンノウ（オイワケ、オイワケニシ、カミキタノ、ナガヌマ）",
-  "prefecture": "秋田県",
-  "city": "潟上市",
-  "town": "天王（追分、追分西、上北野、長沼）",
-  "multipleZipCodes": "1",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "05211",
+      "oldZipCode": "01001",
+      "zipCode": "0100101",
+      "prefectureKana": "アキタケン",
+      "cityKana": "カタガミシ",
+      "townKana": "テンノウ（オイワケ、オイワケニシ、カミキタノ、ナガヌマ）",
+      "prefecture": "秋田県",
+      "city": "潟上市",
+      "town": "天王（追分、追分西、上北野、長沼）",
+      "multipleZipCodes": "1",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

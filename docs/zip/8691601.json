@@ -1,17 +1,21 @@
 {
-  "jisCode": "43428",
-  "oldZipCode": "86916",
-  "zipCode": "8691601",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "アソグンタカモリマチ",
-  "townKana": "カミシキミ",
-  "prefecture": "熊本県",
-  "city": "阿蘇郡高森町",
-  "town": "上色見",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43428",
+      "oldZipCode": "86916",
+      "zipCode": "8691601",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "アソグンタカモリマチ",
+      "townKana": "カミシキミ",
+      "prefecture": "熊本県",
+      "city": "阿蘇郡高森町",
+      "town": "上色見",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

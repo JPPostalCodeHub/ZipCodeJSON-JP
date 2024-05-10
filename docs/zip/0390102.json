@@ -1,17 +1,21 @@
 {
-  "jisCode": "02445",
-  "oldZipCode": "03901",
-  "zipCode": "0390102",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "サンノヘグンナンブチョウ",
-  "townKana": "アカイシ",
-  "prefecture": "青森県",
-  "city": "三戸郡南部町",
-  "town": "赤石",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02445",
+      "oldZipCode": "03901",
+      "zipCode": "0390102",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "サンノヘグンナンブチョウ",
+      "townKana": "アカイシ",
+      "prefecture": "青森県",
+      "city": "三戸郡南部町",
+      "town": "赤石",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

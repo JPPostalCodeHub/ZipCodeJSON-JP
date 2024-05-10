@@ -1,17 +1,21 @@
 {
-  "jisCode": "32205",
-  "oldZipCode": "694  ",
-  "zipCode": "6940034",
-  "prefectureKana": "シマネケン",
-  "cityKana": "オオダシ",
-  "townKana": "オオヤチョウオオヤ",
-  "prefecture": "島根県",
-  "city": "大田市",
-  "town": "大屋町大屋",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "32205",
+      "oldZipCode": "694  ",
+      "zipCode": "6940034",
+      "prefectureKana": "シマネケン",
+      "cityKana": "オオダシ",
+      "townKana": "オオヤチョウオオヤ",
+      "prefecture": "島根県",
+      "city": "大田市",
+      "town": "大屋町大屋",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

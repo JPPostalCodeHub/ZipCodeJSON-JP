@@ -1,17 +1,21 @@
 {
-  "jisCode": "43202",
-  "oldZipCode": "86944",
-  "zipCode": "8694402",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "ヤツシロシ",
-  "townKana": "イズミマチクリギ",
-  "prefecture": "熊本県",
-  "city": "八代市",
-  "town": "泉町栗木",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43202",
+      "oldZipCode": "86944",
+      "zipCode": "8694402",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "ヤツシロシ",
+      "townKana": "イズミマチクリギ",
+      "prefecture": "熊本県",
+      "city": "八代市",
+      "town": "泉町栗木",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

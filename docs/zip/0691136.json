@@ -1,17 +1,21 @@
 {
-  "jisCode": "01427",
-  "oldZipCode": "06911",
-  "zipCode": "0691136",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ユウバリグンユニチョウ",
-  "townKana": "クマモト（ソノタ）",
-  "prefecture": "北海道",
-  "city": "夕張郡由仁町",
-  "town": "熊本（その他）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01427",
+      "oldZipCode": "06911",
+      "zipCode": "0691136",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ユウバリグンユニチョウ",
+      "townKana": "クマモト（ソノタ）",
+      "prefecture": "北海道",
+      "city": "夕張郡由仁町",
+      "town": "熊本（その他）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

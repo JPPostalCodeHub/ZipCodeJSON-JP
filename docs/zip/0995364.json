@@ -1,17 +1,21 @@
 {
-  "jisCode": "01219",
-  "oldZipCode": "09953",
-  "zipCode": "0995364",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "モンベツシ",
-  "townKana": "カミショコツチョウウエコタン",
-  "prefecture": "北海道",
-  "city": "紋別市",
-  "town": "上渚滑町上古丹",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01219",
+      "oldZipCode": "09953",
+      "zipCode": "0995364",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "モンベツシ",
+      "townKana": "カミショコツチョウウエコタン",
+      "prefecture": "北海道",
+      "city": "紋別市",
+      "town": "上渚滑町上古丹",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

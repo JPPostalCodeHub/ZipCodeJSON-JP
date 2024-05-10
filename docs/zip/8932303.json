@@ -1,17 +1,21 @@
 {
-  "jisCode": "46490",
-  "oldZipCode": "89323",
-  "zipCode": "8932303",
-  "prefectureKana": "カゴシマケン",
-  "cityKana": "キモツキグンキンコウチョウ",
-  "townKana": "ババ",
-  "prefecture": "鹿児島県",
-  "city": "肝属郡錦江町",
-  "town": "馬場",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "46490",
+      "oldZipCode": "89323",
+      "zipCode": "8932303",
+      "prefectureKana": "カゴシマケン",
+      "cityKana": "キモツキグンキンコウチョウ",
+      "townKana": "ババ",
+      "prefecture": "鹿児島県",
+      "city": "肝属郡錦江町",
+      "town": "馬場",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

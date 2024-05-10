@@ -1,17 +1,38 @@
 {
-  "jisCode": "11224",
-  "oldZipCode": "335  ",
-  "zipCode": "3350000",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "トダシ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "埼玉県",
-  "city": "戸田市",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11223",
+      "oldZipCode": "335  ",
+      "zipCode": "3350000",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "ワラビシ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "埼玉県",
+      "city": "蕨市",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "11224",
+      "oldZipCode": "335  ",
+      "zipCode": "3350000",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "トダシ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "埼玉県",
+      "city": "戸田市",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

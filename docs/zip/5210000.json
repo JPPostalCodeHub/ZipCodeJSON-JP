@@ -1,17 +1,21 @@
 {
-  "jisCode": "25214",
-  "oldZipCode": "521  ",
-  "zipCode": "5210000",
-  "prefectureKana": "シガケン",
-  "cityKana": "マイバラシ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "滋賀県",
-  "city": "米原市",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "25214",
+      "oldZipCode": "521  ",
+      "zipCode": "5210000",
+      "prefectureKana": "シガケン",
+      "cityKana": "マイバラシ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "滋賀県",
+      "city": "米原市",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

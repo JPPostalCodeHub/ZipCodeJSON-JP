@@ -1,17 +1,21 @@
 {
-  "jisCode": "08225",
-  "oldZipCode": "31146",
-  "zipCode": "3114616",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "ヒタチオオミヤシ",
-  "townKana": "ヒヤマ",
-  "prefecture": "茨城県",
-  "city": "常陸大宮市",
-  "town": "桧山",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08225",
+      "oldZipCode": "31146",
+      "zipCode": "3114616",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "ヒタチオオミヤシ",
+      "townKana": "ヒヤマ",
+      "prefecture": "茨城県",
+      "city": "常陸大宮市",
+      "town": "桧山",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

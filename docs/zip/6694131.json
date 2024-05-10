@@ -1,17 +1,21 @@
 {
-  "jisCode": "28223",
-  "oldZipCode": "66941",
-  "zipCode": "6694131",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "タンバシ",
-  "townKana": "カスガチョウナヌカイチ",
-  "prefecture": "兵庫県",
-  "city": "丹波市",
-  "town": "春日町七日市",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28223",
+      "oldZipCode": "66941",
+      "zipCode": "6694131",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "タンバシ",
+      "townKana": "カスガチョウナヌカイチ",
+      "prefecture": "兵庫県",
+      "city": "丹波市",
+      "town": "春日町七日市",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

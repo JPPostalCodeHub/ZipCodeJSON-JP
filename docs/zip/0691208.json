@@ -1,17 +1,21 @@
 {
-  "jisCode": "01427",
-  "oldZipCode": "06912",
-  "zipCode": "0691208",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ユウバリグンユニチョウ",
-  "townKana": "ヤマガタ",
-  "prefecture": "北海道",
-  "city": "夕張郡由仁町",
-  "town": "山形",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01427",
+      "oldZipCode": "06912",
+      "zipCode": "0691208",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ユウバリグンユニチョウ",
+      "townKana": "ヤマガタ",
+      "prefecture": "北海道",
+      "city": "夕張郡由仁町",
+      "town": "山形",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

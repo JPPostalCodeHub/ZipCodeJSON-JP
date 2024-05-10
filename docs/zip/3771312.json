@@ -1,17 +1,21 @@
 {
-  "jisCode": "10421",
-  "oldZipCode": "37713",
-  "zipCode": "3771312",
-  "prefectureKana": "グンマケン",
-  "cityKana": "アガツマグンナカノジョウマチ",
-  "townKana": "ヒカゲ",
-  "prefecture": "群馬県",
-  "city": "吾妻郡中之条町",
-  "town": "日影",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "10421",
+      "oldZipCode": "37713",
+      "zipCode": "3771312",
+      "prefectureKana": "グンマケン",
+      "cityKana": "アガツマグンナカノジョウマチ",
+      "townKana": "ヒカゲ",
+      "prefecture": "群馬県",
+      "city": "吾妻郡中之条町",
+      "town": "日影",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

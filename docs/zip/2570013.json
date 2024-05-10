@@ -1,17 +1,21 @@
 {
-  "jisCode": "14211",
-  "oldZipCode": "257  ",
-  "zipCode": "2570013",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "ハダノシ",
-  "townKana": "ミナミガオカ",
-  "prefecture": "神奈川県",
-  "city": "秦野市",
-  "town": "南が丘",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14211",
+      "oldZipCode": "257  ",
+      "zipCode": "2570013",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "ハダノシ",
+      "townKana": "ミナミガオカ",
+      "prefecture": "神奈川県",
+      "city": "秦野市",
+      "town": "南が丘",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

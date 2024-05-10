@@ -1,17 +1,21 @@
 {
-  "jisCode": "43513",
-  "oldZipCode": "86964",
-  "zipCode": "8696405",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "クマグンクマムラ",
-  "townKana": "オオセ",
-  "prefecture": "熊本県",
-  "city": "球磨郡球磨村",
-  "town": "大瀬",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43513",
+      "oldZipCode": "86964",
+      "zipCode": "8696405",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "クマグンクマムラ",
+      "townKana": "オオセ",
+      "prefecture": "熊本県",
+      "city": "球磨郡球磨村",
+      "town": "大瀬",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

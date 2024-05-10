@@ -1,17 +1,21 @@
 {
-  "jisCode": "15204",
-  "oldZipCode": "955  ",
-  "zipCode": "9550864",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "サンジョウシ",
-  "townKana": "マガリフチ",
-  "prefecture": "新潟県",
-  "city": "三条市",
-  "town": "曲渕",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15204",
+      "oldZipCode": "955  ",
+      "zipCode": "9550864",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "サンジョウシ",
+      "townKana": "マガリフチ",
+      "prefecture": "新潟県",
+      "city": "三条市",
+      "town": "曲渕",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

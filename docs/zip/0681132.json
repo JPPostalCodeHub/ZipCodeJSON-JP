@@ -1,17 +1,21 @@
 {
-  "jisCode": "01304",
-  "oldZipCode": "06811",
-  "zipCode": "0681132",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "イシカリグンシンシノツムラ",
-  "townKana": "トヨノ",
-  "prefecture": "北海道",
-  "city": "石狩郡新篠津村",
-  "town": "豊野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01304",
+      "oldZipCode": "06811",
+      "zipCode": "0681132",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "イシカリグンシンシノツムラ",
+      "townKana": "トヨノ",
+      "prefecture": "北海道",
+      "city": "石狩郡新篠津村",
+      "town": "豊野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

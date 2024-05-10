@@ -1,17 +1,21 @@
 {
-  "jisCode": "17202",
-  "oldZipCode": "92601",
-  "zipCode": "9260176",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "ナナオシ",
-  "townKana": "ワクラマチヒバリ",
-  "prefecture": "石川県",
-  "city": "七尾市",
-  "town": "和倉町ひばり",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17202",
+      "oldZipCode": "92601",
+      "zipCode": "9260176",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "ナナオシ",
+      "townKana": "ワクラマチヒバリ",
+      "prefecture": "石川県",
+      "city": "七尾市",
+      "town": "和倉町ひばり",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

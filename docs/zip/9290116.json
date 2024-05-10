@@ -1,17 +1,38 @@
 {
-  "jisCode": "17211",
-  "oldZipCode": "92901",
-  "zipCode": "9290116",
-  "prefectureKana": "イシカワケン",
-  "cityKana": "ノミシ",
-  "townKana": "ネアガリマチ",
-  "prefecture": "石川県",
-  "city": "能美市",
-  "town": "根上町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "17211",
+      "oldZipCode": "92901",
+      "zipCode": "9290116",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "ノミシ",
+      "townKana": "タカサカマチ",
+      "prefecture": "石川県",
+      "city": "能美市",
+      "town": "高坂町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "17211",
+      "oldZipCode": "92901",
+      "zipCode": "9290116",
+      "prefectureKana": "イシカワケン",
+      "cityKana": "ノミシ",
+      "townKana": "ネアガリマチ",
+      "prefecture": "石川県",
+      "city": "能美市",
+      "town": "根上町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

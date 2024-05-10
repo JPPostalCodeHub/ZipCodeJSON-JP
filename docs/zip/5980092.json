@@ -1,17 +1,21 @@
 {
-  "jisCode": "27362",
-  "oldZipCode": "598  ",
-  "zipCode": "5980092",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "センナングンタジリチョウ",
-  "townKana": "ヨシミ",
-  "prefecture": "大阪府",
-  "city": "泉南郡田尻町",
-  "town": "吉見",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27362",
+      "oldZipCode": "598  ",
+      "zipCode": "5980092",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "センナングンタジリチョウ",
+      "townKana": "ヨシミ",
+      "prefecture": "大阪府",
+      "city": "泉南郡田尻町",
+      "town": "吉見",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "07445",
-  "oldZipCode": "96803",
-  "zipCode": "9680321",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "オオヌマグンカネヤママチ",
-  "townKana": "コスガワ",
-  "prefecture": "福島県",
-  "city": "大沼郡金山町",
-  "town": "越川",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07445",
+      "oldZipCode": "96803",
+      "zipCode": "9680321",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "オオヌマグンカネヤママチ",
+      "townKana": "コスガワ",
+      "prefecture": "福島県",
+      "city": "大沼郡金山町",
+      "town": "越川",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

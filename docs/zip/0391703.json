@@ -1,17 +1,21 @@
 {
-  "jisCode": "02442",
-  "oldZipCode": "03917",
-  "zipCode": "0391703",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "サンノヘグンゴノヘマチ",
-  "townKana": "クライシマタシゲ",
-  "prefecture": "青森県",
-  "city": "三戸郡五戸町",
-  "town": "倉石又重",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02442",
+      "oldZipCode": "03917",
+      "zipCode": "0391703",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "サンノヘグンゴノヘマチ",
+      "townKana": "クライシマタシゲ",
+      "prefecture": "青森県",
+      "city": "三戸郡五戸町",
+      "town": "倉石又重",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

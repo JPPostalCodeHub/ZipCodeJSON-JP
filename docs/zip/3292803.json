@@ -1,17 +1,21 @@
 {
-  "jisCode": "09213",
-  "oldZipCode": "32928",
-  "zipCode": "3292803",
-  "prefectureKana": "トチギケン",
-  "cityKana": "ナスシオバラシ",
-  "townKana": "オソノサワ",
-  "prefecture": "栃木県",
-  "city": "那須塩原市",
-  "town": "遅野沢",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "09213",
+      "oldZipCode": "32928",
+      "zipCode": "3292803",
+      "prefectureKana": "トチギケン",
+      "cityKana": "ナスシオバラシ",
+      "townKana": "オソノサワ",
+      "prefecture": "栃木県",
+      "city": "那須塩原市",
+      "town": "遅野沢",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "20411",
-  "oldZipCode": "39921",
-  "zipCode": "3992101",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "シモイナグンシモジョウムラ",
-  "townKana": "ムツザワ",
-  "prefecture": "長野県",
-  "city": "下伊那郡下條村",
-  "town": "睦沢",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20411",
+      "oldZipCode": "39921",
+      "zipCode": "3992101",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "シモイナグンシモジョウムラ",
+      "townKana": "ムツザワ",
+      "prefecture": "長野県",
+      "city": "下伊那郡下條村",
+      "town": "睦沢",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "24561",
-  "oldZipCode": "51953",
-  "zipCode": "5195323",
-  "prefectureKana": "ミエケン",
-  "cityKana": "ミナミムログンミハマチョウ",
-  "townKana": "ニシノハラ",
-  "prefecture": "三重県",
-  "city": "南牟婁郡御浜町",
-  "town": "西原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "24561",
+      "oldZipCode": "51953",
+      "zipCode": "5195323",
+      "prefectureKana": "ミエケン",
+      "cityKana": "ミナミムログンミハマチョウ",
+      "townKana": "ニシノハラ",
+      "prefecture": "三重県",
+      "city": "南牟婁郡御浜町",
+      "town": "西原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

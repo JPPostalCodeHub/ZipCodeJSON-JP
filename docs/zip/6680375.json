@@ -1,17 +1,21 @@
 {
-  "jisCode": "28209",
-  "oldZipCode": "66803",
-  "zipCode": "6680375",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "トヨオカシ",
-  "townKana": "タントウチョウヒガシナカ",
-  "prefecture": "兵庫県",
-  "city": "豊岡市",
-  "town": "但東町東中",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28209",
+      "oldZipCode": "66803",
+      "zipCode": "6680375",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "トヨオカシ",
+      "townKana": "タントウチョウヒガシナカ",
+      "prefecture": "兵庫県",
+      "city": "豊岡市",
+      "town": "但東町東中",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

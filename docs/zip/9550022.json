@@ -1,17 +1,38 @@
 {
-  "jisCode": "15204",
-  "oldZipCode": "955  ",
-  "zipCode": "9550022",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "サンジョウシ",
-  "townKana": "ミズホ",
-  "prefecture": "新潟県",
-  "city": "三条市",
-  "town": "みずほ",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15204",
+      "oldZipCode": "955  ",
+      "zipCode": "9550022",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "サンジョウシ",
+      "townKana": "カミホナイ",
+      "prefecture": "新潟県",
+      "city": "三条市",
+      "town": "上保内",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "15204",
+      "oldZipCode": "955  ",
+      "zipCode": "9550022",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "サンジョウシ",
+      "townKana": "ミズホ",
+      "prefecture": "新潟県",
+      "city": "三条市",
+      "town": "みずほ",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

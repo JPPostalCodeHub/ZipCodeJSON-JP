@@ -1,17 +1,21 @@
 {
-  "jisCode": "29210",
-  "oldZipCode": "63902",
-  "zipCode": "6390234",
-  "prefectureKana": "ナラケン",
-  "cityKana": "カシバシ",
-  "townKana": "キツイ",
-  "prefecture": "奈良県",
-  "city": "香芝市",
-  "town": "狐井",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "29210",
+      "oldZipCode": "63902",
+      "zipCode": "6390234",
+      "prefectureKana": "ナラケン",
+      "cityKana": "カシバシ",
+      "townKana": "キツイ",
+      "prefecture": "奈良県",
+      "city": "香芝市",
+      "town": "狐井",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

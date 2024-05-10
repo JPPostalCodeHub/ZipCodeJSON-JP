@@ -1,17 +1,21 @@
 {
-  "jisCode": "11341",
-  "oldZipCode": "355  ",
-  "zipCode": "3550805",
-  "prefectureKana": "サイタマケン",
-  "cityKana": "ヒキグンナメガワマチ",
-  "townKana": "ミズフサ",
-  "prefecture": "埼玉県",
-  "city": "比企郡滑川町",
-  "town": "水房",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "11341",
+      "oldZipCode": "355  ",
+      "zipCode": "3550805",
+      "prefectureKana": "サイタマケン",
+      "cityKana": "ヒキグンナメガワマチ",
+      "townKana": "ミズフサ",
+      "prefecture": "埼玉県",
+      "city": "比企郡滑川町",
+      "town": "水房",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "40131",
-  "oldZipCode": "812  ",
-  "zipCode": "8120053",
-  "prefectureKana": "フクオカケン",
-  "cityKana": "フクオカシヒガシク",
-  "townKana": "ハコザキ",
-  "prefecture": "福岡県",
-  "city": "福岡市東区",
-  "town": "箱崎",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "40131",
+      "oldZipCode": "812  ",
+      "zipCode": "8120053",
+      "prefectureKana": "フクオカケン",
+      "cityKana": "フクオカシヒガシク",
+      "townKana": "ハコザキ",
+      "prefecture": "福岡県",
+      "city": "福岡市東区",
+      "town": "箱崎",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

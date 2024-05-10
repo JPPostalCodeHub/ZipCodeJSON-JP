@@ -1,17 +1,21 @@
 {
-  "jisCode": "47213",
-  "oldZipCode": "90411",
-  "zipCode": "9041106",
-  "prefectureKana": "オキナワケン",
-  "cityKana": "ウルマシ",
-  "townKana": "イシカワ",
-  "prefecture": "沖縄県",
-  "city": "うるま市",
-  "town": "石川",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "47213",
+      "oldZipCode": "90411",
+      "zipCode": "9041106",
+      "prefectureKana": "オキナワケン",
+      "cityKana": "ウルマシ",
+      "townKana": "イシカワ",
+      "prefecture": "沖縄県",
+      "city": "うるま市",
+      "town": "石川",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

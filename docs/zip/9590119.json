@@ -1,17 +1,21 @@
 {
-  "jisCode": "15213",
-  "oldZipCode": "95901",
-  "zipCode": "9590119",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ツバメシ",
-  "townKana": "ブンスイオオタケ",
-  "prefecture": "新潟県",
-  "city": "燕市",
-  "town": "分水大武",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15213",
+      "oldZipCode": "95901",
+      "zipCode": "9590119",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ツバメシ",
+      "townKana": "ブンスイオオタケ",
+      "prefecture": "新潟県",
+      "city": "燕市",
+      "town": "分水大武",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "33104",
-  "oldZipCode": "702  ",
-  "zipCode": "7028043",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "オカヤマシミナミク",
-  "townKana": "ヒラフク",
-  "prefecture": "岡山県",
-  "city": "岡山市南区",
-  "town": "平福",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33104",
+      "oldZipCode": "702  ",
+      "zipCode": "7028043",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "オカヤマシミナミク",
+      "townKana": "ヒラフク",
+      "prefecture": "岡山県",
+      "city": "岡山市南区",
+      "town": "平福",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

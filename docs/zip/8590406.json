@@ -1,17 +1,21 @@
 {
-  "jisCode": "42204",
-  "oldZipCode": "85904",
-  "zipCode": "8590406",
-  "prefectureKana": "ナガサキケン",
-  "cityKana": "イサハヤシ",
-  "townKana": "タラミチョウキドコ",
-  "prefecture": "長崎県",
-  "city": "諫早市",
-  "town": "多良見町木床",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "42204",
+      "oldZipCode": "85904",
+      "zipCode": "8590406",
+      "prefectureKana": "ナガサキケン",
+      "cityKana": "イサハヤシ",
+      "townKana": "タラミチョウキドコ",
+      "prefecture": "長崎県",
+      "city": "諫早市",
+      "town": "多良見町木床",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

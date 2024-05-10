@@ -1,17 +1,21 @@
 {
-  "jisCode": "15212",
-  "oldZipCode": "958  ",
-  "zipCode": "9580861",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "ムラカミシ",
-  "townKana": "ナカガワラダンチ",
-  "prefecture": "新潟県",
-  "city": "村上市",
-  "town": "中川原団地",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15212",
+      "oldZipCode": "958  ",
+      "zipCode": "9580861",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "ムラカミシ",
+      "townKana": "ナカガワラダンチ",
+      "prefecture": "新潟県",
+      "city": "村上市",
+      "town": "中川原団地",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

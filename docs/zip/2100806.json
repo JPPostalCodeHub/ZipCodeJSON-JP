@@ -1,17 +1,21 @@
 {
-  "jisCode": "14131",
-  "oldZipCode": "210  ",
-  "zipCode": "2100806",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "カワサキシカワサキク",
-  "townKana": "ナカジマ",
-  "prefecture": "神奈川県",
-  "city": "川崎市川崎区",
-  "town": "中島",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14131",
+      "oldZipCode": "210  ",
+      "zipCode": "2100806",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "カワサキシカワサキク",
+      "townKana": "ナカジマ",
+      "prefecture": "神奈川県",
+      "city": "川崎市川崎区",
+      "town": "中島",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

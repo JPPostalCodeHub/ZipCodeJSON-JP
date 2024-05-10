@@ -1,17 +1,21 @@
 {
-  "jisCode": "08230",
-  "oldZipCode": "315  ",
-  "zipCode": "3150055",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "カスミガウラシ",
-  "townKana": "イナヨシミナミ",
-  "prefecture": "茨城県",
-  "city": "かすみがうら市",
-  "town": "稲吉南",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08230",
+      "oldZipCode": "315  ",
+      "zipCode": "3150055",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "カスミガウラシ",
+      "townKana": "イナヨシミナミ",
+      "prefecture": "茨城県",
+      "city": "かすみがうら市",
+      "town": "稲吉南",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

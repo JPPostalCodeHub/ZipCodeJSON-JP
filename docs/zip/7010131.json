@@ -1,17 +1,21 @@
 {
-  "jisCode": "33101",
-  "oldZipCode": "70101",
-  "zipCode": "7010131",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "オカヤマシキタク",
-  "townKana": "ハナジリミドリマチ",
-  "prefecture": "岡山県",
-  "city": "岡山市北区",
-  "town": "花尻みどり町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33101",
+      "oldZipCode": "70101",
+      "zipCode": "7010131",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "オカヤマシキタク",
+      "townKana": "ハナジリミドリマチ",
+      "prefecture": "岡山県",
+      "city": "岡山市北区",
+      "town": "花尻みどり町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

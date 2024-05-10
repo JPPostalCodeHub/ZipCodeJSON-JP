@@ -1,17 +1,21 @@
 {
-  "jisCode": "47209",
-  "oldZipCode": "90511",
-  "zipCode": "9051153",
-  "prefectureKana": "オキナワケン",
-  "cityKana": "ナゴシ",
-  "townKana": "ナカオ",
-  "prefecture": "沖縄県",
-  "city": "名護市",
-  "town": "仲尾",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "47209",
+      "oldZipCode": "90511",
+      "zipCode": "9051153",
+      "prefectureKana": "オキナワケン",
+      "cityKana": "ナゴシ",
+      "townKana": "ナカオ",
+      "prefecture": "沖縄県",
+      "city": "名護市",
+      "town": "仲尾",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

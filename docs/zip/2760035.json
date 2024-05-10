@@ -1,17 +1,38 @@
 {
-  "jisCode": "12221",
-  "oldZipCode": "276  ",
-  "zipCode": "2760035",
-  "prefectureKana": "チバケン",
-  "cityKana": "ヤチヨシ",
-  "townKana": "タカヅ（タカヅダンチ）",
-  "prefecture": "千葉県",
-  "city": "八千代市",
-  "town": "高津（高津団地）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12221",
+      "oldZipCode": "276  ",
+      "zipCode": "2760035",
+      "prefectureKana": "チバケン",
+      "cityKana": "ヤチヨシ",
+      "townKana": "オオワダシンデン（タカヅダンチ）",
+      "prefecture": "千葉県",
+      "city": "八千代市",
+      "town": "大和田新田（高津団地）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "12221",
+      "oldZipCode": "276  ",
+      "zipCode": "2760035",
+      "prefectureKana": "チバケン",
+      "cityKana": "ヤチヨシ",
+      "townKana": "タカヅ（タカヅダンチ）",
+      "prefecture": "千葉県",
+      "city": "八千代市",
+      "town": "高津（高津団地）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "33101",
-  "oldZipCode": "700  ",
-  "zipCode": "7000842",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "オカヤマシキタク",
-  "townKana": "センドウチョウ",
-  "prefecture": "岡山県",
-  "city": "岡山市北区",
-  "town": "船頭町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33101",
+      "oldZipCode": "700  ",
+      "zipCode": "7000842",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "オカヤマシキタク",
+      "townKana": "センドウチョウ",
+      "prefecture": "岡山県",
+      "city": "岡山市北区",
+      "town": "船頭町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

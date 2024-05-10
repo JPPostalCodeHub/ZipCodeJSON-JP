@@ -1,17 +1,21 @@
 {
-  "jisCode": "04421",
-  "oldZipCode": "98134",
-  "zipCode": "9813409",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "クロカワグンタイワチョウ",
-  "townKana": "リュウツウダイラ",
-  "prefecture": "宮城県",
-  "city": "黒川郡大和町",
-  "town": "流通平",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04421",
+      "oldZipCode": "98134",
+      "zipCode": "9813409",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "クロカワグンタイワチョウ",
+      "townKana": "リュウツウダイラ",
+      "prefecture": "宮城県",
+      "city": "黒川郡大和町",
+      "town": "流通平",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

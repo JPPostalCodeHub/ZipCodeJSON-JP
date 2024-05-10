@@ -1,17 +1,21 @@
 {
-  "jisCode": "13120",
-  "oldZipCode": "177  ",
-  "zipCode": "1770032",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "ネリマク",
-  "townKana": "ヤハラ",
-  "prefecture": "東京都",
-  "city": "練馬区",
-  "town": "谷原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13120",
+      "oldZipCode": "177  ",
+      "zipCode": "1770032",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "ネリマク",
+      "townKana": "ヤハラ",
+      "prefecture": "東京都",
+      "city": "練馬区",
+      "town": "谷原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

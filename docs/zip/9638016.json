@@ -1,17 +1,21 @@
 {
-  "jisCode": "07203",
-  "oldZipCode": "963  ",
-  "zipCode": "9638016",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "コオリヤマシ",
-  "townKana": "トヨタマチ",
-  "prefecture": "福島県",
-  "city": "郡山市",
-  "town": "豊田町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07203",
+      "oldZipCode": "963  ",
+      "zipCode": "9638016",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "コオリヤマシ",
+      "townKana": "トヨタマチ",
+      "prefecture": "福島県",
+      "city": "郡山市",
+      "town": "豊田町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

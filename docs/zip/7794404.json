@@ -1,17 +1,21 @@
 {
-  "jisCode": "36468",
-  "oldZipCode": "77944",
-  "zipCode": "7794404",
-  "prefectureKana": "トクシマケン",
-  "cityKana": "ミマグンツルギチョウ",
-  "townKana": "ハンダ（アオノ、オリサカ、コイノ、コウセ、サカネ、シモウジリ、シモタケ、ジョウレン、ヒガオ）",
-  "prefecture": "徳島県",
-  "city": "美馬郡つるぎ町",
-  "town": "半田（青野、折坂、小井野、高清、坂根、下尾尻、下竹、上蓮、日谷尾）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "36468",
+      "oldZipCode": "77944",
+      "zipCode": "7794404",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "ミマグンツルギチョウ",
+      "townKana": "ハンダ（アオノ、オリサカ、コイノ、コウセ、サカネ、シモウジリ、シモタケ、ジョウレン、ヒガオ）",
+      "prefecture": "徳島県",
+      "city": "美馬郡つるぎ町",
+      "town": "半田（青野、折坂、小井野、高清、坂根、下尾尻、下竹、上蓮、日谷尾）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

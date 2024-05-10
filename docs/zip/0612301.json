@@ -1,17 +1,21 @@
 {
-  "jisCode": "01106",
-  "oldZipCode": "06123",
-  "zipCode": "0612301",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "サッポロシミナミク",
-  "townKana": "ジョウザンケイ",
-  "prefecture": "北海道",
-  "city": "札幌市南区",
-  "town": "定山渓",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01106",
+      "oldZipCode": "06123",
+      "zipCode": "0612301",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "サッポロシミナミク",
+      "townKana": "ジョウザンケイ",
+      "prefecture": "北海道",
+      "city": "札幌市南区",
+      "town": "定山渓",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

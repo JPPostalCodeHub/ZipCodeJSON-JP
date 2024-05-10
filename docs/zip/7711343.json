@@ -1,17 +1,21 @@
 {
-  "jisCode": "36405",
-  "oldZipCode": "77113",
-  "zipCode": "7711343",
-  "prefectureKana": "トクシマケン",
-  "cityKana": "イタノグンカミイタチョウ",
-  "townKana": "シイノモト",
-  "prefecture": "徳島県",
-  "city": "板野郡上板町",
-  "town": "椎本",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "36405",
+      "oldZipCode": "77113",
+      "zipCode": "7711343",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "イタノグンカミイタチョウ",
+      "townKana": "シイノモト",
+      "prefecture": "徳島県",
+      "city": "板野郡上板町",
+      "town": "椎本",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

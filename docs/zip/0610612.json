@@ -1,17 +1,21 @@
 {
-  "jisCode": "01431",
-  "oldZipCode": "06106",
-  "zipCode": "0610612",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "カバトグンウラウスチョウ",
-  "townKana": "ウラウスダイ２",
-  "prefecture": "北海道",
-  "city": "樺戸郡浦臼町",
-  "town": "浦臼第２",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01431",
+      "oldZipCode": "06106",
+      "zipCode": "0610612",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "カバトグンウラウスチョウ",
+      "townKana": "ウラウスダイ２",
+      "prefecture": "北海道",
+      "city": "樺戸郡浦臼町",
+      "town": "浦臼第２",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

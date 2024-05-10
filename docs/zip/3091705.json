@@ -1,17 +1,21 @@
 {
-  "jisCode": "08216",
-  "oldZipCode": "30917",
-  "zipCode": "3091705",
-  "prefectureKana": "イバラキケン",
-  "cityKana": "カサマシ",
-  "townKana": "ヒガシダイラ",
-  "prefecture": "茨城県",
-  "city": "笠間市",
-  "town": "東平",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "08216",
+      "oldZipCode": "30917",
+      "zipCode": "3091705",
+      "prefectureKana": "イバラキケン",
+      "cityKana": "カサマシ",
+      "townKana": "ヒガシダイラ",
+      "prefecture": "茨城県",
+      "city": "笠間市",
+      "town": "東平",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

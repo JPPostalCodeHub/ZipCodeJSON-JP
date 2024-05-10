@@ -1,17 +1,21 @@
 {
-  "jisCode": "44201",
-  "oldZipCode": "87002",
-  "zipCode": "8700272",
-  "prefectureKana": "オオイタケン",
-  "cityKana": "オオイタシ",
-  "townKana": "サコ",
-  "prefecture": "大分県",
-  "city": "大分市",
-  "town": "迫",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "44201",
+      "oldZipCode": "87002",
+      "zipCode": "8700272",
+      "prefectureKana": "オオイタケン",
+      "cityKana": "オオイタシ",
+      "townKana": "サコ",
+      "prefecture": "大分県",
+      "city": "大分市",
+      "town": "迫",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

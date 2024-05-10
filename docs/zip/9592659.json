@@ -1,17 +1,21 @@
 {
-  "jisCode": "15227",
-  "oldZipCode": "95926",
-  "zipCode": "9592659",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "タイナイシ",
-  "townKana": "アカネチョウ",
-  "prefecture": "新潟県",
-  "city": "胎内市",
-  "town": "あかね町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15227",
+      "oldZipCode": "95926",
+      "zipCode": "9592659",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "タイナイシ",
+      "townKana": "アカネチョウ",
+      "prefecture": "新潟県",
+      "city": "胎内市",
+      "town": "あかね町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

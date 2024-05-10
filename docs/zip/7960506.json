@@ -1,17 +1,21 @@
 {
-  "jisCode": "38442",
-  "oldZipCode": "79605",
-  "zipCode": "7960506",
-  "prefectureKana": "エヒメケン",
-  "cityKana": "ニシウワグンイカタチョウ",
-  "townKana": "シオナシ",
-  "prefecture": "愛媛県",
-  "city": "西宇和郡伊方町",
-  "town": "塩成",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "38442",
+      "oldZipCode": "79605",
+      "zipCode": "7960506",
+      "prefectureKana": "エヒメケン",
+      "cityKana": "ニシウワグンイカタチョウ",
+      "townKana": "シオナシ",
+      "prefecture": "愛媛県",
+      "city": "西宇和郡伊方町",
+      "town": "塩成",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

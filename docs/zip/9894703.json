@@ -1,17 +1,21 @@
 {
-  "jisCode": "04212",
-  "oldZipCode": "98947",
-  "zipCode": "9894703",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "トメシ",
-  "townKana": "イシコシマチミナミゴウ",
-  "prefecture": "宮城県",
-  "city": "登米市",
-  "town": "石越町南郷",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04212",
+      "oldZipCode": "98947",
+      "zipCode": "9894703",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "トメシ",
+      "townKana": "イシコシマチミナミゴウ",
+      "prefecture": "宮城県",
+      "city": "登米市",
+      "town": "石越町南郷",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

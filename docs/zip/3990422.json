@@ -1,17 +1,21 @@
 {
-  "jisCode": "20382",
-  "oldZipCode": "39904",
-  "zipCode": "3990422",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "カミイナグンタツノマチ",
-  "townKana": "ヒライデ",
-  "prefecture": "長野県",
-  "city": "上伊那郡辰野町",
-  "town": "平出",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20382",
+      "oldZipCode": "39904",
+      "zipCode": "3990422",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "カミイナグンタツノマチ",
+      "townKana": "ヒライデ",
+      "prefecture": "長野県",
+      "city": "上伊那郡辰野町",
+      "town": "平出",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

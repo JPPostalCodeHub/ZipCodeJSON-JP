@@ -1,17 +1,21 @@
 {
-  "jisCode": "07308",
-  "oldZipCode": "96014",
-  "zipCode": "9601453",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "ダテグンカワマタマチ",
-  "townKana": "カワラマチ",
-  "prefecture": "福島県",
-  "city": "伊達郡川俣町",
-  "town": "瓦町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07308",
+      "oldZipCode": "96014",
+      "zipCode": "9601453",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "ダテグンカワマタマチ",
+      "townKana": "カワラマチ",
+      "prefecture": "福島県",
+      "city": "伊達郡川俣町",
+      "town": "瓦町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

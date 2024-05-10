@@ -1,17 +1,21 @@
 {
-  "jisCode": "33214",
-  "oldZipCode": "71932",
-  "zipCode": "7193228",
-  "prefectureKana": "オカヤマケン",
-  "cityKana": "マニワシ",
-  "townKana": "ゴタン",
-  "prefecture": "岡山県",
-  "city": "真庭市",
-  "town": "五反",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "33214",
+      "oldZipCode": "71932",
+      "zipCode": "7193228",
+      "prefectureKana": "オカヤマケン",
+      "cityKana": "マニワシ",
+      "townKana": "ゴタン",
+      "prefecture": "岡山県",
+      "city": "真庭市",
+      "town": "五反",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "28210",
-  "oldZipCode": "67503",
-  "zipCode": "6750321",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "カコガワシ",
-  "townKana": "シカタチョウシカタマチ",
-  "prefecture": "兵庫県",
-  "city": "加古川市",
-  "town": "志方町志方町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28210",
+      "oldZipCode": "67503",
+      "zipCode": "6750321",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "カコガワシ",
+      "townKana": "シカタチョウシカタマチ",
+      "prefecture": "兵庫県",
+      "city": "加古川市",
+      "town": "志方町志方町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

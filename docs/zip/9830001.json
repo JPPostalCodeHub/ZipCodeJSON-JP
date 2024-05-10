@@ -1,17 +1,21 @@
 {
-  "jisCode": "04102",
-  "oldZipCode": "983  ",
-  "zipCode": "9830001",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "センダイシミヤギノク",
-  "townKana": "ミナト（１−４チョウメ）",
-  "prefecture": "宮城県",
-  "city": "仙台市宮城野区",
-  "town": "港（１〜４丁目）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04102",
+      "oldZipCode": "983  ",
+      "zipCode": "9830001",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "センダイシミヤギノク",
+      "townKana": "ミナト（１−４チョウメ）",
+      "prefecture": "宮城県",
+      "city": "仙台市宮城野区",
+      "town": "港（１〜４丁目）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

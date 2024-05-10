@@ -1,17 +1,21 @@
 {
-  "jisCode": "01436",
-  "oldZipCode": "07826",
-  "zipCode": "0782631",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ウリュウグンウリュウチョウ",
-  "townKana": "ダイ１チョウナイ",
-  "prefecture": "北海道",
-  "city": "雨竜郡雨竜町",
-  "town": "第１町内",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01436",
+      "oldZipCode": "07826",
+      "zipCode": "0782631",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ウリュウグンウリュウチョウ",
+      "townKana": "ダイ１チョウナイ",
+      "prefecture": "北海道",
+      "city": "雨竜郡雨竜町",
+      "town": "第１町内",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

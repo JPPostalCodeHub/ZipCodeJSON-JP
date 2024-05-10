@@ -1,17 +1,21 @@
 {
-  "jisCode": "30202",
-  "oldZipCode": "642  ",
-  "zipCode": "6420018",
-  "prefectureKana": "ワカヤマケン",
-  "cityKana": "カイナンシ",
-  "townKana": "シコネヒガシ",
-  "prefecture": "和歌山県",
-  "city": "海南市",
-  "town": "重根東",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "30202",
+      "oldZipCode": "642  ",
+      "zipCode": "6420018",
+      "prefectureKana": "ワカヤマケン",
+      "cityKana": "カイナンシ",
+      "townKana": "シコネヒガシ",
+      "prefecture": "和歌山県",
+      "city": "海南市",
+      "town": "重根東",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

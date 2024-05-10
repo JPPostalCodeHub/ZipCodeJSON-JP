@@ -1,17 +1,21 @@
 {
-  "jisCode": "01644",
-  "oldZipCode": "08931",
-  "zipCode": "0893156",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ナカガワグンイケダチョウ",
-  "townKana": "トキワ",
-  "prefecture": "北海道",
-  "city": "中川郡池田町",
-  "town": "常盤",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01644",
+      "oldZipCode": "08931",
+      "zipCode": "0893156",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ナカガワグンイケダチョウ",
+      "townKana": "トキワ",
+      "prefecture": "北海道",
+      "city": "中川郡池田町",
+      "town": "常盤",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

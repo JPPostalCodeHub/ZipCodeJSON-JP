@@ -1,17 +1,21 @@
 {
-  "jisCode": "13104",
-  "oldZipCode": "16304",
-  "zipCode": "1630490",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "シンジュクク",
-  "townKana": "ニシシンジュクシンジュクミツイビル（チカイ・カイソウフメイ）",
-  "prefecture": "東京都",
-  "city": "新宿区",
-  "town": "西新宿新宿三井ビル（地階・階層不明）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13104",
+      "oldZipCode": "16304",
+      "zipCode": "1630490",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "シンジュクク",
+      "townKana": "ニシシンジュクシンジュクミツイビル（チカイ・カイソウフメイ）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "town": "西新宿新宿三井ビル（地階・階層不明）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "30203",
-  "oldZipCode": "648  ",
-  "zipCode": "6480092",
-  "prefectureKana": "ワカヤマケン",
-  "cityKana": "ハシモトシ",
-  "townKana": "キミガオカ",
-  "prefecture": "和歌山県",
-  "city": "橋本市",
-  "town": "紀見ケ丘",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "30203",
+      "oldZipCode": "648  ",
+      "zipCode": "6480092",
+      "prefectureKana": "ワカヤマケン",
+      "cityKana": "ハシモトシ",
+      "townKana": "キミガオカ",
+      "prefecture": "和歌山県",
+      "city": "橋本市",
+      "town": "紀見ケ丘",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

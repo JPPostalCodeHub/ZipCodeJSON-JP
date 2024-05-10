@@ -1,17 +1,21 @@
 {
-  "jisCode": "12221",
-  "oldZipCode": "276  ",
-  "zipCode": "2760007",
-  "prefectureKana": "チバケン",
-  "cityKana": "ヤチヨシ",
-  "townKana": "ソウノハシ",
-  "prefecture": "千葉県",
-  "city": "八千代市",
-  "town": "桑橋",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12221",
+      "oldZipCode": "276  ",
+      "zipCode": "2760007",
+      "prefectureKana": "チバケン",
+      "cityKana": "ヤチヨシ",
+      "townKana": "ソウノハシ",
+      "prefecture": "千葉県",
+      "city": "八千代市",
+      "town": "桑橋",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

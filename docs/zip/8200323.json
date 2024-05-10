@@ -1,17 +1,21 @@
 {
-  "jisCode": "40227",
-  "oldZipCode": "82003",
-  "zipCode": "8200323",
-  "prefectureKana": "フクオカケン",
-  "cityKana": "カマシ",
-  "townKana": "シイノキ",
-  "prefecture": "福岡県",
-  "city": "嘉麻市",
-  "town": "椎木",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "40227",
+      "oldZipCode": "82003",
+      "zipCode": "8200323",
+      "prefectureKana": "フクオカケン",
+      "cityKana": "カマシ",
+      "townKana": "シイノキ",
+      "prefecture": "福岡県",
+      "city": "嘉麻市",
+      "town": "椎木",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

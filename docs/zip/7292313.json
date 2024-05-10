@@ -1,17 +1,21 @@
 {
-  "jisCode": "34203",
-  "oldZipCode": "72923",
-  "zipCode": "7292313",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "タケハラシ",
-  "townKana": "タカサキチョウ",
-  "prefecture": "広島県",
-  "city": "竹原市",
-  "town": "高崎町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34203",
+      "oldZipCode": "72923",
+      "zipCode": "7292313",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "タケハラシ",
+      "townKana": "タカサキチョウ",
+      "prefecture": "広島県",
+      "city": "竹原市",
+      "town": "高崎町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

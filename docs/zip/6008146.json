@@ -1,17 +1,21 @@
 {
-  "jisCode": "26106",
-  "oldZipCode": "600  ",
-  "zipCode": "6008146",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシシモギョウク",
-  "townKana": "ザイモクチョウ",
-  "prefecture": "京都府",
-  "city": "京都市下京区",
-  "town": "材木町（間之町通七条下る、間之町通七条上る、河原町通七条上る、河原町通七条下る、七条通間之町西入、七条通間之町東入、七条通河原町西入、七条通河原町東入、七条通高倉西入、七条通高倉東入、七条通土手町西入、七条通東洞院東入、高倉通七条上る、高倉通七条下る、土手町通七条上る、東洞院通七条下る、柳馬場通七条上る）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26106",
+      "oldZipCode": "600  ",
+      "zipCode": "6008146",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシシモギョウク",
+      "townKana": "ザイモクチョウ",
+      "prefecture": "京都府",
+      "city": "京都市下京区",
+      "town": "材木町（間之町通七条下る、間之町通七条上る、河原町通七条上る、河原町通七条下る、七条通間之町西入、七条通間之町東入、七条通河原町西入、七条通河原町東入、七条通高倉西入、七条通高倉東入、七条通土手町西入、七条通東洞院東入、高倉通七条上る、高倉通七条下る、土手町通七条上る、東洞院通七条下る、柳馬場通七条上る）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

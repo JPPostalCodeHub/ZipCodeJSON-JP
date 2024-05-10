@@ -1,17 +1,21 @@
 {
-  "jisCode": "22222",
-  "oldZipCode": "41033",
-  "zipCode": "4103304",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "イズシ",
-  "townKana": "コシモダ",
-  "prefecture": "静岡県",
-  "city": "伊豆市",
-  "town": "小下田",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22222",
+      "oldZipCode": "41033",
+      "zipCode": "4103304",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "イズシ",
+      "townKana": "コシモダ",
+      "prefecture": "静岡県",
+      "city": "伊豆市",
+      "town": "小下田",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

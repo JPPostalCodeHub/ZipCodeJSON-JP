@@ -1,17 +1,21 @@
 {
-  "jisCode": "31201",
-  "oldZipCode": "68912",
-  "zipCode": "6891213",
-  "prefectureKana": "トットリケン",
-  "cityKana": "トットリシ",
-  "townKana": "モチガセチョウタカガリ",
-  "prefecture": "鳥取県",
-  "city": "鳥取市",
-  "town": "用瀬町鷹狩",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "31201",
+      "oldZipCode": "68912",
+      "zipCode": "6891213",
+      "prefectureKana": "トットリケン",
+      "cityKana": "トットリシ",
+      "townKana": "モチガセチョウタカガリ",
+      "prefecture": "鳥取県",
+      "city": "鳥取市",
+      "town": "用瀬町鷹狩",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "24201",
-  "oldZipCode": "514  ",
-  "zipCode": "5140008",
-  "prefectureKana": "ミエケン",
-  "cityKana": "ツシ",
-  "townKana": "カミハマチョウ",
-  "prefecture": "三重県",
-  "city": "津市",
-  "town": "上浜町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "24201",
+      "oldZipCode": "514  ",
+      "zipCode": "5140008",
+      "prefectureKana": "ミエケン",
+      "cityKana": "ツシ",
+      "townKana": "カミハマチョウ",
+      "prefecture": "三重県",
+      "city": "津市",
+      "town": "上浜町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

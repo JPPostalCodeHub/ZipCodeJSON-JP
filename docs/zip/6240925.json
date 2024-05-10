@@ -1,17 +1,21 @@
 {
-  "jisCode": "26202",
-  "oldZipCode": "624  ",
-  "zipCode": "6240925",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "マイヅルシ",
-  "townKana": "タンバ",
-  "prefecture": "京都府",
-  "city": "舞鶴市",
-  "town": "丹波",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26202",
+      "oldZipCode": "624  ",
+      "zipCode": "6240925",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "マイヅルシ",
+      "townKana": "タンバ",
+      "prefecture": "京都府",
+      "city": "舞鶴市",
+      "town": "丹波",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "18322",
-  "oldZipCode": "91012",
-  "zipCode": "9101224",
-  "prefectureKana": "フクイケン",
-  "cityKana": "ヨシダグンエイヘイジチョウ",
-  "townKana": "テラモト",
-  "prefecture": "福井県",
-  "city": "吉田郡永平寺町",
-  "town": "寺本",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18322",
+      "oldZipCode": "91012",
+      "zipCode": "9101224",
+      "prefectureKana": "フクイケン",
+      "cityKana": "ヨシダグンエイヘイジチョウ",
+      "townKana": "テラモト",
+      "prefecture": "福井県",
+      "city": "吉田郡永平寺町",
+      "town": "寺本",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

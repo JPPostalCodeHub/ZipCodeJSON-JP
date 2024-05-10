@@ -1,17 +1,21 @@
 {
-  "jisCode": "20305",
-  "oldZipCode": "38413",
-  "zipCode": "3841301",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "ミナミサクグンミナミマキムラ",
-  "townKana": "ウミジリ",
-  "prefecture": "長野県",
-  "city": "南佐久郡南牧村",
-  "town": "海尻",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20305",
+      "oldZipCode": "38413",
+      "zipCode": "3841301",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "ミナミサクグンミナミマキムラ",
+      "townKana": "ウミジリ",
+      "prefecture": "長野県",
+      "city": "南佐久郡南牧村",
+      "town": "海尻",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

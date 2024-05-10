@@ -1,17 +1,21 @@
 {
-  "jisCode": "34210",
-  "oldZipCode": "727  ",
-  "zipCode": "7270008",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "ショウバラシ",
-  "townKana": "ナガスエチョウ",
-  "prefecture": "広島県",
-  "city": "庄原市",
-  "town": "永末町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34210",
+      "oldZipCode": "727  ",
+      "zipCode": "7270008",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ショウバラシ",
+      "townKana": "ナガスエチョウ",
+      "prefecture": "広島県",
+      "city": "庄原市",
+      "town": "永末町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

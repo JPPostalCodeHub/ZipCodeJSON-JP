@@ -1,17 +1,21 @@
 {
-  "jisCode": "39210",
-  "oldZipCode": "78714",
-  "zipCode": "7871442",
-  "prefectureKana": "コウチケン",
-  "cityKana": "シマントシ",
-  "townKana": "ワラビオカコウ",
-  "prefecture": "高知県",
-  "city": "四万十市",
-  "town": "蕨岡甲",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "39210",
+      "oldZipCode": "78714",
+      "zipCode": "7871442",
+      "prefectureKana": "コウチケン",
+      "cityKana": "シマントシ",
+      "townKana": "ワラビオカコウ",
+      "prefecture": "高知県",
+      "city": "四万十市",
+      "town": "蕨岡甲",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

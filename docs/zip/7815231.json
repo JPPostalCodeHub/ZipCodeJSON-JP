@@ -1,17 +1,21 @@
 {
-  "jisCode": "39211",
-  "oldZipCode": "78152",
-  "zipCode": "7815231",
-  "prefectureKana": "コウチケン",
-  "cityKana": "コウナンシ",
-  "townKana": "ノイチチョウフカブチ",
-  "prefecture": "高知県",
-  "city": "香南市",
-  "town": "野市町深渕",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "39211",
+      "oldZipCode": "78152",
+      "zipCode": "7815231",
+      "prefectureKana": "コウチケン",
+      "cityKana": "コウナンシ",
+      "townKana": "ノイチチョウフカブチ",
+      "prefecture": "高知県",
+      "city": "香南市",
+      "town": "野市町深渕",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

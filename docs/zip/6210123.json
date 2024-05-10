@@ -1,17 +1,21 @@
 {
-  "jisCode": "26206",
-  "oldZipCode": "62101",
-  "zipCode": "6210123",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "カメオカシ",
-  "townKana": "ニシベツインチョウテラダ",
-  "prefecture": "京都府",
-  "city": "亀岡市",
-  "town": "西別院町寺田",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26206",
+      "oldZipCode": "62101",
+      "zipCode": "6210123",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "カメオカシ",
+      "townKana": "ニシベツインチョウテラダ",
+      "prefecture": "京都府",
+      "city": "亀岡市",
+      "town": "西別院町寺田",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

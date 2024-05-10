@@ -1,17 +1,21 @@
 {
-  "jisCode": "24470",
-  "oldZipCode": "51612",
-  "zipCode": "5161243",
-  "prefectureKana": "ミエケン",
-  "cityKana": "ワタライグンワタライチョウ",
-  "townKana": "ワイノ",
-  "prefecture": "三重県",
-  "city": "度会郡度会町",
-  "town": "和井野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "24470",
+      "oldZipCode": "51612",
+      "zipCode": "5161243",
+      "prefectureKana": "ミエケン",
+      "cityKana": "ワタライグンワタライチョウ",
+      "townKana": "ワイノ",
+      "prefecture": "三重県",
+      "city": "度会郡度会町",
+      "town": "和井野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,38 @@
 {
-  "jisCode": "18205",
-  "oldZipCode": "912  ",
-  "zipCode": "9120814",
-  "prefectureKana": "フクイケン",
-  "cityKana": "オオノシ",
-  "townKana": "カワシマ",
-  "prefecture": "福井県",
-  "city": "大野市",
-  "town": "川嶋",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18205",
+      "oldZipCode": "912  ",
+      "zipCode": "9120814",
+      "prefectureKana": "フクイケン",
+      "cityKana": "オオノシ",
+      "townKana": "カミアソウジマ",
+      "prefecture": "福井県",
+      "city": "大野市",
+      "town": "上麻生嶋",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "18205",
+      "oldZipCode": "912  ",
+      "zipCode": "9120814",
+      "prefectureKana": "フクイケン",
+      "cityKana": "オオノシ",
+      "townKana": "カワシマ",
+      "prefecture": "福井県",
+      "city": "大野市",
+      "town": "川嶋",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

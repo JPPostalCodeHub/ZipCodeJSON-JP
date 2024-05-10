@@ -1,17 +1,21 @@
 {
-  "jisCode": "15205",
-  "oldZipCode": "945  ",
-  "zipCode": "9450043",
-  "prefectureKana": "ニイガタケン",
-  "cityKana": "カシワザキシ",
-  "townKana": "ヒヨシチョウ",
-  "prefecture": "新潟県",
-  "city": "柏崎市",
-  "town": "日吉町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "15205",
+      "oldZipCode": "945  ",
+      "zipCode": "9450043",
+      "prefectureKana": "ニイガタケン",
+      "cityKana": "カシワザキシ",
+      "townKana": "ヒヨシチョウ",
+      "prefecture": "新潟県",
+      "city": "柏崎市",
+      "town": "日吉町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

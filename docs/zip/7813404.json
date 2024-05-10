@@ -1,17 +1,21 @@
 {
-  "jisCode": "39363",
-  "oldZipCode": "78134",
-  "zipCode": "7813404",
-  "prefectureKana": "コウチケン",
-  "cityKana": "トサグントサチョウ",
-  "townKana": "ヌルイ",
-  "prefecture": "高知県",
-  "city": "土佐郡土佐町",
-  "town": "溜井",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "39363",
+      "oldZipCode": "78134",
+      "zipCode": "7813404",
+      "prefectureKana": "コウチケン",
+      "cityKana": "トサグントサチョウ",
+      "townKana": "ヌルイ",
+      "prefecture": "高知県",
+      "city": "土佐郡土佐町",
+      "town": "溜井",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

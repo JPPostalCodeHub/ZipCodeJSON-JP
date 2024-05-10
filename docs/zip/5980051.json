@@ -1,17 +1,21 @@
 {
-  "jisCode": "27213",
-  "oldZipCode": "598  ",
-  "zipCode": "5980051",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "イズミサノシ",
-  "townKana": "シンマチ",
-  "prefecture": "大阪府",
-  "city": "泉佐野市",
-  "town": "新町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27213",
+      "oldZipCode": "598  ",
+      "zipCode": "5980051",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "イズミサノシ",
+      "townKana": "シンマチ",
+      "prefecture": "大阪府",
+      "city": "泉佐野市",
+      "town": "新町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

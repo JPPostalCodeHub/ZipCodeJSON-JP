@@ -1,17 +1,21 @@
 {
-  "jisCode": "45382",
-  "oldZipCode": "88011",
-  "zipCode": "8801112",
-  "prefectureKana": "ミヤザキケン",
-  "cityKana": "ヒガシモロカタグンクニトミチョウ",
-  "townKana": "ツカバル",
-  "prefecture": "宮崎県",
-  "city": "東諸県郡国富町",
-  "town": "塚原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "45382",
+      "oldZipCode": "88011",
+      "zipCode": "8801112",
+      "prefectureKana": "ミヤザキケン",
+      "cityKana": "ヒガシモロカタグンクニトミチョウ",
+      "townKana": "ツカバル",
+      "prefecture": "宮崎県",
+      "city": "東諸県郡国富町",
+      "town": "塚原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

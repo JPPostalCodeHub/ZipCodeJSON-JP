@@ -1,17 +1,21 @@
 {
-  "jisCode": "13123",
-  "oldZipCode": "133  ",
-  "zipCode": "1330072",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "エドガワク",
-  "townKana": "シシボネチョウ",
-  "prefecture": "東京都",
-  "city": "江戸川区",
-  "town": "鹿骨町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13123",
+      "oldZipCode": "133  ",
+      "zipCode": "1330072",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "エドガワク",
+      "townKana": "シシボネチョウ",
+      "prefecture": "東京都",
+      "city": "江戸川区",
+      "town": "鹿骨町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "34106",
-  "oldZipCode": "73917",
-  "zipCode": "7391752",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "ヒロシマシアサキタク",
-  "townKana": "カミフカワチョウ",
-  "prefecture": "広島県",
-  "city": "広島市安佐北区",
-  "town": "上深川町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34106",
+      "oldZipCode": "73917",
+      "zipCode": "7391752",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ヒロシマシアサキタク",
+      "townKana": "カミフカワチョウ",
+      "prefecture": "広島県",
+      "city": "広島市安佐北区",
+      "town": "上深川町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

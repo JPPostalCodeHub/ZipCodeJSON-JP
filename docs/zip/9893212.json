@@ -1,17 +1,21 @@
 {
-  "jisCode": "04101",
-  "oldZipCode": "98932",
-  "zipCode": "9893212",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "センダイシアオバク",
-  "townKana": "イモザワ",
-  "prefecture": "宮城県",
-  "city": "仙台市青葉区",
-  "town": "芋沢",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04101",
+      "oldZipCode": "98932",
+      "zipCode": "9893212",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "センダイシアオバク",
+      "townKana": "イモザワ",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "town": "芋沢",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "14135",
-  "oldZipCode": "214  ",
-  "zipCode": "2140008",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "カワサキシタマク",
-  "townKana": "スゲキタウラ",
-  "prefecture": "神奈川県",
-  "city": "川崎市多摩区",
-  "town": "菅北浦",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14135",
+      "oldZipCode": "214  ",
+      "zipCode": "2140008",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "カワサキシタマク",
+      "townKana": "スゲキタウラ",
+      "prefecture": "神奈川県",
+      "city": "川崎市多摩区",
+      "town": "菅北浦",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

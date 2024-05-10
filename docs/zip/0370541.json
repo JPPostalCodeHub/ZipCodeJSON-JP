@@ -1,17 +1,21 @@
 {
-  "jisCode": "02387",
-  "oldZipCode": "03705",
-  "zipCode": "0370541",
-  "prefectureKana": "アオモリケン",
-  "cityKana": "キタツガルグンナカドマリマチ",
-  "townKana": "コドマリウガイサワ",
-  "prefecture": "青森県",
-  "city": "北津軽郡中泊町",
-  "town": "小泊嗽沢",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "02387",
+      "oldZipCode": "03705",
+      "zipCode": "0370541",
+      "prefectureKana": "アオモリケン",
+      "cityKana": "キタツガルグンナカドマリマチ",
+      "townKana": "コドマリウガイサワ",
+      "prefecture": "青森県",
+      "city": "北津軽郡中泊町",
+      "town": "小泊嗽沢",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

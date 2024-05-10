@@ -1,17 +1,21 @@
 {
-  "jisCode": "27205",
-  "oldZipCode": "565  ",
-  "zipCode": "5650842",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "スイタシ",
-  "townKana": "センリヤマヒガシ",
-  "prefecture": "大阪府",
-  "city": "吹田市",
-  "town": "千里山東",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27205",
+      "oldZipCode": "565  ",
+      "zipCode": "5650842",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "スイタシ",
+      "townKana": "センリヤマヒガシ",
+      "prefecture": "大阪府",
+      "city": "吹田市",
+      "town": "千里山東",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

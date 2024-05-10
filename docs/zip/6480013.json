@@ -1,17 +1,21 @@
 {
-  "jisCode": "30203",
-  "oldZipCode": "648  ",
-  "zipCode": "6480013",
-  "prefectureKana": "ワカヤマケン",
-  "cityKana": "ハシモトシ",
-  "townKana": "スダチョウチュウゲ",
-  "prefecture": "和歌山県",
-  "city": "橋本市",
-  "town": "隅田町中下",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "30203",
+      "oldZipCode": "648  ",
+      "zipCode": "6480013",
+      "prefectureKana": "ワカヤマケン",
+      "cityKana": "ハシモトシ",
+      "townKana": "スダチョウチュウゲ",
+      "prefecture": "和歌山県",
+      "city": "橋本市",
+      "town": "隅田町中下",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "28217",
-  "oldZipCode": "66601",
-  "zipCode": "6660136",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "カワニシシ",
-  "townKana": "ミナミノサカ",
-  "prefecture": "兵庫県",
-  "city": "川西市",
-  "town": "南野坂",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28217",
+      "oldZipCode": "66601",
+      "zipCode": "6660136",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "カワニシシ",
+      "townKana": "ミナミノサカ",
+      "prefecture": "兵庫県",
+      "city": "川西市",
+      "town": "南野坂",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

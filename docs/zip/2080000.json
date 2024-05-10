@@ -1,17 +1,21 @@
 {
-  "jisCode": "13223",
-  "oldZipCode": "208  ",
-  "zipCode": "2080000",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "ムサシムラヤマシ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "東京都",
-  "city": "武蔵村山市",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13223",
+      "oldZipCode": "208  ",
+      "zipCode": "2080000",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "ムサシムラヤマシ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "東京都",
+      "city": "武蔵村山市",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "13220",
-  "oldZipCode": "207  ",
-  "zipCode": "2070014",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "ヒガシヤマトシ",
-  "townKana": "ナンガイ",
-  "prefecture": "東京都",
-  "city": "東大和市",
-  "town": "南街",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13220",
+      "oldZipCode": "207  ",
+      "zipCode": "2070014",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "ヒガシヤマトシ",
+      "townKana": "ナンガイ",
+      "prefecture": "東京都",
+      "city": "東大和市",
+      "town": "南街",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

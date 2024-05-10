@@ -1,17 +1,21 @@
 {
-  "jisCode": "03206",
-  "oldZipCode": "024  ",
-  "zipCode": "0240002",
-  "prefectureKana": "イワテケン",
-  "cityKana": "キタカミシ",
-  "townKana": "キタコウギョウダンチ（ソノタ）",
-  "prefecture": "岩手県",
-  "city": "北上市",
-  "town": "北工業団地（その他）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "03206",
+      "oldZipCode": "024  ",
+      "zipCode": "0240002",
+      "prefectureKana": "イワテケン",
+      "cityKana": "キタカミシ",
+      "townKana": "キタコウギョウダンチ（ソノタ）",
+      "prefecture": "岩手県",
+      "city": "北上市",
+      "town": "北工業団地（その他）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

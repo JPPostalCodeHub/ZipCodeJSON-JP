@@ -1,17 +1,21 @@
 {
-  "jisCode": "01463",
-  "oldZipCode": "07922",
-  "zipCode": "0792203",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "ユウフツグンシムカップムラ",
-  "townKana": "シモトマム",
-  "prefecture": "北海道",
-  "city": "勇払郡占冠村",
-  "town": "下トマム",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01463",
+      "oldZipCode": "07922",
+      "zipCode": "0792203",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "ユウフツグンシムカップムラ",
+      "townKana": "シモトマム",
+      "prefecture": "北海道",
+      "city": "勇払郡占冠村",
+      "town": "下トマム",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

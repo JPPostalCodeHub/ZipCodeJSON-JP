@@ -1,17 +1,38 @@
 {
-  "jisCode": "18204",
-  "oldZipCode": "917  ",
-  "zipCode": "9170017",
-  "prefectureKana": "フクイケン",
-  "cityKana": "オバマシ",
-  "townKana": "ハガ",
-  "prefecture": "福井県",
-  "city": "小浜市",
-  "town": "羽賀",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18204",
+      "oldZipCode": "917  ",
+      "zipCode": "9170017",
+      "prefectureKana": "フクイケン",
+      "cityKana": "オバマシ",
+      "townKana": "エゴガワ",
+      "prefecture": "福井県",
+      "city": "小浜市",
+      "town": "江古川",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "18204",
+      "oldZipCode": "917  ",
+      "zipCode": "9170017",
+      "prefectureKana": "フクイケン",
+      "cityKana": "オバマシ",
+      "townKana": "ハガ",
+      "prefecture": "福井県",
+      "city": "小浜市",
+      "town": "羽賀",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

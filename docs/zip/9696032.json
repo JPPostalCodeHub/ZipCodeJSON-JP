@@ -1,17 +1,21 @@
 {
-  "jisCode": "07447",
-  "oldZipCode": "96961",
-  "zipCode": "9696032",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "オオヌマグンアイヅミサトマチ",
-  "townKana": "タケハラ",
-  "prefecture": "福島県",
-  "city": "大沼郡会津美里町",
-  "town": "竹原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07447",
+      "oldZipCode": "96961",
+      "zipCode": "9696032",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "オオヌマグンアイヅミサトマチ",
+      "townKana": "タケハラ",
+      "prefecture": "福島県",
+      "city": "大沼郡会津美里町",
+      "town": "竹原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

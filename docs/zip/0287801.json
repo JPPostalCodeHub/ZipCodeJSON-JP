@@ -1,17 +1,21 @@
 {
-  "jisCode": "03207",
-  "oldZipCode": "02878",
-  "zipCode": "0287801",
-  "prefectureKana": "イワテケン",
-  "cityKana": "クジシ",
-  "townKana": "サムライハマチョウ",
-  "prefecture": "岩手県",
-  "city": "久慈市",
-  "town": "侍浜町",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "03207",
+      "oldZipCode": "02878",
+      "zipCode": "0287801",
+      "prefectureKana": "イワテケン",
+      "cityKana": "クジシ",
+      "townKana": "サムライハマチョウ",
+      "prefecture": "岩手県",
+      "city": "久慈市",
+      "town": "侍浜町",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

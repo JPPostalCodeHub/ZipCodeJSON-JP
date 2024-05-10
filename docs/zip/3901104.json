@@ -1,17 +1,21 @@
 {
-  "jisCode": "20451",
-  "oldZipCode": "39011",
-  "zipCode": "3901104",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "ヒガシチクマグンアサヒムラ",
-  "townKana": "コミ",
-  "prefecture": "長野県",
-  "city": "東筑摩郡朝日村",
-  "town": "古見",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20451",
+      "oldZipCode": "39011",
+      "zipCode": "3901104",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "ヒガシチクマグンアサヒムラ",
+      "townKana": "コミ",
+      "prefecture": "長野県",
+      "city": "東筑摩郡朝日村",
+      "town": "古見",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

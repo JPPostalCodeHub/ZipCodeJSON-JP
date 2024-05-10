@@ -1,17 +1,21 @@
 {
-  "jisCode": "26105",
-  "oldZipCode": "605  ",
-  "zipCode": "6050924",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシヒガシヤマク",
-  "townKana": "イマグマノアミダガミネチョウ",
-  "prefecture": "京都府",
-  "city": "京都市東山区",
-  "town": "今熊野阿弥陀ケ峰町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26105",
+      "oldZipCode": "605  ",
+      "zipCode": "6050924",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシヒガシヤマク",
+      "townKana": "イマグマノアミダガミネチョウ",
+      "prefecture": "京都府",
+      "city": "京都市東山区",
+      "town": "今熊野阿弥陀ケ峰町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

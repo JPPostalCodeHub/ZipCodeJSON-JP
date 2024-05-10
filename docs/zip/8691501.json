@@ -1,17 +1,21 @@
 {
-  "jisCode": "43433",
-  "oldZipCode": "86915",
-  "zipCode": "8691501",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "アソグンミナミアソムラ",
-  "townKana": "リョウヘイ",
-  "prefecture": "熊本県",
-  "city": "阿蘇郡南阿蘇村",
-  "town": "両併",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43433",
+      "oldZipCode": "86915",
+      "zipCode": "8691501",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "アソグンミナミアソムラ",
+      "townKana": "リョウヘイ",
+      "prefecture": "熊本県",
+      "city": "阿蘇郡南阿蘇村",
+      "town": "両併",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

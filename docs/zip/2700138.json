@@ -1,17 +1,21 @@
 {
-  "jisCode": "12220",
-  "oldZipCode": "27001",
-  "zipCode": "2700138",
-  "prefectureKana": "チバケン",
-  "cityKana": "ナガレヤマシ",
-  "townKana": "オオタカノモリヒガシ",
-  "prefecture": "千葉県",
-  "city": "流山市",
-  "town": "おおたかの森東",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "12220",
+      "oldZipCode": "27001",
+      "zipCode": "2700138",
+      "prefectureKana": "チバケン",
+      "cityKana": "ナガレヤマシ",
+      "townKana": "オオタカノモリヒガシ",
+      "prefecture": "千葉県",
+      "city": "流山市",
+      "town": "おおたかの森東",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

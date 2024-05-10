@@ -1,17 +1,21 @@
 {
-  "jisCode": "07204",
-  "oldZipCode": "971  ",
-  "zipCode": "9718163",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "イワキシ",
-  "townKana": "オナハマナカチョウザカイ",
-  "prefecture": "福島県",
-  "city": "いわき市",
-  "town": "小名浜中町境",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07204",
+      "oldZipCode": "971  ",
+      "zipCode": "9718163",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "イワキシ",
+      "townKana": "オナハマナカチョウザカイ",
+      "prefecture": "福島県",
+      "city": "いわき市",
+      "town": "小名浜中町境",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,38 @@
 {
-  "jisCode": "01662",
-  "oldZipCode": "08811",
-  "zipCode": "0881118",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "アッケシグンアッケシチョウ",
-  "townKana": "ワカタケチョウ",
-  "prefecture": "北海道",
-  "city": "厚岸郡厚岸町",
-  "town": "若竹町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01662",
+      "oldZipCode": "08811",
+      "zipCode": "0881118",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "アッケシグンアッケシチョウ",
+      "townKana": "ワカタケ",
+      "prefecture": "北海道",
+      "city": "厚岸郡厚岸町",
+      "town": "若竹",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "01662",
+      "oldZipCode": "08811",
+      "zipCode": "0881118",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "アッケシグンアッケシチョウ",
+      "townKana": "ワカタケチョウ",
+      "prefecture": "北海道",
+      "city": "厚岸郡厚岸町",
+      "town": "若竹町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

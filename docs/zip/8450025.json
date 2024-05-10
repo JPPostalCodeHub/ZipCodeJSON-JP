@@ -1,17 +1,21 @@
 {
-  "jisCode": "41208",
-  "oldZipCode": "845  ",
-  "zipCode": "8450025",
-  "prefectureKana": "サガケン",
-  "cityKana": "オギシ",
-  "townKana": "ミカツキチョウミカシマ",
-  "prefecture": "佐賀県",
-  "city": "小城市",
-  "town": "三日月町三ケ島",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "41208",
+      "oldZipCode": "845  ",
+      "zipCode": "8450025",
+      "prefectureKana": "サガケン",
+      "cityKana": "オギシ",
+      "townKana": "ミカツキチョウミカシマ",
+      "prefecture": "佐賀県",
+      "city": "小城市",
+      "town": "三日月町三ケ島",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

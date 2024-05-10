@@ -1,17 +1,21 @@
 {
-  "jisCode": "22210",
-  "oldZipCode": "417  ",
-  "zipCode": "4170051",
-  "prefectureKana": "シズオカケン",
-  "cityKana": "フジシ",
-  "townKana": "ヨシワラ",
-  "prefecture": "静岡県",
-  "city": "富士市",
-  "town": "吉原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "22210",
+      "oldZipCode": "417  ",
+      "zipCode": "4170051",
+      "prefectureKana": "シズオカケン",
+      "cityKana": "フジシ",
+      "townKana": "ヨシワラ",
+      "prefecture": "静岡県",
+      "city": "富士市",
+      "town": "吉原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

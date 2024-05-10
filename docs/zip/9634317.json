@@ -1,17 +1,21 @@
 {
-  "jisCode": "07211",
-  "oldZipCode": "96343",
-  "zipCode": "9634317",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "タムラシ",
-  "townKana": "フネヒキマチトウブダイ",
-  "prefecture": "福島県",
-  "city": "田村市",
-  "town": "船引町東部台",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07211",
+      "oldZipCode": "96343",
+      "zipCode": "9634317",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "タムラシ",
+      "townKana": "フネヒキマチトウブダイ",
+      "prefecture": "福島県",
+      "city": "田村市",
+      "town": "船引町東部台",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

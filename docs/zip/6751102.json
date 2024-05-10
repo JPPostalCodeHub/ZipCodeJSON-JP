@@ -1,17 +1,21 @@
 {
-  "jisCode": "28381",
-  "oldZipCode": "67511",
-  "zipCode": "6751102",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "カコグンイナミチョウ",
-  "townKana": "クサダニ",
-  "prefecture": "兵庫県",
-  "city": "加古郡稲美町",
-  "town": "草谷",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28381",
+      "oldZipCode": "67511",
+      "zipCode": "6751102",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "カコグンイナミチョウ",
+      "townKana": "クサダニ",
+      "prefecture": "兵庫県",
+      "city": "加古郡稲美町",
+      "town": "草谷",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

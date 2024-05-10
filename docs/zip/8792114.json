@@ -1,17 +1,21 @@
 {
-  "jisCode": "44201",
-  "oldZipCode": "87921",
-  "zipCode": "8792114",
-  "prefectureKana": "オオイタケン",
-  "cityKana": "オオイタシ",
-  "townKana": "オオヒラ",
-  "prefecture": "大分県",
-  "city": "大分市",
-  "town": "大平",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "44201",
+      "oldZipCode": "87921",
+      "zipCode": "8792114",
+      "prefectureKana": "オオイタケン",
+      "cityKana": "オオイタシ",
+      "townKana": "オオヒラ",
+      "prefecture": "大分県",
+      "city": "大分市",
+      "town": "大平",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "34210",
-  "oldZipCode": "72706",
-  "zipCode": "7270622",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "ショウバラシ",
-  "townKana": "ミネタチョウ",
-  "prefecture": "広島県",
-  "city": "庄原市",
-  "town": "峰田町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34210",
+      "oldZipCode": "72706",
+      "zipCode": "7270622",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "ショウバラシ",
+      "townKana": "ミネタチョウ",
+      "prefecture": "広島県",
+      "city": "庄原市",
+      "town": "峰田町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

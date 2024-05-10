@@ -1,17 +1,21 @@
 {
-  "jisCode": "43367",
-  "oldZipCode": "86108",
-  "zipCode": "8610802",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "タマナグンナンカンマチ",
-  "townKana": "セキヒガシ",
-  "prefecture": "熊本県",
-  "city": "玉名郡南関町",
-  "town": "関東",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43367",
+      "oldZipCode": "86108",
+      "zipCode": "8610802",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "タマナグンナンカンマチ",
+      "townKana": "セキヒガシ",
+      "prefecture": "熊本県",
+      "city": "玉名郡南関町",
+      "town": "関東",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

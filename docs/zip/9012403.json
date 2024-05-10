@@ -1,17 +1,21 @@
 {
-  "jisCode": "47328",
-  "oldZipCode": "90124",
-  "zipCode": "9012403",
-  "prefectureKana": "オキナワケン",
-  "cityKana": "ナカガミグンナカグスクソン",
-  "townKana": "イシャドウ",
-  "prefecture": "沖縄県",
-  "city": "中頭郡中城村",
-  "town": "伊舎堂",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "47328",
+      "oldZipCode": "90124",
+      "zipCode": "9012403",
+      "prefectureKana": "オキナワケン",
+      "cityKana": "ナカガミグンナカグスクソン",
+      "townKana": "イシャドウ",
+      "prefecture": "沖縄県",
+      "city": "中頭郡中城村",
+      "town": "伊舎堂",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

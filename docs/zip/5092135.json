@@ -1,17 +1,21 @@
 {
-  "jisCode": "21220",
-  "oldZipCode": "50921",
-  "zipCode": "5092135",
-  "prefectureKana": "ギフケン",
-  "cityKana": "ゲロシ",
-  "townKana": "ミツブチ",
-  "prefecture": "岐阜県",
-  "city": "下呂市",
-  "town": "三ツ渕",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "21220",
+      "oldZipCode": "50921",
+      "zipCode": "5092135",
+      "prefectureKana": "ギフケン",
+      "cityKana": "ゲロシ",
+      "townKana": "ミツブチ",
+      "prefecture": "岐阜県",
+      "city": "下呂市",
+      "town": "三ツ渕",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

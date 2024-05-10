@@ -1,17 +1,21 @@
 {
-  "jisCode": "32207",
-  "oldZipCode": "69945",
-  "zipCode": "6994502",
-  "prefectureKana": "シマネケン",
-  "cityKana": "ゴウツシ",
-  "townKana": "サクラエチョウカワゴエ",
-  "prefecture": "島根県",
-  "city": "江津市",
-  "town": "桜江町川越",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "32207",
+      "oldZipCode": "69945",
+      "zipCode": "6994502",
+      "prefectureKana": "シマネケン",
+      "cityKana": "ゴウツシ",
+      "townKana": "サクラエチョウカワゴエ",
+      "prefecture": "島根県",
+      "city": "江津市",
+      "town": "桜江町川越",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

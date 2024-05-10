@@ -1,17 +1,21 @@
 {
-  "jisCode": "18202",
-  "oldZipCode": "91401",
-  "zipCode": "9140133",
-  "prefectureKana": "フクイケン",
-  "cityKana": "ツルガシ",
-  "townKana": "ミドリガオカチョウ",
-  "prefecture": "福井県",
-  "city": "敦賀市",
-  "town": "みどりケ丘町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "18202",
+      "oldZipCode": "91401",
+      "zipCode": "9140133",
+      "prefectureKana": "フクイケン",
+      "cityKana": "ツルガシ",
+      "townKana": "ミドリガオカチョウ",
+      "prefecture": "福井県",
+      "city": "敦賀市",
+      "town": "みどりケ丘町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

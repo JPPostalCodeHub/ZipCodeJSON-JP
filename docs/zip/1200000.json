@@ -1,17 +1,21 @@
 {
-  "jisCode": "13121",
-  "oldZipCode": "120  ",
-  "zipCode": "1200000",
-  "prefectureKana": "トウキョウト",
-  "cityKana": "アダチク",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "東京都",
-  "city": "足立区",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "13121",
+      "oldZipCode": "120  ",
+      "zipCode": "1200000",
+      "prefectureKana": "トウキョウト",
+      "cityKana": "アダチク",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "東京都",
+      "city": "足立区",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

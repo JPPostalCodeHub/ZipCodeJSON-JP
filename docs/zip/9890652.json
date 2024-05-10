@@ -1,17 +1,21 @@
 {
-  "jisCode": "04302",
-  "oldZipCode": "98906",
-  "zipCode": "9890652",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "カッタグンシチカシュクマチ",
-  "townKana": "ヒガシグチミチシタ",
-  "prefecture": "宮城県",
-  "city": "刈田郡七ヶ宿町",
-  "town": "東口道下",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04302",
+      "oldZipCode": "98906",
+      "zipCode": "9890652",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "カッタグンシチカシュクマチ",
+      "townKana": "ヒガシグチミチシタ",
+      "prefecture": "宮城県",
+      "city": "刈田郡七ヶ宿町",
+      "town": "東口道下",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

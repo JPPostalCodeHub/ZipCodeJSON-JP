@@ -1,17 +1,21 @@
 {
-  "jisCode": "01559",
-  "oldZipCode": "09965",
-  "zipCode": "0996506",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "モンベツグンユウベツチョウ",
-  "townKana": "サツフミ",
-  "prefecture": "北海道",
-  "city": "紋別郡湧別町",
-  "town": "札富美",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01559",
+      "oldZipCode": "09965",
+      "zipCode": "0996506",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "モンベツグンユウベツチョウ",
+      "townKana": "サツフミ",
+      "prefecture": "北海道",
+      "city": "紋別郡湧別町",
+      "town": "札富美",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

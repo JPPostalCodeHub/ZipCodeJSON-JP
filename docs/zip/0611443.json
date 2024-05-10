@@ -1,17 +1,21 @@
 {
-  "jisCode": "01231",
-  "oldZipCode": "06114",
-  "zipCode": "0611443",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "エニワシ",
-  "townKana": "サカエマチ",
-  "prefecture": "北海道",
-  "city": "恵庭市",
-  "town": "栄恵町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01231",
+      "oldZipCode": "06114",
+      "zipCode": "0611443",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "エニワシ",
+      "townKana": "サカエマチ",
+      "prefecture": "北海道",
+      "city": "恵庭市",
+      "town": "栄恵町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

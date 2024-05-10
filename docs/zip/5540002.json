@@ -1,17 +1,21 @@
 {
-  "jisCode": "27104",
-  "oldZipCode": "554  ",
-  "zipCode": "5540002",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "オオサカシコノハナク",
-  "townKana": "デンポウ",
-  "prefecture": "大阪府",
-  "city": "大阪市此花区",
-  "town": "伝法",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27104",
+      "oldZipCode": "554  ",
+      "zipCode": "5540002",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "オオサカシコノハナク",
+      "townKana": "デンポウ",
+      "prefecture": "大阪府",
+      "city": "大阪市此花区",
+      "town": "伝法",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

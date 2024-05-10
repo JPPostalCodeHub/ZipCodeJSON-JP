@@ -1,17 +1,21 @@
 {
-  "jisCode": "04215",
-  "oldZipCode": "98968",
-  "zipCode": "9896838",
-  "prefectureKana": "ミヤギケン",
-  "cityKana": "オオサキシ",
-  "townKana": "ナルコオンセンオオウダケ",
-  "prefecture": "宮城県",
-  "city": "大崎市",
-  "town": "鳴子温泉奥羽岳",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "04215",
+      "oldZipCode": "98968",
+      "zipCode": "9896838",
+      "prefectureKana": "ミヤギケン",
+      "cityKana": "オオサキシ",
+      "townKana": "ナルコオンセンオオウダケ",
+      "prefecture": "宮城県",
+      "city": "大崎市",
+      "town": "鳴子温泉奥羽岳",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

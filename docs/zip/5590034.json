@@ -1,17 +1,21 @@
 {
-  "jisCode": "27125",
-  "oldZipCode": "559  ",
-  "zipCode": "5590034",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "オオサカシスミノエク",
-  "townKana": "ナンコウキタ",
-  "prefecture": "大阪府",
-  "city": "大阪市住之江区",
-  "town": "南港北",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27125",
+      "oldZipCode": "559  ",
+      "zipCode": "5590034",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "オオサカシスミノエク",
+      "townKana": "ナンコウキタ",
+      "prefecture": "大阪府",
+      "city": "大阪市住之江区",
+      "town": "南港北",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

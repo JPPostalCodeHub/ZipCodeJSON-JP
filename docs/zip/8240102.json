@@ -1,17 +1,21 @@
 {
-  "jisCode": "40625",
-  "oldZipCode": "82401",
-  "zipCode": "8240102",
-  "prefectureKana": "フクオカケン",
-  "cityKana": "ミヤコグンミヤコマチ",
-  "townKana": "アザミ",
-  "prefecture": "福岡県",
-  "city": "京都郡みやこ町",
-  "town": "呰見",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "40625",
+      "oldZipCode": "82401",
+      "zipCode": "8240102",
+      "prefectureKana": "フクオカケン",
+      "cityKana": "ミヤコグンミヤコマチ",
+      "townKana": "アザミ",
+      "prefecture": "福岡県",
+      "city": "京都郡みやこ町",
+      "town": "呰見",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

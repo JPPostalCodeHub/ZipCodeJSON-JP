@@ -1,17 +1,21 @@
 {
-  "jisCode": "27217",
-  "oldZipCode": "580  ",
-  "zipCode": "5800041",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "マツバラシ",
-  "townKana": "ミヤケヒガシ",
-  "prefecture": "大阪府",
-  "city": "松原市",
-  "town": "三宅東",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27217",
+      "oldZipCode": "580  ",
+      "zipCode": "5800041",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "マツバラシ",
+      "townKana": "ミヤケヒガシ",
+      "prefecture": "大阪府",
+      "city": "松原市",
+      "town": "三宅東",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

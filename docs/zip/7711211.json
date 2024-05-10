@@ -1,17 +1,38 @@
 {
-  "jisCode": "36403",
-  "oldZipCode": "77112",
-  "zipCode": "7711211",
-  "prefectureKana": "トクシマケン",
-  "cityKana": "イタノグンアイズミチョウ",
-  "townKana": "トクメイ（モトムラヒガシ）",
-  "prefecture": "徳島県",
-  "city": "板野郡藍住町",
-  "town": "徳命（元村東）",
-  "multipleZipCodes": "1",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "36403",
+      "oldZipCode": "77112",
+      "zipCode": "7711211",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "イタノグンアイズミチョウ",
+      "townKana": "トクメイ（モトムラ）",
+      "prefecture": "徳島県",
+      "city": "板野郡藍住町",
+      "town": "徳命（元村）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "36403",
+      "oldZipCode": "77112",
+      "zipCode": "7711211",
+      "prefectureKana": "トクシマケン",
+      "cityKana": "イタノグンアイズミチョウ",
+      "townKana": "トクメイ（モトムラヒガシ）",
+      "prefecture": "徳島県",
+      "city": "板野郡藍住町",
+      "town": "徳命（元村東）",
+      "multipleZipCodes": "1",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

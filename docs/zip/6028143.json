@@ -1,17 +1,21 @@
 {
-  "jisCode": "26102",
-  "oldZipCode": "602  ",
-  "zipCode": "6028143",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシカミギョウク",
-  "townKana": "ナカノチョウ（イノクマドオリタケヤチョウアガル、イノクマドオリマルタマチサガル、ニシホリカワドオリマルタマチサガル）",
-  "prefecture": "京都府",
-  "city": "京都市上京区",
-  "town": "中之町（猪熊通竹屋町上る、猪熊通丸太町下る、西堀川通丸太町下る）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26102",
+      "oldZipCode": "602  ",
+      "zipCode": "6028143",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシカミギョウク",
+      "townKana": "ナカノチョウ（イノクマドオリタケヤチョウアガル、イノクマドオリマルタマチサガル、ニシホリカワドオリマルタマチサガル）",
+      "prefecture": "京都府",
+      "city": "京都市上京区",
+      "town": "中之町（猪熊通竹屋町上る、猪熊通丸太町下る、西堀川通丸太町下る）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

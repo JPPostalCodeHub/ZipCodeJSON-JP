@@ -1,17 +1,21 @@
 {
-  "jisCode": "07504",
-  "oldZipCode": "96362",
-  "zipCode": "9636200",
-  "prefectureKana": "フクシマケン",
-  "cityKana": "イシカワグンアサカワマチ",
-  "townKana": "イカニケイサイガナイバアイ",
-  "prefecture": "福島県",
-  "city": "石川郡浅川町",
-  "town": "以下に掲載がない場合",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "07504",
+      "oldZipCode": "96362",
+      "zipCode": "9636200",
+      "prefectureKana": "フクシマケン",
+      "cityKana": "イシカワグンアサカワマチ",
+      "townKana": "イカニケイサイガナイバアイ",
+      "prefecture": "福島県",
+      "city": "石川郡浅川町",
+      "town": "以下に掲載がない場合",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

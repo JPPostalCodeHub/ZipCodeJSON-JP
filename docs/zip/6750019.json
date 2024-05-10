@@ -1,17 +1,21 @@
 {
-  "jisCode": "28210",
-  "oldZipCode": "675  ",
-  "zipCode": "6750019",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "カコガワシ",
-  "townKana": "ノグチチョウミズアシ",
-  "prefecture": "兵庫県",
-  "city": "加古川市",
-  "town": "野口町水足",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28210",
+      "oldZipCode": "675  ",
+      "zipCode": "6750019",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "カコガワシ",
+      "townKana": "ノグチチョウミズアシ",
+      "prefecture": "兵庫県",
+      "city": "加古川市",
+      "town": "野口町水足",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

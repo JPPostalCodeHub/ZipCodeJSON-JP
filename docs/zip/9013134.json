@@ -1,17 +1,21 @@
 {
-  "jisCode": "47361",
-  "oldZipCode": "90131",
-  "zipCode": "9013134",
-  "prefectureKana": "オキナワケン",
-  "cityKana": "シマジリグンクメジマチョウ",
-  "townKana": "グシカワ",
-  "prefecture": "沖縄県",
-  "city": "島尻郡久米島町",
-  "town": "具志川",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "47361",
+      "oldZipCode": "90131",
+      "zipCode": "9013134",
+      "prefectureKana": "オキナワケン",
+      "cityKana": "シマジリグンクメジマチョウ",
+      "townKana": "グシカワ",
+      "prefecture": "沖縄県",
+      "city": "島尻郡久米島町",
+      "town": "具志川",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "43104",
-  "oldZipCode": "86142",
-  "zipCode": "8614213",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "クマモトシミナミク",
-  "townKana": "ジョウナンマチイズミ",
-  "prefecture": "熊本県",
-  "city": "熊本市南区",
-  "town": "城南町出水",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43104",
+      "oldZipCode": "86142",
+      "zipCode": "8614213",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "クマモトシミナミク",
+      "townKana": "ジョウナンマチイズミ",
+      "prefecture": "熊本県",
+      "city": "熊本市南区",
+      "town": "城南町出水",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

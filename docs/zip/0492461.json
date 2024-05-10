@@ -1,17 +1,21 @@
 {
-  "jisCode": "01345",
-  "oldZipCode": "04924",
-  "zipCode": "0492461",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "カヤベグンモリマチ",
-  "townKana": "サンタイ",
-  "prefecture": "北海道",
-  "city": "茅部郡森町",
-  "town": "三岱",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01345",
+      "oldZipCode": "04924",
+      "zipCode": "0492461",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "カヤベグンモリマチ",
+      "townKana": "サンタイ",
+      "prefecture": "北海道",
+      "city": "茅部郡森町",
+      "town": "三岱",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

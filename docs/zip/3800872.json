@@ -1,17 +1,21 @@
 {
-  "jisCode": "20201",
-  "oldZipCode": "380  ",
-  "zipCode": "3800872",
-  "prefectureKana": "ナガノケン",
-  "cityKana": "ナガノシ",
-  "townKana": "ツマシナ",
-  "prefecture": "長野県",
-  "city": "長野市",
-  "town": "妻科",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "20201",
+      "oldZipCode": "380  ",
+      "zipCode": "3800872",
+      "prefectureKana": "ナガノケン",
+      "cityKana": "ナガノシ",
+      "townKana": "ツマシナ",
+      "prefecture": "長野県",
+      "city": "長野市",
+      "town": "妻科",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

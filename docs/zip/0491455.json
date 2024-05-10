@@ -1,17 +1,21 @@
 {
-  "jisCode": "01332",
-  "oldZipCode": "04914",
-  "zipCode": "0491455",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "マツマエグンフクシマチョウ",
-  "townKana": "ヨシノ",
-  "prefecture": "北海道",
-  "city": "松前郡福島町",
-  "town": "吉野",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01332",
+      "oldZipCode": "04914",
+      "zipCode": "0491455",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "マツマエグンフクシマチョウ",
+      "townKana": "ヨシノ",
+      "prefecture": "北海道",
+      "city": "松前郡福島町",
+      "town": "吉野",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

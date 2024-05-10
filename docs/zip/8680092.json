@@ -1,17 +1,21 @@
 {
-  "jisCode": "43512",
-  "oldZipCode": "868  ",
-  "zipCode": "8680092",
-  "prefectureKana": "クマモトケン",
-  "cityKana": "クマグンヤマエムラ",
-  "townKana": "ヤマダ",
-  "prefecture": "熊本県",
-  "city": "球磨郡山江村",
-  "town": "山田",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "43512",
+      "oldZipCode": "868  ",
+      "zipCode": "8680092",
+      "prefectureKana": "クマモトケン",
+      "cityKana": "クマグンヤマエムラ",
+      "townKana": "ヤマダ",
+      "prefecture": "熊本県",
+      "city": "球磨郡山江村",
+      "town": "山田",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

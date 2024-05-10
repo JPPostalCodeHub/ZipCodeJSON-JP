@@ -1,17 +1,21 @@
 {
-  "jisCode": "26106",
-  "oldZipCode": "600  ",
-  "zipCode": "6008223",
-  "prefectureKana": "キョウトフ",
-  "cityKana": "キョウトシシモギョウク",
-  "townKana": "ダイコクチョウ",
-  "prefecture": "京都府",
-  "city": "京都市下京区",
-  "town": "大黒町（油小路通七条下る、七条通油小路東入、七条通西洞院西入、下魚棚通油小路東入、下魚棚通西洞院西入、西洞院通七条下る、東中筋通七条下る、東中筋通下魚棚下る）",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "26106",
+      "oldZipCode": "600  ",
+      "zipCode": "6008223",
+      "prefectureKana": "キョウトフ",
+      "cityKana": "キョウトシシモギョウク",
+      "townKana": "ダイコクチョウ",
+      "prefecture": "京都府",
+      "city": "京都市下京区",
+      "town": "大黒町（油小路通七条下る、七条通油小路東入、七条通西洞院西入、下魚棚通油小路東入、下魚棚通西洞院西入、西洞院通七条下る、東中筋通七条下る、東中筋通下魚棚下る）",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

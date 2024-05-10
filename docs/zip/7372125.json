@@ -1,17 +1,21 @@
 {
-  "jisCode": "34215",
-  "oldZipCode": "73721",
-  "zipCode": "7372125",
-  "prefectureKana": "ヒロシマケン",
-  "cityKana": "エタジマシ",
-  "townKana": "エタジマチョウオオハラトッカリシュクシャ",
-  "prefecture": "広島県",
-  "city": "江田島市",
-  "town": "江田島町大原特借宿舎",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "34215",
+      "oldZipCode": "73721",
+      "zipCode": "7372125",
+      "prefectureKana": "ヒロシマケン",
+      "cityKana": "エタジマシ",
+      "townKana": "エタジマチョウオオハラトッカリシュクシャ",
+      "prefecture": "広島県",
+      "city": "江田島市",
+      "town": "江田島町大原特借宿舎",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

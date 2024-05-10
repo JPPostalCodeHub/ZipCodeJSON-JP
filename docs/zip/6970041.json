@@ -1,17 +1,21 @@
 {
-  "jisCode": "32202",
-  "oldZipCode": "697  ",
-  "zipCode": "6970041",
-  "prefectureKana": "シマネケン",
-  "cityKana": "ハマダシ",
-  "townKana": "カタニワチョウ",
-  "prefecture": "島根県",
-  "city": "浜田市",
-  "town": "片庭町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "32202",
+      "oldZipCode": "697  ",
+      "zipCode": "6970041",
+      "prefectureKana": "シマネケン",
+      "cityKana": "ハマダシ",
+      "townKana": "カタニワチョウ",
+      "prefecture": "島根県",
+      "city": "浜田市",
+      "town": "片庭町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

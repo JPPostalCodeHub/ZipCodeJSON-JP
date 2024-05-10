@@ -1,17 +1,21 @@
 {
-  "jisCode": "01465",
-  "oldZipCode": "09803",
-  "zipCode": "0980333",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "カミカワグンケンブチチョウ",
-  "townKana": "モトマチ",
-  "prefecture": "北海道",
-  "city": "上川郡剣淵町",
-  "town": "元町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01465",
+      "oldZipCode": "09803",
+      "zipCode": "0980333",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "カミカワグンケンブチチョウ",
+      "townKana": "モトマチ",
+      "prefecture": "北海道",
+      "city": "上川郡剣淵町",
+      "town": "元町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

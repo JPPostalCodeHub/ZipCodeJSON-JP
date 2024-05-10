@@ -1,17 +1,21 @@
 {
-  "jisCode": "06207",
-  "oldZipCode": "99931",
-  "zipCode": "9993202",
-  "prefectureKana": "ヤマガタケン",
-  "cityKana": "カミノヤマシ",
-  "townKana": "シモナマイ",
-  "prefecture": "山形県",
-  "city": "上山市",
-  "town": "下生居",
-  "multipleZipCodes": "0",
-  "numberedTown": "1",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "06207",
+      "oldZipCode": "99931",
+      "zipCode": "9993202",
+      "prefectureKana": "ヤマガタケン",
+      "cityKana": "カミノヤマシ",
+      "townKana": "シモナマイ",
+      "prefecture": "山形県",
+      "city": "上山市",
+      "town": "下生居",
+      "multipleZipCodes": "0",
+      "numberedTown": "1",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

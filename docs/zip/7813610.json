@@ -1,17 +1,21 @@
 {
-  "jisCode": "39341",
-  "oldZipCode": "78136",
-  "zipCode": "7813610",
-  "prefectureKana": "コウチケン",
-  "cityKana": "ナガオカグンモトヤマチョウ",
-  "townKana": "シモゼキ",
-  "prefecture": "高知県",
-  "city": "長岡郡本山町",
-  "town": "下関",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "39341",
+      "oldZipCode": "78136",
+      "zipCode": "7813610",
+      "prefectureKana": "コウチケン",
+      "cityKana": "ナガオカグンモトヤマチョウ",
+      "townKana": "シモゼキ",
+      "prefecture": "高知県",
+      "city": "長岡郡本山町",
+      "town": "下関",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "24202",
-  "oldZipCode": "51001",
-  "zipCode": "5100104",
-  "prefectureKana": "ミエケン",
-  "cityKana": "ヨッカイチシ",
-  "townKana": "クスチョウミナミゴミヅカ",
-  "prefecture": "三重県",
-  "city": "四日市市",
-  "town": "楠町南五味塚",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "24202",
+      "oldZipCode": "51001",
+      "zipCode": "5100104",
+      "prefectureKana": "ミエケン",
+      "cityKana": "ヨッカイチシ",
+      "townKana": "クスチョウミナミゴミヅカ",
+      "prefecture": "三重県",
+      "city": "四日市市",
+      "town": "楠町南五味塚",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

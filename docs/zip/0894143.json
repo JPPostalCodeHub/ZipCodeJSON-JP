@@ -1,17 +1,21 @@
 {
-  "jisCode": "01647",
-  "oldZipCode": "08941",
-  "zipCode": "0894143",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "アショログンアショロチョウ",
-  "townKana": "シライト",
-  "prefecture": "北海道",
-  "city": "足寄郡足寄町",
-  "town": "白糸",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01647",
+      "oldZipCode": "08941",
+      "zipCode": "0894143",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "アショログンアショロチョウ",
+      "townKana": "シライト",
+      "prefecture": "北海道",
+      "city": "足寄郡足寄町",
+      "town": "白糸",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

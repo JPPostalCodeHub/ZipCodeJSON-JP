@@ -1,17 +1,38 @@
 {
-  "jisCode": "03484",
-  "oldZipCode": "02884",
-  "zipCode": "0288404",
-  "prefectureKana": "イワテケン",
-  "cityKana": "シモヘイグンタノハタムラ",
-  "townKana": "マツマエサワ",
-  "prefecture": "岩手県",
-  "city": "下閉伊郡田野畑村",
-  "town": "松前沢",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "03484",
+      "oldZipCode": "02884",
+      "zipCode": "0288404",
+      "prefectureKana": "イワテケン",
+      "cityKana": "シモヘイグンタノハタムラ",
+      "townKana": "シマノコシ",
+      "prefecture": "岩手県",
+      "city": "下閉伊郡田野畑村",
+      "town": "島越",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    },
+    {
+      "jisCode": "03484",
+      "oldZipCode": "02884",
+      "zipCode": "0288404",
+      "prefectureKana": "イワテケン",
+      "cityKana": "シモヘイグンタノハタムラ",
+      "townKana": "マツマエサワ",
+      "prefecture": "岩手県",
+      "city": "下閉伊郡田野畑村",
+      "town": "松前沢",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "1",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

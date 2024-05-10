@@ -1,17 +1,21 @@
 {
-  "jisCode": "28220",
-  "oldZipCode": "67524",
-  "zipCode": "6752442",
-  "prefectureKana": "ヒョウゴケン",
-  "cityKana": "カサイシ",
-  "townKana": "ナカトミチョウ",
-  "prefecture": "兵庫県",
-  "city": "加西市",
-  "town": "中富町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "28220",
+      "oldZipCode": "67524",
+      "zipCode": "6752442",
+      "prefectureKana": "ヒョウゴケン",
+      "cityKana": "カサイシ",
+      "townKana": "ナカトミチョウ",
+      "prefecture": "兵庫県",
+      "city": "加西市",
+      "town": "中富町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "40625",
-  "oldZipCode": "82402",
-  "zipCode": "8240251",
-  "prefectureKana": "フクオカケン",
-  "cityKana": "ミヤコグンミヤコマチ",
-  "townKana": "サイガワシモイラハラ",
-  "prefecture": "福岡県",
-  "city": "京都郡みやこ町",
-  "town": "犀川下伊良原",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "40625",
+      "oldZipCode": "82402",
+      "zipCode": "8240251",
+      "prefectureKana": "フクオカケン",
+      "cityKana": "ミヤコグンミヤコマチ",
+      "townKana": "サイガワシモイラハラ",
+      "prefecture": "福岡県",
+      "city": "京都郡みやこ町",
+      "town": "犀川下伊良原",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

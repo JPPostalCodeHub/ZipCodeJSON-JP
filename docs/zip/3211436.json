@@ -1,17 +1,21 @@
 {
-  "jisCode": "09206",
-  "oldZipCode": "32114",
-  "zipCode": "3211436",
-  "prefectureKana": "トチギケン",
-  "cityKana": "ニッコウシ",
-  "townKana": "クジラマチ",
-  "prefecture": "栃木県",
-  "city": "日光市",
-  "town": "久次良町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "09206",
+      "oldZipCode": "32114",
+      "zipCode": "3211436",
+      "prefectureKana": "トチギケン",
+      "cityKana": "ニッコウシ",
+      "townKana": "クジラマチ",
+      "prefecture": "栃木県",
+      "city": "日光市",
+      "town": "久次良町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

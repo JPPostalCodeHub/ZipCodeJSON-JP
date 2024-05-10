@@ -1,17 +1,21 @@
 {
-  "jisCode": "23114",
-  "oldZipCode": "459  ",
-  "zipCode": "4598016",
-  "prefectureKana": "アイチケン",
-  "cityKana": "ナゴヤシミドリク",
-  "townKana": "ミナミオオダカ",
-  "prefecture": "愛知県",
-  "city": "名古屋市緑区",
-  "town": "南大高",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "23114",
+      "oldZipCode": "459  ",
+      "zipCode": "4598016",
+      "prefectureKana": "アイチケン",
+      "cityKana": "ナゴヤシミドリク",
+      "townKana": "ミナミオオダカ",
+      "prefecture": "愛知県",
+      "city": "名古屋市緑区",
+      "town": "南大高",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

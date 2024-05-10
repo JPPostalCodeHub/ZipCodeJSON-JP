@@ -1,17 +1,21 @@
 {
-  "jisCode": "47211",
-  "oldZipCode": "90421",
-  "zipCode": "9042156",
-  "prefectureKana": "オキナワケン",
-  "cityKana": "オキナワシ",
-  "townKana": "ミサトナカハラチョウ",
-  "prefecture": "沖縄県",
-  "city": "沖縄市",
-  "town": "美里仲原町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "47211",
+      "oldZipCode": "90421",
+      "zipCode": "9042156",
+      "prefectureKana": "オキナワケン",
+      "cityKana": "オキナワシ",
+      "townKana": "ミサトナカハラチョウ",
+      "prefecture": "沖縄県",
+      "city": "沖縄市",
+      "town": "美里仲原町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

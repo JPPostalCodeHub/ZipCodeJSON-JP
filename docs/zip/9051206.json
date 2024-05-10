@@ -1,17 +1,21 @@
 {
-  "jisCode": "47303",
-  "oldZipCode": "90512",
-  "zipCode": "9051206",
-  "prefectureKana": "オキナワケン",
-  "cityKana": "クニガミグンヒガシソン",
-  "townKana": "アルメ",
-  "prefecture": "沖縄県",
-  "city": "国頭郡東村",
-  "town": "有銘",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "47303",
+      "oldZipCode": "90512",
+      "zipCode": "9051206",
+      "prefectureKana": "オキナワケン",
+      "cityKana": "クニガミグンヒガシソン",
+      "townKana": "アルメ",
+      "prefecture": "沖縄県",
+      "city": "国頭郡東村",
+      "town": "有銘",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

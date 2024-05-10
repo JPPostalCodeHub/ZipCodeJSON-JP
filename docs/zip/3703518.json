@@ -1,17 +1,21 @@
 {
-  "jisCode": "10202",
-  "oldZipCode": "37035",
-  "zipCode": "3703518",
-  "prefectureKana": "グンマケン",
-  "cityKana": "タカサキシ",
-  "townKana": "ウシロヒキママチ",
-  "prefecture": "群馬県",
-  "city": "高崎市",
-  "town": "後疋間町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "10202",
+      "oldZipCode": "37035",
+      "zipCode": "3703518",
+      "prefectureKana": "グンマケン",
+      "cityKana": "タカサキシ",
+      "townKana": "ウシロヒキママチ",
+      "prefecture": "群馬県",
+      "city": "高崎市",
+      "town": "後疋間町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

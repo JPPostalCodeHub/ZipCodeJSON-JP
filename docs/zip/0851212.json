@@ -1,17 +1,21 @@
 {
-  "jisCode": "01667",
-  "oldZipCode": "08512",
-  "zipCode": "0851212",
-  "prefectureKana": "ホッカイドウ",
-  "cityKana": "アカングンツルイムラ",
-  "townKana": "シセツリ",
-  "prefecture": "北海道",
-  "city": "阿寒郡鶴居村",
-  "town": "支雪裡",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "01667",
+      "oldZipCode": "08512",
+      "zipCode": "0851212",
+      "prefectureKana": "ホッカイドウ",
+      "cityKana": "アカングンツルイムラ",
+      "townKana": "シセツリ",
+      "prefecture": "北海道",
+      "city": "阿寒郡鶴居村",
+      "town": "支雪裡",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

@@ -1,17 +1,21 @@
 {
-  "jisCode": "14201",
-  "oldZipCode": "24001",
-  "zipCode": "2400106",
-  "prefectureKana": "カナガワケン",
-  "cityKana": "ヨコスカシ",
-  "townKana": "コヤス",
-  "prefecture": "神奈川県",
-  "city": "横須賀市",
-  "town": "子安",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "0",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "14201",
+      "oldZipCode": "24001",
+      "zipCode": "2400106",
+      "prefectureKana": "カナガワケン",
+      "cityKana": "ヨコスカシ",
+      "townKana": "コヤス",
+      "prefecture": "神奈川県",
+      "city": "横須賀市",
+      "town": "子安",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "0",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

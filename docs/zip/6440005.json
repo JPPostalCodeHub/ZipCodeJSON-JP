@@ -1,17 +1,21 @@
 {
-  "jisCode": "30205",
-  "oldZipCode": "644  ",
-  "zipCode": "6440005",
-  "prefectureKana": "ワカヤマケン",
-  "cityKana": "ゴボウシ",
-  "townKana": "ナヤチョウ",
-  "prefecture": "和歌山県",
-  "city": "御坊市",
-  "town": "名屋町",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "30205",
+      "oldZipCode": "644  ",
+      "zipCode": "6440005",
+      "prefectureKana": "ワカヤマケン",
+      "cityKana": "ゴボウシ",
+      "townKana": "ナヤチョウ",
+      "prefecture": "和歌山県",
+      "city": "御坊市",
+      "town": "名屋町",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }

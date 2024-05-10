@@ -1,17 +1,21 @@
 {
-  "jisCode": "27223",
-  "oldZipCode": "571  ",
-  "zipCode": "5710015",
-  "prefectureKana": "オオサカフ",
-  "cityKana": "カドマシ",
-  "townKana": "ミツシマ",
-  "prefecture": "大阪府",
-  "city": "門真市",
-  "town": "三ツ島",
-  "multipleZipCodes": "0",
-  "numberedTown": "0",
-  "hasChome": "1",
-  "multipleTowns": "0",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "entries": [
+    {
+      "jisCode": "27223",
+      "oldZipCode": "571  ",
+      "zipCode": "5710015",
+      "prefectureKana": "オオサカフ",
+      "cityKana": "カドマシ",
+      "townKana": "ミツシマ",
+      "prefecture": "大阪府",
+      "city": "門真市",
+      "town": "三ツ島",
+      "multipleZipCodes": "0",
+      "numberedTown": "0",
+      "hasChome": "1",
+      "multipleTowns": "0",
+      "updateFlag": "0",
+      "updateReason": "0"
+    }
+  ]
 }
