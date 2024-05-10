@@ -11,7 +11,7 @@
   "multipleZipCodes": "0",
   "numberedTown": "0",
   "hasChome": "1",
-  "multipleTowns": "1",
-  "updateFlag": "0",
-  "updateReason": "0"
+  "multipleTowns": "0",
+  "updateFlag": "1",
+  "updateReason": "5"
 }
