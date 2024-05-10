@@ -38,19 +38,18 @@ jobs:
             echo "changes=true" >> $GITHUB_ENV
             git commit -m "Update zip data"
             git push --set-upstream origin "auto-update/${{ github.run_id }}"
-          fi
 
       - name: Create Pull Request
-        if: steps.git-check.outputs.changes == 'true'
+        if: env.changes == 'true'
         uses: peter-evans/create-pull-request@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: Update zip data
+          commit-message: "Update zip data"
           title: "Data Update"
           body: "This is an automated PR to update data."
           branch: "auto-update/${{ github.run_id }}"
           base: "master"
 
       - name: Notify
-        if: steps.git-check.outputs.changes == 'true'
+        if: env.changes == 'true'
         run: echo "Changes have been pushed and a PR has been created."
